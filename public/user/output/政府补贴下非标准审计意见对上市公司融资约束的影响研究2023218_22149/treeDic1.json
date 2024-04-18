@@ -1,0 +1,1533 @@
+{
+  "title": "政府补贴下非标准审计意见对上市公司融资约束的影响研究2023218_22149",
+  "children": [
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": false,
+      "text_content": "摘  要",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "融资约束是上市公司外部融资面临的重大问题，研究融资约束，尤其是非标准审计意见下的融资约束问题具有重要意义。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "从企业层面来看，非标准审计意见有利于上市公司认识到自身存在的不足，并指导上市公司改善财务经营状况。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "从政府层面来看，上市公司在非标准审计意见下受到的融资约束，可以通过获得政府补贴来缓解资金压力。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "从社会民生角度来看，可以深刻认识我国经济体制下的非标准审计意见和政府补贴与融资约束之间的关系。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "引入政府补贴变量，分析政府补贴下非标准审计意见对上市公司融资约束的影响和非标准审计意见下政府补贴对上市公司融资约束的影响，为投资者或债权人以及政府宏观调控和制定相关政策提供参考作用。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "本文拟解决的关键问题是检验政府补贴下非标准审计意见和政府补贴对上市公司融资约束产生的作用机理；并深入分析非标准审计意见下政府补贴对上市公司融资约束产生的作用机理。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "主要内容有两点：一是探讨政府补贴下，非标准审计意见对融资约束的影响和政府补贴程度对融资约束的影响，验证非标准审计意见是否会加重上市公司融资约束，政府补贴是否具有缓解上市公司融资约束的作用；二是分析非标准审计意见下，政府补贴对上市公司融资约束的影响，对比分析有无政府补贴对上市公司融资约束的影响。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "研究的基本思路是运用修正的现金-现金敏感系数衡量融资约束模型，引入政府补贴程度和非标准审计意见两个变量，从政府补贴和非标准审计意见层面运用规范和实证相结合的方法进行研究。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "通过线性回归模型进行实证研究，发现：（1）政府补贴下，非标准审计意见与经营性现金流的交叉乘积项回归系数显著为正，表明政府补贴下被出具非标准审计意见会增加上市公司融资约束。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "（2）政府补贴与经营性现金流的交叉乘积项回归系数显著为负，表明政府补贴能够缓解上市公司融资约束。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "（3）非标准审计意见下，政府补贴会增加上市公司融资约束，即有政府补贴的上市公司融资约束比没有政府补贴的融资约束大。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "本文的创新点主要是以下三点：（1）在政府补贴下融资约束的基础上，考虑了非标准审计意见。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "（2）在非标准审计意见下，考虑了政府补贴对上市公司融资约束的影响。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "（3）在前两点的基础上，丰富了政府补贴下的融资理论。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "目前，虽有学者研究两者之间的关系，并涉足于金融发展、管制、政企关联以及银企关联等方面的审计意见与融资约束关系的研究，但鲜少考虑政府补贴调控市场资源配置的作用对上市公司融资约束的影响。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "关键词：上市公司；非标准审计意见；政府补贴；融资约束；国有企业    "
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "I"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "重庆理工大学硕士学位论文"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "II"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": false,
+      "text_content": "摘  要",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "融资约束是上市公司外部融资面临的重大问题，研究融资约束，尤其是非标准审计意见下的融资约束问题具有重要意义。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "从企业层面来看，非标准审计意见有利于上市公司认识到自身存在的不足，并指导上市公司改善财务经营状况。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "从政府层面来看，上市公司在非标准审计意见下受到的融资约束，可以通过获得政府补贴来缓解资金压力。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "从社会民生角度来看，可以深刻认识我国经济体制下的非标准审计意见和政府补贴与融资约束之间的关系。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "引入政府补贴变量，分析政府补贴下非标准审计意见对上市公司融资约束的影响和非标准审计意见下政府补贴对上市公司融资约束的影响，为投资者或债权人以及政府宏观调控和制定相关政策提供参考作用。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "本文拟解决的关键问题是检验政府补贴下非标准审计意见和政府补贴对上市公司融资约束产生的作用机理；并深入分析非标准审计意见下政府补贴对上市公司融资约束产生的作用机理。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "主要内容有两点：一是探讨政府补贴下，非标准审计意见对融资约束的影响和政府补贴程度对融资约束的影响，验证非标准审计意见是否会加重上市公司融资约束，政府补贴是否具有缓解上市公司融资约束的作用；二是分析非标准审计意见下，政府补贴对上市公司融资约束的影响，对比分析有无政府补贴对上市公司融资约束的影响。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "研究的基本思路是运用修正的现金-现金敏感系数衡量融资约束模型，引入政府补贴程度和非标准审计意见两个变量，从政府补贴和非标准审计意见层面运用规范和实证相结合的方法进行研究。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "通过线性回归模型进行实证研究，发现：（1）政府补贴下，非标准审计意见与经营性现金流的交叉乘积项回归系数显著为正，表明政府补贴下被出具非标准审计意见会增加上市公司融资约束。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "（2）政府补贴与经营性现金流的交叉乘积项回归系数显著为负，表明政府补贴能够缓解上市公司融资约束。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "（3）非标准审计意见下，政府补贴会增加上市公司融资约束，即有政府补贴的上市公司融资约束比没有政府补贴的融资约束大。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "本文的创新点主要是以下三点：（1）在政府补贴下融资约束的基础上，考虑了非标准审计意见。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "（2）在非标准审计意见下，考虑了政府补贴对上市公司融资约束的影响。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "（3）在前两点的基础上，丰富了政府补贴下的融资理论。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "目前，虽有学者研究两者之间的关系，并涉足于金融发展、管制、政企关联以及银企关联等方面的审计意见与融资约束关系的研究，但鲜少考虑政府补贴调控市场资源配置的作用对上市公司融资约束的影响。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "关键词：上市公司；非标准审计意见；政府补贴；融资约束；国有企业    "
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "I"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "重庆理工大学硕士学位论文"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "II"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": false,
+      "text_content": "Abstract",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "Financing constraints is a major problem that the external financing of listed companies are confronting, Research on financing constraints, especially which under non standard audit opinion is of great significance. From the enterprise level, the non standard audit opinion makes the listed companies recognize their existing financing constraints, and guide the listed companies to improve financial management. From the government level, listed companies are constrained by the non standard audit opinion in financing, and can achieve ease of the financial pressure through government subsidies. Studying the listed companies' problem of financing constraints from the perspective of people's livelihood, can get a profound understanding of the relationship between the non-standard audit opinion and financing constraints of economic system of our country, as well as the significant relationships of government subsidy and financing constraints. The analysis of the impact of the non-standard audit opinion under government subsidies on listing Corporation financing constraints, can further provide a reference to relevant policies, investors or creditors, the government's macro-control."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "The key problem to be solved in this paper is to discuss the working mechanism of government subsidies on the financing constraints after the listing Corporation was issued non-standard audit opinions, and analysis of the mechanism of non standard audit opinion under the government subsidies to the listing Corporation financing constraints. There are two main points: one is under government subsidies, non standard audit opinion degree of government subsidies' influence on financial constraints influence, verifying whether non standard audit opinion would aggravate listed companies financing constraints, and government subsidies have ease of listed company financing constraints; the other is the analysis of under non standard audit opinion, whether the government subsidy has influence on listing Corporation financing constraints, the basic train of thought of the research is using modified cash cash sensitivity coefficients measure the financing constraints model, introducing two variable degree of government subsidies and non standard audit opinion, using a combination of normative and empirical methods from government subsidies and non standard audit opinion level to study. An empirical study is carried out by the linear regression model, it is found :(1) under government subsidies,  cross-product term"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "III"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "重庆理工大学硕士学位论文"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "Regression coefficients of non standard Audit Opinions and operating cash flow are significantly positive, indicating that the government subsidy is issued a modified audit opinions of listed companies will increase the financing constraints. (2) under government subsidies, cross-product term regression coefficients of the degree of government subsidies and operating cash flow is significantly negative, which indicates that government subsidies can alleviate the financing constraints of listing Corporation. (3) under non standard audit opinion, the government subsidies will increase the listing Corporation financing constraints, that is, financing constraints of listing Corporation with government subsidies is bigger than those without government subsidies."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "The main innovations of this paper are as follows: (1) On the basis of the financing constraints with government subsidies, the non standard audit opinions are considered. (2) Under the non standard audit opinion, the influence of the government subsidies on the listing Corporation financing constraints is considered. (3) on the basis of the two points above, the financing theory under government subsidies is enriched. Although some scholars are researching the relationship between those two, and involved in the research of financial development, control, relationship between government and enterprises and bank enterprise relation of the Although the relationship between scholars research, and involved in the research of the relationship between audit opinions of financial development, control, relationship between government and enterprises and bank enterprise relation of the audit opinion and the financing constraints, but rarely consider effects of the role of government subsidies to regulate and control the market allocation of resources on listed companies financing constraints."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "Key words: Listing Corporation;: orporation; nonstandardauditopinions; governmentsubsidy; financingconstraints; stateownedenterprises     "
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "IV"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "目录"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "目 录"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "摘 要I"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "AbstractIII"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "1 绪论1"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "1.1 论文选题的背景与意义1"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "1.1.1 研究背景1"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "1.1.2 选题意义2"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "1.2 研究目标和思路、研究内容、关键问题与方法3"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "1.2.1 研究目标及思路3"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "1.2.2 主要内容及关键问题4"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "1.2.3 研究方法5"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "1.3 创新点6"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "2 文献综述7"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "2.1 政府补贴与上市公司融资约束7"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "2.1.1 上市公司融资约束7"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "2.1.2 政府补贴与上市公司融资约束的关系研究8"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "2.2 审计意见与上市公司融资10"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "2.2.1 审计意见与上市公司融资的关系研究10"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "2.2.2 非标准审计意见与上市公司融资约束的关系研究11"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "2.3 企业关系、审计意见与上市公司融资12"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "2.3.1 企业关系与上市公司融资的关系研究12"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "2.3.2 企业关系、审计意见与上市公司融资约束13"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "2.4 文献述评14"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "3 理论分析与基本假设17"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "3.1 相关概念的界定17"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "3.1.1 融资约束17"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "3.1.2 非标准审计意见17"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "3.1.3 政府补贴18"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "3.2 理论基础18"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "3.2.1 信息不对称理论18"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "3.2.2 融资契约理论19"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "3.2.3 公共产品供给理论20"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "V"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "重庆理工大学硕士学位论文"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "3.3 基本假设21"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "3.3.1 政府补贴下，非标准审计意见与上市公司融资约束21"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "3.3.2 政府补贴与上市公司融资约束22"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "3.3.3 非标准审计意见下，有无政府补贴的上市公司融资约束23"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "4 样本选择与模型设计25"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "4.1 样本选取与数据来源25"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "4.2 研究设计与变量定义26"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "4.2.1 研究设计26"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "4.2.2 变量定义28"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "5 实证结果分析31"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "5.1 描述性统计31"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "5.1.1 政府补贴下主要变量的描述性统计31"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "5.1.2 非标准审计意见下主要变量的描述性统计32"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "5.2 相关性分析33"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "5.3 实证回归结果分析33"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "5.4 稳健性检验35"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "6 结论及建议39"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "6.1 研究结论39"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "6.2 研究启示与政策建议40"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "6.3 研究局限性和未来研究方向41"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "致 谢43"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "参考文献45"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "个人简历、在学期间发表的学位论文及取得的研究成果51"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "VI"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "1绪论"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "text_content": "1 绪论",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "text_content": "1.1 论文选题的背景与意义",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": true,
+                      "text_content": "1.1.1研究背景"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": true,
+                      "text_content": "十八大五中全会的内容纲要指出进一步深化市场的改革，并且需要缓解中小企业融资难、融资贵等问题，推进投融资体系的创新；未来五年需重点厘清政府与市场的关系，纵向推进政府职能、金融、财税等方面的发展。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "text_content": "经典财务理论认为在完美的资本市场中，外部融资成本与内部融资成本之间不存在差异，但信息不对称性等问题使得上市公司面临着较大的融资约束。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

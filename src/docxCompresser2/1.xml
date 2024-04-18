@@ -1,0 +1,3929 @@
+<w:p w14:paraId="140ED089" w14:textId="77777777" w:rsidR="00684680" w:rsidRDefault="00014084" w:rsidP="00684680">
+    <w:pPr>
+        <w:spacing w:line="360" w:lineRule="auto"/>
+        <w:ind w:firstLin
+               eChars="800" w:firstLine="1920"/>
+        <w:rPr>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+    </w:pPr>
+    <m:oMath>
+        <m:sSub>
+            <m:sSubPr>
+                <m:ctrlPr>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Cambria Math" w:hAnsi="
+Cambria Math"/>
+                        <w:i/>
+                        <w:sz w:val="24"/>
+                        <w:szCs w:val="24"/>
+                    </w:rPr>
+                </m:ctrlPr>
+            </m:sSubPr>
+            <m:e>
+                <m:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                        <w:sz w:val="24"/
+                        >
+                        <w:szCs w:val="24"/>
+                    </w:rPr>
+                    <m:t>NPL</m:t>
+                </m:r>
+            </m:e>
+            <m:sub>
+                <m:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                        <w:sz w:val="24"/>
+                        <w:szCs w:val="24"/>
+                    </w:rPr>
+                    <m:
+                            t>i,t
+                    </m:t>
+                </m:r>
+            </m:sub>
+        </m:sSub>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>=</m:t>
+        </m:r>
+        <m:sSub>
+            <m:sS
+                    ubPr>
+                <m:ctrlPr>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                        <w:i/>
+                        <w:sz w:val="24"/>
+                        <w:szCs w:val="24"/>
+                    </w:rPr>
+                </m:ctrlPr>
+            </m:sSubPr>
+            <m:e>
+                <m:r>
+                    <w:rPr>
+                        <w:rFonts
+                                w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                        <w:sz w:val="24"/>
+                        <w:szCs w:val="24"/>
+                    </w:rPr>
+                    <m:t>α</m:t>
+                </m:r>
+            </m:e>
+            <m:sub>
+                <m:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Ca
+mbria Math"/>
+                        <w:sz w:val="24"/>
+                        <w:szCs w:val="24"/>
+                    </w:rPr>
+                    <m:t>0</m:t>
+                </m:r>
+            </m:sub>
+        </m:sSub>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                <w:sz w:val="24"/
+                >
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>+</m:t>
+        </m:r>
+        <m:sSub>
+            <m:sSubPr>
+                <m:ctrlPr>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                        <w:i/>
+                        <w:sz w:val="24"/>
+                        <w:szCs w:val="24
+"/>
+                    </w:rPr>
+                </m:ctrlPr>
+            </m:sSubPr>
+            <m:e>
+                <m:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                        <w:sz w:val="24"/>
+                        <w:szCs w:val="24"/>
+                    </w:rPr>
+                    <m:t>α</m:t>
+                </m:r>
+            </m:e>
+            <m:
+                    sub>
+                <m:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                        <w:sz w:val="24"/>
+                        <w:szCs w:val="24"/>
+                    </w:rPr>
+                    <m:t>1</m:t>
+                </m:r>
+            </m:sub>
+        </m:sSub>
+        <m:sSub>
+            <m:sSubPr>
+                <m:ctrlP
+                        r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                        <w:i/>
+                        <w:sz w:val="24"/>
+                        <w:szCs w:val="24"/>
+                    </w:rPr>
+                </m:ctrlPr>
+            </m:sSubPr>
+            <m:e>
+                <m:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Camb
+ria Math" w:hAnsi="Cambria Math"/>
+                        <w:sz w:val="24"/>
+                        <w:szCs w:val="24"/>
+                    </w:rPr>
+                    <m:t>LNGL</m:t>
+                </m:r>
+            </m:e>
+            <m:sub>
+                <m:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math
+"/>
+                        <w:sz w:val="24"/>
+                        <w:szCs w:val="24"/>
+                    </w:rPr>
+                    <m:t>i,t</m:t>
+                </m:r>
+            </m:sub>
+        </m:sSub>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                <w:sz w:val="24"/>
+                <w:szCs
+                        w:val="24"/>
+            </w:rPr>
+            <m:t>+ω</m:t>
+        </m:r>
+        <m:sSub>
+            <m:sSubPr>
+                <m:ctrlPr>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                        <w:i/>
+                        <w:sz w:val="24"/>
+                        <w:szCs w:val="24"/>
+                    </w:
+                            rPr>
+                </m:ctrlPr>
+            </m:sSubPr>
+            <m:e>
+                <m:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:hint="eastAsia"/>
+                        <w:sz w:val="24"/>
+                        <w:szCs w:val="24"/>
+                    </w:rPr>
+                    <m:t>Controls
+                    </m
+                            :t>
+                </m:r>
+            </m:e>
+            <m:sub>
+                <m:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                        <w:sz w:val="24"/>
+                        <w:szCs w:val="24"/>
+                    </w:rPr>
+                    <m:t>i,t</m:t>
+                </m:r>
+            </m:sub>
+        </m:sSub>
+        <m:r>
+            <
+                    m:rPr>
+                <m:sty m:val="p"/>
+            </m:rPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                <w:spacing w:val="-23"/>
+                <w:w w:val="95"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:r
+                    Pr>
+            <m:t>+</m:t>
+        </m:r>
+        <m:sSub>
+            <m:sSubPr>
+                <m:ctrlPr>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                        <w:i/>
+                        <w:sz w:val="24"/>
+                        <w:szCs w:val="24"/>
+                    </w:rPr>
+                </m:ctrlPr>
+            </m:
+                    sSubPr>
+            <m:e>
+                <m:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                        <w:sz w:val="24"/>
+                        <w:szCs w:val="24"/>
+                    </w:rPr>
+                    <m:t>ε</m:t>
+                </m:r>
+            </m:e>
+            <m:sub>
+                <m:r>
+                    <w:rPr>
+                        <w:rFonts
+                                w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                        <w:sz w:val="24"/>
+                        <w:szCs w:val="24"/>
+                    </w:rPr>
+                    <m:t>i, t</m:t>
+                </m:r>
+            </m:sub>
+        </m:sSub>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hA
+                          nsi="Cambria Math"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t xml:space="preserve">                 </m:t>
+        </m:r>
+    </m:oMath>
+    <w:r w:rsidR="00684680">
+        <w:rPr>
+            <w:rFonts w:hint="
+eastAsia"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t>（</w:t>
+    </w:r>
+    <w:r w:rsidR="00684680">
+        <w:rPr>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t>3-1</w:t>
+    </w:r>
+    <w:r w:rsidR="00684680">
+        <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t>）</w:t>
+    </w:r>
+</w:p>
+<w:p w14:paraId="68275269" w14:textId="2615F310" w:rsidR="00684680" w:rsidRDefault="00065DE0" w:rsidP="00F50856">
+<w:pPr>
+    <w:spacing w:line="360" w:lineRule="auto"/>
+    <w:ind w:firstLin
+           eChars="1700" w:firstLine="4080"/>
+    <w:rPr>
+        <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="+mn-cs" w:cs="+mn-cs"/>
+        <w:i/>
+        <w:iCs/>
+        <w:color w:val="000000"/>
+        <w:sz w:v
+              al="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+</w:pPr>
+<m:oMath>
+    <m:r>
+        <w:rPr>
+            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+            <w:color w:val="000000"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <m:t>+</m:t>
+    </m:r>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                    <w
+                            :i/>
+                    <w:iCs/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:
+                              cs="+mn-cs"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>β</m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Mat
+h" w:cs="+mn-cs"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>4</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+    <m:sSub>
+        <m:sSubPr>
+        <m:ctrlPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Ca
+mbria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:i/>
+                <w:iCs/>
+                <w:color w:val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+        </m:ctrlPr>
+    </m:sSub
+            Pr>
+    <m:e>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:color w:val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>LNGLXD1</m:t>
+        </m:r>
+    </m:e>
+    <m:sub>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:color w:val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>i,
+                t
+            </m:t>
+        </m:r>
+    </m:sub>
+</m:sSub>
+<m:r>
+    <w:rPr>
+        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:
+            rPr>
+    <m:t>+</m:t>
+</m:r>
+<m:sSub>
+    <m:sSubPr>
+        <m:ctrlPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:i/>
+                <w:iCs/>
+                <w:color w:v
+                         al="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+        </m:ctrlPr>
+    </m:sSubPr>
+    <m:e>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:color w:
+                         val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>β</m:t>
+        </m:r>
+    </m:e>
+    <m:sub>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:col
+                        or w:val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>5</m:t>
+        </m:r>
+    </m:sub>
+</m:sSub>
+<m:r>
+    <w:rPr>
+        <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="
+Cambria Math" w:cs="+mn-cs"/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <m:t>LN</m:t>
+</m:r>
+<m:sSub>
+    <m:sSubPr>
+        <m:ctrlPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria
+ Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:i/>
+                <w:iCs/>
+                <w:color w:val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+        </m:ctrlPr>
+    </m:sSubPr>
+    <m
+            :e>
+    <m:r>
+        <w:rPr>
+            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+            <w:color w:val="000000"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <m:t>GLXD2</m:t>
+    </m:r>
+    <
+    /m:e>
+    <m:sub>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:color w:val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>i,t</m:t>
+        </m:r>
+    </m:sub>
+</m:sSub>
+<m:r>
+    <w:rPr>
+        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <m:
+            t>+
+    </m:t>
+</m:r>
+<m:sSub>
+    <m:sSubPr>
+        <m:ctrlPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:i/>
+                <w:iCs/>
+                <w:color w:val="000
+000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+        </m:ctrlPr>
+    </m:sSubPr>
+    <m:e>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:color w:val="00
+0000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>μ</m:t>
+        </m:r>
+    </m:e>
+    <m:sub>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:color w:va
+                         l="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>i,t</m:t>
+        </m:r>
+    </m:sub>
+</m:sSub>
+</m:oMath><w:r w:rsidR="00F50856">
+<w:rPr>
+    <w:rFonts w:hint="eastAsia"/>
+    <w:iCs/>
+    <w:colo
+            r w:val="000000"/>
+    <w:sz w:val="24"/>
+    <w:szCs w:val="24"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r><w:r w:rsidR="00F50856">
+<w:rPr>
+    <w:iCs/>
+    <w:color w:val="000000"/>
+    <w:sz w:val="
+24"/>
+    <w:szCs w:val="24"/>
+</w:rPr>
+<w:t xml:space="preserve">                        </w:t>
+</w:r><w:r w:rsidR="00684680" w:rsidRPr="009B5CF3">
+<w:rPr>
+    <w:color w:val="000000"/>
+    <w:sz w:
+          val="24"/>
+    <w:szCs w:val="24"/>
+</w:rPr>
+<w:t>（</w:t>
+</w:r><w:r w:rsidR="00684680">
+<w:rPr>
+    <w:color w:val="000000"/>
+    <w:sz w:val="24"/>
+    <w:szCs w:val="24"/>
+</w:rPr>
+<w:t>3</w:t>
+</w:r><w:
+r w:rsidR="00684680" w:rsidRPr="009B5CF3">
+<w:rPr>
+    <w:color w:val="000000"/>
+    <w:sz w:val="24"/>
+    <w:szCs w:val="24"/>
+</w:rPr>
+<w:t>-2</w:t>
+</w:r><w:r w:rsidR="00684680" w:rsidRPr="009B5CF3">
+<w:rPr>
+    <w:color w:val="000000"/>
+    <w:sz w:val="24"/>
+    <w:szCs w:val="24"/>
+</w:rPr>
+<w:t>）</w:t>
+</w:r></w:p>
+<w:p w14:paraId="68275269" w14:textId="2615F310" w:rsidR="00684680" w:rsidRDefault="00065DE0" w:rsidP="00F50856">
+<w:pPr>
+    <w:spacing w:line="360" w:lineRule="auto"/>
+    <w:ind w:firstLin
+           eChars="1700" w:firstLine="4080"/>
+    <w:rPr>
+        <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="+mn-cs" w:cs="+mn-cs"/>
+        <w:i/>
+        <w:iCs/>
+        <w:color w:val="000000"/>
+        <w:sz w:v
+              al="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+</w:pPr>
+<m:oMath>
+    <m:r>
+        <w:rPr>
+            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+            <w:color w:val="000000"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <m:t>+</m:t>
+    </m:r>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                    <w
+                            :i/>
+                    <w:iCs/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:
+                              cs="+mn-cs"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>β</m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Mat
+h" w:cs="+mn-cs"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>4</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+    <m:sSub>
+        <m:sSubPr>
+        <m:ctrlPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Ca
+mbria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:i/>
+                <w:iCs/>
+                <w:color w:val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+        </m:ctrlPr>
+    </m:sSub
+            Pr>
+    <m:e>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:color w:val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>LNGLXD1</m:t>
+        </m:r>
+    </m:e>
+    <m:sub>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:color w:val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>i,
+                t
+            </m:t>
+        </m:r>
+    </m:sub>
+</m:sSub>
+<m:r>
+    <w:rPr>
+        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:
+            rPr>
+    <m:t>+</m:t>
+</m:r>
+<m:sSub>
+    <m:sSubPr>
+        <m:ctrlPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:i/>
+                <w:iCs/>
+                <w:color w:v
+                         al="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+        </m:ctrlPr>
+    </m:sSubPr>
+    <m:e>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:color w:
+                         val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>β</m:t>
+        </m:r>
+    </m:e>
+    <m:sub>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:col
+                        or w:val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>5</m:t>
+        </m:r>
+    </m:sub>
+</m:sSub>
+<m:r>
+    <w:rPr>
+        <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="
+Cambria Math" w:cs="+mn-cs"/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <m:t>LN</m:t>
+</m:r>
+<m:sSub>
+    <m:sSubPr>
+        <m:ctrlPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria
+ Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:i/>
+                <w:iCs/>
+                <w:color w:val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+        </m:ctrlPr>
+    </m:sSubPr>
+    <m
+            :e>
+    <m:r>
+        <w:rPr>
+            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+            <w:color w:val="000000"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <m:t>GLXD2</m:t>
+    </m:r>
+    <
+    /m:e>
+    <m:sub>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:color w:val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>i,t</m:t>
+        </m:r>
+    </m:sub>
+</m:sSub>
+<m:r>
+    <w:rPr>
+        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <m:
+            t>+
+    </m:t>
+</m:r>
+<m:sSub>
+    <m:sSubPr>
+        <m:ctrlPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:i/>
+                <w:iCs/>
+                <w:color w:val="000
+000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+        </m:ctrlPr>
+    </m:sSubPr>
+    <m:e>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:color w:val="00
+0000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>μ</m:t>
+        </m:r>
+    </m:e>
+    <m:sub>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:color w:va
+                         l="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>i,t</m:t>
+        </m:r>
+    </m:sub>
+</m:sSub>
+</m:oMath><w:r w:rsidR="00F50856">
+<w:rPr>
+    <w:rFonts w:hint="eastAsia"/>
+    <w:iCs/>
+    <w:colo
+            r w:val="000000"/>
+    <w:sz w:val="24"/>
+    <w:szCs w:val="24"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r><w:r w:rsidR="00F50856">
+<w:rPr>
+    <w:iCs/>
+    <w:color w:val="000000"/>
+    <w:sz w:val="
+24"/>
+    <w:szCs w:val="24"/>
+</w:rPr>
+<w:t xml:space="preserve">                        </w:t>
+</w:r><w:r w:rsidR="00684680" w:rsidRPr="009B5CF3">
+<w:rPr>
+    <w:color w:val="000000"/>
+    <w:sz w:
+          val="24"/>
+    <w:szCs w:val="24"/>
+</w:rPr>
+<w:t>（</w:t>
+</w:r><w:r w:rsidR="00684680">
+<w:rPr>
+    <w:color w:val="000000"/>
+    <w:sz w:val="24"/>
+    <w:szCs w:val="24"/>
+</w:rPr>
+<w:t>3</w:t>
+</w:r><w:
+r w:rsidR="00684680" w:rsidRPr="009B5CF3">
+<w:rPr>
+    <w:color w:val="000000"/>
+    <w:sz w:val="24"/>
+    <w:szCs w:val="24"/>
+</w:rPr>
+<w:t>-2</w:t>
+</w:r><w:r w:rsidR="00684680" w:rsidRPr="009B5CF3">
+<w:rPr>
+    <w:color w:val="000000"/>
+    <w:sz w:val="24"/>
+    <w:szCs w:val="24"/>
+</w:rPr>
+<w:t>）</w:t>
+</w:r></w:p>
+<w:p w14:paraId="4685B0B7" w14:textId="77777777" w:rsidR="00684680" w:rsidRPr="00AE5C50" w:rsidRDefault="00684680"
+     w:rsidP="00684680">
+<w:pPr>
+    <w:spacing w:line="360" w:lineRule="aut
+o"/>
+    <w:ind w:firstLineChars="200" w:firstLine="480"/>
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="
+24"/>
+    </w:rPr>
+    <w:t>其中</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>,i</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24
+"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>代表银行个体</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>,t</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C
+50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>代表年度；</w:t>
+</w:r>
+<m:oMath>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Ma
+th"/>
+                    <w:i/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w
+                            :val="24"/>
+                </w:rPr>
+                <m:t>NPL</m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i,t
+                </m:t
+                >
+            </m:r>
+        </m:sub>
+    </m:sSub>
+</m:oMath>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>指的是</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val
+                      ="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>i</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>银行在</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50"
+>
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>t</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>年的不良贷款率，</w:t>
+</
+        w:r>
+<m:oMath>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:i/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <
+                m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>LNGL</m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:asc
+                              ii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i,t</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+</m:oMath>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val=
+                      "24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>指的是</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>i</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>银行在</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>t</w:t>
+</w:r>
+<w:r w:
+     rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>年的绿色信贷余额取对数</w:t>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:
+                val="24"/>
+    </w:rPr>
+    <w:t>；</w:t>
+</w:r>
+<m:oMath>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                    <w
+                            :i/>
+                    <w:iCs/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:
+                              cs="+mn-cs"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>D1</m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Ma
+th" w:cs="+mn-cs"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+</m:oMath>
+<w:r>
+    <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:s
+                z w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>和</w:t>
+</w:r>
+<m:oMath>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria
+ Math" w:cs="+mn-cs"/>
+                    <w:i/>
+                    <w:iCs/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w
+                              :hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>D2</m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria M
+ath" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+</m:oMath>
+<w:r>
+    <w:rPr>
+        <w:rFonts
+                w:hint="eastAsia"/>
+        <w:iCs/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>是两个虚拟变量</w:t>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:sz w:v
+              al="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>；</w:t>
+</w:r>
+<w:r w:rsidRPr="00547BC6">
+    <w:rPr>
+        <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn
+-cs"/>
+        <w:i/>
+        <w:iCs/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t xml:space="preserve"> </w:t>
+</w:r>
+<m:oMath>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFo
+                            nts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                    <w:i/>
+                    <w:iCs/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:
+                    ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:
+                        t>LNGLXD1
+                </m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i,t</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+</m:oMath>
+<w:r>
+    <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>和</w:t>
+</w:r>
+<m:oMath>
+    <m:sSub>
+        <m
+                :sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                    <w:i/>
+                    <w:iCs/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <
+                            w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>LNGLXD2</m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w
+                          :val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i,t</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+</m:oMath>
+<w:r>
+    <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:iCs/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="24"/>
+        <w
+                :szCs w:val="24"/>
+    </w:rPr>
+    <w:t>是解释变量和虚拟变量的交互项；</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:i/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t xml:space="preser
+ve"></w:t>
+</w:r>
+<m:oMath>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:i/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr
+            >
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:hint="eastAsia"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>Controls</m:t>
+            </m:r>
+        </m:e
+        >
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i,t</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+</m:oMath>
+<w:r w:rsi
+     dRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>指的是所有控制变量，即总资产的对数（</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs
+                w:val="24"/>
+    </w:rPr>
+    <w:t>LNTA</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>）、资本充足率</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w
+            :rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>(CAR)</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>、拨备覆盖率</w:t>
+</w:r
+>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:lastRenderedPageBreak/>
+    <w:t>(PCR)</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <
+                w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>、存贷比</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>(DLR)</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <
+            w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>、总资产收益率</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>(ROA)</w:t>
+</
+        w:r>
+<w:r>
+    <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>;</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t xml:space="preserve"> </w:t>
+</w:r>
+<m:oMath>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:i/>
+                    <w:sz w:val="24"/>
+                    <w:szCs
+                            w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>ε</m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i,t</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+</m:oMath>
+<w:r
+        w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>和</w:t>
+</w:r>
+<m:oMath>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="C
+ambria Math"/>
+                    <w:i/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>μ</m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i,t</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+</m:oMath>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>表示随机扰动项。</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="560B4DB1" w14:textId="77777777" w:rsidR="00684680" w:rsidRPr="00AE5C50" w:rsidRDefault="00684680"
+     w:rsidP="00684680">
+<w:pPr>
+    <w:spacing w:line="360" w:lineRule="aut
+o"/>
+    <w:ind w:firstLineChars="200" w:firstLine="480"/>
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="
+24"/>
+    </w:rPr>
+    <w:t>模型（</w:t>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>3</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24
+"/>
+    </w:rPr>
+    <w:t>-2</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>）主要是用于检验假设</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <
+                w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>H2</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>，我们</w:t>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w
+                :rFonts w:hint="eastAsia"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>参考了</w:t>
+</w:r>
+<w:r w:rsidRPr="00AB4530">
+    <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:sz w:val="24"/>
+        <w:s
+                zCs w:val="24"/>
+    </w:rPr>
+    <w:t>连玉君（</w:t>
+</w:r>
+<w:r w:rsidRPr="00AB4530">
+    <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>2</w:t>
+</w:r>
+<w:r
+        w:rsidRPr="00AB4530">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>017</w:t>
+</w:r>
+<w:r w:rsidRPr="00AB4530">
+    <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:sz w:val="24"/>
+        <w:szC
+                s w:val="24"/>
+    </w:rPr>
+    <w:t>）的做法，引入了</w:t>
+</w:r>
+<m:oMath>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:i/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>LNGLX
+                    D1
+                </m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i,t</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+    <
+    /m:oMath>
+    <w:r w:rsidRPr="00AB4530">
+        <w:rPr>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t>和</w:t>
+    </w:r>
+    <m:oMath>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Ma
+th"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>LN</m:t>
+        </m:r>
+        <m:sSub>
+            <m:sSubPr>
+                <m:ctrlPr>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                        <w:i/>
+                        <w:sz w:val=
+                                      "24"/>
+                        <w:szCs w:val="24"/>
+                    </w:rPr>
+                </m:ctrlPr>
+            </m:sSubPr>
+            <m:e>
+                <m:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                        <w:sz w:val="24"/>
+                        <w:szCs w:val="24"/>
+                    </w:rPr>
+                    <m:t
+                    >GLXD2
+                    </m:t>
+                </m:r>
+            </m:e>
+            <m:sub>
+                <m:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                        <w:sz w:val="24"/>
+                        <w:szCs w:val="24"/>
+                    </w:rPr>
+                    <m:t>i,t</m:t>
+                </m:r>
+            </m:sub>
+        </m:sS
+                ub>
+    </m:oMath>
+    <w:r w:rsidRPr="00AB4530">
+        <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t>两个交互项。我</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:hint
+                              ="eastAsia"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t>们主要观察模型（</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <
+                w:t>3
+        </w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t>-2</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr
+        >
+        <w:t>）的两个</w:t>
+    </w:r>
+    <w:r w:rsidRPr="00AE5C50">
+        <w:rPr>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t>交互项</w:t>
+    </w:r>
+    <w:bookmarkStart w:id="89" w:name="_Hlk103713168"/>
+    <
+            m:oMath>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:i/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <
+                    m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>LNGLXD1</m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii
+                                      ="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i,t</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+</m:oMath>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="2
+4"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>和</w:t>
+</w:r>
+<w:bookmarkEnd w:id="89"/>
+<m:oMath>
+    <m:r>
+        <w:rPr>
+            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+            <w:sz w:val="24"/>
+            <w:szCs
+                    w:val="24"/>
+        </w:rPr>
+        <m:t>LN</m:t>
+    </m:r>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:i/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:
+                        rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>GLXD2</m:t>
+            </m:r>
+        </m:e>
+        <m:sub
+        >
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i,t</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+</m:oMath>
+<w:r w:rsidRPr="0
+0AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>的系数</w:t>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>的
+        显著性
+    </w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>，如果</w:t>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:sz w:val="24"/>
+        <
+                w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>前者的系数</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>显著而</w:t>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w:rFonts w:
+                  hint="eastAsia"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>后者的系数</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>不显著
+        说明绿色信贷对于国有控股银行和非国有控股银行的信贷风险的影响不同，如果
+    </w:t>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>相反反
+    /w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>则说明绿色信贷对于全国性股份制银行和非全国性股份制银行的信贷风险的影响不同，如果两者者显著，则说明绿色信贷对于国有控股银行，全国性股份制银行，以及城市商业银行的信贷风险影响各有不同。</w:t>
+</w:r>
+</w:p>
+        U201812114-姚佳豪-1.《绿色信贷绿色信贷对商业银行信贷风险影响的实证研究》.docx 词频统计开始
+<w:p w14:paraId="140ED089" w14:textId="77777777" w:rsidR="00684680" w:rsidRDefault="00014084" w:rsidP="00684680">
+<w:pPr>
+    <w:spacing w:line="360" w:lineRule="auto"/>
+    <w:ind w:firstLin
+           eChars="800" w:firstLine="1920"/>
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+</w:pPr>
+<m:oMath>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="
+Cambria Math"/>
+                    <w:i/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/
+                    >
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>NPL</m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:
+                        t>i,t
+                </m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+    <m:r>
+        <w:rPr>
+            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <m:t>=</m:t>
+    </m:r>
+    <m:sSub>
+        <m:sS
+                ubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:i/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts
+                            w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>α</m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Ca
+mbria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>0</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+    <m:r>
+        <w:rPr>
+            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+            <w:sz w:val="24"/
+            >
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <m:t>+</m:t>
+    </m:r>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:i/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24
+"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>α</m:t>
+            </m:r>
+        </m:e>
+        <m:
+                sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>1</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlP
+                    r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:i/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Camb
+ria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>LNGL</m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math
+"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i,t</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+    <m:r>
+        <w:rPr>
+            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+            <w:sz w:val="24"/>
+            <w:szCs
+                    w:val="24"/>
+        </w:rPr>
+        <m:t>+ω</m:t>
+    </m:r>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:i/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:
+                        rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:hint="eastAsia"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>Controls
+                </m
+                        :t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i,t</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+    <m:r>
+        <
+                m:rPr>
+            <m:sty m:val="p"/>
+        </m:rPr>
+        <w:rPr>
+            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+            <w:spacing w:val="-23"/>
+            <w:w w:val="95"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:r
+                Pr>
+        <m:t>+</m:t>
+    </m:r>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:i/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:
+                sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>ε</m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts
+                            w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i, t</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+    <m:r>
+        <w:rPr>
+            <w:rFonts w:ascii="Cambria Math" w:hA
+                      nsi="Cambria Math"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <m:t xml:space="preserve">                 </m:t>
+    </m:r>
+</m:oMath>
+<w:r w:rsidR="00684680">
+    <w:rPr>
+        <w:rFonts w:hint="
+eastAsia"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>（</w:t>
+</w:r>
+<w:r w:rsidR="00684680">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>3-1</w:t>
+</w:r>
+<w:r w:rsidR="00684680">
+    <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>）</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="68275269" w14:textId="2615F310" w:rsidR="00684680" w:rsidRDefault="00065DE0" w:rsidP="00F50856">
+<w:pPr>
+    <w:spacing w:line="360" w:lineRule="auto"/>
+    <w:ind w:firstLin
+           eChars="1700" w:firstLine="4080"/>
+    <w:rPr>
+        <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="+mn-cs" w:cs="+mn-cs"/>
+        <w:i/>
+        <w:iCs/>
+        <w:color w:val="000000"/>
+        <w:sz w:v
+              al="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+</w:pPr>
+<m:oMath>
+    <m:r>
+        <w:rPr>
+            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+            <w:color w:val="000000"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <m:t>+</m:t>
+    </m:r>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                    <w
+                            :i/>
+                    <w:iCs/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:
+                              cs="+mn-cs"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>β</m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Mat
+h" w:cs="+mn-cs"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>4</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+    <m:sSub>
+        <m:sSubPr>
+        <m:ctrlPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Ca
+mbria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:i/>
+                <w:iCs/>
+                <w:color w:val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+        </m:ctrlPr>
+    </m:sSub
+            Pr>
+    <m:e>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:color w:val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>LNGLXD1</m:t>
+        </m:r>
+    </m:e>
+    <m:sub>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:color w:val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>i,
+                t
+            </m:t>
+        </m:r>
+    </m:sub>
+</m:sSub>
+<m:r>
+    <w:rPr>
+        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:
+            rPr>
+    <m:t>+</m:t>
+</m:r>
+<m:sSub>
+    <m:sSubPr>
+        <m:ctrlPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:i/>
+                <w:iCs/>
+                <w:color w:v
+                         al="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+        </m:ctrlPr>
+    </m:sSubPr>
+    <m:e>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:color w:
+                         val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>β</m:t>
+        </m:r>
+    </m:e>
+    <m:sub>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:col
+                        or w:val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>5</m:t>
+        </m:r>
+    </m:sub>
+</m:sSub>
+<m:r>
+    <w:rPr>
+        <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="
+Cambria Math" w:cs="+mn-cs"/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <m:t>LN</m:t>
+</m:r>
+<m:sSub>
+    <m:sSubPr>
+        <m:ctrlPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria
+ Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:i/>
+                <w:iCs/>
+                <w:color w:val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+        </m:ctrlPr>
+    </m:sSubPr>
+    <m
+            :e>
+    <m:r>
+        <w:rPr>
+            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+            <w:color w:val="000000"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <m:t>GLXD2</m:t>
+    </m:r>
+    <
+    /m:e>
+    <m:sub>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:color w:val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>i,t</m:t>
+        </m:r>
+    </m:sub>
+</m:sSub>
+<m:r>
+    <w:rPr>
+        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <m:
+            t>+
+    </m:t>
+</m:r>
+<m:sSub>
+    <m:sSubPr>
+        <m:ctrlPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:i/>
+                <w:iCs/>
+                <w:color w:val="000
+000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+        </m:ctrlPr>
+    </m:sSubPr>
+    <m:e>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:color w:val="00
+0000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>μ</m:t>
+        </m:r>
+    </m:e>
+    <m:sub>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:color w:va
+                         l="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>i,t</m:t>
+        </m:r>
+    </m:sub>
+</m:sSub>
+</m:oMath><w:r w:rsidR="00F50856">
+<w:rPr>
+    <w:rFonts w:hint="eastAsia"/>
+    <w:iCs/>
+    <w:colo
+            r w:val="000000"/>
+    <w:sz w:val="24"/>
+    <w:szCs w:val="24"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r><w:r w:rsidR="00F50856">
+<w:rPr>
+    <w:iCs/>
+    <w:color w:val="000000"/>
+    <w:sz w:val="
+24"/>
+    <w:szCs w:val="24"/>
+</w:rPr>
+<w:t xml:space="preserve">                        </w:t>
+</w:r><w:r w:rsidR="00684680" w:rsidRPr="009B5CF3">
+<w:rPr>
+    <w:color w:val="000000"/>
+    <w:sz w:
+          val="24"/>
+    <w:szCs w:val="24"/>
+</w:rPr>
+<w:t>（</w:t>
+</w:r><w:r w:rsidR="00684680">
+<w:rPr>
+    <w:color w:val="000000"/>
+    <w:sz w:val="24"/>
+    <w:szCs w:val="24"/>
+</w:rPr>
+<w:t>3</w:t>
+</w:r><w:
+r w:rsidR="00684680" w:rsidRPr="009B5CF3">
+<w:rPr>
+    <w:color w:val="000000"/>
+    <w:sz w:val="24"/>
+    <w:szCs w:val="24"/>
+</w:rPr>
+<w:t>-2</w:t>
+</w:r><w:r w:rsidR="00684680" w:rsidRPr="009B5CF3">
+<w:rPr>
+    <w:color w:val="000000"/>
+    <w:sz w:val="24"/>
+    <w:szCs w:val="24"/>
+</w:rPr>
+<w:t>）</w:t>
+</w:r></w:p>
+<w:p w14:paraId="68275269" w14:textId="2615F310" w:rsidR="00684680" w:rsidRDefault="00065DE0" w:rsidP="00F50856">
+<w:pPr>
+    <w:spacing w:line="360" w:lineRule="auto"/>
+    <w:ind w:firstLin
+           eChars="1700" w:firstLine="4080"/>
+    <w:rPr>
+        <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="+mn-cs" w:cs="+mn-cs"/>
+        <w:i/>
+        <w:iCs/>
+        <w:color w:val="000000"/>
+        <w:sz w:v
+              al="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+</w:pPr>
+<m:oMath>
+    <m:r>
+        <w:rPr>
+            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+            <w:color w:val="000000"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <m:t>+</m:t>
+    </m:r>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                    <w
+                            :i/>
+                    <w:iCs/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:
+                              cs="+mn-cs"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>β</m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Mat
+h" w:cs="+mn-cs"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>4</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+    <m:sSub>
+        <m:sSubPr>
+        <m:ctrlPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Ca
+mbria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:i/>
+                <w:iCs/>
+                <w:color w:val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+        </m:ctrlPr>
+    </m:sSub
+            Pr>
+    <m:e>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:color w:val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>LNGLXD1</m:t>
+        </m:r>
+    </m:e>
+    <m:sub>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:color w:val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>i,
+                t
+            </m:t>
+        </m:r>
+    </m:sub>
+</m:sSub>
+<m:r>
+    <w:rPr>
+        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:
+            rPr>
+    <m:t>+</m:t>
+</m:r>
+<m:sSub>
+    <m:sSubPr>
+        <m:ctrlPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:i/>
+                <w:iCs/>
+                <w:color w:v
+                         al="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+        </m:ctrlPr>
+    </m:sSubPr>
+    <m:e>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:color w:
+                         val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>β</m:t>
+        </m:r>
+    </m:e>
+    <m:sub>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:col
+                        or w:val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>5</m:t>
+        </m:r>
+    </m:sub>
+</m:sSub>
+<m:r>
+    <w:rPr>
+        <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="
+Cambria Math" w:cs="+mn-cs"/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <m:t>LN</m:t>
+</m:r>
+<m:sSub>
+    <m:sSubPr>
+        <m:ctrlPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria
+ Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:i/>
+                <w:iCs/>
+                <w:color w:val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+        </m:ctrlPr>
+    </m:sSubPr>
+    <m
+            :e>
+    <m:r>
+        <w:rPr>
+            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+            <w:color w:val="000000"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <m:t>GLXD2</m:t>
+    </m:r>
+    <
+    /m:e>
+    <m:sub>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:color w:val="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>i,t</m:t>
+        </m:r>
+    </m:sub>
+</m:sSub>
+<m:r>
+    <w:rPr>
+        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <m:
+            t>+
+    </m:t>
+</m:r>
+<m:sSub>
+    <m:sSubPr>
+        <m:ctrlPr>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:i/>
+                <w:iCs/>
+                <w:color w:val="000
+000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+        </m:ctrlPr>
+    </m:sSubPr>
+    <m:e>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:color w:val="00
+0000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>μ</m:t>
+        </m:r>
+    </m:e>
+    <m:sub>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                <w:color w:va
+                         l="000000"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>i,t</m:t>
+        </m:r>
+    </m:sub>
+</m:sSub>
+</m:oMath><w:r w:rsidR="00F50856">
+<w:rPr>
+    <w:rFonts w:hint="eastAsia"/>
+    <w:iCs/>
+    <w:colo
+            r w:val="000000"/>
+    <w:sz w:val="24"/>
+    <w:szCs w:val="24"/>
+</w:rPr>
+<w:t xml:space="preserve"> </w:t>
+</w:r><w:r w:rsidR="00F50856">
+<w:rPr>
+    <w:iCs/>
+    <w:color w:val="000000"/>
+    <w:sz w:val="
+24"/>
+    <w:szCs w:val="24"/>
+</w:rPr>
+<w:t xml:space="preserve">                        </w:t>
+</w:r><w:r w:rsidR="00684680" w:rsidRPr="009B5CF3">
+<w:rPr>
+    <w:color w:val="000000"/>
+    <w:sz w:
+          val="24"/>
+    <w:szCs w:val="24"/>
+</w:rPr>
+<w:t>（</w:t>
+</w:r><w:r w:rsidR="00684680">
+<w:rPr>
+    <w:color w:val="000000"/>
+    <w:sz w:val="24"/>
+    <w:szCs w:val="24"/>
+</w:rPr>
+<w:t>3</w:t>
+</w:r><w:
+r w:rsidR="00684680" w:rsidRPr="009B5CF3">
+<w:rPr>
+    <w:color w:val="000000"/>
+    <w:sz w:val="24"/>
+    <w:szCs w:val="24"/>
+</w:rPr>
+<w:t>-2</w:t>
+</w:r><w:r w:rsidR="00684680" w:rsidRPr="009B5CF3">
+<w:rPr>
+    <w:color w:val="000000"/>
+    <w:sz w:val="24"/>
+    <w:szCs w:val="24"/>
+</w:rPr>
+<w:t>）</w:t>
+</w:r></w:p>
+<w:p w14:paraId="4685B0B7" w14:textId="77777777" w:rsidR="00684680" w:rsidRPr="00AE5C50" w:rsidRDefault="00684680"
+     w:rsidP="00684680">
+<w:pPr>
+    <w:spacing w:line="360" w:lineRule="aut
+o"/>
+    <w:ind w:firstLineChars="200" w:firstLine="480"/>
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="
+24"/>
+    </w:rPr>
+    <w:t>其中</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>,i</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24
+"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>代表银行个体</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>,t</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C
+50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>代表年度；</w:t>
+</w:r>
+<m:oMath>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Ma
+th"/>
+                    <w:i/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w
+                            :val="24"/>
+                </w:rPr>
+                <m:t>NPL</m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i,t
+                </m:t
+                >
+            </m:r>
+        </m:sub>
+    </m:sSub>
+</m:oMath>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>指的是</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val
+                      ="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>i</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>银行在</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50"
+>
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>t</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>年的不良贷款率，</w:t>
+</
+        w:r>
+<m:oMath>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:i/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <
+                m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>LNGL</m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:asc
+                              ii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i,t</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+</m:oMath>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val=
+                      "24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>指的是</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>i</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>银行在</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>t</w:t>
+</w:r>
+<w:r w:
+     rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>年的绿色信贷余额取对数</w:t>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:
+                val="24"/>
+    </w:rPr>
+    <w:t>；</w:t>
+</w:r>
+<m:oMath>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                    <w
+                            :i/>
+                    <w:iCs/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:
+                              cs="+mn-cs"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>D1</m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Ma
+th" w:cs="+mn-cs"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+</m:oMath>
+<w:r>
+    <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:s
+                z w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>和</w:t>
+</w:r>
+<m:oMath>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria
+ Math" w:cs="+mn-cs"/>
+                    <w:i/>
+                    <w:iCs/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w
+                              :hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>D2</m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria M
+ath" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+</m:oMath>
+<w:r>
+    <w:rPr>
+        <w:rFonts
+                w:hint="eastAsia"/>
+        <w:iCs/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>是两个虚拟变量</w:t>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:sz w:v
+              al="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>；</w:t>
+</w:r>
+<w:r w:rsidRPr="00547BC6">
+    <w:rPr>
+        <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn
+-cs"/>
+        <w:i/>
+        <w:iCs/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t xml:space="preserve"> </w:t>
+</w:r>
+<m:oMath>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFo
+                            nts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                    <w:i/>
+                    <w:iCs/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:
+                    ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:
+                        t>LNGLXD1
+                </m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i,t</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+</m:oMath>
+<w:r>
+    <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>和</w:t>
+</w:r>
+<m:oMath>
+    <m:sSub>
+        <m
+                :sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:eastAsia="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                    <w:i/>
+                    <w:iCs/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <
+                            w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>LNGLXD2</m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:cs="+mn-cs"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w
+                          :val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i,t</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+</m:oMath>
+<w:r>
+    <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:iCs/>
+        <w:color w:val="000000"/>
+        <w:sz w:val="24"/>
+        <w
+                :szCs w:val="24"/>
+    </w:rPr>
+    <w:t>是解释变量和虚拟变量的交互项；</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:i/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t xml:space="preser
+ve"></w:t>
+</w:r>
+<m:oMath>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:i/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr
+            >
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math" w:hint="eastAsia"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>Controls</m:t>
+            </m:r>
+        </m:e
+        >
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i,t</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+</m:oMath>
+<w:r w:rsi
+     dRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>指的是所有控制变量，即总资产的对数（</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs
+                w:val="24"/>
+    </w:rPr>
+    <w:t>LNTA</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>）、资本充足率</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w
+            :rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>(CAR)</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>、拨备覆盖率</w:t>
+</w:r
+>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:lastRenderedPageBreak/>
+    <w:t>(PCR)</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <
+                w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>、存贷比</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>(DLR)</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <
+            w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>、总资产收益率</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>(ROA)</w:t>
+</
+        w:r>
+<w:r>
+    <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>;</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t xml:space="preserve"> </w:t>
+</w:r>
+<m:oMath>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:i/>
+                    <w:sz w:val="24"/>
+                    <w:szCs
+                            w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>ε</m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i,t</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+</m:oMath>
+<w:r
+        w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>和</w:t>
+</w:r>
+<m:oMath>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="C
+ambria Math"/>
+                    <w:i/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>μ</m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i,t</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+</m:oMath>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>表示随机扰动项。</w:t>
+</w:r>
+</w:p>
+<w:p w14:paraId="560B4DB1" w14:textId="77777777" w:rsidR="00684680" w:rsidRPr="00AE5C50" w:rsidRDefault="00684680"
+     w:rsidP="00684680">
+<w:pPr>
+    <w:spacing w:line="360" w:lineRule="aut
+o"/>
+    <w:ind w:firstLineChars="200" w:firstLine="480"/>
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+</w:pPr>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="
+24"/>
+    </w:rPr>
+    <w:t>模型（</w:t>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>3</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24
+"/>
+    </w:rPr>
+    <w:t>-2</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>）主要是用于检验假设</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <
+                w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>H2</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>，我们</w:t>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w
+                :rFonts w:hint="eastAsia"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>参考了</w:t>
+</w:r>
+<w:r w:rsidRPr="00AB4530">
+    <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:sz w:val="24"/>
+        <w:s
+                zCs w:val="24"/>
+    </w:rPr>
+    <w:t>连玉君（</w:t>
+</w:r>
+<w:r w:rsidRPr="00AB4530">
+    <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>2</w:t>
+</w:r>
+<w:r
+        w:rsidRPr="00AB4530">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>017</w:t>
+</w:r>
+<w:r w:rsidRPr="00AB4530">
+    <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:sz w:val="24"/>
+        <w:szC
+                s w:val="24"/>
+    </w:rPr>
+    <w:t>）的做法，引入了</w:t>
+</w:r>
+<m:oMath>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:i/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>LNGLX
+                    D1
+                </m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i,t</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+    <
+    /m:oMath>
+    <w:r w:rsidRPr="00AB4530">
+        <w:rPr>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t>和</w:t>
+    </w:r>
+    <m:oMath>
+        <m:r>
+            <w:rPr>
+                <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Ma
+th"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+            </w:rPr>
+            <m:t>LN</m:t>
+        </m:r>
+        <m:sSub>
+            <m:sSubPr>
+                <m:ctrlPr>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                        <w:i/>
+                        <w:sz w:val=
+                                      "24"/>
+                        <w:szCs w:val="24"/>
+                    </w:rPr>
+                </m:ctrlPr>
+            </m:sSubPr>
+            <m:e>
+                <m:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                        <w:sz w:val="24"/>
+                        <w:szCs w:val="24"/>
+                    </w:rPr>
+                    <m:t
+                    >GLXD2
+                    </m:t>
+                </m:r>
+            </m:e>
+            <m:sub>
+                <m:r>
+                    <w:rPr>
+                        <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                        <w:sz w:val="24"/>
+                        <w:szCs w:val="24"/>
+                    </w:rPr>
+                    <m:t>i,t</m:t>
+                </m:r>
+            </m:sub>
+        </m:sS
+                ub>
+    </m:oMath>
+    <w:r w:rsidRPr="00AB4530">
+        <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t>两个交互项。我</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:hint
+                              ="eastAsia"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t>们主要观察模型（</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <
+                w:t>3
+        </w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t>-2</w:t>
+    </w:r>
+    <w:r>
+        <w:rPr>
+            <w:rFonts w:hint="eastAsia"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr
+        >
+        <w:t>）的两个</w:t>
+    </w:r>
+    <w:r w:rsidRPr="00AE5C50">
+        <w:rPr>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+        </w:rPr>
+        <w:t>交互项</w:t>
+    </w:r>
+    <w:bookmarkStart w:id="89" w:name="_Hlk103713168"/>
+    <
+            m:oMath>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:i/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <
+                    m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>LNGLXD1</m:t>
+            </m:r>
+        </m:e>
+        <m:sub>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii
+                                      ="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i,t</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+</m:oMath>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="2
+4"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>和</w:t>
+</w:r>
+<w:bookmarkEnd w:id="89"/>
+<m:oMath>
+    <m:r>
+        <w:rPr>
+            <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+            <w:sz w:val="24"/>
+            <w:szCs
+                    w:val="24"/>
+        </w:rPr>
+        <m:t>LN</m:t>
+    </m:r>
+    <m:sSub>
+        <m:sSubPr>
+            <m:ctrlPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:i/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:
+                        rPr>
+            </m:ctrlPr>
+        </m:sSubPr>
+        <m:e>
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>GLXD2</m:t>
+            </m:r>
+        </m:e>
+        <m:sub
+        >
+            <m:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Cambria Math" w:hAnsi="Cambria Math"/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+                <m:t>i,t</m:t>
+            </m:r>
+        </m:sub>
+    </m:sSub>
+</m:oMath>
+<w:r w:rsidRPr="0
+0AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>的系数</w:t>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>的
+        显著性
+    </w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>，如果</w:t>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:sz w:val="24"/>
+        <
+                w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>前者的系数</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>显著而</w:t>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w:rFonts w:
+                  hint="eastAsia"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>后者的系数</w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>不显著
+        说明绿色信贷对于国有控股银行和非国有控股银行的信贷风险的影响不同，如果
+    </w:t>
+</w:r>
+<w:r>
+    <w:rPr>
+        <w:rFonts w:hint="eastAsia"/>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>相反反
+    /w:t>
+</w:r>
+<w:r w:rsidRPr="00AE5C50">
+    <w:rPr>
+        <w:sz w:val="24"/>
+        <w:szCs w:val="24"/>
+    </w:rPr>
+    <w:t>则说明绿色信贷对于全国性股份制银行和非全国性股份制银行的信贷风险的影响不同，如果两者者显著，则说明绿色信贷对于国有控股银行，全国性股份制银行，以及城市商业银行的信贷风险影响各有不同。</w:t>
+</w:r>
+</w:p>

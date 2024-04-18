@@ -1,0 +1,871 @@
+{
+    "name": "template01",
+    "slides": [
+        {
+            "name": "title_slide",
+            "text_frames": [
+                {
+                    "content": "论文题目",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [255, 255, 255],
+                        "font_size": 32,
+                        "font_bold": true
+                    }
+                }
+            ]
+        },
+        {
+            "name": "directory_slides_4",
+            "text_frames": [
+                {
+                    "content": "研究背景",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 18,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "研究意义",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 18,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "技术路线",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 18,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "计划安排",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 18,
+                        "font_bold": true
+                    }
+                }
+            ]
+        },
+        {
+            "name": "directory_slides_5",
+            "text_frames": [
+                {
+                    "content": "研究背景",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 18,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "研究意义",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 18,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "技术路线",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 18,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "计划安排",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 18,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "前期工作",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 18,
+                        "font_bold": true
+                    }
+                }
+            ]
+        },
+        {
+            "name": "directory_slides_6",
+            "text_frames": [
+                {
+                    "content": "研究背景",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 18,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "研究意义",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 18,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "技术路线",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 18,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "计划安排",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 18,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "前期工作",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 18,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "创新与难点",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 18,
+                        "font_bold": true
+                    }
+                }
+            ]
+        },
+        {
+            "name": "chapter_slide",
+            "text_frames": [
+                {
+                    "content": "01",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "汉仪大宋简",
+                        "font_color_rgb": [255, 255, 255],
+                        "font_size": 66,
+                        "font_bold": false
+                    }
+                },
+                {
+                    "content": "绪论",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [255, 255, 255],
+                        "font_size": 44,
+                        "font_bold": true
+                    }
+                }
+            ]            
+        },
+        {
+            "name": "text_slide_01",
+            "text_frames": {
+                "heading": {
+                    "content": "二级标题",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                "children": [
+                    {
+                        "keyword": {
+                            "content": "关键词1",
+                            "style": {
+                                "paragraph_alignment": "left",
+                                "font_name": "微软雅黑",
+                                "font_color_rgb": [96, 150, 230],
+                                "font_size": 20,
+                                "font_bold": true
+                            }
+                        },
+                        "sentences": {
+                            "content": "句子1",
+                            "style": {
+                                "paragraph_alignment": "left",
+                                "font_name": "微软雅黑",
+                                "font_color_rgb": [0, 0, 0],
+                                "font_size": 14,
+                                "font_bold": false
+                            }
+                        }
+                    },
+                    {
+                        "keyword": {
+                            "content": "关键词2",
+                            "style": {
+                                "paragraph_alignment": "left",
+                                "font_name": "微软雅黑",
+                                "font_color_rgb": [96, 150, 230],
+                                "font_size": 20,
+                                "font_bold": true
+                            }
+                        },
+                        "sentences": {
+                            "content": "句子x",
+                            "style": {
+                                "paragraph_alignment": "left",
+                                "font_name": "微软雅黑",
+                                "font_color_rgb": [0, 0, 0],
+                                "font_size": 14,
+                                "font_bold": false
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "name": "text_slide_02",
+            "text_frames": [
+                {
+                    "content": "二级标题",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "关键词1",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "句子1",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 14,
+                        "font_bold": false
+                    }
+                },
+                {
+                    "content": "关键词2",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 24,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "句子x",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 14,
+                        "font_bold": false
+                    }
+                }
+            ]
+        },
+        {
+            "name": "text_slide_03",
+            "text_frames": [
+                {
+                    "content": "二级标题",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "关键词1",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "句子1",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 14,
+                        "font_bold": false
+                    }
+                },
+                {
+                    "content": "关键词2",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "句子x",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 14,
+                        "font_bold": false
+                    }
+                },
+                {
+                    "content": "关键词3",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "句子m",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 14,
+                        "font_bold": false
+                    }
+                }
+            ]
+        },
+        {
+            "name": "review_slide_4",
+            "text_frames": [
+                {
+                    "content": "二级标题",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "作者1",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "句子1",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 14,
+                        "font_bold": false
+                    }
+                },
+                {
+                    "content": "作者2",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "句子2",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 14,
+                        "font_bold": false
+                    }
+                },
+                {
+                    "content": "作者3",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "句子3",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 14,
+                        "font_bold": false
+                    }
+                },
+                {
+                    "content": "作者4",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "句子4",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 14,
+                        "font_bold": false
+                    }
+                }
+            ]
+        },
+        {
+            "name": "review_slide_5",
+            "text_frames": [
+                {
+                    "content": "二级标题",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "作者1",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "句子1",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 14,
+                        "font_bold": false
+                    }
+                },
+                {
+                    "content": "作者2",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "句子2",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 14,
+                        "font_bold": false
+                    }
+                },
+                {
+                    "content": "作者3",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "句子3",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 14,
+                        "font_bold": false
+                    }
+                },
+                {
+                    "content": "作者4",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "句子4",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 14,
+                        "font_bold": false
+                    }
+                },
+                {
+                    "content": "作者5",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "句子5",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 14,
+                        "font_bold": false
+                    }
+                }
+            ]
+        },
+        {
+            "name": "review_slide_6",
+            "text_frames": [
+                {
+                    "content": "二级标题",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "作者1",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "句子1",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 14,
+                        "font_bold": false
+                    }
+                },
+                {
+                    "content": "作者2",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "句子2",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 14,
+                        "font_bold": false
+                    }
+                },
+                {
+                    "content": "作者3",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "句子3",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 14,
+                        "font_bold": false
+                    }
+                },
+                {
+                    "content": "作者4",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "句子4",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 14,
+                        "font_bold": false
+                    }
+                },
+                {
+                    "content": "作者5",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "句子5",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 14,
+                        "font_bold": false
+                    }
+                },
+                {
+                    "content": "作者6",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "句子6",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 14,
+                        "font_bold": false
+                    }
+                }
+            ]
+        },
+        {
+            "name": "table_slide_01",
+            "text_frames": [
+                {
+                    "content": "二级标题",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "关键词",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [255, 255, 255],
+                        "font_size": 18,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "图标题",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 14,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "句子1",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 14,
+                        "font_bold": false
+                    }
+                }
+            ]
+        },
+        {
+            "name": "table_slide_02",
+            "text_frames": [
+                {
+                    "content": "二级标题",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "图标题1",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 14,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "句子1",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 14,
+                        "font_bold": false
+                    }
+                },
+                {
+                    "content": "图标题2",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [96, 150, 230],
+                        "font_size": 14,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "句子2",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 14,
+                        "font_bold": false
+                    }
+                }
+            ]
+        },
+        {
+            "name": "picture_slide",
+            "text_frames": [
+                {
+                    "content": "二级标题",
+                    "style": {
+                        "paragraph_alignment": "left",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 20,
+                        "font_bold": true
+                    }
+                },
+                {
+                    "content": "表标题",
+                    "style": {
+                        "paragraph_alignment": "center",
+                        "font_name": "微软雅黑",
+                        "font_color_rgb": [0, 0, 0],
+                        "font_size": 14,
+                        "font_bold": true
+                    }
+                }
+            ]
+        }
+    ]
+}

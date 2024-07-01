@@ -1,12 +1,13 @@
 import os
 import re
+import json
 
 from src.docxCompresser2.ScoringModel import ScoringModel
 from src.docxCompresser2.ILPModel import ILPModel
 from src.docxCompresser2.DocxGenerator import DocxGenerator
 from src.docxParser import Node
 
-from Utils import Utils
+from common.Utils import Utils
 
 utils = Utils()
 
@@ -28,7 +29,7 @@ def check(node, strlist):
 
 def isHeadNode(node):
     matched = False
-    if node.getType == 0 and node.getOutLvl() != "":
+    if node.getType() == 0 and node.getOutLvl() != "":
         matched = True
     return matched
 
@@ -48,10 +49,37 @@ def isNode(node):
     else:
         return False
 
+'''
+    递归将题目中有kw的节点标记为true
+'''
 
+
+def isHeadContentMatch(node, heading_kw):
+    for kw in heading_kw:
+        if kw in node.getTextContent():
+            return True
+    return False
+
+
+def markSlected(node, heading_kw, partName):
+    #没有children节点说明递归到叶子节点（段落、图片……），返回
+    if node.getChildren() is None:
+        return False
+    #当前节点匹配上或者子节点有匹配上则匹配然后return true
+    if isHeadNode(node) and isHeadContentMatch(node,heading_kw):
+        node.setSelected(True)
+        node.setPartName(partName)
+        return True
+    for c in node.getChildren():
+        if(markSlected(c,heading_kw,partName)):
+            node.setSelected(True)
+            node.setPartName(partName)
+            return True
+    return False
 class DocxCompresserPlus:
     def __init__(self) -> None:
         pass
+
 
     def originCompress(self, docTree, classifyResult, outputPath):
         # 获取剧本中“getdocparts”部分
@@ -280,6 +308,7 @@ class DocxCompresserPlus:
                                                     #selectedSentLst.extend(str(para_nodeLst.getTableData()))
                                                     selectedSentLst.append(str(para_nodeLst.getType()))
                                                 if para_nodeLst.getType() == 4:
+                                                    selectedSentLst.append(str(para_nodeLst.getrid()))
                                                     '''
                                                     image:
                                                         <v:shape id="_x0000_i1025" type="#_x0000_t75" style="width:208.5pt;height:50.25pt" o:ole="" filled="t">
@@ -352,6 +381,39 @@ class DocxCompresserPlus:
 
         return docTree
 
+
+    def firstCompress(self,docTree, classifyResult, outputPath):
+        script = self.matchScript(classifyResult)
+        result = {}
+        parts = script["parts"]
+        #逐part选取节点
+        #将选取的节点标记为true然后，只要子节点有被选取的节点，父节点也标记为true
+        for part in parts:
+            part_name = part["name"]
+            heading_kw = part["heading_keywords"]
+            position = part["position"]
+            result.setdefault(part_name,[])
+            #标题中包含headingkw的关键词则认为匹配上
+            for i in position:
+                #回溯去搞
+                markSlected(docTree.getChildren()[i],heading_kw,part_name)
+                if docTree.getChildren()[i].getSelected():
+                    # 选取的节点归类放到对应的part
+                    result[part_name].append(docTree.getChildren()[i].getTreeDic())
+
+        utils.dict_to_json(result,outputPath + "/ClassByPart.json")
+
+
+
+
+
+    def matchScript(self,classifyResult):
+        for script in utils.get_file_paths(utils.getScriptPath()):
+            script_name = os.path.basename(script).replace('v2.json','')
+            if classifyResult == script_name:
+                script_json = utils.json_to_dict(script)
+                return script_json
+        return "There is no script matches: " + classifyResult
     # 第二遍压缩
     def secondNodeSelect(self, selectedDocTree):
         selectedNodeDic = {}

@@ -5,7 +5,7 @@ from src.docxCompresser2.ScoringModel import ScoringModel
 from src.docxCompresser2.ILPModel import ILPModel
 from src.docxCompresser2.DocxGenerator import DocxGenerator
 
-from Utils import Utils
+from common.Utils import Utils
 
 utils = Utils()
 

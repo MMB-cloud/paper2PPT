@@ -1,11 +1,9 @@
-import os
 import zipfile
 import re
-import shutil
 
 from src.docxParser.DocxTree import DocxTree
 from src.docxParser.Node import Node
-from Utils import Utils
+from common.Utils import Utils
 
 utils = Utils()
 

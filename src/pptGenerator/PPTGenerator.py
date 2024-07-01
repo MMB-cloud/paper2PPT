@@ -1,7 +1,7 @@
 from win32com.client import Dispatch
 from src.pptGenerator.PPTTree import PPTTree
 from src.pptGenerator.Template import Template
-from Utils import Utils
+from common.Utils import Utils
 
 utils = Utils()
 

@@ -1,10 +1,8 @@
 from src.docxParser.DocxParser import DocxParser
 from src.classifier2.Classifier import Classifier
-from src.classifier2.Category import Category
 from src.docxCompresser2.DocxCompresser import DocxCompresser
 from src.docxCompresser2.DocxCompresserPlus import DocxCompresserPlus
-from src.pptGenerator.PPTGenerator import PPTGenerator
-from Utils import Utils
+from common.Utils import Utils
 
 # from src.classifier2.TFCounter import TFCounter
 
@@ -46,9 +44,10 @@ if __name__ == "__main__":
     # 文档第一遍压缩
     docxCompresserPlus = DocxCompresserPlus()
     docxCompresser = DocxCompresser()
-    selecetedDoctree = docxCompresserPlus.firstNodeSelect(docxTree, classifyResult, output_dir_path)
-    selecetedNodeList = selecetedDoctree.getSelectedNodeList()
-    selecetedDoctree.getTreeDic()
+    #selecetedDoctree = docxCompresserPlus.firstNodeSelect(docxTree, classifyResult, output_dir_path)
+    #selecetedNodeList = selecetedDoctree.getSelectedNodeList()
+    #selecetedDoctree.getTreeDic()
+    docxCompresserPlus.firstCompress(docxTree,classifyResult,output_dir_path)
     #print(selecetedNodeList)
     # docxCompresser.compressDocx(docxTree, classifyResult)
 

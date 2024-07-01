@@ -1,21 +1,26 @@
 import os
 import json
-
+from common.MyEncoder import MyEncoder
 # 1. 文件路径部分
 # 1.1 项目根路径
 import jieba
 
 root_path = os.path.dirname(os.path.abspath(__file__))
+root_path = os.path.dirname(root_path)
 # 1.2 论文分类模块的训练集文件夹
-trainSetPath = root_path + "\public\dataSet\\train"
+trainSetPath = root_path + "\\public\\dataSet\\train"
 # 1.3 论文分类模块的测试集文件夹
-testSetPath = root_path + "\public\dataSet\\test"
+testSetPath = root_path + "\\public\\dataSet\\test"
 # 1.5 用户测试文件夹
-userPath = root_path + "\public\\user"
+userPath = root_path + "\\public\\user"
 # 1.6 剧本文件夹
-scriptPath = root_path + "\public\script"
+scriptPath = root_path + "\\public\\script"
 # 1.7 Jieba文件夹
-jiebaPath = root_path + "\public\jieba2"
+jiebaPath = root_path + "\\public\\jieba2"
+#用户测试文件夹
+inputPath = root_path + "\\public\\user\\input\\"
+#测试输出文件
+outputPath = root_path + "\\public\\user\\output\\"
 
 # 2. Jieba中文分词部分
 # 2.1   哈工大停用词表
@@ -35,7 +40,7 @@ userdict_path = jiebaPath + "\\userdict.txt"
 jieba.load_userdict(userdict_path)
 
 # 幻灯片模板路径
-template_path = root_path + "\public\\templates"
+template_path = root_path + "\\public\\templates"
 
 class Utils:
     def __init__(self):
@@ -66,6 +71,11 @@ class Utils:
     def getTemplatePath(self):
         return template_path
 
+    def getInputPath(self):
+        return inputPath
+
+    def getOutputPath(self):
+        return outputPath
     # 1.7 获取某文件夹下的所有word文件、json文件和图片文件的绝对路径
     def get_file_paths(self, dir_path):
         files = os.listdir(dir_path)
@@ -162,7 +172,7 @@ class Utils:
         else:
             os.makedirs(dir)
         with open(file_path, 'w', encoding='UTF-8') as f:
-            f.write(json.dumps(src_dict, ensure_ascii=False, indent=2))
+            f.write(json.dumps(src_dict, cls=MyEncoder, ensure_ascii=False, indent=2))
             f.close()
 
     # 3.2 json文件转字典

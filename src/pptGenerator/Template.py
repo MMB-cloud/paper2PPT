@@ -1,8 +1,8 @@
 from pptx import Presentation
-from pptx.util import Cm, Pt
+from pptx.util import Pt
 from pptx.dml.color import RGBColor
 from pptx.enum.text import PP_PARAGRAPH_ALIGNMENT
-from Utils import Utils
+from common.Utils import Utils
 
 utils = Utils()
 

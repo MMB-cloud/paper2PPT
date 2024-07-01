@@ -1,9 +1,7 @@
 import os.path
-import zipfile
-import re
 
 from src.docxParser.DocxParser import DocxParser
-from Utils import Utils
+from common.Utils import Utils
 
 utils = Utils()
 

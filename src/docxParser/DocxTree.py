@@ -1,5 +1,5 @@
 import os
-from Utils import Utils
+from common.Utils import Utils
 
 utils = Utils()
 
@@ -24,7 +24,7 @@ class DocxTree:
             if i == len(indexs) - 1:
                 nodeList[indexs[i]].setChildren(nodeList[indexs[i]+1: ])
             else:
-                nodeList[indexs[i]].setChildren(nodeList[indexs[i]+1: indexs[i+1]])
+                nodeList[indexs[i]].setChildren(nodeList[indexs[i]+1: indexs[i+1]]) #19-22
             self.__children.append(nodeList[indexs[i]])
 
         # 删除中文摘要之前的一级章节内容

@@ -1,8 +1,9 @@
 import re
 
-from Utils import Utils
+from common.Utils import Utils
 
 utils = Utils()
+
 
 class Node:
     """
@@ -10,10 +11,13 @@ class Node:
     :param outLvl: 节点的层级，除章节节点外，其它节点的值均为''
     :param xml_content: 节点在document.xml中的字符串内容，句子节点的xml_content为''
     :param text_content: 句子节点独有，代表句子的文本内容
+    :param rId:图像节点的关联标识
     :wt_start: 句子节点独有，对应<w:t>列表的起始索引
     :wt_end: 句子节点独有，对应<w:t>列表的结束索引
     """
-    def __init__(self, type, outLvl, xml_content='', text_content='', wt_start=-1, wt_end=-1) -> None:
+
+    def __init__(self, type, outLvl, xml_content='', text_content='', rId=-1, wt_start=-1, wt_end=-1,
+                 part_name='') -> None:
         # type=0: 章节
         # type=1: 段落
         # type=2: 句子
@@ -22,15 +26,16 @@ class Node:
         # type=5: 公式
         self.__type = type  # 节点的类别
         self.__outLvl = outLvl  # 节点的大纲级别
-        self.__xml_content = xml_content    # 节点对应的xml内容
-        self.__score = 0.0      # 节点内容的权重评分
-        self.__selected = False     # 节点内容是否被保留
-        self.__parent = None    # 节点的父节点
-        self.__ancestors = []   # 节点的祖先节点列表
+        self.__xml_content = xml_content  # 节点对应的xml内容
+        self.__rId = rId  # 图片节点关联Id
+        self.__score = 0.0  # 节点内容的权重评分
+        self.__selected = False  # 节点内容是否被保留
+        self.__parent = None  # 节点的父节点
+        self.__ancestors = []  # 节点的祖先节点列表
+        self.__part_name = part_name #节点所属的part
         # self.__position = []    # 节点的位置向量
 
-        
-        if type == 3:   # 如果是表格节点，需要获取表格数据
+        if type == 3:  # 如果是表格节点，需要获取表格数据
             list1 = re.split("<w:tr>|</w:tr>", xml_content)
             table_rows_xml = []
             table_rows_text = []
@@ -64,14 +69,16 @@ class Node:
                 if len(table_cells_text) != 0:
                     table_rows_text.append(table_cells_text)
             self.__tableData = table_rows_text
-        elif type == 4:     # 图像节点，不需要做处理
+        elif type == 4:  # 图像节点，记录rId
+            r'<w:t[^>]*>.*?</w:t>'
+            self.__rId = re.split(r'r:embed="([^"]+)"', xml_content)[1]
+
+        elif type == 5:  # 公式节点，区分下标，m:sub是下标
             pass
-        elif type == 5:     # 公式节点，区分下标，m:sub是下标
-            pass
-        elif type == 1:     # 如果是段落节点，需要实现 1.分句   2. 获取run文字列表
-            self.__wtlist = []      # <w:t></w:t>标签中的文本内容
-            self.__children = []    # 子节点都是句子节点
-            self.__length = 0       # 句子总字符长度
+        elif type == 1:  # 如果是段落节点，需要实现 1.分句   2. 获取run文字列表
+            self.__wtlist = []  # <w:t></w:t>标签中的文本内容
+            self.__children = []  # 子节点都是句子节点
+            self.__length = 0  # 句子总字符长度
             # 提取wtlist
             list4 = re.split("<w:t>|<w:t xml:space=\"preserve\">|</w:t>", xml_content)
             for i in range(len(list4)):
@@ -88,7 +95,8 @@ class Node:
                 wt_start = 0
                 wt_end = len(self.__wtlist) - 1
                 text_content = "".join(self.__wtlist)
-                node = Node(type=2, outLvl='', xml_content='', text_content=text_content, wt_start=wt_start, wt_end=wt_end)
+                node = Node(type=2, outLvl='', xml_content='', text_content=text_content, wt_start=wt_start,
+                            wt_end=wt_end)
                 node.setParent(self)
                 self.__children.append(node)
             else:
@@ -99,7 +107,7 @@ class Node:
                 for i in range(len(self.__wtlist)):
                     wt = self.__wtlist[i]
                     if "。" in wt:  # 特殊处理
-                        num = wt.count("。")    # 一个wt可能包含多个句子的部分文本内容
+                        num = wt.count("。")  # 一个wt可能包含多个句子的部分文本内容
                         """
                         一个句号划分为两段文本
                         两个句号换分为三段文本
@@ -107,12 +115,13 @@ class Node:
                         ....
                         """
                         text_list = wt.split("。")
-                        for j in range(0, num+1):
+                        for j in range(0, num + 1):
                             if j == 0:  # 最前的文本内容是一个句子的末尾部分
                                 text_content = text_content + text_list[j] + "。"
                                 wt_end = i
                                 # 生成node节点
-                                node = Node(type=2, outLvl='', xml_content='', text_content=text_content, wt_start=wt_start, wt_end=wt_end)
+                                node = Node(type=2, outLvl='', xml_content='', text_content=text_content,
+                                            wt_start=wt_start, wt_end=wt_end)
                                 node.setParent(self)
                                 self.__children.append(node)
                                 # 重置
@@ -125,11 +134,12 @@ class Node:
                                 else:
                                     text_content = text_list[j]
                                     wt_start = i
-                            else:   # 存在句子的所有文本内容都在这个wt里面
+                            else:  # 存在句子的所有文本内容都在这个wt里面
                                 text_content = text_content + text_list[j] + "。"
                                 wt_start = i
                                 wt_end = i
-                                node = Node(type=2, outLvl='', xml_content='', text_content=text_content, wt_start=wt_start, wt_end=wt_end)
+                                node = Node(type=2, outLvl='', xml_content='', text_content=text_content,
+                                            wt_start=wt_start, wt_end=wt_end)
                                 node.setParent(self)
                                 self.__children.append(node)
                                 # 重置
@@ -140,7 +150,7 @@ class Node:
                         if text_content == "":
                             wt_start = i
                         text_content = text_content + wt
-        elif type == 0:     # 章节节点
+        elif type == 0:  # 章节节点
             list5 = re.split("<w:t>|<w:t xml:space=\"preserve\">|</w:t>", xml_content)
             textList = []
             for i in range(len(list5)):
@@ -151,7 +161,7 @@ class Node:
             self.__children = []
             self.__leafnodes = []
             self.__length = 0
-        elif type == 2:     # 句子节点
+        elif type == 2:  # 句子节点
             self.__text_content = text_content
             self.__length = 0
             self.__wt_start = wt_start
@@ -163,10 +173,12 @@ class Node:
             for node in nodeList:
                 if node.getOutLvl() == str(int(self.__outLvl) + 1):
                     outLvl_next = str(int(self.__outLvl) + 1)
-            if outLvl_next == "":   # 段落节点、表格节点或图像节点
+            # nodelist中都是叶子节点，说明遍历到末尾了
+            if outLvl_next == "":  # 段落节点、表格节点或图像节点
                 for node in nodeList:
                     self.__children.append(node)
                     node.setParent(self)
+            # 中间还有小标题
             else:
                 indexs = []
                 for node in nodeList:
@@ -178,18 +190,16 @@ class Node:
                         node.setParent(self)
                 for i in range(len(indexs)):
                     if i == len(indexs) - 1:
-                        nodeList[indexs[i]].setChildren(nodeList[indexs[i]+1: ])
+                        nodeList[indexs[i]].setChildren(nodeList[indexs[i] + 1:])
                     else:
-                        nodeList[indexs[i]].setChildren(nodeList[indexs[i]+1: indexs[i+1]])
+                        nodeList[indexs[i]].setChildren(nodeList[indexs[i] + 1: indexs[i + 1]])
                     nodeList[indexs[i]].setParent(self)
                     self.__children.append(nodeList[indexs[i]])
-
 
     def getChildren(self):
         if self.__type not in [0, 1]:
             return
         return self.__children
-
 
     def getTreeDic(self):
         treeDic = {}
@@ -197,6 +207,7 @@ class Node:
         treeDic["outLvl"] = self.__outLvl
         treeDic["score"] = self.__score
         treeDic["selected"] = self.__selected
+        treeDic["part"] = self.__part_name
         if self.__type == 0:
             treeDic["text_content"] = self.__text_content
             treeDic["children"] = []
@@ -211,7 +222,7 @@ class Node:
         elif self.__type == 3:
             treeDic["table_data"] = str(self.__tableData)
         elif self.__type == 4:
-            pass
+            treeDic["rId"] = self.__rId
         return treeDic
 
     def getCompressedTreeDic(self):
@@ -221,13 +232,13 @@ class Node:
             compressedTreeDic["outLvl"] = self.__outLvl
             compressedTreeDic["score"] = self.__score
             compressedTreeDic["selected"] = self.__selected
-            if self.__type == 0:    # 章节节点
+            if self.__type == 0:  # 章节节点
                 compressedTreeDic["text_content"] = self.__text_content
                 compressedTreeDic["children"] = []
                 for child in self.__children:
                     if len(child.getCompressedTreeDic()) != 0:
                         compressedTreeDic["children"].append(child.getCompressedTreeDic())
-            elif self.__type == 1:      # 段落节点
+            elif self.__type == 1:  # 段落节点
                 compressedTreeDic["children"] = []
                 for child in self.__children:
                     if len(child.getCompressedTreeDic()) != 0:
@@ -240,22 +251,21 @@ class Node:
                 pass
         return compressedTreeDic
 
-
     def getNodeList(self):
         nodeList = []
-        #如果是章节节点
+        # 如果是章节节点
         if self.__type == 0:
             nodeList.append(self)
             for child in self.__children:
-                #次级章节
+                # 次级章节
                 if child.getType() == 0:
                     nodeList.extend(child.getNodeList())
-                #段落节点
+                # 段落节点
                 else:
                     nodeList.append(child)
         return nodeList
 
-    def getNodeListByType(self,type):
+    def getNodeListByType(self, type):
         nodeList = []
         if self.__type == type:
             nodeList.append(self)
@@ -268,29 +278,23 @@ class Node:
 
     def getFirstSentInNode(self):
         firSentLst = []
-        #如果type = 1则是段落节点，返回子节点的第一个
+        # 如果type = 1则是段落节点，返回子节点的第一个
         if self.__type == 1:
             if self.__children and self.__children[0].getSelected() == False:
-                #for child in self.__children:
+                # for child in self.__children:
                 firSentLst.append(self.__children[0].getTextContent())
                 self.__children[0].setSelected(True)
                 return firSentLst
-        #如果type = 2则是句子节点，返回self
+        # 如果type = 2则是句子节点，返回self
         if self.__type == 2:
             firSentLst.append(self.__children[1].getTextContent())
             self.__children[1].setSelected(True)
             return firSentLst
-        #type = 0,段落节点，递归
+        # type = 0,段落节点，递归
         if self.__type == 0:
             for node in self.__children:
                 firSentLst.append(node.getFirstSentInNode())
             return firSentLst
-
-
-
-
-
-
 
     def getSelectedNodeList(self):
         selectedNodeList = []
@@ -302,7 +306,7 @@ class Node:
         elif self.__type == 1:  # 段落节点
             if self.__selected:
                 # 句子节点没有被选中的，其对应的<w:t>里面的内容需要替换为空
-                replaceList = {}    # 替换字典 {oldStr: newStr}
+                replaceList = {}  # 替换字典 {oldStr: newStr}
                 for child in self.__children:
                     if child.getSelected():
                         pass
@@ -310,21 +314,23 @@ class Node:
                         # 获取该child对应的wt_list
                         wt_start = child.getwtstart()
                         wt_end = child.getwtend()
-                        oldStr = ""     # 即将被替换的文本内容
-                        newStr = ""     # 替换的新内容
+                        oldStr = ""  # 即将被替换的文本内容
+                        newStr = ""  # 替换的新内容
                         # 根据start和end替换xml内容
                         if wt_start == wt_end:  # 句子的所有内容都在一个<w:t>下面
                             oldStr = self.__wtlist[wt_start]
                             newStr = "".join(self.__wtlist[wt_start].split(child.getTextContent()))
                             replaceList["<w:t>" + oldStr + "</w:t>"] = "<w:t>" + newStr + "</w:t>"
-                            replaceList['<w:t xml:space=\"preserve\">' + oldStr + "</w:t>"] = '<w:t xml:space=\"preserve\">' + newStr + "</w:t>"
+                            replaceList[
+                                '<w:t xml:space=\"preserve\">' + oldStr + "</w:t>"] = '<w:t xml:space=\"preserve\">' + newStr + "</w:t>"
                             self.__wtlist[wt_start] = newStr
                         else:
                             for i in range(wt_start, wt_end + 1):
                                 wt = self.__wtlist[i]
                                 if wt == "。":
                                     replaceList["<w:t>。</w:t>"] = "<w:t></w:t>"
-                                    replaceList['<w:t xml:space=\"preserve\">。</w:t>'] = '<w:t xml:space=\"preserve\"></w:t>'
+                                    replaceList[
+                                        '<w:t xml:space=\"preserve\">。</w:t>'] = '<w:t xml:space=\"preserve\"></w:t>'
                                 else:
                                     if i == wt_start:
                                         if "。" in wt:
@@ -345,7 +351,7 @@ class Node:
                                             if wt.count("。") == 1:
                                                 newStr = wt.split("。")[1]
                                             else:
-                                                newStr = "。".join(wt.split("。")[1: ])
+                                                newStr = "。".join(wt.split("。")[1:])
                                         else:
                                             # newStr继续保持为空
                                             oldStr = wt
@@ -356,7 +362,8 @@ class Node:
                                         newStr = ""
                                 self.__wtlist[i] = newStr
                                 replaceList["<w:t>" + oldStr + "</w:t>"] = "<w:t>" + newStr + "</w:t>"
-                                replaceList['<w:t xml:space=\"preserve\">' + oldStr + "</w:t>"] = '<w:t xml:space=\"preserve\">' + newStr + "</w:t>"
+                                replaceList[
+                                    '<w:t xml:space=\"preserve\">' + oldStr + "</w:t>"] = '<w:t xml:space=\"preserve\">' + newStr + "</w:t>"
                 # xml内容替换
                 for oldXml in replaceList:
                     self.__xml_content = self.__xml_content.replace(oldXml, replaceList[oldXml])
@@ -369,18 +376,20 @@ class Node:
                 selectedNodeList.append(self)
         return selectedNodeList
 
-    
     def getwtstart(self):
         if self.__type == 2:
             return self.__wt_start
         return
 
-    
+    def getrid(self):
+        if self.__type == 4:
+            return self.__rId
+        return
+
     def getwtend(self):
         if self.__type == 2:
             return self.__wt_end
         return
-
 
     def getleafnodes(self):
         if self.__type == 0:
@@ -394,8 +403,6 @@ class Node:
                         self.__leafnodes.extend(child.getChildren())
         return self.__leafnodes
 
-
-    
     # 获取当前文档数下指定层级的章节节点
     def gettreenodes(self, outLvl):
         treenodes = []
@@ -426,30 +433,25 @@ class Node:
                         treenodes.extend(child.getTreenodes(outLvl))
         return treenodes
 
-
     def setSelected(self, selected):
         self.__selected = selected
 
-    
     def getSelected(self):
         return self.__selected
 
-    
     def setScore(self, score):
         self.__score = score
-
 
     def getScore(self):
         return self.__score
 
-
     def setParent(self, node):
         self.__parent = node
 
-
+    def setPartName(self,part_name):
+        self.__part_name = part_name
     def getParent(self):
         return self.__parent
-
 
     def getTableData(self):
         if self.__type != 3:
@@ -457,14 +459,11 @@ class Node:
         else:
             return self.__tableData
 
-
     def getOutLvl(self):
         return self.__outLvl
 
-
     def getType(self):
         return self.__type
-
 
     def getTextContent(self):
         if self.__type not in [0, 2]:
@@ -472,13 +471,11 @@ class Node:
         else:
             return self.__text_content
 
-
     def getXmlContent(self):
         return self.__xml_content
 
-
     def getAncestors(self):
-        if self.__outLvl == '0':    # 最顶级的一级章节
+        if self.__outLvl == '0':  # 最顶级的一级章节
             return self.__ancestors
         else:
             if len(self.__ancestors) != 0:
@@ -488,8 +485,8 @@ class Node:
                 self.__ancestors.extend(self.__parent.getAncestors())
                 return self.__ancestors
 
-        
     """获取当前节点下的所有句子的字符串总长度"""
+
     def getLength(self):
         if self.__type not in [0, 1, 2]:
             return 0
@@ -508,8 +505,8 @@ class Node:
 
             return self.__length
 
-    
     """专门针对摘要章节，清除所有的权重"""
+
     def clearScore(self):
         self.__score = 0.0
         self.__final_score = 0.0
@@ -517,22 +514,20 @@ class Node:
             for child in self.__children:
                 child.clearScore()
 
-
     """直接找到最底层的章节节点集合"""
+
     def getLowerTreeNodes(self):
         if self.__type != 0:
             return
         treenodes = []
-        notFound = True     # 判断子节点中是否存在章节节点
+        notFound = True  # 判断子节点中是否存在章节节点
         for child in self.__children:
             if child.getType() == 0:
                 treenodes.extend(child.getLowerTreeNodes())
                 notFound = False
-        if notFound:    # 当前章节节点下没有章节节点，即当前章节节点为最底层的章节节点
+        if notFound:  # 当前章节节点下没有章节节点，即当前章节节点为最底层的章节节点
             treenodes.append(self)
         return treenodes
-
-
 
     """
     找到图表、图表标题以及对它们进行解释说明的句子，确定一个句子是对图表进行解释说明的规则有如下:
@@ -545,7 +540,7 @@ class Node:
     #     if self.getOutLvl() != "0":
     #         return
     #     imageMatrix = []        # 图像二维矩阵 [[图节点, 图标题节点, [描述性句子节点集合], [位置向量]]]
-        
+
     #     # 图像，图标题节点和描述性句子节点集合都在最底层的章节下，因此，先找到最底层的章节节点集合
     #     for treenode in self.getLowerTreeNodes():
     #         children = treenode.getChildren()
@@ -590,7 +585,6 @@ class Node:
     #                     imageMatrix.append([children[i], None, [], children[i].getPosition()])
     #     return imageMatrix
 
-
     """
     找到章节下的图像内容，以及对它们进行解释说明的句子，确定一个句子是对图表进行解释说明的规则有如下:
         1. 对图表编号的引用
@@ -598,26 +592,29 @@ class Node:
         3. 提示词
         4. 与图表标题的词语重叠度
     """
-    def getImages(self):
-        imageMatrix = []        # 图像二维矩阵 [[图节点, 图标题节点, [描述性句子节点集合], [位置向量]]]
 
-        for i in range(len(self.__children)):   # 遍历子节点
-            if self.__children[i].getType() == 4:   # 找到图像节点
-                if self.__children[i+1].getType() == 1 and self.__children[i+1].getChildren()[0].getTextContent().startswith("图"): # 找到图标题段落节点
-                    heading_text = self.__children[i+1].getChildren()[0].getTextContent()   # 图标题的文本内容
+    def getImages(self):
+        imageMatrix = []  # 图像二维矩阵 [[图节点, 图标题节点, [描述性句子节点集合], [位置向量]]]
+
+        for i in range(len(self.__children)):  # 遍历子节点
+            if self.__children[i].getType() == 4:  # 找到图像节点
+                if self.__children[i + 1].getType() == 1 and self.__children[i + 1].getChildren()[
+                    0].getTextContent().startswith("图"):  # 找到图标题段落节点
+                    heading_text = self.__children[i + 1].getChildren()[0].getTextContent()  # 图标题的文本内容
                     image_index = "图"  # 图编号    如 "图3-1"
-                    str_list = list(heading_text)   # 先将图标题转为字符列表 ["图", "3", "-", "1"]
-                    for str in str_list[1: ]:
+                    str_list = list(heading_text)  # 先将图标题转为字符列表 ["图", "3", "-", "1"]
+                    for str in str_list[1:]:
                         # 判断str是否为中文
-                        if utils.check_chinese(str):    # 如果是中文就停止
+                        if utils.check_chinese(str):  # 如果是中文就停止
                             break
                         else:
                             image_index = image_index + str
                     image_index = image_index.replace(" ", "")
                     leafnodes = []  # 图像的描述性句子的集合
                     for j in range(len(self.__children)):
-                        if self.__children[j].getType() == 1:   # 找到段落节点
-                            if len(self.__children[j].getChildren()) == 1 and self.__children[j].getChildren()[0].getTextContent().startswith("图"):    # 与图标题进行区分
+                        if self.__children[j].getType() == 1:  # 找到段落节点
+                            if len(self.__children[j].getChildren()) == 1 and self.__children[j].getChildren()[
+                                0].getTextContent().startswith("图"):  # 与图标题进行区分
                                 pass
                             else:
                                 for child in self.__children[j].getChildren():  # 遍历段落节点中的子节点
@@ -628,8 +625,9 @@ class Node:
                                         # 单词重叠度
                                         leafnodes_seg_list = utils.seg_depart(child.getTextContent())
                                         heading_seg_list = utils.seg_depart(heading_text)
-                                        overlap_wordlist = list(set(heading_seg_list).intersection(set(leafnodes_seg_list)))
-                                        overlap = float(len(overlap_wordlist))/float(len(heading_seg_list))
+                                        overlap_wordlist = list(
+                                            set(heading_seg_list).intersection(set(leafnodes_seg_list)))
+                                        overlap = float(len(overlap_wordlist)) / float(len(heading_seg_list))
                                         if overlap >= 0.5:
                                             leafnodes.append(child)
                                         else:
@@ -637,19 +635,15 @@ class Node:
                                             if "如图所示" in child.getTextContent() or "如上图" in child.getTextContent() or "如下图" in child.getTextContent():
                                                 leafnodes.append(child)
                     # 图像二维矩阵添加
-                    imageMatrix.append([self.__children[i], self.__children[i+1], leafnodes])
-                else:   # 找不到图标题
+                    imageMatrix.append([self.__children[i], self.__children[i + 1], leafnodes])
+                else:  # 找不到图标题
                     imageMatrix.append([self.__children[i], None, []])
         return imageMatrix
 
-
-
-    
     """找到表标题、以及描述它们的句子"""
     # def getTables(self):     
     #     tableMatrix = []    # 表格二维矩阵 [[表格节点, 表标题节点, [描述性句子]]]
 
-        
     #     # 表格，表标题节点和描述性句子节点集合都在最底层的章节下，因此，找到最底层的章节节点集合
     #     for treenode in self.getLowerTreeNodes():
     #         children = treenode.getChildren()
@@ -696,37 +690,39 @@ class Node:
     #                     tableMatrix.append([children[i], None, [], children.getPosition()])
     #     return tableMatrix
 
-
     """找到表标题、以及描述它们的句子"""
-    def getTables(self):
-        tableMatrix = []    # 表格二维矩阵 [[表格节点, 表标题节点, [描述性句子]]]
 
-        for i in range(len(self.__children)):   # 遍历子节点
+    def getTables(self):
+        tableMatrix = []  # 表格二维矩阵 [[表格节点, 表标题节点, [描述性句子]]]
+
+        for i in range(len(self.__children)):  # 遍历子节点
             if self.__children[i].getType() == 3:  # 找到表格节点
-                if self.__children[i-1].getType() == 1 and self.__children[i-1].getChildren()[0].getTextContent().startswith("表"):
-                    heading_text = self.__children[i-1].getChildren()[0].getTextContent()
+                if self.__children[i - 1].getType() == 1 and self.__children[i - 1].getChildren()[
+                    0].getTextContent().startswith("表"):
+                    heading_text = self.__children[i - 1].getChildren()[0].getTextContent()
                     table_index = "表"  # 表编号 如"表3-1"
-                    str_list = list(heading_text)   # 先将表标题转为字符列表 ["表", "3", "-", "1"]
-                    for str in str_list[1: ]:
+                    str_list = list(heading_text)  # 先将表标题转为字符列表 ["表", "3", "-", "1"]
+                    for str in str_list[1:]:
                         # 判断str是否为中文
-                        if utils.check_chinese(str):    # 如果是中文就停止
+                        if utils.check_chinese(str):  # 如果是中文就停止
                             break
                         else:
                             table_index = table_index + str
                     table_index = table_index.replace(" ", "")
                     leafnodes = []  # 表格的描述性句子的集合
                     for j in range(len(self.__children)):
-                        if self.__children[j].getType() == 1:   # 找到段落节点
-                            if len(self.__children[j].getChildren()) == 1 and self.__children[j].getChildren()[0].getTextContent().startswith("表"):
+                        if self.__children[j].getType() == 1:  # 找到段落节点
+                            if len(self.__children[j].getChildren()) == 1 and self.__children[j].getChildren()[
+                                0].getTextContent().startswith("表"):
                                 pass
                             else:
-                                for child in self.__children[j].getChildren():      # 遍历段落节点
+                                for child in self.__children[j].getChildren():  # 遍历段落节点
                                     # 判断是否有对表编号的引用
                                     if table_index in child.getTextContent():
                                         leafnodes.append(child)
                                     else:
                                         # 对表格中的文本内容和数据的引用
-                                        matched = False # 引用了
+                                        matched = False  # 引用了
                                         for row_data in self.__children[i].getTableData():
                                             for cell_data in row_data:
                                                 if cell_data != "" and cell_data in child.getTextContent():
@@ -739,15 +735,10 @@ class Node:
                                             if "如下表" in child.getTextContent() or "如上表" in child.getTextContent():
                                                 leafnodes.append(child)
                     # 表格二维矩阵添加
-                    tableMatrix.append([self.__children[i], self.__children[i-1], leafnodes])
-                else:   # 找不到表标题
+                    tableMatrix.append([self.__children[i], self.__children[i - 1], leafnodes])
+                else:  # 找不到表标题
                     tableMatrix.append([self.__children[i], None, []])
         return tableMatrix
-
-
-
-
-
 
     """构建用于整数线性规划的单元列表"""
     # def getUnitMatrix(self):    # 只能用于一级标题
@@ -771,12 +762,13 @@ class Node:
     #     return unitMatrix
 
     """构建用于整数线性规划的单元列表"""
+
     def getUnitMatrix(self):
         # [[文本块句子集合, 图表块集合]]
         # 文本块句子集合 = [句子1, 句子2, 句子3, ..., 句子n]
         # 图表块集合 = [图表节点, 图表标题节点, 描述性句子集合]
-        unitMatrix = []     # 单元列表
-        exist = False   # 章节下是否存在图表
+        unitMatrix = []  # 单元列表
+        exist = False  # 章节下是否存在图表
         tableMatrix = self.getTables()  # 表格矩阵
         imageMatrix = self.getImages()  # 图像矩阵
         table_image_leafnodes = []
@@ -793,20 +785,3 @@ class Node:
         para_leafnodes = list(set(self.__leafnodes).difference(set(table_image_leafnodes)))
         unitMatrix = [para_leafnodes, tableMatrix, imageMatrix]
         return unitMatrix, exist
-
-
-
-
-
-                                
-
-
-                                
-
-
-
-    
-                
-
-                                
-

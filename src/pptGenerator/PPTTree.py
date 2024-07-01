@@ -1,4 +1,4 @@
-from Utils import Utils
+from common.Utils import Utils
 
 utils = Utils()
 

@@ -2,7 +2,7 @@ import math
 import os.path
 
 from src.classifier2.TFCounter import TFCounter
-from Utils import Utils
+from common.Utils import Utils
 
 utils = Utils()
 

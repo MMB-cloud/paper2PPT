@@ -2,7 +2,7 @@ import os
 
 from src.classifier2.Category import Category
 from src.classifier2.ClassifyModel import ClassifyModel
-from Utils import Utils
+from common.Utils import Utils
 
 utils = Utils()
 

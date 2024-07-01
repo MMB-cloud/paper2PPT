@@ -3,7 +3,7 @@ import os
 from src.docxParser.DocxParser import DocxParser
 from src.classifier2.Classifier import Classifier
 from src.docxCompresser2.DocxCompresserPlus import DocxCompresserPlus
-from Utils import Utils
+from common.Utils import Utils
 
 utils = Utils()
 if __name__ == "__main__":

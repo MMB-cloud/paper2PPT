@@ -1,10 +1,8 @@
 import os
 import math
-import zipfile
-import re
 
 from src.classifier2.TFCounter import TFCounter
-from Utils import Utils
+from common.Utils import Utils
 
 utils = Utils()
 

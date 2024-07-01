@@ -1,6 +1,6 @@
 from pptx import Presentation
 import shutil
-from Utils import Utils
+from common.Utils import Utils
 
 utils = Utils()
 

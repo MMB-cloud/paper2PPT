@@ -1,7 +1,6 @@
 import re
 
 from common.Utils import Utils
-
 utils = Utils()
 
 
@@ -29,10 +28,11 @@ class Node:
         self.__xml_content = xml_content  # 节点对应的xml内容
         self.__rId = rId  # 图片节点关联Id
         self.__score = 0.0  # 节点内容的权重评分
-        self.__selected = False  # 节点内容是否被保留
+        self.__selected = False  # 节点内容是否被保留至part
+        self.__chosen = False  # 节点是否保留至ppt
         self.__parent = None  # 节点的父节点
         self.__ancestors = []  # 节点的祖先节点列表
-        self.__part_name = part_name #节点所属的part
+        self.__part_name = []  # 节点所属的part
         # self.__position = []    # 节点的位置向量
 
         if type == 3:  # 如果是表格节点，需要获取表格数据
@@ -74,7 +74,9 @@ class Node:
             self.__rId = re.split(r'r:embed="([^"]+)"', xml_content)[1]
 
         elif type == 5:  # 公式节点，区分下标，m:sub是下标
-            pass
+            #list4 = re.split("<w:t>(.*?)</w:t>", xml_content)
+            self.__xml_content = xml_content
+
         elif type == 1:  # 如果是段落节点，需要实现 1.分句   2. 获取run文字列表
             self.__wtlist = []  # <w:t></w:t>标签中的文本内容
             self.__children = []  # 子节点都是句子节点
@@ -208,6 +210,7 @@ class Node:
         treeDic["score"] = self.__score
         treeDic["selected"] = self.__selected
         treeDic["part"] = self.__part_name
+        treeDic["chosen"] = self.__chosen
         if self.__type == 0:
             treeDic["text_content"] = self.__text_content
             treeDic["children"] = []
@@ -223,6 +226,8 @@ class Node:
             treeDic["table_data"] = str(self.__tableData)
         elif self.__type == 4:
             treeDic["rId"] = self.__rId
+        elif self.__type == 5:
+            treeDic["formula_xml"] = self.__xml_content
         return treeDic
 
     def getCompressedTreeDic(self):
@@ -448,8 +453,18 @@ class Node:
     def setParent(self, node):
         self.__parent = node
 
-    def setPartName(self,part_name):
-        self.__part_name = part_name
+    def setChosen(self, boolean):
+        self.__chosen = boolean
+
+    def getChosen(self):
+        return self.__chosen
+
+    def setPartName(self, part_name):
+        self.__part_name.append(part_name)
+
+    def getPartName(self):
+        return self.__part_name
+
     def getParent(self):
         return self.__parent
 

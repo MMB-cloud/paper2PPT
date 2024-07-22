@@ -1,3 +1,4 @@
+import json
 import os
 from common.Utils import Utils
 
@@ -132,5 +133,12 @@ class DocxTree:
                     leafnodeNum += 1
         self.__avg_score = float(score) / float(leafnodeNum)
         return self.__avg_score
-
-
+    @staticmethod
+    def parseJsonToClz(jsonStr, DocTree):
+        parseData = json.loads(jsonStr.strip('\t\r\n'))
+        result = DocTree("","")
+        result.__dict__ = parseData
+        return result
+    @staticmethod
+    def ParseObjToJson(yourObj):
+        return yourObj.__dict__.__str__().replace("\'", "\"")

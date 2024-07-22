@@ -224,6 +224,9 @@ class DocxCompresser:
                     node.setSelected(True)
 
 
+
+
+
         """
         getdocparts剧本结构设计说明如下:
             "getdocparts": [
@@ -316,4 +319,282 @@ class DocxCompresser:
                 }
             ]
         """
+
+# def originCompress(self, docTree, classifyResult, outputPath):
+    #     # 获取剧本中“getdocparts”部分
+    #     docparts = {}  # 用于输出json文件，会丢失原本的Class结构
+    #     nodeList = []
+    #     for script_path in utils.get_file_paths(utils.getScriptPath()):
+    #         script_name = os.path.basename(script_path).replace('plus.json', '')
+    #         if classifyResult == script_name:
+    #             docparts = utils.json_to_dict(script_path)["getdocparts"]
+    #             # 读取剧本中各节点在二级标题中的对应部分
+    #             selectNodesDic = {}
+    #             for docpart in docparts:
+    #                 if docpart["children"]:
+    #                     # 一级标题需要整建制保留
+    #                     selectNodesDic[docpart["name"]] = []
+    #                     for node in docTree.getChildren():
+    #                         if check(node, docpart["key_words"]):
+    #                             selectNodesDic[docpart["name"]] = node.getTreeDic()
+    #                             nodeList.append(node)
+    #                     # 未检索出符合的一级标题，读取二级标题与子节点对应部分
+    #                     if not selectNodesDic[docpart["name"]]:
+    #                         for child_docpart in docpart["children"]:
+    #                             for node in docTree.getChildren():
+    #                                 sec_nodelist = node.gettreenodes(1)
+    #                                 for sec_node in sec_nodelist:
+    #                                     if check(sec_node, child_docpart["key_words"]):
+    #                                         # position = docpart["position"]
+    #                                         nodeList.append(sec_node)
+    #                                         selectNodesDic[child_docpart[
+    #                                                            "name"] + sec_node.getTextContent()] = sec_node.getTreeDic()
+    #                 else:
+    #                     for node in docTree.getChildren():
+    #                         # 获取二级标题列表
+    #                         sec_nodelist = node.gettreenodes(1)
+    #                         for sec_node in sec_nodelist:
+    #                             if check(sec_node, docpart["key_words"]):
+    #                                 # position = docpart["position"]
+    #                                 selectNodesDic[docpart["name"] + sec_node.getTextContent()] = sec_node.getTreeDic()
+    #                                 nodeList.append(sec_node)
+    #             # print(selectNodesDic)
+    #             utils.dict_to_json(selectNodesDic, outputPath + "/firstCompress.json")
+    #             return nodeList
         
+ # def firstNodeSelectv1(self, docTree, classifyResult, outputPath):
+ #        # 匹配剧本
+ #
+ #        for script_path in utils.get_file_paths(utils.getScriptPath()):
+ #            script_name = os.path.basename(script_path).replace('v2.json', '')
+ #            if classifyResult == script_name:
+ #                docparts = utils.json_to_dict(script_path)["getdocparts"]
+ #                # 对于剧本中的一个节点
+ #                for docpart in docparts:
+ #                    score = 0
+ #                    # 一级标题匹配
+ #                    for heading1_child in docTree.getChildren():  # 1 绪论
+ #                        # print(heading1_child.getTextContent())
+ #                        if check(heading1_child, docpart["heading_keywords"]):  # 一级标题存在关键词match得分+2
+ #                            socre = score + 2
+ #                            # 如果有子节点：可能是二级标题也可能是段落节点
+ #                            if heading1_child.getChildren != None:
+ #                                for heading2_child in heading1_child.getChildren():
+ #                                    # 子节点是二级标题
+ #                                    if heading2_child.getType() == 0:  # 1.1 研究背景与研究问题
+ #                                        if check(heading2_child, docpart["heading_keywords"]):  # 二级标题存在关键词match得分+2
+ #                                            score = score + 2
+ #                                            # 匹配到的二级标题有子节点，可能是三级标题或段落节点
+ #                                            if heading2_child.getChildren != None:
+ #                                                for heading3_child in heading2_child.getChildren():
+ #                                                    # 三级标题
+ #                                                    if heading3_child.getType() == 0:  # 1.1.1 研究背景
+ #                                                        if check(heading3_child,
+ #                                                                 docpart["heading_keywords"]):  # 三级标题匹配，得分+2,整节点保留
+ #                                                            score = score + 2
+ #                                                            heading3_child.setSelected(True)
+ #                                                        # for Content_child in heading3_child:
+ #                                                        #    print(1)
+ #                                                        #    if check(Content_child,docpart["content_keywords"]):
+ #                                                        #        Content_child.setSelected(True)
+ #                                                    # 段落节点
+ #                                                    if heading3_child.getType() == 1:  # 二级标题下已经是段落节点
+ #                                                        for Content_child in heading3_child.getChildren():
+ #                                                            # print(Content_child.getTextContent())
+ #                                                            if check(Content_child, docpart["content_keywords"]):
+ #                                                                print(
+ #                                                                    "二级标题下是段落节点并且内容匹配:" + Content_child.getTextContent())
+ #                                                                heading3_child.setSelected(True)
+ #                                        # 二级标题没有match到三级标题匹配
+ #                                        else:
+ #                                            for heading3_child in heading2_child.getChildren():
+ #                                                if heading3_child.getType == 0:  # 1.1.1 研究背景
+ #                                                    if check(heading3_child, docpart["heading_keywords"]):
+ #                                                        print("三级标题下匹配:" + heading3_child.getTextContent())
+ #                                                        heading3_child.setSelected(True)
+ #
+ #                                    # 段落节点，即一级标题下已经是正文了（摘要）
+ #                                    if heading2_child.getType == 1:
+ #                                        for Content_child in heading2_child.getChildren():
+ #                                            if check(Content_child, docpart["content_keywords"]):
+ #                                                heading2_child.setSelected(True)
+ #                        # 一级标题没检索到题目匹配项，检索二级标题
+ #                        else:
+ #                            for heading2_child in heading1_child.getChildren():
+ #                                # print(heading2_child.getTextContent())
+ #                                # 二级标题匹配
+ #                                if check(heading2_child, docpart["heading_keywords"]):  # 2.2
+ #                                    print(heading2_child.getTextContent())
+ #                                    score = score + 2
+ #                                    # 遍历二级标题节点
+ #                                    for heading3_child in heading2_child.getChildren():
+ #                                        # print(heading3_child.getTextContent())
+ #                                        # 如果是三级标题节点
+ #                                        if heading3_child.getType() == 0:
+ #                                            if check(heading3_child, docpart["heading_keywords"]):
+ #                                                print(heading3_child.getTextContent())
+ #                                                for textcontent_child in heading3_child.getChildren():
+ #                                                    if isTextMatch(textcontent_child, docpart["content_keywords"]):
+ #                                                        textcontent_child.setSelected(True)
+ #
+ #                                        # 如果是段落节点
+ #                                        else:
+ #                                            if isTextMatch(heading3_child, docpart["content_keywords"]):
+ #
+ #                                                score = score + 1
+ #                                                if score > 1:
+ #                                                    heading3_child.setSelected(True)
+ #                                                    # print("段落节点Type："+str(heading3_child.getTextContent())+"OutLvl:"+str(heading3_child.getOutLvl()))
+ #                                        # heading3中有超过两个段落被选中则整节点选择
+ #                                        if score > 3:
+ #                                            heading3_child.setSelected(True)
+ #                                            # print("段落节点Type："+str(heading3_child.getType())+"OutLvl:"+str(heading3_child.getOutLvl()))
+ #                                    # 二级标题未找到匹配项
+ #        return docTree
+
+    # def firstNodeSelect(self, docTree, classifyResult, outputPath):
+    #     # 试一下在第一遍压缩中提句子节点
+    #     #selectedSentLst = []
+    #     selectedSentDic = {}
+    #     for script_path in utils.get_file_paths(utils.getScriptPath()):
+    #         script_name = os.path.basename(script_path).replace('v2.json', '')
+    #         if classifyResult == script_name:
+    #             docparts = utils.json_to_dict(script_path)["getdocparts"]
+    #             common_keywords = list(utils.json_to_dict(script_path)["common_keywords"])
+    #             before_chart_cuewords = list(utils.json_to_dict(script_path)["before_chart_cuewords"])
+    #             after_chart_cuewords = list(utils.json_to_dict(script_path)["after_chart_cuewords"])
+    #             # 对于剧本中的一个节点
+    #             for docpart in docparts:
+    #                 selectedSentLst = []
+    #                 selectMode = docpart["selectMode"]
+    #                 # 选取段落第一句的话
+    #                 if selectMode == 1:
+    #                     for heading1_child in docTree.getChildren():
+    #                         heading2_nodeList = heading1_child.getTreenodes(2)
+    #                         for heading2_node in heading2_nodeList:
+    #                             if check(heading2_node,docpart["heading_keywords"]) or check(heading2_node.getParent(),docpart["heading_keywords"]):
+    #
+    #                                 selectedSentLst.extend(heading2_node.getFirstSentInNode())
+    #                 #关键词匹配
+    #                 if selectMode == 2:
+    #                     content_keywords = list(docpart["content_keywords"]) + common_keywords
+    #                     for heading1_child in docTree.getChildren():
+    #                         # 遍历二级标题
+    #                         heading2_nodeList = heading1_child.getTreenodes(1)
+    #                         for heading2_node in heading2_nodeList:
+    #                             score = 0
+    #                             if check(heading2_node, docpart["heading_keywords"]) or check(heading2_node.getParent(),
+    #                                                                                           docpart["heading_keywords"]):  # 标题匹配+2
+    #                                 score = score + 2
+    #                                 # 寻找二级标题下段落节点
+    #                                 pos = 0
+    #                                 para_nodeLsts = heading2_node.getChildren()
+    #                                 for para_nodeLst in para_nodeLsts:
+    #                                     # 段落节点
+    #                                     if para_nodeLst.getSelected() == False and para_nodeLst.getType() == 1:
+    #                                         # 匹配内容关键词
+    #                                         for para_node in para_nodeLst.getChildren():
+    #                                             if check(para_node, content_keywords):
+    #                                                 score = score + 1
+    #                                                 selectedSentLst.append(para_node.getTextContent() + '\n')
+    #                                                 para_nodeLst.setSelected(True)
+    #                                                 para_node.setSelected(True)
+    #                                     # 图表节点
+    #                                     if para_nodeLst.getType() == 3 or para_nodeLst.getType() == 4:
+    #                                         #找上下文一段内的关键词
+    #                                         if para_nodeLst.getSelected() == False:
+    #                                             para_nodeLst.setSelected(True)
+    #                                             for para_node in para_nodeLsts[pos - 1].getChildren():
+    #                                                 #print(para_node.getTextContent())
+    #                                                 if check(para_node,before_chart_cuewords) and para_node.getSelected() == False:
+    #                                                     para_node.setSelected(True)
+    #                                                     selectedSentLst.append(para_node.getTextContent() + '\n')
+    #                                             for para_node in para_nodeLsts[pos + 1].getChildren():
+    #                                                 if check(para_node,after_chart_cuewords) and para_node.getSelected() == False:
+    #                                                     #print(para_node.getTextContent())
+    #                                                     para_node.setSelected(True)
+    #                                                     selectedSentLst.append(para_node.getTextContent() + '\n')
+    #                                             if para_nodeLst.getType() == 3:
+    #                                                 #selectedSentLst.extend(str(para_nodeLst.getTableData()))
+    #                                                 selectedSentLst.append(str(para_nodeLst.getType()))
+    #                                             if para_nodeLst.getType() == 4:
+    #                                                 selectedSentLst.append(str(para_nodeLst.getrid()))
+    #                                                 '''
+    #                                                 image:
+    #                                                     <v:shape id="_x0000_i1025" type="#_x0000_t75" style="width:208.5pt;height:50.25pt" o:ole="" filled="t">
+    #                                                      <v:imagedata r:id="rId8" o:title=""/>
+    #                                                     </v:shape>
+    #                                                 id="_x0000_i1025" ————image1
+    #                                                 id="_x0000_i1026" ————image2
+    #                                                 '''
+    #                                         score = score + 1
+    #
+    #                                     pos = pos + 1
+    #                                 # 选中得分大于1的二级节点
+    #                             if score > 1:
+    #                                 heading1_child.setSelected(True)
+    #                                 heading2_node.setSelected(True)
+    #                         # 遍历三级标题节点
+    #                         heading3_nodeList = heading1_child.getTreenodes(2)
+    #                         # print(heading3_nodeList)
+    #                         for heading3_node in heading3_nodeList:
+    #                             score = 0
+    #                             # print(heading3_node)
+    #                             # 三级标题匹配
+    #                             if check(heading3_node, docpart["heading_keywords"]) or (
+    #                                     isNode(heading3_node) and check(heading3_node.getParent(),
+    #                                                                     docpart["heading_keywords"])):
+    #                                 #if selectMode == 1:
+    #                                 #    selectedSentLst.extend(heading3_node.getFirstSentInNode())
+    #                                 score = score + 2
+    #                                 pos = 0
+    #                                 para_nodeLsts = heading3_node.getChildren()
+    #                                 for para_nodeLst in para_nodeLsts:
+    #                                     # 段落节点
+    #                                     if para_nodeLst.getSelected() == False and para_nodeLst.getType() == 1:
+    #                                         for para_node in para_nodeLst.getChildren():
+    #                                             if check(para_node, content_keywords):
+    #                                                 score = score + 1
+    #                                                 selectedSentLst.append(para_node.getTextContent() + '\n')
+    #                                                 para_nodeLst.setSelected(True)
+    #                                                 para_node.setSelected(True)
+    #                                     # 图表节点
+    #                                     if para_nodeLst.getType() == 3 or para_nodeLst.getType() == 4 or para_nodeLst.getType() == 5:
+    #                                         if para_nodeLst.getSelected() == False:
+    #                                             para_nodeLst.setSelected(True)
+    #                                             #获取图题和图注解
+    #                                             if pos > 0:
+    #                                                 for para_node in para_nodeLsts[pos - 1].getChildren():
+    #                                                     print(para_node.getTextContent())
+    #                                                     if check(para_node,before_chart_cuewords) and para_node.getSelected() == False:
+    #                                                         para_node.setSelected(True)
+    #                                                         selectedSentLst.append(para_node.getTextContent() + '\n')
+    #                                             if pos + 1< len(para_nodeLsts):
+    #                                                 for para_node in para_nodeLsts[pos + 1].getChildren():
+    #                                                     if check(para_node,after_chart_cuewords) and para_node.getSelected() == False:
+    #                                                         print(para_node.getTextContent())
+    #                                                         para_node.setSelected(True)
+    #                                                         selectedSentLst.append(para_node.getTextContent() + '\n')
+    #                                             selectedSentLst.extend(str(para_nodeLst.getType()))
+    #                                         score = score + 1
+    #
+    #                             if score > 1:
+    #                                 heading3_node.getParent().setSelected(True)
+    #                                 heading3_node.setSelected(True)
+    #                                 heading1_child.setSelected(True)
+    #                 selectedSentDic[docpart["name"]] = selectedSentLst
+    #     #print(selectedSentLst)
+    #     #with open(outputPath + '/selectedSentLst.txt', 'w', encoding='UTF-8') as f:
+    #     #    f.writelines(selectedSentLst)
+    #     #    f.close()
+    #     utils.dict_to_json(selectedSentDic,outputPath + '/selectedSentDic.json')
+    #
+    #     return docTree
+
+    # def secondNodeSelect(self, selectedDocTree):
+    #     selectedNodeDic = {}
+    #     # 获取每段话的第一句
+    #     for node in nodeList:
+    #         selectedNodeDic[node.getTextContent()] = node.getFirstSentInNode()
+    #     return selectedNodeDic
+    #     # 获取包含父节点（即对应标题）名称的句子

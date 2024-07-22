@@ -3,6 +3,8 @@ from src.classifier2.Classifier import Classifier
 from src.docxCompresser2.DocxCompresser import DocxCompresser
 from src.docxCompresser2.DocxCompresserPlus import DocxCompresserPlus
 from common.Utils import Utils
+from src.pptGenerator.PPTGenerator import PPTGenerator
+from src.pptGenerator.PPTTree import PPTTree
 
 # from src.classifier2.TFCounter import TFCounter
 
@@ -41,19 +43,24 @@ if __name__ == "__main__":
     classifyModel = classifier.loadModel()
     classifyResult = classifyModel.classify(file_path)
 
+    #docxCompresser = DocxCompresser()
     # 文档第一遍压缩
     docxCompresserPlus = DocxCompresserPlus()
-    docxCompresser = DocxCompresser()
+    docxCompresserPlus.set_result(classifyResult)
     #selecetedDoctree = docxCompresserPlus.firstNodeSelect(docxTree, classifyResult, output_dir_path)
     #selecetedNodeList = selecetedDoctree.getSelectedNodeList()
     #selecetedDoctree.getTreeDic()
-    docxCompresserPlus.firstCompress(docxTree,classifyResult,output_dir_path)
-    #print(selecetedNodeList)
-    # docxCompresser.compressDocx(docxTree, classifyResult)
+    classifiedByPartDic = docxCompresserPlus.firstCompress(docxTree, output_dir_path)
+    scoreDic = docxCompresserPlus.score(classifiedByPartDic, output_dir_path)
+    chosenDic = docxCompresserPlus.choose(scoreDic, output_dir_path)
+    # 将choose后的json转为pptTree
+    pptTree = PPTTree(output_dir_path)
+    pptTree.buildPPTDic(classifiedByPartDic)
+    #docxCompresserPlus.transferToSlideJson(classifiedByPartDic,output_dir_path)
 
-    # # 幻灯片生成
-    # pptGenerator = PPTGenerator()
-    # pptGenerator.generatePPT2(json_path=utils.getUserPath() + "\pptTree.json", output_dir_path=output_dir_path)
+    # 幻灯片生成
+    pptGenerator = PPTGenerator()
+    #pptGenerator.generatePPT2(json_path=utils.getUserPath() + "\pptTree.json", output_dir_path=output_dir_path)
 
     # avgScore = docxTree.getAvgScore()
     # print("平均值为: ", avgScore)

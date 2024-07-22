@@ -6921,11 +6921,21 @@
   "after_chart_cuewords": ["由表","如表","如图","上图","下图","见图","见表","上表","下表","该表","该图","如上所示","如下所示"],
   "parts": [
     {
+      "name" : "摘要",
+      "heading_keywords": ["摘要"],
+      "content_keywords" : [],
+      "position": [0,1,2],
+      "children": [],
+      "compress_ratio" : 0.25,
+      "selectMode": 1
+    },
+    {
       "name": "研究背景",
       "heading_keywords" : ["研究背景","的背景","引言","前言","研究场景"],
       "content_keywords" : ["存在大量问题","至今","年开始","起源"],
       "position": [1,2],
       "children": [],
+      "compress_ratio" : 0.25,
       "selectMode": 1
     },
 
@@ -6935,6 +6945,7 @@
       "content_keywords" : ["目的是","研究目的如下","研究问题是","本文","基于此","为了解决","切入点","旨在","理论上","实际上","实际应用","通过"],
       "position": [1,2],
       "children": [],
+      "compress_ratio" : 0.25,
       "selectMode": 1
     },
 
@@ -6944,6 +6955,7 @@
       "content_keywords" : ["介绍了","阐述了","提出了","认为","验证了","研究发现","研究表明","分析了","探究了","进行了", "结果表明", "研究了", "探讨了", "揭露了", "运用了", "构建了", "总结了","国内研究","国外研究"],
       "position": [2,3],
       "children": [],
+      "compress_ratio" : 0.25,
       "selectMode": 2
     },
 
@@ -6953,7 +6965,8 @@
       "content_keywords" : ["VAR","模型","理论","回归模型","拟合优度","联立方程","的影响"],
       "position": [3,4,5],
       "children": [],
-       "selectMode": 2
+      "compress_ratio" : 0.25,
+      "selectMode": 2
     },
 
     {
@@ -6962,6 +6975,7 @@
       "content_keywords" : ["备择假设","假设一","假设二","假设三","假设四","假设五","假设六","假设七","假设八","原假设","如下假设","以下假设","H1","H2","H3","H4"],
       "position": [3,4,5],
       "children": [],
+      "compress_ratio" : 0.25,
       "selectMode": 2
     },
 
@@ -6971,6 +6985,7 @@
       "content_keywords" : ["研究数据","数据来源","本文选取","见附录","抓包","爬虫","指标","面板数据","截面数据","数据源","数据获取","数据集","样本","发放","回收"],
       "position": [3,4,5],
       "children": [],
+      "compress_ratio" : 0.25,
       "selectMode": 2
     },
         {
@@ -6979,7 +6994,8 @@
       "content_keywords" : ["作为","引入","控制变量","为了","变量"],
       "position": [3,4,5],
       "children": [],
-          "selectMode": 2
+      "compress_ratio" : 0.25,
+      "selectMode": 2
       },
         {
       "name": "模型设计",
@@ -6987,7 +7003,8 @@
       "content_keywords" : ["回归模型","解释变量","控制变量"],
       "position": [3,4,5],
       "children": [],
-          "selectMode": 2
+      "compress_ratio" : 0.25,
+      "selectMode": 2
       },
 
     {
@@ -6996,6 +7013,7 @@
       "content_keywords" : ["弹性","显著","SPSS","随机误差","正态","回归模型","线性回归","逐层回归","稳健性检验","信度","校度","因子分析","统计分析方法","显著","解释为","相关","平均","方差","均值","极大值","极小值"],
       "position": [3,4,5],
       "children":[],
+      "compress_ratio" : 0.25,
       "selectMode": 2
     },
 
@@ -7005,6 +7023,7 @@
       "content_keywords":["结论","建议","结束语","启示"],
       "position": [5,6],
       "children": [],
+      "compress_ratio" : 0.25,
       "selectMode": 2
     }
   ]

@@ -172,7 +172,7 @@ class Utils:
         else:
             os.makedirs(dir)
         with open(file_path, 'w', encoding='UTF-8') as f:
-            f.write(json.dumps(src_dict, cls=MyEncoder, ensure_ascii=False, indent=2))
+            f.write(json.dumps(src_dict, ensure_ascii=False, indent=2))
             f.close()
 
     # 3.2 json文件转字典

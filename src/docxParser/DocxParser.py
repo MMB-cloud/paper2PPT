@@ -95,9 +95,16 @@ class DocxParser:
                 if "<w:pict" in content or "<w:drawing" in content:
                     node = Node(type=4, outLvl='', xml_content=content)
                     nodeList.append(node)
-                #公式节点
+                # 公式节点
+                # TODO 公式节点前还有文字说明，需要进一步细化，标志词前的算作node节点，分隔符中间的内容作为type5的node
                 if "<m:oMath>" in content or "<o:OLEObject" in content:
-                    node = Node(type=5, outLvl='', xml_content=content)
+                    # 收集公式节点
+                    list4 = re.split(r'<m:oMath>(.*?)</m:oMath>',content)
+                    node = Node(type=5, outLvl='', xml_content=list4[1])
+                    nodeList.append(node)
+                    # 收集段落节点
+                    content_except_oMath = re.sub(r'<m:oMath>.*?</m:oMath>', '', content)
+                    node = Node(type=1, outLvl='', xml_content=content_except_oMath)
                     nodeList.append(node)
                 else:
                     outLvl = ""

@@ -7,9 +7,21 @@ class PPTTree:
     """
     :param file_path: pptTree.json的绝对路径
     """
+
+    pptDic = {}
+
     def __init__(self, file_path) -> None:
         self.__file_path = file_path
 
+    def buildPPTDic(self,classifiedByPartDic):
+        for partName, nodes in classifiedByPartDic.items():
+            self.pptDic[partName] = []
+            for node in nodes:
+                if partName == node.getPartName():
+                    for leafnode in node.getleafnodes():
+                        if leafnode.getChosen:
+                            self.pptDic[partName].append(leafnode.getTextContent())
+        var = self.pptDic
 
     # 封面页
     def getTitleData(self):

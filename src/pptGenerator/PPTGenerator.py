@@ -5,6 +5,39 @@ from common.Utils import Utils
 
 utils = Utils()
 
+
+def parseDicToSlide(pptTree):
+    template = Template(utils.getTemplatePath(), utils.getOutputPath())
+    title = pptTree.title  # 标题
+    index = pptTree.getIndexPage()  # 索引页
+    # 标题页
+    template.setTitle(title)
+    # 索引页
+    template.setIndex(index)
+    for pptNode in pptTree.pptDic["children"]:
+        # 章节标题
+        template.setSlideNode(pptNode, index)
+    # 合并
+    file_paths = utils.get_file_paths(utils.getOutputPath() + "\\" + title)
+    pptx_paths = []
+    for file_path in file_paths:
+        if file_path.endswith(".pptx"):
+            pptx_paths.append(file_path)
+    ppt = Dispatch("PowerPoint.Application")
+    ppt.Visible = 0
+    ppt.DisplayAlerts = 0
+    pptA = ppt.Presentations.Open(pptx_paths[0])
+    for pptx_path in pptx_paths[1:]:
+        pptB = ppt.Presentations.Open(pptx_path)
+        pptB.Slides(1).Copy()
+        pptA.Slides.Paste()
+        pptB.Close()
+    # 设置合并后的ppt保存路径
+    pptA.SaveAs(utils.getOutputPath() + "\\" + title + "\\final.pptx")
+    pptA.Close()
+    ppt.Quit()
+
+
 class PPTGenerator:
     def __init__(self) -> None:
         pass
@@ -23,7 +56,7 @@ class PPTGenerator:
 
         # 3.根据幻灯片模板进行内容替换
         template_dir_path = utils.getTemplatePath() + "\\template_01"
-        template = Template(template_dir_path)
+        template = Template(template_dir_path,docxTree.getOutputDirPath())
         for data in dataList:
             output_path = docxTree.getOutputDirPath() + "\output_" + str(dataList.index(data)) + ".pptx"
             template.replace(data, output_path)
@@ -38,7 +71,7 @@ class PPTGenerator:
         # ppt.Visible = 1
         ppt.DisplayAlerts = 0
         pptA = ppt.Presentations.Open(pptx_paths[0])
-        for pptx_path in pptx_paths[1: ]:
+        for pptx_path in pptx_paths[1:]:
             pptB = ppt.Presentations.Open(pptx_path)
             pptB.Slides(1).Copy()
             pptA.Slides.Paste()
@@ -57,7 +90,7 @@ class PPTGenerator:
 
         # 3.根据幻灯片模板进行内容替换
         template_dir_path = utils.getTemplatePath() + "\\template_01"
-        template = Template(template_dir_path)
+        template = Template(template_dir_path,output_dir_path)
         for data in dataList:
             output_path = output_dir_path + "\output_" + str(dataList.index(data)) + ".pptx"
             template.replace(data, output_path)
@@ -72,7 +105,7 @@ class PPTGenerator:
         # ppt.Visible = 1
         ppt.DisplayAlerts = 0
         pptA = ppt.Presentations.Open(pptx_paths[0])
-        for pptx_path in pptx_paths[1: ]:
+        for pptx_path in pptx_paths[1:]:
             pptB = ppt.Presentations.Open(pptx_path)
             pptB.Slides(1).Copy()
             pptA.Slides.Paste()
@@ -81,5 +114,3 @@ class PPTGenerator:
         pptA.SaveAs(output_dir_path + "\\final.pptx")
         pptA.Close()
         ppt.Quit()
-
-            

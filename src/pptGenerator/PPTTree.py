@@ -1,27 +1,58 @@
 from common.Utils import Utils
-
+from src.pptGenerator.PPTNode import PPTNode
 utils = Utils()
 
 """幻灯片树"""
+
+
 class PPTTree:
+    title = ''
+    index = []
+    pptDic = {}
+
     """
     :param file_path: pptTree.json的绝对路径
     """
 
-    pptDic = {}
-
     def __init__(self, file_path) -> None:
         self.__file_path = file_path
 
-    def buildPPTDic(self,classifiedByPartDic):
+    def buildPPTDic(self, classifiedByPartDic,outputPath):
+        # 填充标题
+        result = {}
+        self.title = classifiedByPartDic['title']
+        result["title"] = classifiedByPartDic["title"]
+        # 填充内容
+        # TODO 7.22内容节点是否需要再做个类 DONE
+        self.pptDic["children"] = []
+        result["children"] = []
         for partName, nodes in classifiedByPartDic.items():
-            self.pptDic[partName] = []
+            if partName == "title":
+                continue
+            pptNode = PPTNode(partName, [])
             for node in nodes:
-                if partName == node.getPartName():
-                    for leafnode in node.getleafnodes():
-                        if leafnode.getChosen:
-                            self.pptDic[partName].append(leafnode.getTextContent())
+                self.dfs(pptNode, node)
+                #  不为空添加到结果集
+            if len(pptNode.getChildren()) > 0:
+                self.pptDic["children"].append(pptNode)
+                result["children"].append(pptNode.getDic())
+        utils.dict_to_json(result, outputPath + "/pptDic.json")
         var = self.pptDic
+
+    def dfs(self, pptNode, node):
+        if node.getChosen():
+            if node.getType() == 2:
+                pptNode.addNode(node.getType(), node.getTextContent())
+            elif node.getType() == 3:
+                pptNode.addNode(node.getType(), node.getTableData())
+            elif node.getType() == 4:
+                pptNode.addNode(node.getType(), node.getrid())
+            elif node.getType() == 5:
+                pptNode.addNode(node.getType(), node.getXmlContent())
+            return
+        if node.getChildren() is not None:
+            for c in node.getChildren():
+                self.dfs(pptNode, c)
 
     # 封面页
     def getTitleData(self):
@@ -31,6 +62,11 @@ class PPTTree:
             "content": pptTreeDic["title"]
         }
         return data
+
+    def getIndexPage(self):
+        for pptNode in self.pptDic["children"]:
+            self.index.append(pptNode.getContent())
+        return self.index
 
     # 目录页
     def getDirectoryData(self):
@@ -54,10 +90,9 @@ class PPTTree:
                 "content": []
             }
             index = pptTreeDic["children"].index(child)
-            data["content"].append("0" + str(index+1))
+            data["content"].append("0" + str(index + 1))
             data["content"].append(child["content"])
             dataList.append(data)
-
 
             # data = {
             #     "type": 3,  # type=3 表示数据类型为纯文本,

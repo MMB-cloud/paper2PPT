@@ -113,6 +113,7 @@ class DocxCompresserPlus:
         # script = self.matchScript(classifyResult)
         result = {}
         classifiedByPartDic = {}
+        classifiedByPartDic["title"] = docTree.getTitle()
         parts = self.classifyScript["parts"]
         self.scoringModel.title = docTree.getTitle()
         # 逐part选取节点
@@ -126,11 +127,12 @@ class DocxCompresserPlus:
             # 标题中包含headingkw的关键词则认为匹配上
             for i in position:
                 # 回溯去搞
-                markSelected(docTree.getChildren()[i], heading_kw, part_name)
-                if docTree.getChildren()[i].getSelected():
-                    # 选取的节点归类放到对应的part
-                    result[part_name].append(docTree.getChildren()[i].getTreeDic())
-                    classifiedByPartDic[part_name].append(docTree.getChildren()[i])
+                if i < len(docTree.getChildren()) - 1:
+                    markSelected(docTree.getChildren()[i], heading_kw, part_name)
+                    if docTree.getChildren()[i].getSelected():
+                        # 选取的节点归类放到对应的part
+                        result[part_name].append(docTree.getChildren()[i].getTreeDic())
+                        classifiedByPartDic[part_name].append(docTree.getChildren()[i])
         utils.dict_to_json(result, outputPath + "/ClassByPart.json")
         return classifiedByPartDic
 
@@ -143,9 +145,12 @@ class DocxCompresserPlus:
     def score(self, classifiedByPartDic, outputPath):
         result = {}
         scoredDic = {}
+        scoredDic["title"] = classifiedByPartDic["title"]
         for partName, treeNodes in classifiedByPartDic.items():
             result.setdefault(partName, [])
             scoredDic.setdefault(partName, [])
+            if partName == "title":
+                continue
             for treeNode in treeNodes:  # 一级标题, type = 0, outLv = '0'
                 if partName == "摘要":
                     self.scoringModel.abstractNode = treeNode
@@ -165,9 +170,12 @@ class DocxCompresserPlus:
     def choose(self, scoredDic, outputPath):
         result = {}
         chosenDic = {}
+        chosenDic["title"] = scoredDic["title"]
         for partName, treeNodes in scoredDic.items():
             result.setdefault(partName, [])
             chosenDic.setdefault(partName, [])
+            if partName == "title":
+                continue
             for treeNode in treeNodes:
                 if partName == "摘要":
                     continue
@@ -178,7 +186,6 @@ class DocxCompresserPlus:
                             max_length = treeNode.getLength() * part["compress_ratio"]
                             break
                     self.markChosen(treeNode, max_length)
-                    # ILPModel.build_and_solve(treeNode)
                     result[partName].append(treeNode.getTreeDic())
                     chosenDic[partName].append(treeNode)
         utils.dict_to_json(result, outputPath + "/ClassByPart2.json")
@@ -188,8 +195,8 @@ class DocxCompresserPlus:
     # TODO 需要maxlenth，从当前的一级节点中获取total_length,然后*compress_ratio,最好每个part一个ratio DONE
     def markChosen(self, node, max_length):
         # 图片和公式节点保留
-        if node.getType() == 4 or node.getType() == 5:
-            print(node.getrid())
+        if node.getType() == 3 or node.getType() == 4 or node.getType() == 5:
+            print(1)
             node.setChosen(True)
             return
 
@@ -204,7 +211,7 @@ class DocxCompresserPlus:
             if n.getOutLvl() != '':
                 isEnd = False
         if isEnd:
-            self.ilpModel.build_and_solve(node,max_length,presentation_type="text_based")
+            self.ilpModel.build_and_solve(node, max_length, presentation_type="text_based")
 
     def scoreByModel(self, node):
         self.scoringModel.sentScoringByNodes(node)

@@ -1,121 +1,53 @@
 from src.docxParser.DocxParser import DocxParser
 from src.classifier2.Classifier import Classifier
-from src.docxCompresser2.DocxCompresser import DocxCompresser
 from src.docxCompresser2.DocxCompresserPlus import DocxCompresserPlus
 from common.Utils import Utils
-from src.pptGenerator.PPTGenerator import PPTGenerator
+from src.pptGenerator.PPTGenerator import parseDicToSlide
 from src.pptGenerator.PPTTree import PPTTree
-
-# from src.classifier2.TFCounter import TFCounter
-
-# from DocxCompresser import DocxCompresser
-
+import os
+import docx
+from src.picExtractor.picExtractor import PicExtractor
 
 utils = Utils()
 
-if __name__ == "__main__":
-    #     classifier = Classifier()
-    #     classifier.trainModel()
-    #     classifier.testModel()
 
-    file_path = utils.getUserPath() + "\input" + "/U201816007-李佳妮-1.《面部情绪表达对亲社会众筹成功的影响》.docx"
-    output_dir_path = utils.getUserPath() + "\output" + "/U201816007-李佳妮-1.《面部情绪表达对亲社会众筹成功的影响》"
-    # file_path = utils.getTestSetPath() + "\实证研究类"
-    # output_dir_path = utils.getUserPath()
-
+def run(input_file_path, output_file_path):
     # 文档解析
     docxParser = DocxParser()
-    docxTree = docxParser.parseDocx(file_path, output_dir_path)
-    leafnodes = docxTree.getleafnodes()  # leafnodes直接获取到末级节点
-    # for leafnode in leafnodes:
-    #    print(leafnode.getTextContent())
-    children = docxTree.getChildren()
-    # 一层child是一级标题
-    #for child in children:  # child = type0 child[1] = 绪论 child[2] = 引言
-        #print(child.getTextContent())
-        #for ch in child.getChildren():  # ch = type1 ch[1]
-        #    print(ch.getTextContent())
+    docxParser.extractPic(input_file_path, output_file_path)
+    docxTree = docxParser.parseDocx(input_file_path, output_file_path)
 
-    # wordDic = TFCounter().tfcount(file_path)
-    # print(wordDic)
     # 论文分类
     classifier = Classifier()
     classifyModel = classifier.loadModel()
-    classifyResult = classifyModel.classify(file_path)
+    classifyResult = classifyModel.classify(input_file_path)
 
-    #docxCompresser = DocxCompresser()
     # 文档第一遍压缩
     docxCompresserPlus = DocxCompresserPlus()
     docxCompresserPlus.set_result(classifyResult)
-    #selecetedDoctree = docxCompresserPlus.firstNodeSelect(docxTree, classifyResult, output_dir_path)
-    #selecetedNodeList = selecetedDoctree.getSelectedNodeList()
-    #selecetedDoctree.getTreeDic()
-    classifiedByPartDic = docxCompresserPlus.firstCompress(docxTree, output_dir_path)
-    scoreDic = docxCompresserPlus.score(classifiedByPartDic, output_dir_path)
-    chosenDic = docxCompresserPlus.choose(scoreDic, output_dir_path)
-    # 将choose后的json转为pptTree
-    pptTree = PPTTree(output_dir_path)
-    pptTree.buildPPTDic(classifiedByPartDic)
-    #docxCompresserPlus.transferToSlideJson(classifiedByPartDic,output_dir_path)
+    classifiedByPartDic = docxCompresserPlus.firstCompress(docxTree, output_file_path)
+    scoreDic = docxCompresserPlus.score(classifiedByPartDic, output_file_path)
+    chosenDic = docxCompresserPlus.choose(scoreDic, output_file_path)
+
+    # 构建PPTTree
+    pptTree = PPTTree(output_file_path)
+    pptTree.buildPPTDic(chosenDic, output_file_path)
 
     # 幻灯片生成
-    pptGenerator = PPTGenerator()
-    #pptGenerator.generatePPT2(json_path=utils.getUserPath() + "\pptTree.json", output_dir_path=output_dir_path)
+    parseDicToSlide(pptTree)
 
-    # avgScore = docxTree.getAvgScore()
-    # print("平均值为: ", avgScore)
 
-    # treenodes = []
-    # for child in docxTree.getChildren():
-    #     if '摘要' in child.getTextContent().replace(" ", ""):
-    #         pass
-    #     else:
-    #         treenodes.extend(child.getLowerTreeNodes())
-    # for treenode in treenodes:
-    #     print(treenode.getTextContent())
+if __name__ == '__main__':
+    # 批量
+    # output_path = utils.getOutputPath()
+    # for file in utils.get_file_paths(utils.getInputPath()):
+    #     if file.endswith(".docx"):
+    #         title = file.split(".docx")[0].split("\\")[-1]
+    #         print(title + " starts")
+    #         run(input_file_path=file, output_file_path=output_path + "\\" + title)
+    #         print(title + " is done!")
 
-    # for child in docxTree.getChildren():
-    #     if "摘要" in child.getTextContent().replace(" ", ""):
-    #         pass
-    #     else:
-    #         imageMatrix = child.getImages()
-    #         if len(imageMatrix) != 0:
-    #             for imageArray in imageMatrix:
-    #                 if imageArray[1] != None:
-    #                     print(imageArray[1].getChildren()[0].getTextContent())
-    #                     for leafnode in imageArray[2]:
-    #                         print(leafnode.getTextContent())
-    #                 else:
-    #                     print("没有图标题")
-
-    # for child in docxTree.getChildren():
-    #     if "摘要" in child.getTextContent().replace(" ", ""):
-    #         pass
-    #     else:
-    #         tableMatrix = child.getTables()
-    #         if len(tableMatrix) != 0:
-    #             for tableArray in tableMatrix:
-    #                 if tableArray[1] != None:
-    #                     print(tableArray[1].getChildren()[0].getTextContent())
-    #                     for leafnode in tableArray[2]:
-    #                         print(leafnode.getTextContent())
-    #                 else:
-    #                     print("没有表标题")
-
-    # for child in docxTree.getChildren():
-    #     if "摘要" in child.getTextContent().replace(" ", ""):
-    #         pass
-    #     else:
-    #         unitMatrix = child.getUnitMatrix()
-    #         para_leafnodes = unitMatrix[0]  # 段落文本块，句子集合
-    #         tableMatrix = unitMatrix[1]     # 表格块 [[表格节点, 表标题节点, 描述性句子集合, 位置向量]]
-    #         imageMatrix = unitMatrix[2]     # 图像块 [[图像节点, 图标题节点, 描述性句子集合, 位置向量]]
-    # for leafnode in para_leafnodes:
-    #     print(leafnode.getTextContent())
-    #     print(leafnode.getPosition())
-    # for tableArray in tableMatrix:
-    #     if tableArray[1] != None:   # 存在表标题节点
-    #         print(tableArray[1].getChildren()[0].getTextContent())
-    # for imageArray in imageMatrix:
-    #     if imageArray[1] != None:
-    #         print(imageArray[1].getChildren()[0].getTextContent())
+    # 单独
+    file_path = utils.getUserPath() + "\input" + "/1997-2011年我国专利产出与经济增长效率的关系研究2023218_174316.docx"
+    output_dir_path = utils.getUserPath() + "\output" + "/1997-2011年我国专利产出与经济增长效率的关系研究2023218_174316"
+    run(file_path, output_dir_path)

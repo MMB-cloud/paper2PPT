@@ -34,12 +34,13 @@ class Node:
         self.__ancestors = []  # 节点的祖先节点列表
         self.__part_name = []  # 节点所属的part
         # self.__position = []    # 节点的位置向量
-
+        # TODO 表格信息获取有问题，需要优化 7.25 DONE
         if type == 3:  # 如果是表格节点，需要获取表格数据
             list1 = re.split("<w:tr>|</w:tr>", xml_content)
             table_rows_xml = []
             table_rows_text = []
-            for list1_xml_content in list1[1:]:
+            # for list1_xml_content in list1[1:]:
+            for list1_xml_content in list1[0:]:
                 if "<w:tc>" in list1_xml_content or "</w:tc>" in list1_xml_content:
                     table_rows_xml.append("<w:tr>" + list1_xml_content + "</w:tr>")
             for table_row_xml in table_rows_xml:
@@ -56,11 +57,18 @@ class Node:
                         if "<w:gridSpan w:val=" in tcPr:
                             spanVal = int(tcPr.split("<w:gridSpan w:val=\"")[1].split("\"")[0])
                     table_cell_text = ''
-                    if table_cell_xml.find("<w:t>") or table_cell_xml.find("</w:t>"):
+                    if "<w:t>" in table_cell_xml or "</w:t>" in table_cell_xml:
                         list3 = re.split("<w:t>|<w:t xml:space=\"preserve\":</w:t>", table_cell_xml)
                         for i in range(len(list3)):
-                            if i % 2 != 0:
-                                table_cell_text = table_cell_text + list3[i]
+                            #if i % 2 != 0:
+                            s = list3[i]
+                            if "xml:space=\"preserve\">" in s:
+                                s = s.split("xml:space=\"preserve\">")[1]
+                            if "</w:t>" in s:
+                                s = s.split("</w:t>")[0]
+                                table_cell_text = table_cell_text + s
+
+
                     for i in range(0, spanVal):
                         if i == 0:
                             table_cells_text.append(table_cell_text)
@@ -71,7 +79,9 @@ class Node:
             self.__tableData = table_rows_text
         elif type == 4:  # 图像节点，记录rId
             r'<w:t[^>]*>.*?</w:t>'
-            self.__rId = re.split(r'r:embed="([^"]+)"', xml_content)[1]
+            res = re.split(r'r:embed="([^"]+)"', xml_content)
+            if len(res) > 1:
+                self.__rId = re.split(r'r:embed="([^"]+)"', xml_content)[1]
 
         elif type == 5:  # 公式节点，区分下标，m:sub是下标
             #list4 = re.split("<w:t>(.*?)</w:t>", xml_content)
@@ -406,6 +416,12 @@ class Node:
                         self.__leafnodes.extend(child.getleafnodes())
                     elif child.getType() == 1:  # 段落节点的子节点即为句子节点
                         self.__leafnodes.extend(child.getChildren())
+                    # elif child.getType() == 4:
+                    #     self.__leafnodes.append(child)
+                    # elif child.getType() == 5:
+                    #     self.__leafnodes.append(child)
+                    # elif child.getType() == 3:
+                    #     self.__leafnodes.append(child)
         return self.__leafnodes
 
     # 获取当前文档数下指定层级的章节节点

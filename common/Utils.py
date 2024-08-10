@@ -39,6 +39,9 @@ synonymwords = [line.strip() for line in open(synonymwords_path, encoding='UTF-8
 userdict_path = jiebaPath + "\\userdict.txt"
 jieba.load_userdict(userdict_path)
 
+#2.6 log
+log_path = root_path + "\\public\\user\\log\\"
+
 # 幻灯片模板路径
 template_path = root_path + "\\public\\templates"
 
@@ -77,6 +80,10 @@ class Utils:
     def getOutputPath(self):
         return outputPath
     # 1.7 获取某文件夹下的所有word文件、json文件和图片文件的绝对路径
+
+    def getLogPath(self):
+        return log_path
+
     def get_file_paths(self, dir_path):
         files = os.listdir(dir_path)
         file_paths = []

@@ -60,7 +60,10 @@ class ILPModel:
                 c = array(c_list)  # 目标向量
                 a = array(a_matrix)  # 约束矩阵
                 b = array(maxLength)
-                x = cp.Variable(len(weightList), integer=True)  # 决策变量
+                lent = len(weightList) if len(weightList) > 0 else 1
+                x = cp.Variable(lent, integer=True)  # 决策变量
+                if len(c) == 0:
+                    return 0
                 objective = cp.Minimize(c * x)  # 目标函数
                 constraints = [a @ x <= b, x >= 0, x <= 1]  # 约束条件
                 problem = cp.Problem(objective, constraints)  # 问题模型

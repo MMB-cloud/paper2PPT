@@ -1,3 +1,4 @@
+import sys
 import zipfile
 import re
 import docx
@@ -188,3 +189,6 @@ class DocxParser:
 #     output_dir_path = utils.getUserPath() + "\output" + "\互联网金融、利率市场化与商业银行盈利能力的实证研究"
 #     docxParser = DocxParser()
 #     docxParser.parseDocx(file_path, output_dir_path)
+
+if __name__ == '__main__':
+    print(sys.path)

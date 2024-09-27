@@ -33,14 +33,16 @@ def set_style(text_frame, style):
 def add_text_style(slide, content, curSentCnt, style):
     # 设置文本框的宽度和高度
     text_box_width = Inches(10)
-    text_box_height = Inches(1)
+    text_box_height = Inches(1.5)
     # 计算文本框的起始位置
     left = Inches(1.5)
-    top = Inches(2 + (curSentCnt * 1 + 0.1))  # + (curSentCnt * text_box_height + 0.1)
+    top = Inches(0.5 + (curSentCnt * 1.5 + 0.2))  # + (curSentCnt * text_box_height + 0.1)
 
     textbox = slide.shapes.add_textbox(left, top, text_box_width, text_box_height)
     # 获取文本框内的文本框架
     tf = textbox.text_frame
+    tf.word_wrap = True
+    tf.autofit = True
     # 设置段落的内容
     tf.text = content
     set_style(tf, style)
@@ -202,7 +204,7 @@ class Template:
         ppt = Presentation(pptx_path)
         slide = ppt.slides[0]
         # 设置文本框的宽度和高度
-        text_box_width = Inches(2)
+        text_box_width = Inches(2.5)
         text_box_height = Inches(0.5)
         # 计算文本框的起始位置
         left = Inches(5.6)
@@ -304,4 +306,6 @@ class Template:
                 ppt_pic.save(self.output_path + "\\output_" + str(cnt) + "_" + str(curSlide) + ".pptx")
                 curSlide += 1
         # 可能存在不足4个句子的节点 最后需要保存
+
         ppt.save(self.output_path + "\\output_" + str(cnt) + "_" + str(curSlide) + ".pptx")
+        cnt = 0

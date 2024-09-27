@@ -205,10 +205,14 @@ class ScoringModel:
         tfidf = []
         maxCosine = []
         overlap = []
+
         for leafnode in scoreDic:
             tfidf.append(scoreDic[leafnode][0])
             maxCosine.append(scoreDic[leafnode][1])
             overlap.append(scoreDic[leafnode][2])
+            tfidf_max,tfidf_min = (0,0)
+            cosine_max,cosine_min = (0,0)
+            overlap_max,overlap_min = (0,0)
         if len(tfidf) > 1:
             tfidf_max = max(tfidf)
             tfidf_min = min(tfidf)
@@ -219,9 +223,10 @@ class ScoringModel:
             overlap_max = max(overlap)
             overlap_min = min(overlap)
         for leafnode in scoreDic:
-            scoreDic[leafnode][0] = (scoreDic[leafnode][0] - tfidf_min) / (tfidf_max - tfidf_min)
-            scoreDic[leafnode][1] = (scoreDic[leafnode][1] - cosine_min) / (cosine_max - cosine_min)
-            scoreDic[leafnode][2] = (scoreDic[leafnode][2] - overlap_min) / (overlap_max - overlap_min)
+            # 存在 /0的可能
+            scoreDic[leafnode][0] = (scoreDic[leafnode][0] - tfidf_min) / (tfidf_max - tfidf_min) if tfidf_max != tfidf_min else 0
+            scoreDic[leafnode][1] = (scoreDic[leafnode][1] - cosine_min) / (cosine_max - cosine_min)if cosine_max != cosine_min else 0
+            scoreDic[leafnode][2] = (scoreDic[leafnode][2] - overlap_min) / (overlap_max - overlap_min)if overlap_max != overlap_min else 0
             final_score = 0.5 * scoreDic[leafnode][0] + 0.3 * scoreDic[leafnode][1] + 0.2 * scoreDic[leafnode][2]
             leafnode.setScore(final_score)
 

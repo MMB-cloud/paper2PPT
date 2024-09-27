@@ -50,6 +50,6 @@ if __name__ == '__main__':
             print(title + " is done!")
 
     # 单独
-    # file_path = utils.getUserPath() + "\input" + "/~$01815057-丁璇-1.《高管风险承担与企业ESG的实证研究》.docx"
-    # output_dir_path = utils.getUserPath() + "\output" + "/~$01815057-丁璇-1.《高管风险承担与企业ESG的实证研究》.docx"
+    # file_path = utils.getUserPath() + "\input" + "/U201816041-李欣羽-1.《利己利他诉求对亲社会众筹成功的影响：基于Kiva平台的实证研究》.docx"
+    # output_dir_path = utils.getUserPath() + "\output" + "/U201816041-李欣羽-1.《利己利他诉求对亲社会众筹成功的影响：基于Kiva平台的实证研究》"
     # run(file_path, output_dir_path)

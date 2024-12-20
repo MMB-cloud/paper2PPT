@@ -5,7 +5,10 @@ from collections import namedtuple
 
 from src.docxCompresser2.ScoringModel import ScoringModel
 from src.docxCompresser2.ILPModel import ILPModel
+from src.docxCompresser2.TextRankModel import TextRankModel
 from src.docxCompresser2.DocxGenerator import DocxGenerator
+from src.docxCompresser2.MooModel import MooModel
+from src.docxCompresser2.EvaluateModel import EvaluateModel
 from src.docxParser import Node
 from src.docxParser import DocxTree
 from common.Utils import Utils
@@ -20,9 +23,9 @@ utils = Utils()
 # 输入节点和特征词列表进行匹配，返回匹配结果
 def check(node, strlist):
     matched = False
-    if (node == None or strlist == None):
+    if node is None or strlist is None:
         return False
-    if isinstance(node, Node.Node) == False:
+    if not isinstance(node, Node.Node):
         return False
     for str in strlist:
         if node.getType() != 1:
@@ -73,33 +76,53 @@ def markSelected(node, heading_kw, partName):
     if node.getChildren() is None:
         return False
     # 当前节点匹配上或者子节点有匹配上则匹配然后return true
-    if isHeadNode(node) and isHeadContentMatch(node, heading_kw):
-        node.setSelected(True)
-        node.setPartName(partName)
-        return True
+    # 当前节点匹配上或者子节点有匹配上则匹配然后return true 1015改为dfs
     for c in node.getChildren():
         if markSelected(c, heading_kw, partName):
             node.setSelected(True)
             node.setPartName(partName)
             return True
+    if isHeadNode(node) and isHeadContentMatch(node, heading_kw):
+        node.setSelected(True)
+        node.setPartName(partName)
+        return True
     return False
 
 
 def matchScript(classifyResult):
     for script in utils.get_file_paths(utils.getScriptPath()):
-        script_name = os.path.basename(script).replace('v2.json', '')
+        script_name = os.path.basename(script).replace(".json", "")
         if classifyResult == script_name:
             script_json = utils.json_to_dict(script)
             return script_json
     return -1
+
+
+def matchModel(modelName):
+    for model in utils.get_file_paths(utils.getModelPath()):
+        fileName = os.path.basename(model).replace('v1.json', '')
+        if modelName == fileName:
+            modelJson = utils.json_to_dict(model)
+            # self.modelScript = modelJson
+            return modelJson
+    return -1
+
+
 class DocxCompresserPlus:
     classifyResult = None
     classifyScript = {}
     scoringModel = ScoringModel()
     ilpModel = ILPModel()
+    textRankModelModel = TextRankModel()
+    mooModel = MooModel()
     maxLength = 0
+
     def __init__(self) -> None:
-        pass
+        self.wordFreq = None
+        self.classifyResult = None
+        self.classifyScript = None
+        self.moo_chosen_lst = []
+        self.ilp_chosen_lst = []
 
     def set_result(self, result):
         if matchScript(result) == -1:
@@ -108,35 +131,52 @@ class DocxCompresserPlus:
         self.classifyScript = matchScript(result)
         self.scoringModel.setScirpt(result)
 
+    def set_main_word_freq(self, word_freq):
+        self.wordFreq = word_freq
+        self.scoringModel.set_main_word_freq(word_freq)
+
     # 存在问题：一级标题中可能有不同part的二/三级节点
     # TODO planA 按二级标题往part中放？ 体感上需要，因为不同part可能在同一个一级或二级标题下，会造成后边的把前面覆盖掉
     # TODO planB part作为一个list，所有可能的部分都放里边，然后到script中制定每一part的选取规则
     def firstCompress(self, docTree, outputPath):
         # script = self.matchScript(classifyResult)
         result = {}
-        classifiedByPartDic = {}
-        classifiedByPartDic["title"] = docTree.getTitle()
+        classifiedByPartDic = {"title": docTree.getTitle()}
         parts = self.classifyScript["parts"]
         self.scoringModel.title = docTree.getTitle()
         # 逐part选取节点
         # 将选取的节点标记为true然后，只要子节点有被选取的节点，父节点也标记为true
         for part in parts:
             part_name = part["name"]
-            heading_kw = part["heading_keywords"]
+            if 'model' in part:
+                model = matchModel(part["model"])
+                parts.extend(model["parts"])
+                for theory in model["theory-type"]:
+                    if theory["name"] == self.classifyResult:
+                        # theory_type = theory
+                        parts.append(theory)
+                continue
+            if 'type' in part:
+                continue
+            heading_kw = part["heading_keywords"]  # 有type时去theory-type中找
             position = part["position"]
             result.setdefault(part_name, [])
             classifiedByPartDic.setdefault(part_name, [])
+
             # 标题中包含headingkw的关键词则认为匹配上
-            for i in position:
+            for i, child in enumerate(docTree.getChildren()):
                 # 回溯去搞
-                if i < len(docTree.getChildren()) - 1:
+                ratio = i / len(docTree.getChildren()) * 100
+                if position[0] <= ratio < position[1] and i < len(docTree.getChildren()) - 1:
                     markSelected(docTree.getChildren()[i], heading_kw, part_name)
                     if docTree.getChildren()[i].getSelected():
                         # 选取的节点归类放到对应的part
                         result[part_name].append(docTree.getChildren()[i].getTreeDic())
                         classifiedByPartDic[part_name].append(docTree.getChildren()[i])
+                        docTree.getChildren()[i].setSelected(False)  # 恢复现场，不然后续的都会带上这个节点
         utils.dict_to_json(result, outputPath + "/ClassByPart.json")
         return classifiedByPartDic
+
 
     # docTree的“part”和key对应时代表选上
     # TODO 对part也加一个keylist 和script里的tfidf结合起来
@@ -144,10 +184,10 @@ class DocxCompresserPlus:
     # TODO 7.18 检查为什么有的图片节点未选中 DONE
     # TODO 7.22 尝试解析公式,似乎可以直接将xml放到PPT，可以解析
     # TODO ClassBypart2解析为PPTtree
+    # Done 1017 修复如果是一级标题匹配上在part1丢节点问题
     def score(self, classifiedByPartDic, outputPath):
         result = {}
-        scoredDic = {}
-        scoredDic["title"] = classifiedByPartDic["title"]
+        scoredDic = {"title": classifiedByPartDic["title"]}
         for partName, treeNodes in classifiedByPartDic.items():
             result.setdefault(partName, [])
             scoredDic.setdefault(partName, [])
@@ -157,11 +197,15 @@ class DocxCompresserPlus:
                 if partName == "摘要":
                     self.scoringModel.abstractNode = treeNode
                     continue
+                # 如果是一级节点匹配上 二级及后续节点无匹配则直接添加一级节点 能不能用递归？
+                # 如果partName只有一个 那么一级节点全都要
+                if len(treeNode.getPartName()) == 1:
+                    self.scoreByModel(treeNode)
+                    result[partName].append(treeNode.getTreeDic())
+                    scoredDic[partName].append(treeNode)
                 if partName in treeNode.getPartName():
                     for outLv2Node in treeNode.getChildren():
                         if partName in outLv2Node.getPartName():
-                            # self.scoreByModel(treeNode)
-                            # result[partName].append(treeNode.getTreeDic())
                             self.scoreByModel(outLv2Node)
                             result[partName].append(outLv2Node.getTreeDic())
                             scoredDic[partName].append(outLv2Node)
@@ -171,8 +215,7 @@ class DocxCompresserPlus:
     # TODO 7.14 把线性规划放到这里搞,以一级节点作为入参，dfs深搜 DONE
     def choose(self, scoredDic, outputPath):
         result = {}
-        chosenDic = {}
-        chosenDic["title"] = scoredDic["title"]
+        chosenDic = {"title": scoredDic["title"]}
         for partName, treeNodes in scoredDic.items():
             result.setdefault(partName, [])
             chosenDic.setdefault(partName, [])
@@ -187,18 +230,70 @@ class DocxCompresserPlus:
                         if partName == part["name"]:
                             max_length = treeNode.getLength() * part["compress_ratio"]
                             break
-                    self.markChosen(treeNode, max_length)
+                    #self.markChosenByParph(treeNode, max_length)
+                    self.markChosenBySent(treeNode, max_length)
                     result[partName].append(treeNode.getTreeDic())
                     chosenDic[partName].append(treeNode)
         utils.dict_to_json(result, outputPath + "/ClassByPart2.json")
+        # 评估
+        # 整合摘要
+        # ab_lst = [leaf.getTextContent() for leaf in self.scoringModel.abstractNode.getleafnodes()]
+        # chosen_lst = [leaf.getTextContent() for leaf in self.chosen_lst]
+        # evaluateModel = EvaluateModel()
+        # f_score, lsc_str = evaluateModel.calculate_rouge_l(" ".join(ab_lst), " ".join(chosen_lst))
+        # self.rouge_lst.append(f_score)
+        # print('ROUGE-L F-score:', f_score)
+        # print('最长公共子序列:', lsc_str)
         return chosenDic
+
+    def evaluate_choose(self, scoredDic, outputPath):
+        result = {}
+        chosenDic = {"title": scoredDic["title"]}
+        for partName, treeNodes in scoredDic.items():
+            result.setdefault(partName, [])
+            chosenDic.setdefault(partName, [])
+            if partName == "title":
+                continue
+            for treeNode in treeNodes:
+                if partName == "摘要":
+                    continue
+                if partName in treeNode.getPartName():
+                    max_length = 0.0
+                    for part in self.classifyScript["parts"]:
+                        if partName == part["name"]:
+                            max_length = treeNode.getLength() * part["compress_ratio"]
+                            break
+                    #self.markChosenByParph(treeNode, max_length)
+                    self.markChosenBySent(treeNode, max_length)
+                    result[partName].append(treeNode.getTreeDic())
+                    chosenDic[partName].append(treeNode)
+        utils.dict_to_json(result, outputPath + "/ClassByPart2.json")
+        # 评估
+        # 整合摘要
+        ab_lst = [leaf.getTextContent() for leaf in self.scoringModel.abstractNode.getleafnodes()]
+        chosen_lst = [leaf.getTextContent() for leaf in self.moo_chosen_lst]
+        evaluateModel = EvaluateModel()
+        if len(ab_lst) == 0 or len(chosen_lst) == 0:
+            return 0
+        sl_score, lsc_str = evaluateModel.calculate_rouge_l(" ".join(ab_lst), " ".join(chosen_lst))
+        rouge1_score = evaluateModel.rouge_n(" ".join(ab_lst), " ".join(chosen_lst), 1)
+        rouge2_score = evaluateModel.rouge_n(" ".join(ab_lst), " ".join(chosen_lst), 2)
+        su_score = evaluateModel.rouge_su(" ".join(ab_lst), " ".join(chosen_lst))
+        print('ROUGE-L F-score:', sl_score)
+        print('最长公共子序列:', lsc_str)
+        res = {'title': scoredDic["title"],
+               'rouge1': rouge1_score,
+               'rouge2': rouge2_score,
+               'rouge-sl': sl_score,
+               'rouge-su': su_score,
+               }
+        return res
 
     # 二级节点入参，dfs求解
     # TODO 需要maxlenth，从当前的一级节点中获取total_length,然后*compress_ratio,最好每个part一个ratio DONE
-    def markChosen(self, node, max_length):
+    def markChosenBySent(self, node, max_length):
         # 图片和公式节点保留
         if node.getType() == 3 or node.getType() == 4 or node.getType() == 5:
-            print(1)
             node.setChosen(True)
             return
 
@@ -208,15 +303,38 @@ class DocxCompresserPlus:
         # 找到标题节点的最末端，作为ILP求解的入参
         isEnd = True
         for n in node.getChildren():
-            self.markChosen(n, max_length)
+            self.markChosenBySent(n, max_length)
             # 可能存在标题节点+正文+次级标题，只有节点全是空outlvl才认为找到标题节点末端
             if n.getOutLvl() != '':
                 isEnd = False
         if isEnd:
-            self.ilpModel.build_and_solve(node, max_length, presentation_type="text_based")
+            #self.ilpModel.build_and_solve_by_sent(node, max_length, presentation_type="text_based")
+            chosen_lst = self.mooModel.build_and_solve_by_node(node, self.classifyScript["keyword"]["main_text"],
+                                                  self.scoringModel.abstractNode,
+                                                  self.scoringModel.title)
+            self.moo_chosen_lst.extend(chosen_lst)
+
+    # 以段落作为chosen的最小粒度
+    # 不能以段落作为入参，需要更宏观的参数
+    # 每个part的大节点作为入参
+    def markChosenByParph(self, node, max_length):
+        self.textRankModelModel.build_and_solve_by_node(node, self.classifyScript["keyword"]["main_text"], 5)
 
     def scoreByModel(self, node):
-        self.scoringModel.sentScoringByNodes(node)
+        # 1016 段落作为最小粒度
+        # 以一级标题根节点作为入参，先计算出所有句子分数，汇总段落分数
+        if node.getChildren() is None:
+            return
+        if node.getOutLvl() == '1':
+            self.scoringModel.sentScoringByNodes(node)
+        #
+        for child in node.getChildren():
+            self.scoreByModel(child)
+            if child.getType() == 1:
+                weight_score = 0.0
+                for sent in child.getChildren():
+                    weight_score += sent.getScore()
+                child.setScore(weight_score)
 
     def compressDocx(self, docxTree):
         # 重要性评分
@@ -244,6 +362,7 @@ class DocxCompresserPlus:
         docxGenerator.generateDocx(docxTree)
 
     """一级章节内容压缩"""
+
     def compressChapter(self, node, classifyResult):
         # 读取剧本中的getdocparts
         getdocparts = {}
@@ -363,8 +482,8 @@ class DocxCompresserPlus:
                 else:  # 继续进行匹配
                     continue
 
-
     """二、三级章节内容压缩"""
+
     def compressSubChapter(self, node, maxLength, docparts=[], presentation_type="chart_oriented"):
         # 判断自身是否是最底层章节或三级章节    整数线性规划模型是围绕二、三级章节构造的
         if node.getOutLvl() == "1":  # 二级章节
@@ -393,7 +512,7 @@ class DocxCompresserPlus:
             ILP_Model.build_and_solve(node=node, maxLength=maxLength, presentation_type=presentation_type,
                                       rules=docparts)
 
-    def transferToSlideJson(self,classifiedByPartDic):
+    def transferToSlideJson(self, classifiedByPartDic):
         pptDic = {}
         for partName, node in classifiedByPartDic:
             if node.getPartName() == partName:

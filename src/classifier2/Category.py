@@ -6,6 +6,7 @@ from common.Utils import Utils
 
 utils = Utils()
 
+
 class Category:
     def __init__(self, category_name, input_dir_path, output_dir_path):
         self.__category_name = category_name
@@ -38,8 +39,8 @@ class Category:
             if file_path != "":
                 wordDicList.append(tfCounter.tfcount(file_path))
         # 2. 词频统计汇总
-        #for part in ['title', 'abstract', 'key_word', 'heading1', 'heading2', 'heading3', 'main_text']:
-        for part in ['heading1', 'heading2', 'heading3']:
+        for part in ['title', 'abstract', 'key_word', 'heading1', 'heading2', 'heading3', 'main_text']:
+            # for part in ['heading1', 'heading2', 'heading3']:
             self.__wordDic[part] = {}
             for wordDic in wordDicList:
                 for word, num in wordDic[part].items():
@@ -51,7 +52,7 @@ class Category:
         # 3. 结果保存
         utils.dict_to_json(self.__wordDic, self.__output_dir_path + "\categoryWordDic.json")
 
-    def getTfidfWordDic(self, wordDic, num):    # wordDic: 论文集总词频统计 num: 论文总数
+    def getTfidfWordDic(self, wordDic, num):  # wordDic: 论文集总词频统计 num: 论文总数
         if len(self.__tfidfWordDic) != 0:
             return self.__tfidfWordDic
         if os.path.exists(self.__output_dir_path + "\\tfidfWordDic.json"):
@@ -69,27 +70,29 @@ class Category:
                 totalNum += wordCount["num"]
             for word, wordCount in self.__wordDic[part].items():
                 tf = float(wordCount["num"]) / float(totalNum)
-                idf = math.log(float(num * wordCount["df"]) / float(wordDic[part][word]["df"]))
-                tfidf = tf * idf * math.log(len(word)) * weight[parts.index(part)] * math.sqrt(float(wordCount["df"]) / float(len(self.__file_paths)))
+                idf = math.log(float(num * wordCount["df"]) / float(wordDic[part][word]["df"])) \
+                    if word in wordDic[part].keys() else 0
+                tfidf = tf * idf * math.log(len(word)) * weight[parts.index(part)] * math.sqrt(
+                    float(wordCount["df"]) / float(len(self.__file_paths)))
                 if tfidf > 0.0001:
                     self.__tfidfWordDic[part][word] = tfidf
         utils.dict_to_json(self.__tfidfWordDic, self.__output_dir_path + "\\tfidfWordDic.json")
 
-
     def getKeywordDic(self):
-        if len(self.__keywordDic) != 0:
-            return self.__keywordDic
-        if os.path.exists(self.__output_dir_path + "\keywordDic.json"):
-            self.__keywordDic = utils.json_to_dict(self.__output_dir_path + "\keywordDic.json")
-            return self.__keywordDic
+        # if len(self.__keywordDic) != 0:
+        #     return self.__keywordDic
+        # if os.path.exists(self.__output_dir_path + "\keywordDic.json"):
+        #     self.__keywordDic = utils.json_to_dict(self.__output_dir_path + "\keywordDic.json")
+        #     return self.__keywordDic
         print("论文类别: " + self.__category_name + " 特征词统计开始")
-        
+
         # 阈值比例设置: heading2=heading3>heading1=abstract>title=key_word>main_text
         threshold = [0.025, 0.025, 0.025, 0.05, 0.10, 0.10, 0.025]
+        threshold = [0.075, 0.075, 0.075, 0.35, 0.30, 0.30, 0.075] if self.__category_name == "优化算法类" else threshold
         parts = ['title', 'abstract', 'key_word', 'heading1', 'heading2', 'heading3', 'main_text']
         for part in parts:
             self.__keywordDic[part] = {}
-            length = int(len(self.__tfidfWordDic[part]) * threshold[parts.index(part)])
+            length = int(len(self.__tfidfWordDic[part]) * threshold[parts.index(part)]) + 1
             alist = sorted(self.__tfidfWordDic[part].items(), key=lambda d: d[1], reverse=True)[: length]
             for i in alist:
                 self.__keywordDic[part][i[0]] = i[1]
@@ -97,7 +100,3 @@ class Category:
 
     def getFilePaths(self):
         return self.__file_paths
-
-
-
-

@@ -22,7 +22,7 @@ def check(node, strlist):
         1) 词语tfidf权重之和 (tfidf)
         2) 与摘要句子的最大余弦相似度 (maxCosine)
         3) 与论文题目、一级至三级章节标题、图表标题的词语重叠度 (overlap)
-        final_score = \lambda_{1} * tfidf + \lambda_{2} * maxCosine + \lambda_{3} * maxCosine
+        final_score = lambda_{1} * tfidf + lambda_{2} * maxCosine + lambda_{3} * maxCosine
 
         权重挑战规则如下:
             1. 单独一个句子成段, 权重 * 2
@@ -42,13 +42,17 @@ class ScoringModel:
     tfidf = {}
     abstractNode = None
     title = ""
+    main_word_freq = {}
 
     def __init__(self) -> None:
         pass
 
+    def set_main_word_freq(self, main_word_freq):
+        self.main_word_freq = main_word_freq
+
     def setScirpt(self, classifyResult):
         for script in utils.get_file_paths(utils.getScriptPath()):
-            script_name = os.path.basename(script).replace('v2.json', '')
+            script_name = os.path.basename(script).replace('.json', '')
             if classifyResult == script_name:
                 script_json = utils.json_to_dict(script)
                 self.classifyScript = script_json
@@ -210,9 +214,9 @@ class ScoringModel:
             tfidf.append(scoreDic[leafnode][0])
             maxCosine.append(scoreDic[leafnode][1])
             overlap.append(scoreDic[leafnode][2])
-            tfidf_max,tfidf_min = (0,0)
-            cosine_max,cosine_min = (0,0)
-            overlap_max,overlap_min = (0,0)
+            tfidf_max, tfidf_min = (0, 0)
+            cosine_max, cosine_min = (0, 0)
+            overlap_max, overlap_min = (0, 0)
         if len(tfidf) > 1:
             tfidf_max = max(tfidf)
             tfidf_min = min(tfidf)
@@ -224,24 +228,32 @@ class ScoringModel:
             overlap_min = min(overlap)
         for leafnode in scoreDic:
             # 存在 /0的可能
-            scoreDic[leafnode][0] = (scoreDic[leafnode][0] - tfidf_min) / (tfidf_max - tfidf_min) if tfidf_max != tfidf_min else 0
-            scoreDic[leafnode][1] = (scoreDic[leafnode][1] - cosine_min) / (cosine_max - cosine_min)if cosine_max != cosine_min else 0
-            scoreDic[leafnode][2] = (scoreDic[leafnode][2] - overlap_min) / (overlap_max - overlap_min)if overlap_max != overlap_min else 0
+            scoreDic[leafnode][0] = (scoreDic[leafnode][0] - tfidf_min) / (
+                        tfidf_max - tfidf_min) if tfidf_max != tfidf_min else 0
+            scoreDic[leafnode][1] = (scoreDic[leafnode][1] - cosine_min) / (
+                        cosine_max - cosine_min) if cosine_max != cosine_min else 0
+            scoreDic[leafnode][2] = (scoreDic[leafnode][2] - overlap_min) / (
+                        overlap_max - overlap_min) if overlap_max != overlap_min else 0
             final_score = 0.5 * scoreDic[leafnode][0] + 0.3 * scoreDic[leafnode][1] + 0.2 * scoreDic[leafnode][2]
             leafnode.setScore(final_score)
 
     # 对leftnode计算tfidf得分
+    # 1016 入参需要整个文章的词频dic 考虑放在self里 done
+    # 放在doccompresser里了，明天带上这个试一下 done
+    # 句子中所有词的tfidf分数作为句子的score done
     def tfidfScore(self, leafnode):
         wordList = utils.seg_depart(leafnode.getTextContent())
         score = 0.0
         for word in set(wordList):
             if word in self.tfidf["main_text"]:
-                score += self.tfidf["main_text"][word] * math.sqrt(wordList.count(word))
+                score += self.tfidf["main_text"][word] * math.sqrt(self.main_word_freq[word])
         return score
 
     def cosScore(self, leafnode):
+        if leafnode is None:
+            return 0
         abstractLeafNodes = self.abstractNode.getleafnodes()
-        #leafnodes = leafnode.getleafnodes()
+        # leafnodes = leafnode.getleafnodes()
         maxCosine = 0.0
         for abstractLeafNode in abstractLeafNodes:
             seg_list1 = utils.seg_depart(leafnode.getTextContent(), delete_stopwords=True)
@@ -273,7 +285,8 @@ class ScoringModel:
             dist1 = 0.0
             # dist1 = float(np.dot(word_vector1, word_vector2) / (np.linalg.norm(word_vector1) * np.linalg.norm(word_vector2)))
             if np.linalg.norm(word_vector1) * np.linalg.norm(word_vector2) != 0:
-                dist1 = float(np.dot(word_vector1, word_vector2) / (np.linalg.norm(word_vector1) * np.linalg.norm(word_vector2)))
+                dist1 = float(
+                    np.dot(word_vector1, word_vector2) / (np.linalg.norm(word_vector1) * np.linalg.norm(word_vector2)))
 
             if dist1 > maxCosine:
                 maxCosine = dist1

@@ -15,11 +15,14 @@ testSetPath = root_path + "\\public\\dataSet\\test"
 userPath = root_path + "\\public\\user"
 # 1.6 剧本文件夹
 scriptPath = root_path + "\\public\\script"
+
+modelPath = scriptPath + "\\model"
+
 # 1.7 Jieba文件夹
 jiebaPath = root_path + "\\public\\jieba2"
-#用户测试文件夹
+# 用户测试文件夹
 inputPath = root_path + "\\public\\user\\input\\"
-#测试输出文件
+# 测试输出文件
 outputPath = root_path + "\\public\\user\\output\\"
 
 # 2. Jieba中文分词部分
@@ -39,11 +42,14 @@ synonymwords = [line.strip() for line in open(synonymwords_path, encoding='UTF-8
 userdict_path = jiebaPath + "\\userdict.txt"
 jieba.load_userdict(userdict_path)
 
-#2.6 log
+# 2.6 log
 log_path = root_path + "\\public\\user\\log\\"
 
 # 幻灯片模板路径
 template_path = root_path + "\\public\\templates"
+
+# common剧本
+common_script_path = scriptPath + "\\common\\common.json"
 
 class Utils:
     def __init__(self):
@@ -70,6 +76,9 @@ class Utils:
     def getScriptPath(self):
         return scriptPath
 
+    def getModelPath(self):
+        return modelPath
+
     # 获取幻灯片模板文件夹
     def getTemplatePath(self):
         return template_path
@@ -79,10 +88,14 @@ class Utils:
 
     def getOutputPath(self):
         return outputPath
+
     # 1.7 获取某文件夹下的所有word文件、json文件和图片文件的绝对路径
 
     def getLogPath(self):
         return log_path
+
+    def getCommonScriptPath(self):
+        return common_script_path
 
     def get_file_paths(self, dir_path):
         files = os.listdir(dir_path)
@@ -99,7 +112,7 @@ class Utils:
     # 2. Jieba中文分词部分
     # 2.1. 中文分词
     def seg_depart(self, sentence, delete_stopwords=True):
-        if sentence == None:
+        if sentence is None:
             return []
         # 替换同义词
         sentence = self.replaceSynonymWords(sentence)
@@ -169,7 +182,6 @@ class Utils:
                 final_sentence += word
         return final_sentence
 
-
     # 3. 字典与json文件的转换
     # 3.1 字典转json文件
     def dict_to_json(self, src_dict, file_path):
@@ -186,7 +198,6 @@ class Utils:
     def json_to_dict(self, file_path):
         with open(file_path, "r", encoding="UTF-8") as f:
             load_dict = json.load(f)
-            #print(type(load_dict))
+            # print(type(load_dict))
             f.close()
         return load_dict
-

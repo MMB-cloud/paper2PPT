@@ -32,7 +32,9 @@ class ILPModel:
 
     """模型构建与求解"""
 
-    def build_and_solve(self, node, maxLength, presentation_type, rules=[]):
+    # 需要以段落作为入参的版本 1017
+    # 入参是句子
+    def build_and_solve_by_sent(self, node, maxLength, presentation_type, rules=[]):
         # 先看presentation_type字段
         if presentation_type == "text_based":  # 文字型幻灯片, 不考虑图表
             weightList = []  # 句子权重列表
@@ -253,7 +255,7 @@ class ILPModel:
                 for i in range(len(tableMatrix)):
                     selected = selectedList[i + len(para_leafnodes)]
                     tableMatrix[i][0].getChosen(selected)  # 表格节点
-                    if tableMatrix[i][1] != None:
+                    if tableMatrix[i][1] is not None:
                         tableMatrix[i][1].getChildren()[0].getChosen(selected)  # 表标题节点
                         for leafnode in tableMatrix[i][2]:
                             leafnode.getChosen(selected)  # 描述性句子节点
@@ -261,17 +263,56 @@ class ILPModel:
                 for i in range(len(imageMatrix)):
                     selected = selectedList[i + len(para_leafnodes) + len(tableMatrix)]
                     imageMatrix[i][0].getChosen(selected)  # 图像节点
-                    if imageMatrix[i][1] != None:
+                    if imageMatrix[i][1] is not None:
                         imageMatrix[i][1].getChildren()[0].getChosen(selected)  # 图标题节点
                         for leafnode in imageMatrix[i][2]:
                             leafnode.getChosen(selected)  # 描述性句子节点
             else:
                 # 直接转向构建文字型整数线性规划模型
-                self.build_and_solve(node=node, maxLength=maxLength, presentation_type="text_based", rules=rules)
+                self.build_and_solve_by_sent(node=node, maxLength=maxLength, presentation_type="text_based",
+                                             rules=rules)
+
+    # 入参是段落
+    # 段落作为最小粒度时必须考虑图表
+    # 约束条件：
+    #   大于4段时保留1/4
+    #   只有1/2段时全部保留
+    #   大于4段时maxlength入参确定 段落权重作为激励参数 长度作为负激励参数 大段落作为备注 选取具体句子节点？
+    def build_and_solve_by_paragh(self, node, maxlength):
+        # 如果是一级标题
+        if node.getType() == 0 and node.getOutLvl() == str(0):
+            # 如果一级标题下直接是段落
+            outlv2_lst = []
+            for child in node.getChildren():
+                if child.getType() == 0 and node.getOutLvl() == str(1):
+                    outlv2_lst.append(child)
+            if len(outlv2_lst) == 0:
+                # 根据段落数量决定压缩比例
+                # 1\2段时全部保留，独段重要性高
+                if len(node.getChildren() < 3):
+                    node.setChosen(True)
+                    # 大于三段时,保留maxlength，段落放备注，句子选中
+                else:
+                    build_by_sent(node, maxlength)
+            # 一级标题下有二级标题
+            else:
+                for outlv2Node in outlv2_lst:
+                    build_and_solve_by_paragh(outlv2Node,maxlength)
+        else:
+            build_by_sent(node,maxlength)
+
+    # 二级标题作为入参
+    # def build_by_sent(self,node,maxlength):
 
 
 
-    """模型构建与求解"""
+
+            # 如果一级标题下还有标题
+            #else:
+
+        # 如果是二级标题
+        #if node.getType() == 0 and node.getOutLvl() == str(1):
+    # """模型构建与求解"""
     # def sent_select(self, node, maxLength, classifyResult):
     #     weightList = [] # 权重列表
     #     lengthList = [] # 长度列表

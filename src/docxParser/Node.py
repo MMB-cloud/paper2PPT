@@ -1,6 +1,7 @@
 import re
 
 from common.Utils import Utils
+
 utils = Utils()
 
 
@@ -60,14 +61,13 @@ class Node:
                     if "<w:t>" in table_cell_xml or "</w:t>" in table_cell_xml:
                         list3 = re.split("<w:t>|<w:t xml:space=\"preserve\":</w:t>", table_cell_xml)
                         for i in range(len(list3)):
-                            #if i % 2 != 0:
+                            # if i % 2 != 0:
                             s = list3[i]
                             if "xml:space=\"preserve\">" in s:
                                 s = s.split("xml:space=\"preserve\">")[1]
                             if "</w:t>" in s:
                                 s = s.split("</w:t>")[0]
                                 table_cell_text = table_cell_text + s
-
 
                     for i in range(0, spanVal):
                         if i == 0:
@@ -77,20 +77,24 @@ class Node:
                 if len(table_cells_text) != 0:
                     table_rows_text.append(table_cells_text)
             self.__tableData = table_rows_text
+            self.__score = 1
         elif type == 4:  # 图像节点，记录rId
             r'<w:t[^>]*>.*?</w:t>'
             res = re.split(r'r:embed="([^"]+)"', xml_content)
             if len(res) > 1:
                 self.__rId = re.split(r'r:embed="([^"]+)"', xml_content)[1]
+            self.__score = 1
 
         elif type == 5:  # 公式节点，区分下标，m:sub是下标
-            #list4 = re.split("<w:t>(.*?)</w:t>", xml_content)
+            # list4 = re.split("<w:t>(.*?)</w:t>", xml_content)
             self.__xml_content = xml_content
+            self.__score = 1
 
         elif type == 1:  # 如果是段落节点，需要实现 1.分句   2. 获取run文字列表
             self.__wtlist = []  # <w:t></w:t>标签中的文本内容
             self.__children = []  # 子节点都是句子节点
             self.__length = 0  # 句子总字符长度
+            self.__leafnodes = []  # 段落中的句子节点
             # 提取wtlist
             list4 = re.split("<w:t>|<w:t xml:space=\"preserve\">|</w:t>", xml_content)
             for i in range(len(list4)):
@@ -407,6 +411,8 @@ class Node:
         return
 
     def getleafnodes(self):
+        if self.__type == 1:
+            return self.getChildren()
         if self.__type == 0:
             if len(self.__leafnodes) != 0:
                 return self.__leafnodes
@@ -416,12 +422,15 @@ class Node:
                         self.__leafnodes.extend(child.getleafnodes())
                     elif child.getType() == 1:  # 段落节点的子节点即为句子节点
                         self.__leafnodes.extend(child.getChildren())
-                    # elif child.getType() == 4:
-                    #     self.__leafnodes.append(child)
+                    # elif child.getType() == 2:
+                    #    self.__leafnodes.append(child)
+                    elif child.getType() == 3:
+                        self.__leafnodes.append(child)
+                    elif child.getType() == 4:
+                        self.__leafnodes.append(child)
                     # elif child.getType() == 5:
                     #     self.__leafnodes.append(child)
-                    # elif child.getType() == 3:
-                    #     self.__leafnodes.append(child)
+                    #
         return self.__leafnodes
 
     # 获取当前文档数下指定层级的章节节点

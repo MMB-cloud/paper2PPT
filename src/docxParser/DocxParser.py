@@ -7,13 +7,75 @@ from src.docxParser.DocxTree import DocxTree
 from src.docxParser.Node import Node
 from common.Utils import Utils
 from datetime import datetime
+from src.docxParser.CompositeNode import CompositeNode
 
 utils = Utils()
+
+
+def match(leafnodes, cuewords, index_start, index_end):
+    index_end = len(leafnodes) - 1 if index_end > len(leafnodes) else index_end
+    index_start = 0 if index_start < 0 else index_start
+    cuewords = set(cuewords)
+    matched_node_lst = []
+    pattern = re.compile(r"图\d+|图 \d+")
+    for i in range(index_start, index_end + 1):
+        if leafnodes[i].getType() == 2:
+            seg_words = set(utils.seg_depart(leafnodes[i].getTextContent()))
+            # 匹配
+            if seg_words.intersection(cuewords) or pattern.match(leafnodes[i].getTextContent()) is not None:
+                # 直接返回？ 在上游函数中创建复合节点
+                matched_node_lst.append(leafnodes[i])
+    return matched_node_lst
 
 
 class DocxParser:
     def __init__(self):
         pass
+
+    def extractPic(self, input_file_path, output_file_path):
+        if not zipfile.is_zipfile(input_file_path):
+            with open(utils.getLogPath() + "error_log.txt", 'a', encoding='utf-8') as f:
+                f.write(f"{datetime.now()} --- badFile with File: {input_file_path} + \n")
+                f.close()
+            return -1  # 不是docx文件
+        # 文件损坏
+        try:
+            docx_document = docx.Document(input_file_path)
+        except Exception as e:
+            print(f"{e} with File: {input_file_path}")
+            with open(utils.getLogPath() + "error_log.txt", 'a') as f:
+                f.write(f"{datetime.now()} --- {e} with File: {input_file_path}")
+                f.close()
+            return
+        else:
+            docx_related_parts = docx_document.part.related_parts
+            index = 0
+            export_files = []
+            for rId in docx_related_parts:
+                # for part in docx_related_parts:
+                part = docx_related_parts[rId]
+                partname = str(part.partname)
+                if partname.startswith('/word/media/') or partname.startswith('/word/embeddings/'):
+                    # 构建导出路径
+                    index += 1
+                    docx_name = output_file_path.split("/")[-1]
+                    save_dir = output_file_path  # 获取当前py脚本路径
+                    index_str = str(index).rjust(2, '0')
+                    save_path = save_dir + '\\' + index_str + '-' + rId + '-' + \
+                                str(part.partname).rsplit('/', 1)[1]  # 拼接路径
+                    # print('导出路径：', save_path)
+
+                    # 写入文件
+                    if os.path.exists(output_file_path):
+                        pass
+                    else:
+                        os.makedirs(output_file_path)
+                    with open(save_path, 'wb') as f:
+                        f.write(part.blob)
+                        f.close()
+                    # 记录文件
+                    export_files.append(part.partname)
+            print('导出的所有文件：', export_files)
 
     def parseDocx(self, file_path, output_dir_path=''):
         # 1. 文件解压缩
@@ -124,7 +186,6 @@ class DocxParser:
                         # 创建段落节点
                         node = Node(type=1, outLvl='', xml_content=content)
                         nodeList.append(node)
-        # 3.5 将nodeList转化为docxTree
         docxTree = DocxTree(file_path, output_dir_path)
         docxTree.setChildren(nodeList)
         docxTree.getTreeDic()
@@ -152,54 +213,29 @@ class DocxParser:
         # 3.7 返回构建好的文档树
         return docxTree
 
-    # 提取图片
-    def extractPic(self, input_file_path, output_file_path):
-        if not zipfile.is_zipfile(input_file_path):
-            with open(utils.getLogPath() + "error_log.txt", 'a',encoding='utf-8') as f:
-                f.write(f"{datetime.now()} --- badFile with File: {input_file_path} + \n")
-                f.close()
-            return -1 # 不是docx文件
-        #文件损坏
-        try:
-            docx_document = docx.Document(input_file_path)
-        except Exception as e:
-            print(f"{e} with File: {input_file_path}")
-            with open(utils.getLogPath() + "error_log.txt", 'a') as f:
-                f.write(f"{datetime.now()} --- {e} with File: {input_file_path}")
-                f.close()
-            return
-        else:
-            docx_related_parts = docx_document.part.related_parts
-            index = 0
-            export_files = []
-            for rId in docx_related_parts:
-                # for part in docx_related_parts:
-                part = docx_related_parts[rId]
-                partname = str(part.partname)
-                if partname.startswith('/word/media/') or partname.startswith('/word/embeddings/'):
-                    # 构建导出路径
-                    index += 1
-                    docx_name = output_file_path.split("/")[-1]
-                    save_dir = output_file_path  # 获取当前py脚本路径
-                    index_str = str(index).rjust(2, '0')
-                    save_path = save_dir + '\\' + index_str + '-' + rId + '-' + \
-                                str(part.partname).rsplit('/', 1)[1]  # 拼接路径
-                    # print('导出路径：', save_path)
-
-                    # 写入文件
-                    if os.path.exists(output_file_path):
-                        pass
-                    else:
-                        os.makedirs(output_file_path)
-                    with open(save_path, 'wb') as f:
-                        f.write(part.blob)
-                        f.close()
-                    # 记录文件
-                    export_files.append(part.partname)
-            print('导出的所有文件：', export_files)
-
-# if __name__=="__main__":
-#     file_path = utils.getUserPath() + "\input" + "\互联网金融、利率市场化与商业银行盈利能力的实证研究.docx"
-#     output_dir_path = utils.getUserPath() + "\output" + "\互联网金融、利率市场化与商业银行盈利能力的实证研究"
-#     docxParser = DocxParser()
-#     docxParser.parseDocx(file_path, output_dir_path)
+    # 压缩图表节点
+    # 图表节点合并为符合节点
+    # [[图表描述，关键字眼：如图……\如下图\如上图],[图表],[图4-1 xxx]]
+    def compressDocTree(self, docxTree):
+        before_chart_cuewords = utils.json_to_dict(utils.getCommonScriptPath())["before_chart_cuewords"]
+        after_chart_cuewords = utils.json_to_dict(utils.getCommonScriptPath())["after_chart_cuewords"]
+        # 递归找图表节点，找到后向上下找描述段落和图题
+        nodeList = docxTree.getChildren()
+        for node in nodeList:
+            leafnodes = node.getleafnodes()
+            for i, leafnode in enumerate(leafnodes):
+                if leafnode.getType() == 3 or leafnode.getType() == 4:
+                    # seg_words = set(utils.seg_depart(leafnode.getTextContent()))
+                    # 向上匹配
+                    before_chart_words = match(leafnodes, before_chart_cuewords, i - 6, i - 1)
+                    # 向下匹配
+                    after_chart_words = match(leafnodes, after_chart_cuewords, i + 1, i + 6)
+                    # 创建复合节点
+                    content = leafnode.getrid() if leafnode.getType() == 4 else leafnode.getTableData()
+                    textContent = [node.getTextContent() for node in before_chart_words]
+                    contentIntro = [node.getTextContent() for node in after_chart_words]
+                    componode = CompositeNode(leafnode.getType(), content, textContent, contentIntro)
+                    # 替换原节点 要在doctree里替换，在这里只会替换leafnodes里
+                    leafnodes[i] = componode
+        docxTree.getTreeDic()
+        return docxTree

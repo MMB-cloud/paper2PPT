@@ -1,0 +1,5324 @@
+{
+  "title": [],
+  "摘要": [],
+  "研究背景": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究背景",
+        "研究背景"
+      ],
+      "chosen": false,
+      "text_content": "1.1 研究背景",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 2.324797335054502,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3354622850962039,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "二十一世纪以来，经济全球化、信息化、贸易一体化的浪潮发展迅速，全球市场瞬息万变，竞争环境异常激烈。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5729915950536248,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "经济全球化表现为商品、技术、资本等跨国界的大量流动，企业特别是跨国公司成为经济全球化的主要载体。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.8481481481481482,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "市场环境的剧烈变化，引发了社会经济生活的巨大变革，每个企业都正在经受着这场变革的冲击与影响。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5681953067565253,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "这就意味着对身处浪潮的每个企业来说，必须认真地应对这种变革给企业所带来的挑战，对自身进行变革和调整，才能在全球化的市场中立于不败之地。"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": true,
+          "rId": "rId17"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.523711882756454,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.523711882756454,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "企业组织结构是企业组织内部各个有机构成要素相互作用的联系方式或形式，以求有效、合理地把组织成员组织起来，为实现共同目标而协同努力。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 2.52744206649232,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4924078345425896,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "组织结构是企业资源和权力分配的载体，它在人的能动行为下，通过信息传递，承载着企业的业务流动，推动或者阻碍企业使命的进程。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7217188484688988,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "组织结构是企业的基本架构，是企业管理的重要组成部分，是企业生存和发展的基础。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6385537669669961,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "由于组织结构在企业中的基础地位和关键作用，企业所有战略意义上的变革，都必须首先从组织结构上开始[1]。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6747616165138356,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "企业必须根据自身情况和发展需要建立一个高效的组织结构，才能永葆竞争优势。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.34997990504469373,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.020740507076140956,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "二十一世纪又是一个高度自动化的时代，自动化不仅解放了人类繁重的体力劳动和部分简单繁复的脑力劳动，而且可以完成人类不能完成的一些复杂精密的工作。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.024592417217055726,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "很多特殊危险的作业环境，更是离不开自动化的装置。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0012581198007533781,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "日常生活中办公室自动化、交通管理、家庭家务中也同样离不开自动化。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3033888609507437,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "随着自动控制理论和技术的发展，自动控制系统的应用领域几乎涉及生物、医学、生态、经济、社会等所有领域。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5299066702959159,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.2408200166104807,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "自动控制系统是在无人直接参与下可使生产过程或其他过程按期望规律或预定程序进行的控制系统。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.2890866536854352,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "自动控制系统是实现自动化的主要手段。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究背景",
+        "研究背景"
+      ],
+      "chosen": false,
+      "text_content": "1.1 研究背景",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 2.324797335054502,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3354622850962039,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "二十一世纪以来，经济全球化、信息化、贸易一体化的浪潮发展迅速，全球市场瞬息万变，竞争环境异常激烈。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5729915950536248,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "经济全球化表现为商品、技术、资本等跨国界的大量流动，企业特别是跨国公司成为经济全球化的主要载体。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.8481481481481482,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "市场环境的剧烈变化，引发了社会经济生活的巨大变革，每个企业都正在经受着这场变革的冲击与影响。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5681953067565253,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "这就意味着对身处浪潮的每个企业来说，必须认真地应对这种变革给企业所带来的挑战，对自身进行变革和调整，才能在全球化的市场中立于不败之地。"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": true,
+          "rId": "rId17"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.523711882756454,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.523711882756454,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "企业组织结构是企业组织内部各个有机构成要素相互作用的联系方式或形式，以求有效、合理地把组织成员组织起来，为实现共同目标而协同努力。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 2.52744206649232,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4924078345425896,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "组织结构是企业资源和权力分配的载体，它在人的能动行为下，通过信息传递，承载着企业的业务流动，推动或者阻碍企业使命的进程。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7217188484688988,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "组织结构是企业的基本架构，是企业管理的重要组成部分，是企业生存和发展的基础。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6385537669669961,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "由于组织结构在企业中的基础地位和关键作用，企业所有战略意义上的变革，都必须首先从组织结构上开始[1]。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6747616165138356,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "企业必须根据自身情况和发展需要建立一个高效的组织结构，才能永葆竞争优势。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.34997990504469373,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.020740507076140956,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "二十一世纪又是一个高度自动化的时代，自动化不仅解放了人类繁重的体力劳动和部分简单繁复的脑力劳动，而且可以完成人类不能完成的一些复杂精密的工作。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.024592417217055726,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "很多特殊危险的作业环境，更是离不开自动化的装置。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0012581198007533781,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "日常生活中办公室自动化、交通管理、家庭家务中也同样离不开自动化。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3033888609507437,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "随着自动控制理论和技术的发展，自动控制系统的应用领域几乎涉及生物、医学、生态、经济、社会等所有领域。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5299066702959159,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.2408200166104807,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "自动控制系统是在无人直接参与下可使生产过程或其他过程按期望规律或预定程序进行的控制系统。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.2890866536854352,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "自动控制系统是实现自动化的主要手段。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究目的": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究目的",
+        "研究目的"
+      ],
+      "chosen": false,
+      "text_content": "1.2 研究意义",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.6232124409506503,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6232124409506503,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "M公司是一家成立于2001年的新加坡在苏企业，以外贸、设计、制造机电一体化产品为主。在这十几年的发展过程中，先后在北京，上海，深圳及重庆成立了 4"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.7524310776137053,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.004015673970462231,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "家分公司，并在其他一线二线城市设置了近二十余个办事处；销售额从原先的两千万到现在的上亿；人员从原先的十几人到现在的一百多人。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.09921213031018711,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "因为其他分公司一直都是通过M公司采购，M公司也有自己的销售团队，每年年底这两类业务要分开结算盈利，所以在苏的M公司一直承担着双重角色——集团公司和在苏的分公司。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6492032733330559,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "随着销售额的增长及人员的增加，出现了诸多问题，如管理困难、项目任务落实不到位、企业应急能力差等，企业的进一步发展遇到瓶颈。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 1.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "考虑到这些情况后，M公司计划对企业的组织结构进行调整变革。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.6390932502009317,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6390932502009317,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本文从组织结构入手，结合M公司的发展，以及本人在M公司七年的工作经验，尝试从组织结构出发，在理论上，着重探讨组织结构的重要理论，包括组织结构的各种类型及其优缺点，组织理论发展，组织结构变革的相关理论等。在实证上主要研究"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.6491827201667804,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6491827201667804,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "M公司从成立之初到现在的组织结构的优点和缺点，组织结构变革的外部环境和内部条件，并设计出最适合本企业发展现状的组织结构图，希望得出对企业组织结构变革有指导意义的结果。"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": true,
+          "rId": "rId17"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究目的",
+        "研究目的"
+      ],
+      "chosen": false,
+      "text_content": "1.2 研究意义",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.6232124409506503,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6232124409506503,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "M公司是一家成立于2001年的新加坡在苏企业，以外贸、设计、制造机电一体化产品为主。在这十几年的发展过程中，先后在北京，上海，深圳及重庆成立了 4"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.7524310776137053,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.004015673970462231,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "家分公司，并在其他一线二线城市设置了近二十余个办事处；销售额从原先的两千万到现在的上亿；人员从原先的十几人到现在的一百多人。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.09921213031018711,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "因为其他分公司一直都是通过M公司采购，M公司也有自己的销售团队，每年年底这两类业务要分开结算盈利，所以在苏的M公司一直承担着双重角色——集团公司和在苏的分公司。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6492032733330559,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "随着销售额的增长及人员的增加，出现了诸多问题，如管理困难、项目任务落实不到位、企业应急能力差等，企业的进一步发展遇到瓶颈。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 1.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "考虑到这些情况后，M公司计划对企业的组织结构进行调整变革。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.6390932502009317,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6390932502009317,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本文从组织结构入手，结合M公司的发展，以及本人在M公司七年的工作经验，尝试从组织结构出发，在理论上，着重探讨组织结构的重要理论，包括组织结构的各种类型及其优缺点，组织理论发展，组织结构变革的相关理论等。在实证上主要研究"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.6491827201667804,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6491827201667804,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "M公司从成立之初到现在的组织结构的优点和缺点，组织结构变革的外部环境和内部条件，并设计出最适合本企业发展现状的组织结构图，希望得出对企业组织结构变革有指导意义的结果。"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": true,
+          "rId": "rId17"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究综述": [],
+  "研究假设": [],
+  "数据与样本": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "数据与样本",
+        "实证研究类v3",
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "4.1 组织结构诊断",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.1.1 M公司目前存在的问题",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5230393508440754,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2623705771559623,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "第一，销售额停滞不前。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.20935663116379397,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "销售额代表着市场占有率，这是一个公司的命脉。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.05131214252431918,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由于起初对各销售小组销售的产品有限制，开始销售额增长迅速，到了在2011年——2012年这三年呈稳滞不前的趋势，增长幅度较小，如图3。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3904125362800713,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2911943712977879,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "第二，面对问题时各部门响应速度慢，效率低下。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.08269091568291369,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "工作中很多事项需跨部门解决，有时需要多部门协调解决，而部门主管经常会因意见不同而不能达成一致，最终要总经理出面解决给出决策，久而久之使得部门主管对领导决策的依赖性增强，遇到与其它部门交叉的工作会坐等领导解决，解决问题的主动性，创造性不足，只以自己的部门职责为工作中心。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.016527249299369644,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "中层管理者因缺乏决策自主权进而缺少主动性。"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId17"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.37302057371823893,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.37302057371823893,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "第三，人力资源管理存在的问题。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.5437406948653956,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.34424874811225564,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "1. 公司没有设置专门的人事管理，只是行政部门作为手续的执行者，办理员工入职离职等相关手续。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.272239982374129,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "没有明确的薪酬制度，都是总经理根绝个人对员工的了解而进行评价，确定薪酬和奖金，交由财务部发放。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3629161454032669,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "这在一定程度上影响了员工的积极性。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.35264003783934644,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "这个问题可以从问卷15题得到验证。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.21169578113639764,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "问卷汇总显示认为公司的薪酬体系不合理和非常不合理的占比分别为82%和9%。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.9417992891442012,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3934680164047536,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "2. 招聘和人才流失问题。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.15999187446273017,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "公司在人员招聘时，总经理和部门主观参加面试，关于留用与否由总经理决定，不是太征求职能部门主管的意见。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3049566456240245,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "总经理和部门主观用人的要求不一样，这样就会造成职位空缺或者部门主观认为招聘进来的人员不是很好用，产生部门管理的问题，影响部门的运作。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.04885829878375364,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "部门主管认为自己行驶职权的授权不够，工作上受总经理干扰过多，从而工作积极性不高。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.030859459875163364,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "部门职员认为自己不受部门主管待见，同样士气低沉。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.003664993993776085,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "这样造成人才流失。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.46960391175613037,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.46960391175613037,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "3. 员工发展和培训问题。公司在管理岗位上的人员待遇较高，其他员工如果想要获得更好的待遇，就会向管理方向发展，这样专业人才不能更好的在自己的专业方向上发展和潜力开发，不利于公司人才的提高和人才的留住，也不利于员工职业生涯"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6021179039812875,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.39594467325174837,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "的发展。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.20574343872522755,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "公司没有轮岗制，员工在某一职位上太久，容易陷入一种困局，对别的工作不了解，也不愿了解。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0004297920043115543,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "这样跨部门的协作就难以推行。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "56%和23%。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7400256954410954,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.24872215355591926,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "因为没有专人负责人事，公司对员工的培训也是东一榔头西一棒，没有形成系统，员工没有长足进步。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4689827286701962,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "公司没有员工当做公司的资源进行开发，形成损失。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.022320813214980046,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "招聘一个新的员工的代价是培训已有员工的5倍以上。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.7164649387576225,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2678615228383217,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "第四，缺少绩效考核。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3919563991893475,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "没有适合公司实际情况的绩效考核制度，都是年底经理或者主观凭个人感觉予以评价，而不是将每天每个月工作的实际情况予以记录最终进行测评。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.10184661189246078,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "这样的方式带有个人倾向，有时也不一定真实。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4307819393044363,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "容易挫伤员工积极性，降低公司的运营效率。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.02060489182166952,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "不少员工对年底一次的绩效考核表示出不满和抗议。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5034135737113867,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "这个也可以从问卷的问题19得到验证，问卷汇总显示认为公司对工作人员能力和绩效进行评估是不符合实际情况的占比达到了71%。"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId17"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.27498693971736654,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.27498693971736654,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "第五，部门间的合作不够顺畅。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.473845553738571,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.21502222663533538,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "公司针对各个工程项目均有完整的计划进度，但在多个项目同时执行时，计划执行往往达不到预期效果。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.25882332710323563,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "涉及到多个部门协调时，往往没有一个总的协调人进行协调管理，执行不够严肃，常因为一个环节的疏漏导致整个项目的落空。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.510108983400762,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.27309534579371975,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在单一工程项目时，各职能部门能以单一工程项目为中心，大家目标比较一致，相互之间的关系也能够做到比较好的处理。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.23701363760704233,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在多工程项目的情况下，各部门在同时面对多个工程项目，就涉及到以哪个项目为先，哪个项目其次的问题，可能会造成项目的脱节和部门间相互扯皮推诿现象严重，谁都不解决问题，使得有价值的信息流失，极大的降低了工作效率。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.355037464852131,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.355037464852131,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "这个问题可以从问卷的12题和13题得到验证。问卷汇总显示认为在工作需要的相关部门协助时，相关部门的配合情况以及响应速度不快的占比为78%；认为团队合作时，多个部门横向沟通不顺畅的占比达到了76%，"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.009084564891976319,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.009084564891976319,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "第六，缺乏协调沟通机制。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5236301042563299,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.27031890115533436,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "跨部门项目有问题时，各部门之间沟通的随意性大，没有固定常规的交流会议，有什么问题，都是各部门临时商讨决定，协调处理的结果随意性大，是否记录在档，或上报，或通报，只能取决于各部门的判断能力和责任心。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2533112031009956,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "且没有相应的追溯监控，不能跟踪和控制问题处理的进度和结果。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.2962609569108625,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.004216574557658996,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "第七，越级汇报现象严重。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2595812951690081,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "经常有员工跨过部门主观直接向总经理汇报这样或那样的问题。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16730126378050858,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在公司规模不大时，公司领导可以大事小事一把抓，统帅全局，有效率的协调指挥。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.41607458710625417,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "但公司规模扩大，业务增长，人员增多后，因为人精力和能力的限制，领导对全局的把握就会力不从心，不能全面掌握不断变化和膨胀的信息和情况。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.35264003783934644,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "这个问题可以从问卷的第4题得到验证。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.09644719845808643,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "问卷汇总显示认为上下级间的指令汇汇报是否存在越级现象很多和非常多的占比分别为46%和14%。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "数据与样本",
+            "实证研究类v3",
+            "实证研究类v3"
+          ],
+          "chosen": false,
+          "text_content": "4.1.2 员工访谈、问卷调查和数据统计",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.8200066693666714,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.42647662767923994,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "针对公司的运行现状，M公司引入第三方专业顾问机构对公司存在的问题进行原因分析和调查。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.39353004168743155,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "第三方机构分别对各层级的员工进行单个或多个访谈，并组织了一次网上问卷调查。"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId17"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5172655474893841,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.21800071255434084,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "1. 员工访谈。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2992648349350433,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "第三方机构分别和高级管理层，中级管理层以及部门员工进行访谈，并将访谈内容综合如下。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.16645161208315892,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16645161208315892,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "高级管理层（总经理）：（1）请示汇报的人太多，时间不受自己支配；（2）新项目的推行进展慢，难以推进；（3）公司整体销售额增长从2010年开始见缓（见图"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.1747306088275733,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1747306088275733,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "3），2013年的销售额只有94.02（百万），比2012年的97.61（百万）还低；（4）公司拥有代理和自有品牌四十余种，2011 年~2013 年伺服产品销售额的占比分别为"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.34759525259319296,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.34759525259319296,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "42%，48%，52%和61%，公司销售产品趋于单一；（5）伺服产品市场竞争激烈、利润薄，而公司伺服产品的占比销售又大，从而造成公司整体利润下降（2011年~2013年整体毛利率分别为26%，24%，19%和16%。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3768461129368915,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3768461129368915,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "中级管理层（部门主管）：（1）权限不够，很多不需要请示的问题需要请示才能处理；（2）下级越级汇报现象比较严重；（3）需要部门协作时，得不到及时迅速的支持，有时甚至是推诿；（4）部分主管觉得自己的付出和回报不符；（5）希望公司能提供系统的管理方面的培训。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.34304590775522226,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.34304590775522226,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "部门员工：（1）一些工作操作方式或流程降低了工作效率；（2）没有相关工作方面的专业培训；（3）虽说个人能力有差异，不可能同工同酬，但有些相同的工作，员工之间的薪资待遇相差比较大。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.18588060358282318,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.002660272885028207,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "2. 调查问卷见附录。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.18322033069779498,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "问卷共有21题，每个问题设有ABCD四个选项，分别的含义是——A非常好、B好、C不好或一般、D不好。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.010657852515030646,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.010657852515030646,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "M公司员工数为123人，网上提交问卷人数为118人，有效问卷为113份，有效率"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.22711416297129777,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "为95.76%。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.22711416297129777,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "所得的数据汇总详见表2。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.28919617839295525,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.28919617839295525,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "表2  问卷问题及各选项占比汇总"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "table_data": "[['序号', '问题', 'A', 'B', 'C', 'D'], ['1', '管理制度的执行效率', '0.24', '0.23', '0.42', '0.11'], ['2', '公司的控制制度是否完善', '0.27', '0.31', '0.33', '0.09'], ['3', '业务部门对职能部门服务的满意程度', '0.12', '0.22', '0.51', '0.15'], ['4', '上下级间的指令汇报是否存在越级现象', '0.17', '0.23', '0.46', '0.14'], ['5', '处理日常事务是否有序', '0.09', '0.46', '0.37', '0.08'], ['6', '是否经常出现多个领导向你分配任务的情况', '0.32', '0.29', '0.26', '0.13'], ['7', '直接上级是否对工作提出了明确的要求', '0.02', '0.21', '0.67', '0.10'], ['8', '是否明确工作职责和权利', '0.31', '0.23', '0.46', '-'], ['9', '对于自己职责范围内的工作，自己是否有权力处理', '0.33', '0.24', '0.37', '0.06'], ['10', '职务关系内的工作是否严格按等级链沟通', '0.33', '0.23', '0.38', '0.06'], ['11', '各部门的责任界定是否清晰', '0.11', '0.12', '0.74', '0.03'], ['12', '在工作需要的相关部门协助时，相关部门的配合情况以及响应速度', '0.01', '0.21', '0.78', '-'], ['13', '团队合作时，多个部门横向沟通是否顺畅', '0.06', '0.13', '0.76', '0.05'], ['14', '与公司内其他人相比，你对目前的收入满意吗', '0.07', '0.25', '0.55', '0.13'], ['15', '你觉得公司的薪酬体系是否合理', '0.03', '0.06', '0.82', '0.09'], ['16', '与外单位同层次的人比，你对目前的收入满意吗', '0.14', '0.13', '0.56', '0.17'], ['17', '与工作的付出相比，你对目前的收入满意吗', '0.07', '0.27', '0.48', '0.18'], ['18', '工作努力程度对奖金的影响', '0.18', '0.57', '0.24', '0.01'], ['19', '公司对工作人员能力和绩效进行评估是否符合实际情况', '0.06', '0.16', '0.71', '0.07'], ['20', '公司内部的沟通气氛是否良好', '0.33', '0.34', '0.33', '-'], ['21', '公司岗位划分合理程度对职位升迁的影响', '-', '0.21', '0.56', '0.23']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.1983589507393857,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1983589507393857,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从表2可以看出大部份问题C选项的频率比较高，其中频率超过50%的就有10"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0007525502544462911,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0007525502544462911,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "题，超过70%的就有5题。"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId17"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.1.3 组织结构诊断",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.681039403384306,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.681039403384306,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "通过对M公司进行问卷调查得到的数据，以及目前的状态分析，显而易见的，，近年来M公司的市场得到不小的扩张，经营的产品类别数量不断增加，公司的经营规模有效增长，适用于原来的生产经营规模的现行组织结构配置已经不能胜任生产经营现状，诊断如下："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.05517286745211242,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.025876544648441826,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1. 管理层级短（过于扁平），管理幅度失衡。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.029296322803670588,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由图4可以看出，总经理管理层次为3层，管理幅度达到了14个。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.40054353387268915,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.01800071255434082,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "的员工都很熟悉，许多员工都是经理怎么说，我们就怎么做。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3289021527528261,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "很多员工有问题都是越级直接找总经理反应解决，造成了总经理大事小事一把抓，成了公司最忙碌的人。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.034481101749721424,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "问卷题4的显示认为越级现象严重的占比为46%，非常严重的占比为14%。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.019159566815800815,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "如果总经理较长一段时间不在，员工就会像放假似的轻松起来。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.1400129099965357,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.005716011032198418,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "2. 部门设置不合理。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.35499793974943267,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "公司的部门设置主要是以职能来为参考要素，这样的设置原则在公司起初阶段能够胜任，因为当时人员不多，各个部门的管理目标相对单一，同时由于分工也很明确，大家能够合作的比较顺利。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.413251406295016,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "但是当公司得到发展之后，一是部门人员急速扩张，其次一些跨部门工作和问题的完成必须得到各部门的通力合作。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.32791704216732065,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "即便在实践中，公司也有根据规模作出微调，逐步增设了一些部门，但在工作过程中，也有出现问题不知道交到哪个部门来负责的情形，大家都认为不是自己的职能范围，从而造成真空地带，一直要等到总经理拍板指定到某个部门。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.03813051075256771,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "问卷题11显示认为各部门责任界定不清晰的占比为74%。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.2379277283259647,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2379277283259647,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "3. 一些部门当初的设计和划分跟不上发展的需要。"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId17"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.1821541696720432,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.17682510731535686,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "销售部门的最初的设置是根据产品来分设各个销售小组，且各个小组只能销售本小组所负责的产品，最初的目的是为了增加产品的市场占有率，避免销售工程师只销售毛利高的产品，造成公司销售产品的单一。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.32280361020555826,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "但随着社会，行业和技术的发展，客户要求不断在改变，客户不仅要求单一的产品，要求的是完整的能满足自身制造工艺的自动控制系统（也即我们所说的非标定制设备）。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0618213440267699,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "因为各小组销售工程师只负责自己的产品，对其他产品不熟悉，这样遇到需求多样性的客户就不知如何推进，或者就需要多个销售工程师应对一个客户。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.36545678639485224,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "这样严重影响了销售额的增长（图3）。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.25524732172950604,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "且后勤部门分设比较散列，销售工程师需要联系的后勤人员过多，没有一个比较单一的反馈口径，影响其工作效率。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.10742992729108647,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.030949394631455317,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "机械设计部和电器设计部设计时自己设计自己的，等到装配试运行时会发现有设计不对接的状况，得重新设计，耽误货期，造成了时间、人工、成本的浪费。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.07648053265963115,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "给客户提供技术支持也是机械设计部和电器设计部的人员，因客户需要技术支持不一定是有计划的，经常会突发性的，所以会与部门正常设计工作有冲突，耽误工作。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.2079477420407626,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2079477420407626,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "车间和电装也是这个问题，各部门领导自己安排进度，无人统筹安排。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.24851591223296898,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.24851591223296898,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "4. 应对对客户的响应速度慢。采购、客服、储运三个部门单独分列，三个部门之间的人员不能够清楚了解到相应的工作进度，比如客户打电话到客服部，想了解所"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7167448797038327,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3842051436659822,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "订购产品的情况，客服人员需要分别向采购部和储运部去了解客户所订产品是在采购途中还是发运途中，严重影响工作的效率，影响客户满意度。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3325397360378506,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "问卷题3显示认为业务部门对职能部门服务的不满意的占比达到了51%，题12显示在工作需要的相关部门协助时，相关部门的配合情况以及响应速度不快的占比达到了78%。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.4897351106731302,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3724686150953565,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "5. 随着公司的发展，随意增设部门的现象随之出现。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3614034150190215,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "有时仅为针对某个问题而去设置一个部门，造成公司成本的浪费。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.36397178022111226,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "因为公司没有明确的薪酬体系，只是根据当时问题的棘手程度，由总经理直接给出比较高的待遇，这种现象引起好多员工的普遍不满。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.03211198215381353,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "员工的评价，工资和奖金都是由总经理定下来直接由财务部门发放。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3597793181838266,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "问卷汇总问题15显示认为公司的薪酬体系不合理和非常不合理的占比分别为82%和9%。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6664067387922613,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.01800071255434082,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "6. 员工主动性不强。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16601099194455662,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由于部门或者岗位设计得过于细致，分工太过明确，在遇到跨部门问题时，很少会有员工会主动承担职责，或是协调各部门解决问题，而是怕麻烦、得过且过，对会置之不理。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.002668655481667469,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "且有时会过度关注程序流程，实际操作中可以省略的步骤，为了不担责任，宁可多耽误时间。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0011442649408060497,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "都想着不出错就行，工作效率和积极性不高，明哲保身的苗头滋长。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.17538737752621086,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "很多人想着反正在M公司发不了财，但也饿不死。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.30319473634467947,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "问卷题12显示认为在工作需要的相关部门协助时，相关部门的配合情况以及响应速度不快的占比达到了78%；题13显示认为团队合作时，多个部门横向沟通是不顺畅的占比达到了76%。"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId17"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "变量定义": [],
+  "检验": [],
+  "结论与分析": [],
+  "实证研究类v3": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "数据与样本",
+        "实证研究类v3",
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "4.1 组织结构诊断",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.1.1 M公司目前存在的问题",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5230393508440754,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2623705771559623,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "第一，销售额停滞不前。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.20935663116379397,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "销售额代表着市场占有率，这是一个公司的命脉。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.05131214252431918,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由于起初对各销售小组销售的产品有限制，开始销售额增长迅速，到了在2011年——2012年这三年呈稳滞不前的趋势，增长幅度较小，如图3。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3904125362800713,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2911943712977879,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "第二，面对问题时各部门响应速度慢，效率低下。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.08269091568291369,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "工作中很多事项需跨部门解决，有时需要多部门协调解决，而部门主管经常会因意见不同而不能达成一致，最终要总经理出面解决给出决策，久而久之使得部门主管对领导决策的依赖性增强，遇到与其它部门交叉的工作会坐等领导解决，解决问题的主动性，创造性不足，只以自己的部门职责为工作中心。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.016527249299369644,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "中层管理者因缺乏决策自主权进而缺少主动性。"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId17"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.37302057371823893,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.37302057371823893,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "第三，人力资源管理存在的问题。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.5437406948653956,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.34424874811225564,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "1. 公司没有设置专门的人事管理，只是行政部门作为手续的执行者，办理员工入职离职等相关手续。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.272239982374129,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "没有明确的薪酬制度，都是总经理根绝个人对员工的了解而进行评价，确定薪酬和奖金，交由财务部发放。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3629161454032669,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "这在一定程度上影响了员工的积极性。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.35264003783934644,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "这个问题可以从问卷15题得到验证。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.21169578113639764,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "问卷汇总显示认为公司的薪酬体系不合理和非常不合理的占比分别为82%和9%。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.9417992891442012,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3934680164047536,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "2. 招聘和人才流失问题。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.15999187446273017,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "公司在人员招聘时，总经理和部门主观参加面试，关于留用与否由总经理决定，不是太征求职能部门主管的意见。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3049566456240245,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "总经理和部门主观用人的要求不一样，这样就会造成职位空缺或者部门主观认为招聘进来的人员不是很好用，产生部门管理的问题，影响部门的运作。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.04885829878375364,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "部门主管认为自己行驶职权的授权不够，工作上受总经理干扰过多，从而工作积极性不高。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.030859459875163364,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "部门职员认为自己不受部门主管待见，同样士气低沉。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.003664993993776085,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "这样造成人才流失。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.46960391175613037,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.46960391175613037,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "3. 员工发展和培训问题。公司在管理岗位上的人员待遇较高，其他员工如果想要获得更好的待遇，就会向管理方向发展，这样专业人才不能更好的在自己的专业方向上发展和潜力开发，不利于公司人才的提高和人才的留住，也不利于员工职业生涯"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6021179039812875,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.39594467325174837,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "的发展。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.20574343872522755,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "公司没有轮岗制，员工在某一职位上太久，容易陷入一种困局，对别的工作不了解，也不愿了解。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0004297920043115543,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "这样跨部门的协作就难以推行。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "56%和23%。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7400256954410954,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.24872215355591926,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "因为没有专人负责人事，公司对员工的培训也是东一榔头西一棒，没有形成系统，员工没有长足进步。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4689827286701962,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "公司没有员工当做公司的资源进行开发，形成损失。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.022320813214980046,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "招聘一个新的员工的代价是培训已有员工的5倍以上。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.7164649387576225,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2678615228383217,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "第四，缺少绩效考核。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3919563991893475,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "没有适合公司实际情况的绩效考核制度，都是年底经理或者主观凭个人感觉予以评价，而不是将每天每个月工作的实际情况予以记录最终进行测评。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.10184661189246078,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "这样的方式带有个人倾向，有时也不一定真实。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4307819393044363,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "容易挫伤员工积极性，降低公司的运营效率。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.02060489182166952,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "不少员工对年底一次的绩效考核表示出不满和抗议。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5034135737113867,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "这个也可以从问卷的问题19得到验证，问卷汇总显示认为公司对工作人员能力和绩效进行评估是不符合实际情况的占比达到了71%。"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId17"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.27498693971736654,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.27498693971736654,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "第五，部门间的合作不够顺畅。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.473845553738571,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.21502222663533538,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "公司针对各个工程项目均有完整的计划进度，但在多个项目同时执行时，计划执行往往达不到预期效果。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.25882332710323563,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "涉及到多个部门协调时，往往没有一个总的协调人进行协调管理，执行不够严肃，常因为一个环节的疏漏导致整个项目的落空。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.510108983400762,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.27309534579371975,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在单一工程项目时，各职能部门能以单一工程项目为中心，大家目标比较一致，相互之间的关系也能够做到比较好的处理。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.23701363760704233,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在多工程项目的情况下，各部门在同时面对多个工程项目，就涉及到以哪个项目为先，哪个项目其次的问题，可能会造成项目的脱节和部门间相互扯皮推诿现象严重，谁都不解决问题，使得有价值的信息流失，极大的降低了工作效率。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.355037464852131,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.355037464852131,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "这个问题可以从问卷的12题和13题得到验证。问卷汇总显示认为在工作需要的相关部门协助时，相关部门的配合情况以及响应速度不快的占比为78%；认为团队合作时，多个部门横向沟通不顺畅的占比达到了76%，"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.009084564891976319,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.009084564891976319,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "第六，缺乏协调沟通机制。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5236301042563299,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.27031890115533436,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "跨部门项目有问题时，各部门之间沟通的随意性大，没有固定常规的交流会议，有什么问题，都是各部门临时商讨决定，协调处理的结果随意性大，是否记录在档，或上报，或通报，只能取决于各部门的判断能力和责任心。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2533112031009956,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "且没有相应的追溯监控，不能跟踪和控制问题处理的进度和结果。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.2962609569108625,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.004216574557658996,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "第七，越级汇报现象严重。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2595812951690081,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "经常有员工跨过部门主观直接向总经理汇报这样或那样的问题。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16730126378050858,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在公司规模不大时，公司领导可以大事小事一把抓，统帅全局，有效率的协调指挥。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.41607458710625417,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "但公司规模扩大，业务增长，人员增多后，因为人精力和能力的限制，领导对全局的把握就会力不从心，不能全面掌握不断变化和膨胀的信息和情况。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.35264003783934644,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "这个问题可以从问卷的第4题得到验证。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.09644719845808643,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "问卷汇总显示认为上下级间的指令汇汇报是否存在越级现象很多和非常多的占比分别为46%和14%。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "数据与样本",
+            "实证研究类v3",
+            "实证研究类v3"
+          ],
+          "chosen": false,
+          "text_content": "4.1.2 员工访谈、问卷调查和数据统计",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.8200066693666714,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.42647662767923994,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "针对公司的运行现状，M公司引入第三方专业顾问机构对公司存在的问题进行原因分析和调查。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.39353004168743155,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "第三方机构分别对各层级的员工进行单个或多个访谈，并组织了一次网上问卷调查。"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId17"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5172655474893841,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.21800071255434084,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "1. 员工访谈。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2992648349350433,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "第三方机构分别和高级管理层，中级管理层以及部门员工进行访谈，并将访谈内容综合如下。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.16645161208315892,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16645161208315892,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "高级管理层（总经理）：（1）请示汇报的人太多，时间不受自己支配；（2）新项目的推行进展慢，难以推进；（3）公司整体销售额增长从2010年开始见缓（见图"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.1747306088275733,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1747306088275733,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "3），2013年的销售额只有94.02（百万），比2012年的97.61（百万）还低；（4）公司拥有代理和自有品牌四十余种，2011 年~2013 年伺服产品销售额的占比分别为"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.34759525259319296,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.34759525259319296,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "42%，48%，52%和61%，公司销售产品趋于单一；（5）伺服产品市场竞争激烈、利润薄，而公司伺服产品的占比销售又大，从而造成公司整体利润下降（2011年~2013年整体毛利率分别为26%，24%，19%和16%。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3768461129368915,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3768461129368915,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "中级管理层（部门主管）：（1）权限不够，很多不需要请示的问题需要请示才能处理；（2）下级越级汇报现象比较严重；（3）需要部门协作时，得不到及时迅速的支持，有时甚至是推诿；（4）部分主管觉得自己的付出和回报不符；（5）希望公司能提供系统的管理方面的培训。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.34304590775522226,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.34304590775522226,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "部门员工：（1）一些工作操作方式或流程降低了工作效率；（2）没有相关工作方面的专业培训；（3）虽说个人能力有差异，不可能同工同酬，但有些相同的工作，员工之间的薪资待遇相差比较大。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.18588060358282318,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.002660272885028207,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "2. 调查问卷见附录。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.18322033069779498,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "问卷共有21题，每个问题设有ABCD四个选项，分别的含义是——A非常好、B好、C不好或一般、D不好。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.010657852515030646,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.010657852515030646,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "M公司员工数为123人，网上提交问卷人数为118人，有效问卷为113份，有效率"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.22711416297129777,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "为95.76%。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.22711416297129777,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "所得的数据汇总详见表2。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.28919617839295525,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.28919617839295525,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "表2  问卷问题及各选项占比汇总"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "table_data": "[['序号', '问题', 'A', 'B', 'C', 'D'], ['1', '管理制度的执行效率', '0.24', '0.23', '0.42', '0.11'], ['2', '公司的控制制度是否完善', '0.27', '0.31', '0.33', '0.09'], ['3', '业务部门对职能部门服务的满意程度', '0.12', '0.22', '0.51', '0.15'], ['4', '上下级间的指令汇报是否存在越级现象', '0.17', '0.23', '0.46', '0.14'], ['5', '处理日常事务是否有序', '0.09', '0.46', '0.37', '0.08'], ['6', '是否经常出现多个领导向你分配任务的情况', '0.32', '0.29', '0.26', '0.13'], ['7', '直接上级是否对工作提出了明确的要求', '0.02', '0.21', '0.67', '0.10'], ['8', '是否明确工作职责和权利', '0.31', '0.23', '0.46', '-'], ['9', '对于自己职责范围内的工作，自己是否有权力处理', '0.33', '0.24', '0.37', '0.06'], ['10', '职务关系内的工作是否严格按等级链沟通', '0.33', '0.23', '0.38', '0.06'], ['11', '各部门的责任界定是否清晰', '0.11', '0.12', '0.74', '0.03'], ['12', '在工作需要的相关部门协助时，相关部门的配合情况以及响应速度', '0.01', '0.21', '0.78', '-'], ['13', '团队合作时，多个部门横向沟通是否顺畅', '0.06', '0.13', '0.76', '0.05'], ['14', '与公司内其他人相比，你对目前的收入满意吗', '0.07', '0.25', '0.55', '0.13'], ['15', '你觉得公司的薪酬体系是否合理', '0.03', '0.06', '0.82', '0.09'], ['16', '与外单位同层次的人比，你对目前的收入满意吗', '0.14', '0.13', '0.56', '0.17'], ['17', '与工作的付出相比，你对目前的收入满意吗', '0.07', '0.27', '0.48', '0.18'], ['18', '工作努力程度对奖金的影响', '0.18', '0.57', '0.24', '0.01'], ['19', '公司对工作人员能力和绩效进行评估是否符合实际情况', '0.06', '0.16', '0.71', '0.07'], ['20', '公司内部的沟通气氛是否良好', '0.33', '0.34', '0.33', '-'], ['21', '公司岗位划分合理程度对职位升迁的影响', '-', '0.21', '0.56', '0.23']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.1983589507393857,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1983589507393857,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从表2可以看出大部份问题C选项的频率比较高，其中频率超过50%的就有10"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0007525502544462911,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0007525502544462911,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "题，超过70%的就有5题。"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId17"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.1.3 组织结构诊断",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.681039403384306,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.681039403384306,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "通过对M公司进行问卷调查得到的数据，以及目前的状态分析，显而易见的，，近年来M公司的市场得到不小的扩张，经营的产品类别数量不断增加，公司的经营规模有效增长，适用于原来的生产经营规模的现行组织结构配置已经不能胜任生产经营现状，诊断如下："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.05517286745211242,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.025876544648441826,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1. 管理层级短（过于扁平），管理幅度失衡。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.029296322803670588,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由图4可以看出，总经理管理层次为3层，管理幅度达到了14个。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.40054353387268915,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.01800071255434082,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "的员工都很熟悉，许多员工都是经理怎么说，我们就怎么做。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3289021527528261,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "很多员工有问题都是越级直接找总经理反应解决，造成了总经理大事小事一把抓，成了公司最忙碌的人。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.034481101749721424,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "问卷题4的显示认为越级现象严重的占比为46%，非常严重的占比为14%。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.019159566815800815,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "如果总经理较长一段时间不在，员工就会像放假似的轻松起来。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.1400129099965357,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.005716011032198418,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "2. 部门设置不合理。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.35499793974943267,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "公司的部门设置主要是以职能来为参考要素，这样的设置原则在公司起初阶段能够胜任，因为当时人员不多，各个部门的管理目标相对单一，同时由于分工也很明确，大家能够合作的比较顺利。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.413251406295016,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "但是当公司得到发展之后，一是部门人员急速扩张，其次一些跨部门工作和问题的完成必须得到各部门的通力合作。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.32791704216732065,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "即便在实践中，公司也有根据规模作出微调，逐步增设了一些部门，但在工作过程中，也有出现问题不知道交到哪个部门来负责的情形，大家都认为不是自己的职能范围，从而造成真空地带，一直要等到总经理拍板指定到某个部门。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.03813051075256771,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "问卷题11显示认为各部门责任界定不清晰的占比为74%。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.2379277283259647,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2379277283259647,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "3. 一些部门当初的设计和划分跟不上发展的需要。"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId17"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.1821541696720432,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.17682510731535686,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "销售部门的最初的设置是根据产品来分设各个销售小组，且各个小组只能销售本小组所负责的产品，最初的目的是为了增加产品的市场占有率，避免销售工程师只销售毛利高的产品，造成公司销售产品的单一。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.32280361020555826,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "但随着社会，行业和技术的发展，客户要求不断在改变，客户不仅要求单一的产品，要求的是完整的能满足自身制造工艺的自动控制系统（也即我们所说的非标定制设备）。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0618213440267699,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "因为各小组销售工程师只负责自己的产品，对其他产品不熟悉，这样遇到需求多样性的客户就不知如何推进，或者就需要多个销售工程师应对一个客户。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.36545678639485224,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "这样严重影响了销售额的增长（图3）。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.25524732172950604,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "且后勤部门分设比较散列，销售工程师需要联系的后勤人员过多，没有一个比较单一的反馈口径，影响其工作效率。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.10742992729108647,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.030949394631455317,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "机械设计部和电器设计部设计时自己设计自己的，等到装配试运行时会发现有设计不对接的状况，得重新设计，耽误货期，造成了时间、人工、成本的浪费。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.07648053265963115,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "给客户提供技术支持也是机械设计部和电器设计部的人员，因客户需要技术支持不一定是有计划的，经常会突发性的，所以会与部门正常设计工作有冲突，耽误工作。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.2079477420407626,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2079477420407626,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "车间和电装也是这个问题，各部门领导自己安排进度，无人统筹安排。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.24851591223296898,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.24851591223296898,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "4. 应对对客户的响应速度慢。采购、客服、储运三个部门单独分列，三个部门之间的人员不能够清楚了解到相应的工作进度，比如客户打电话到客服部，想了解所"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7167448797038327,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3842051436659822,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "订购产品的情况，客服人员需要分别向采购部和储运部去了解客户所订产品是在采购途中还是发运途中，严重影响工作的效率，影响客户满意度。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3325397360378506,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "问卷题3显示认为业务部门对职能部门服务的不满意的占比达到了51%，题12显示在工作需要的相关部门协助时，相关部门的配合情况以及响应速度不快的占比达到了78%。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.4897351106731302,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3724686150953565,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "5. 随着公司的发展，随意增设部门的现象随之出现。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3614034150190215,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "有时仅为针对某个问题而去设置一个部门，造成公司成本的浪费。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.36397178022111226,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "因为公司没有明确的薪酬体系，只是根据当时问题的棘手程度，由总经理直接给出比较高的待遇，这种现象引起好多员工的普遍不满。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.03211198215381353,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "员工的评价，工资和奖金都是由总经理定下来直接由财务部门发放。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3597793181838266,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "问卷汇总问题15显示认为公司的薪酬体系不合理和非常不合理的占比分别为82%和9%。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6664067387922613,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.01800071255434082,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "6. 员工主动性不强。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16601099194455662,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由于部门或者岗位设计得过于细致，分工太过明确，在遇到跨部门问题时，很少会有员工会主动承担职责，或是协调各部门解决问题，而是怕麻烦、得过且过，对会置之不理。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.002668655481667469,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "且有时会过度关注程序流程，实际操作中可以省略的步骤，为了不担责任，宁可多耽误时间。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0011442649408060497,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "都想着不出错就行，工作效率和积极性不高，明哲保身的苗头滋长。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.17538737752621086,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "很多人想着反正在M公司发不了财，但也饿不死。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.30319473634467947,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "问卷题12显示认为在工作需要的相关部门协助时，相关部门的配合情况以及响应速度不快的占比达到了78%；题13显示认为团队合作时，多个部门横向沟通是不顺畅的占比达到了76%。"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId17"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "数据与样本",
+        "实证研究类v3",
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "4.1 组织结构诊断",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.1.1 M公司目前存在的问题",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5230393508440754,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2623705771559623,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "第一，销售额停滞不前。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.20935663116379397,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "销售额代表着市场占有率，这是一个公司的命脉。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.05131214252431918,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由于起初对各销售小组销售的产品有限制，开始销售额增长迅速，到了在2011年——2012年这三年呈稳滞不前的趋势，增长幅度较小，如图3。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3904125362800713,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2911943712977879,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "第二，面对问题时各部门响应速度慢，效率低下。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.08269091568291369,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "工作中很多事项需跨部门解决，有时需要多部门协调解决，而部门主管经常会因意见不同而不能达成一致，最终要总经理出面解决给出决策，久而久之使得部门主管对领导决策的依赖性增强，遇到与其它部门交叉的工作会坐等领导解决，解决问题的主动性，创造性不足，只以自己的部门职责为工作中心。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.016527249299369644,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "中层管理者因缺乏决策自主权进而缺少主动性。"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId17"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.37302057371823893,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.37302057371823893,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "第三，人力资源管理存在的问题。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.5437406948653956,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.34424874811225564,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "1. 公司没有设置专门的人事管理，只是行政部门作为手续的执行者，办理员工入职离职等相关手续。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.272239982374129,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "没有明确的薪酬制度，都是总经理根绝个人对员工的了解而进行评价，确定薪酬和奖金，交由财务部发放。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3629161454032669,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "这在一定程度上影响了员工的积极性。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.35264003783934644,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "这个问题可以从问卷15题得到验证。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.21169578113639764,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "问卷汇总显示认为公司的薪酬体系不合理和非常不合理的占比分别为82%和9%。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.9417992891442012,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3934680164047536,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "2. 招聘和人才流失问题。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.15999187446273017,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "公司在人员招聘时，总经理和部门主观参加面试，关于留用与否由总经理决定，不是太征求职能部门主管的意见。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3049566456240245,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "总经理和部门主观用人的要求不一样，这样就会造成职位空缺或者部门主观认为招聘进来的人员不是很好用，产生部门管理的问题，影响部门的运作。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.04885829878375364,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "部门主管认为自己行驶职权的授权不够，工作上受总经理干扰过多，从而工作积极性不高。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.030859459875163364,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "部门职员认为自己不受部门主管待见，同样士气低沉。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.003664993993776085,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "这样造成人才流失。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.46960391175613037,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.46960391175613037,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "3. 员工发展和培训问题。公司在管理岗位上的人员待遇较高，其他员工如果想要获得更好的待遇，就会向管理方向发展，这样专业人才不能更好的在自己的专业方向上发展和潜力开发，不利于公司人才的提高和人才的留住，也不利于员工职业生涯"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6021179039812875,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.39594467325174837,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "的发展。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.20574343872522755,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "公司没有轮岗制，员工在某一职位上太久，容易陷入一种困局，对别的工作不了解，也不愿了解。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0004297920043115543,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "这样跨部门的协作就难以推行。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "56%和23%。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7400256954410954,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.24872215355591926,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "因为没有专人负责人事，公司对员工的培训也是东一榔头西一棒，没有形成系统，员工没有长足进步。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4689827286701962,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "公司没有员工当做公司的资源进行开发，形成损失。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.022320813214980046,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "招聘一个新的员工的代价是培训已有员工的5倍以上。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.7164649387576225,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2678615228383217,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "第四，缺少绩效考核。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3919563991893475,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "没有适合公司实际情况的绩效考核制度，都是年底经理或者主观凭个人感觉予以评价，而不是将每天每个月工作的实际情况予以记录最终进行测评。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.10184661189246078,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "这样的方式带有个人倾向，有时也不一定真实。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4307819393044363,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "容易挫伤员工积极性，降低公司的运营效率。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.02060489182166952,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "不少员工对年底一次的绩效考核表示出不满和抗议。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5034135737113867,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "这个也可以从问卷的问题19得到验证，问卷汇总显示认为公司对工作人员能力和绩效进行评估是不符合实际情况的占比达到了71%。"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId17"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.27498693971736654,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.27498693971736654,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "第五，部门间的合作不够顺畅。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.473845553738571,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.21502222663533538,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "公司针对各个工程项目均有完整的计划进度，但在多个项目同时执行时，计划执行往往达不到预期效果。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.25882332710323563,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "涉及到多个部门协调时，往往没有一个总的协调人进行协调管理，执行不够严肃，常因为一个环节的疏漏导致整个项目的落空。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.510108983400762,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.27309534579371975,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在单一工程项目时，各职能部门能以单一工程项目为中心，大家目标比较一致，相互之间的关系也能够做到比较好的处理。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.23701363760704233,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在多工程项目的情况下，各部门在同时面对多个工程项目，就涉及到以哪个项目为先，哪个项目其次的问题，可能会造成项目的脱节和部门间相互扯皮推诿现象严重，谁都不解决问题，使得有价值的信息流失，极大的降低了工作效率。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.355037464852131,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.355037464852131,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "这个问题可以从问卷的12题和13题得到验证。问卷汇总显示认为在工作需要的相关部门协助时，相关部门的配合情况以及响应速度不快的占比为78%；认为团队合作时，多个部门横向沟通不顺畅的占比达到了76%，"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.009084564891976319,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.009084564891976319,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "第六，缺乏协调沟通机制。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5236301042563299,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.27031890115533436,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "跨部门项目有问题时，各部门之间沟通的随意性大，没有固定常规的交流会议，有什么问题，都是各部门临时商讨决定，协调处理的结果随意性大，是否记录在档，或上报，或通报，只能取决于各部门的判断能力和责任心。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2533112031009956,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "且没有相应的追溯监控，不能跟踪和控制问题处理的进度和结果。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.2962609569108625,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.004216574557658996,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "第七，越级汇报现象严重。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2595812951690081,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "经常有员工跨过部门主观直接向总经理汇报这样或那样的问题。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16730126378050858,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在公司规模不大时，公司领导可以大事小事一把抓，统帅全局，有效率的协调指挥。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.41607458710625417,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "但公司规模扩大，业务增长，人员增多后，因为人精力和能力的限制，领导对全局的把握就会力不从心，不能全面掌握不断变化和膨胀的信息和情况。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.35264003783934644,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "这个问题可以从问卷的第4题得到验证。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.09644719845808643,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "问卷汇总显示认为上下级间的指令汇汇报是否存在越级现象很多和非常多的占比分别为46%和14%。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "数据与样本",
+            "实证研究类v3",
+            "实证研究类v3"
+          ],
+          "chosen": false,
+          "text_content": "4.1.2 员工访谈、问卷调查和数据统计",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.8200066693666714,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.42647662767923994,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "针对公司的运行现状，M公司引入第三方专业顾问机构对公司存在的问题进行原因分析和调查。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.39353004168743155,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "第三方机构分别对各层级的员工进行单个或多个访谈，并组织了一次网上问卷调查。"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId17"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5172655474893841,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.21800071255434084,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "1. 员工访谈。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2992648349350433,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "第三方机构分别和高级管理层，中级管理层以及部门员工进行访谈，并将访谈内容综合如下。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.16645161208315892,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16645161208315892,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "高级管理层（总经理）：（1）请示汇报的人太多，时间不受自己支配；（2）新项目的推行进展慢，难以推进；（3）公司整体销售额增长从2010年开始见缓（见图"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.1747306088275733,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1747306088275733,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "3），2013年的销售额只有94.02（百万），比2012年的97.61（百万）还低；（4）公司拥有代理和自有品牌四十余种，2011 年~2013 年伺服产品销售额的占比分别为"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.34759525259319296,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.34759525259319296,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "42%，48%，52%和61%，公司销售产品趋于单一；（5）伺服产品市场竞争激烈、利润薄，而公司伺服产品的占比销售又大，从而造成公司整体利润下降（2011年~2013年整体毛利率分别为26%，24%，19%和16%。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3768461129368915,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3768461129368915,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "中级管理层（部门主管）：（1）权限不够，很多不需要请示的问题需要请示才能处理；（2）下级越级汇报现象比较严重；（3）需要部门协作时，得不到及时迅速的支持，有时甚至是推诿；（4）部分主管觉得自己的付出和回报不符；（5）希望公司能提供系统的管理方面的培训。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.34304590775522226,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.34304590775522226,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "部门员工：（1）一些工作操作方式或流程降低了工作效率；（2）没有相关工作方面的专业培训；（3）虽说个人能力有差异，不可能同工同酬，但有些相同的工作，员工之间的薪资待遇相差比较大。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.18588060358282318,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.002660272885028207,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "2. 调查问卷见附录。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.18322033069779498,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "问卷共有21题，每个问题设有ABCD四个选项，分别的含义是——A非常好、B好、C不好或一般、D不好。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.010657852515030646,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.010657852515030646,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "M公司员工数为123人，网上提交问卷人数为118人，有效问卷为113份，有效率"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.22711416297129777,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "为95.76%。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.22711416297129777,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "所得的数据汇总详见表2。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.28919617839295525,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.28919617839295525,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "表2  问卷问题及各选项占比汇总"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "table_data": "[['序号', '问题', 'A', 'B', 'C', 'D'], ['1', '管理制度的执行效率', '0.24', '0.23', '0.42', '0.11'], ['2', '公司的控制制度是否完善', '0.27', '0.31', '0.33', '0.09'], ['3', '业务部门对职能部门服务的满意程度', '0.12', '0.22', '0.51', '0.15'], ['4', '上下级间的指令汇报是否存在越级现象', '0.17', '0.23', '0.46', '0.14'], ['5', '处理日常事务是否有序', '0.09', '0.46', '0.37', '0.08'], ['6', '是否经常出现多个领导向你分配任务的情况', '0.32', '0.29', '0.26', '0.13'], ['7', '直接上级是否对工作提出了明确的要求', '0.02', '0.21', '0.67', '0.10'], ['8', '是否明确工作职责和权利', '0.31', '0.23', '0.46', '-'], ['9', '对于自己职责范围内的工作，自己是否有权力处理', '0.33', '0.24', '0.37', '0.06'], ['10', '职务关系内的工作是否严格按等级链沟通', '0.33', '0.23', '0.38', '0.06'], ['11', '各部门的责任界定是否清晰', '0.11', '0.12', '0.74', '0.03'], ['12', '在工作需要的相关部门协助时，相关部门的配合情况以及响应速度', '0.01', '0.21', '0.78', '-'], ['13', '团队合作时，多个部门横向沟通是否顺畅', '0.06', '0.13', '0.76', '0.05'], ['14', '与公司内其他人相比，你对目前的收入满意吗', '0.07', '0.25', '0.55', '0.13'], ['15', '你觉得公司的薪酬体系是否合理', '0.03', '0.06', '0.82', '0.09'], ['16', '与外单位同层次的人比，你对目前的收入满意吗', '0.14', '0.13', '0.56', '0.17'], ['17', '与工作的付出相比，你对目前的收入满意吗', '0.07', '0.27', '0.48', '0.18'], ['18', '工作努力程度对奖金的影响', '0.18', '0.57', '0.24', '0.01'], ['19', '公司对工作人员能力和绩效进行评估是否符合实际情况', '0.06', '0.16', '0.71', '0.07'], ['20', '公司内部的沟通气氛是否良好', '0.33', '0.34', '0.33', '-'], ['21', '公司岗位划分合理程度对职位升迁的影响', '-', '0.21', '0.56', '0.23']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.1983589507393857,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1983589507393857,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从表2可以看出大部份问题C选项的频率比较高，其中频率超过50%的就有10"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0007525502544462911,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0007525502544462911,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "题，超过70%的就有5题。"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId17"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.1.3 组织结构诊断",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.681039403384306,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.681039403384306,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "通过对M公司进行问卷调查得到的数据，以及目前的状态分析，显而易见的，，近年来M公司的市场得到不小的扩张，经营的产品类别数量不断增加，公司的经营规模有效增长，适用于原来的生产经营规模的现行组织结构配置已经不能胜任生产经营现状，诊断如下："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.05517286745211242,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.025876544648441826,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1. 管理层级短（过于扁平），管理幅度失衡。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.029296322803670588,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由图4可以看出，总经理管理层次为3层，管理幅度达到了14个。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.40054353387268915,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.01800071255434082,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "的员工都很熟悉，许多员工都是经理怎么说，我们就怎么做。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3289021527528261,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "很多员工有问题都是越级直接找总经理反应解决，造成了总经理大事小事一把抓，成了公司最忙碌的人。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.034481101749721424,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "问卷题4的显示认为越级现象严重的占比为46%，非常严重的占比为14%。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.019159566815800815,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "如果总经理较长一段时间不在，员工就会像放假似的轻松起来。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.1400129099965357,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.005716011032198418,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "2. 部门设置不合理。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.35499793974943267,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "公司的部门设置主要是以职能来为参考要素，这样的设置原则在公司起初阶段能够胜任，因为当时人员不多，各个部门的管理目标相对单一，同时由于分工也很明确，大家能够合作的比较顺利。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.413251406295016,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "但是当公司得到发展之后，一是部门人员急速扩张，其次一些跨部门工作和问题的完成必须得到各部门的通力合作。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.32791704216732065,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "即便在实践中，公司也有根据规模作出微调，逐步增设了一些部门，但在工作过程中，也有出现问题不知道交到哪个部门来负责的情形，大家都认为不是自己的职能范围，从而造成真空地带，一直要等到总经理拍板指定到某个部门。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.03813051075256771,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "问卷题11显示认为各部门责任界定不清晰的占比为74%。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.2379277283259647,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2379277283259647,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "3. 一些部门当初的设计和划分跟不上发展的需要。"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId17"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.1821541696720432,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.17682510731535686,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "销售部门的最初的设置是根据产品来分设各个销售小组，且各个小组只能销售本小组所负责的产品，最初的目的是为了增加产品的市场占有率，避免销售工程师只销售毛利高的产品，造成公司销售产品的单一。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.32280361020555826,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "但随着社会，行业和技术的发展，客户要求不断在改变，客户不仅要求单一的产品，要求的是完整的能满足自身制造工艺的自动控制系统（也即我们所说的非标定制设备）。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0618213440267699,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "因为各小组销售工程师只负责自己的产品，对其他产品不熟悉，这样遇到需求多样性的客户就不知如何推进，或者就需要多个销售工程师应对一个客户。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.36545678639485224,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "这样严重影响了销售额的增长（图3）。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.25524732172950604,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "且后勤部门分设比较散列，销售工程师需要联系的后勤人员过多，没有一个比较单一的反馈口径，影响其工作效率。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.10742992729108647,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.030949394631455317,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "机械设计部和电器设计部设计时自己设计自己的，等到装配试运行时会发现有设计不对接的状况，得重新设计，耽误货期，造成了时间、人工、成本的浪费。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.07648053265963115,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "给客户提供技术支持也是机械设计部和电器设计部的人员，因客户需要技术支持不一定是有计划的，经常会突发性的，所以会与部门正常设计工作有冲突，耽误工作。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.2079477420407626,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2079477420407626,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "车间和电装也是这个问题，各部门领导自己安排进度，无人统筹安排。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.24851591223296898,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.24851591223296898,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "4. 应对对客户的响应速度慢。采购、客服、储运三个部门单独分列，三个部门之间的人员不能够清楚了解到相应的工作进度，比如客户打电话到客服部，想了解所"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7167448797038327,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3842051436659822,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "订购产品的情况，客服人员需要分别向采购部和储运部去了解客户所订产品是在采购途中还是发运途中，严重影响工作的效率，影响客户满意度。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3325397360378506,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "问卷题3显示认为业务部门对职能部门服务的不满意的占比达到了51%，题12显示在工作需要的相关部门协助时，相关部门的配合情况以及响应速度不快的占比达到了78%。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.4897351106731302,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3724686150953565,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "5. 随着公司的发展，随意增设部门的现象随之出现。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3614034150190215,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "有时仅为针对某个问题而去设置一个部门，造成公司成本的浪费。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.36397178022111226,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "因为公司没有明确的薪酬体系，只是根据当时问题的棘手程度，由总经理直接给出比较高的待遇，这种现象引起好多员工的普遍不满。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.03211198215381353,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "员工的评价，工资和奖金都是由总经理定下来直接由财务部门发放。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3597793181838266,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "问卷汇总问题15显示认为公司的薪酬体系不合理和非常不合理的占比分别为82%和9%。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6664067387922613,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.01800071255434082,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "6. 员工主动性不强。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16601099194455662,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由于部门或者岗位设计得过于细致，分工太过明确，在遇到跨部门问题时，很少会有员工会主动承担职责，或是协调各部门解决问题，而是怕麻烦、得过且过，对会置之不理。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.002668655481667469,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "且有时会过度关注程序流程，实际操作中可以省略的步骤，为了不担责任，宁可多耽误时间。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0011442649408060497,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "都想着不出错就行，工作效率和积极性不高，明哲保身的苗头滋长。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.17538737752621086,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "很多人想着反正在M公司发不了财，但也饿不死。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.30319473634467947,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "问卷题12显示认为在工作需要的相关部门协助时，相关部门的配合情况以及响应速度不快的占比达到了78%；题13显示认为团队合作时，多个部门横向沟通是不顺畅的占比达到了76%。"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId17"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

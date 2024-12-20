@@ -1,0 +1,5264 @@
+{
+  "title": [],
+  "摘要": [],
+  "研究背景": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究背景"
+      ],
+      "chosen": false,
+      "text_content": "1.1 研究背景与选题意义",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.4330610157861163,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3328664383049826,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "当前，在以投资驱动为主的中国经济发展模式下，如何把握房地产行业的发展动向，对中国的社会经济发展有着重要的指导。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6307301788177634,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "从房地产市场内部看，投资额、供求关系等不仅受当前政府政策和各地经济发展水平的影响，更重要的还有一些潜在的因素影响——城市化与人口。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.46946439866337053,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "城市化从地理的空间范围和人口产业的聚集方面影响着房地产行业的投资与需求，而人口结构的变化、不同年龄人口的相对增速则从更为长远的时间段影响未来房地产的供求。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.0818960078961328,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.353829609935127,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "欧美等发达国家的实践表明，城市化的快速推进和相应的人口红利可以促进房地产市场中长期的繁荣，而伴随着经济发展阶段的提升和人口红利的拐点出现，房地产市场对整个经济的贡献将会逐渐降低。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7280663979610058,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "那么对于处在高速发展和转型关键期的中国而言，城市化与人口红利对房地产市场将产生怎样的影响？是否中国也会经历同发达国家一样的人口红利期来推动房地产市场的发展？与发达国家的历史经验相比，中国目前的现状有哪些相似性和不同点？这些问题的回应无疑对房地产本身的发展和中国经济发展模式的持续性都有很好的指导。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5822452065378415,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5822452065378415,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "影响房地产市场的因素有很多，如利率、汇率、收入、区位、市场准入等等，但本文重点关注城市化与人口这两个潜在的、长期的变量进行分析，虽然短期的因素能够马上影响到市场的变化，并且能够影响到消费者预期，改变当期乃至中期的市场交易行为，但是这些更为长期的因素才是决定房地产发展前景的根本。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.8055452971720818,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.9692307692307692,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本文选取了日本、韩国、印度和中国进行比较分析，目的是想通过对亚洲不同发展阶段国家的城市化与人口结构的变化来验证这两个因素对房地产供求的影响大小。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.2,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "之所以选择日本、韩国、印度进行比较是考虑到地缘和文化的因素。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6363145279413125,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "可以看到，美国、欧盟等一些OECD国家城市化的进程更长、房地产市场也非常发达，但是其居民的生活理念差异和房地产市场对经济的影响程度远不如东亚国家之间具有更好的可比性，并且由于房地产市场的发展阶段不同，在高度金融化和要素自由流动的欧美国家，其房地产市场的内涵与中国的差距较大。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.6338872492446468,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.25968261241025964,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "大人口大国，其经济发展的潜力和规模效应不可忽视，印度目前的发展现状不仅可以对中国过去的发展路径形成参照，而且对未来中国的区域发展战略有较大的参考意义。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3742046368343871,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "从2006年以来中国的城市化和房地产市场的省区数据看，中西部与东部省份的差异较大，对于欠发达的部分地区，印度的发展现状可能会提供较有说服力的经验。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.6816388233486692,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6816388233486692,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "自2010年以来，中国政府面对房地产市场的非理性繁荣，先后出台了国十条、国五条、新国五条等一系列调控措施，目的就是想通过行政的限购和差别化利率措施延缓房地产泡沫的扩大和破裂，可以看到这些政策都是相对短视和逆市场而为的，对于房地产市场而言，如何抓住影响其变化的长期因素——空间和人口，对于解决其长效发展有着更重要的作用，当前中国的房地产市场有着内在的机制和潜在的模式问题，如果能够解决好城市化的发展内涵及人口政策的变革，对于房地产的长期发展将会起到定海神针的功效。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究目的": [],
+  "研究综述": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究综述"
+      ],
+      "chosen": false,
+      "text_content": "1.4 相关文献综述",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.7430846918199718,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7430846918199718,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "关于城市化、人口红利对住房市场的影响，多数学者都是从城市化或人口对住房的价格影响来进行研究的，虽然单独研究住房的供给和需求的影响也有一些，但大都集中在不同国家市场的住房供求价格弹性进行比较分析，从目前的文献看，并没有更多的学者把城市化与人口红利放在一起来对房地产市场的供求关系影响进行系统有效的研究。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.8490392656432909,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.11605221166613072,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "之所以出现这样的现象，一个要归因于数据的可获得性和验证的有效性。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3407942526488262,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "因为并不是所有国家都进行过长期有效的房地产、人口和城市化数据的统计跟踪。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.392192801328334,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "另一个要归因于检验结果的显著性，在实证检验的过程中，不是所有的国家都积累了足够长的时间序列数据，并且在长时间的发展过程中，城市化的内涵与房地产市场的发展阶段也有较大的差异，因此给系统整体的分析带来了不小的难题。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.3241628214091309,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3241628214091309,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "此外，还有一个重要的原因是，从统计意义上看，城市化实际也是人口的一"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5286762041138203,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5286762041138203,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "种地理聚集的表现（Schnore, 1964），因此对人口进行细化的分析在一定程度上能够体现出城市化的影响，人口的聚集也是城市化的一种表现，对人口和房地产的关系进行细化分析可以在一定程度上反应城市化演进过程的影响。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.3301774316555807,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3301774316555807,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "对于人口与住房价格的讨论，最为著名的是Mankiw与Weil（1989）关于美国婴儿潮时期人口对20世纪80年代住房价格的影响，他们认为，随着1950—"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.47040308459608315,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.21633864250810156,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1960年间出生的人口逐渐转变为青年劳动力，对住房需求的增加导致美国20世纪80年代末地产价格的高涨。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.25406444208798157,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "此后，不同国家的学者都从各自的角度对Mankiw与Weil的结论进行了验证，（Poterba, 1991; Gabriel Lee, 2001; Eric Levin, 2009, etc）但是最后得出的结论差异较大。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5951642560924242,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5951642560924242,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（Demographic）意义上的衡量，他认为，除了人口，影响住房需求的收入、利率等因素也应考虑在分析框架内。Hamilton（1991）对Mankiw模型的有效性提出了质疑，而Engelhardt 与Poterba （1991）通过对加拿大市场的研究得出了与"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.4988639514282839,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Mankiw相反的结论。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4988639514282839,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "综合20世纪90年代这些学者的讨论，其争论的焦点一个是在模型的设定方面，一个是在验证结果的普适性方面，对于模型设定，Hendershott (1991), Alperovich（1995）等人都给出了相应的优化证明，而在普适性方面，由于不同国家的人口结构差异以及对退休年龄的限定期限不同，对于住房需求的影响也有较大的差异，如日本学者Ohtake（1996）区分了长期与短期的住房供给，并发现日本的住房价格弹性对住房长期供给更大，这部分的是由于日本的劳动年龄人口占比较高导致的。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5908044313503,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5908044313503,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "而对于城市化对房地产市场的影响，较有代表性的是Mayer、Somerville"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.26385929585333256,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.26385929585333256,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（2000）和Glaeser、Gyourko、Saks（2005）等人的研究。Mayer等从城市增长理论出发构建了住房供给的模型，并认为房地产的投资建设更多的与房价紧密关联，在美国10%的房价增长将导致0.8%的住房供应的增加，同时也会导致当年"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.4346078829895383,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.004766085641573359,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "60%的开工建设量的增加。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.48185252215979757,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "而Glaeser等发现，过去较长时间内住房供给的变化将会对城市的动态发展起到重要的中间变量的作用，而住房供给市场不同的弹性对于城市的发展和更新有着重要的影响。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.34401432353075423,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "在这里Glaeser等人更关注了美国不同城市兴衰过程中住房过滤理论的影响效果。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6039749516574131,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "综合这些学者的研究可以发现，城市化的发展在地理空间的拓展方面要求住房供给的增加，但是由于住房本身的物理特性，供给增速对城市化率增长的弹性不会大于1，此外，由于人口的流动和住房的不同层次供应的差异，城市化对住房供求量之间的影响更需注重长期效果。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.4446681231786206,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4446681231786206,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "对于中国的实证研究，多数学者借鉴国外的相关方法，对中国2000年以来房价的变化与人口结构以及住房需求量和城市化率之间进行了简单的时间序列分析和面板数据分析，如史青青、费方域（2010）认为，中国当前的人口红利与"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5701728439711208,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5701728439711208,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "房地产的收益率之间并无关系，张平、刘霞辉（2011）分析了中国当前城市化过程中的土地贴现收入和跨期配置，说明了随着财政缺口的扩大，中国的城市化推进速度将会逐渐降低，进而会影响到房地产市场积极的发展。邹至庄、牛霖琳"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.708662825669166,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.708662825669166,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（2010）从中国城镇居民住房的供给与需求出发，探讨了收入、房价对住房的供给弹性和需求弹性的影响，并对2006年以前中国房价的上涨因素进行了分析。综合中国学者的研究，大都关注了土地财政、城市化与房地产之间的关系，这也是当前中国房地产市场发展的一个内在机制问题，虽然也有学者从时间序列的方法入手研究城市化与中国房价之间的关系，但是由于时间序列长度都没有超过"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.007067485538828392,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.007067485538828392,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "30年，在结果的有效性方面值得商榷。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.9394534436160633,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6692555540467839,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "总结现有的研究文献，关于城市化、人口红利对住房的影响多数集中在房价分析，而且不同国家由于发展阶段的差异和数据期限的限制，得出的结果尚不具备共同的规律，房价的变化虽然与城市化率、人口结构有着直接的联系，但作为房地产金融属性的重要表现，房价可能更多的与利率、汇率、经济形势直接相关。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5719071051165585,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本文拟从房地产成交量的角度（即供给与需求）切入，尽量排除房地产的价格属性，来探讨城市化和人口红利对住房市场更为长久的影响。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.698290784452721,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "下面便从本文关注的重要变量的基本概念切入，分析中国与其他国家城市化、人口红利的差异，并对两个因素在房地产市场的影响进行深入研究。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究假设": [],
+  "数据与样本": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "数据与样本",
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "5.1 日本的城市化、人口红利与住房供给的实证分析",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "数据与样本"
+          ],
+          "chosen": false,
+          "text_content": "5.1.1 日本的数据简述",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.39392338353867784,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.39392338353867784,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "二战后，随着经济重建的加快，日本的城市化水平又步入正轨，1955年日本经济基本恢复，而其城市化的水平也步入高速发展时期。1960年—2011年日本的城市化率大致可分三个阶段，一个是1960年—1975年，此时日本的城市人口增速保持了长达十余年2.5%以上的增速，而其城市化率也由1960年的63%迅"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.382847469446809,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.382847469446809,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "速突破至1970年的71.87%，1975年后，日本的城市化步入稳定发展阶段，城市人口逐渐饱和，城市人口增速不断降低，最低至1998年的0.41%，这一时期的城市化主要体现为大都市区域外围和功能区的变化，同时各城市区域内的人口迁移也成为城市化提升的一个重要特征。第三个阶段为1999年至现在，2000年后，随着日本新一轮都市规划区和城市圈的扩大，其城市人口增速出现了突发性的提升，2001年日本的城市化率突破了80%，截至2011年底，日本的城市化率为"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3120911908855817,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3120911908855817,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "91.13%。关于日本的城市化情况可参见图5.1."
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.37431767626995976,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.37431767626995976,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在人口红利方面，（参见图5.2）1960 年以来日本的人口抚养比出现了较大的变化，由1964年开始降到50%以下的水平，并保持了将近30年的持续下降，"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7183415110164132,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4027610713646744,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "仔细分析这一阶段的人口抚养比的变化，便可发现，其15-64岁之间的劳动人口的占比长期维持在66%-69%的水平，人口抚养比的下降更多的是由于0—14岁人口占比的下降所致，1960年这一群体人口占比为30.15%，而到1987年，迅速下降至20.32%，而同一时期，老年人口的占比提升了大概3个百分点。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3155804396517388,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "可以看到，这一时期日本处于明显的人口红利期，劳动年龄人口占比较大，且比较稳定，而老龄化情况还不太严重。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4033765666611217,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4033765666611217,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "5个百分点，而2000年65岁以上人口占比由17.18%大幅提升至2011年的23.4%，可以看到，2000年后，日本逐步进入人口负债期，老龄化、少子化成为制约其经济发展的一个重要因素。"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "rId": "rId37"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.42273832555563906,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.42273832555563906,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "图5.1  日本1960-2011城市人口增速与城市化率"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0012790964309147088,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0012790964309147088,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "数据来源：CEIC、World Bank"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5110423054348494,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5110423054348494,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "图5.2  日本1960-2011人口抚养比"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "rId": "rId38"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0012790964309147088,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0012790964309147088,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "数据来源：CEIC、World Bank"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.618415518156046,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.618415518156046,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "关于日本的房地产市场情况，本文目前搜集到的数据只有1965年以来日本的新开工建设套数和新开工房屋面积的数据，以及1985年—2007年日本房地产投资额占GDP的比重数据，关于房屋销售的数据还没有与城市化和人口抚养比相对应的时间长度，多数日本的房地产销售数据集中在东京、横滨、大阪等城市层面，且数据期限大都在1990年以后，因此，销售数据的欠缺，对本文的实证分析构成了很大的影响，如果以后能搜集到更多日本具体城市层面的人口和城市化的数据，做相应的面板数据分析便可更好的验证本文的结论。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.48005613492688226,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.48005613492688226,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对于日本房地产市场的开工数据，本文将其视为日本房地产市场的供给，因为开工建设量和开工面积多数在当期会转为住房、商业地产、工业地产等具体的供给，在房地产内部，不同形态的房屋供给有着很强的关联性。从图5.3可以看出，伴随着城市化率的提升，以及劳动力人口占比的相当规模，1965年—1970年间，日本的建设开工面积出现了较大的增长，但是在1970年后，从开工面积的绝对量和增速上看，步入了低谷，20世纪80年代中后期，随着日本经济的再次腾飞，以及人口红利的支持，其房屋开工面积增速又开始提升，并一直维持到"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.10459938720011133,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.10459938720011133,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "90年代中期，2005年以后，日本的住房建设开工面积绝对量又步入低潮。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.24254252462679474,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.24254252462679474,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在住房投资占比方面，从图5.4可以看出，1985年以来，随着日本经济的提振，其房地产投资额占比一直提升，至1989年达到GDP的6.9%，但是之后，开始缓慢下降，1997年后，下降的速度提升，大概每年下降0.3%，至2007年日本房地产投资额占GDP比重为2.9%。"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "rId": "rId39"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.14341033310554047,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.14341033310554047,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "图5.3  日本年建设开工面积与增速1965—2011"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0012790964309147088,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0012790964309147088,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "数据来源：CEIC、Ministry of Land, Infrastructure and Transport, Japan"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.19594897942935502,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.19594897942935502,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "图5.4  日本房地产投资额占GDP比重1985-2007"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "8"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "6"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "4"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "2"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "0"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.1693693635692318,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1693693635692318,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "房地产投资占GDP%"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0012790964309147088,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0012790964309147088,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "数据来源：Japan Real Estate Institute、Statistics Japan"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.23822004099468513,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1598144739432807,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "关于日本的国民收入增速和实际利率情况可参见表5.5本文不做具体的解释。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.07840556705140446,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "其中国民收入增速为国民经济核算账户中国民可支配收入的增速，实际利率为当年一年期定期存款利率减去当年CPI同比增速。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.23526038107176062,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.23526038107176062,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "31选择国民可支配收入增速考虑了工资及其他收入的因素，在韩国、印度、中国的相应指标选择上与此相同"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.16203273673509044,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16203273673509044,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "图5.5  日本1965—2011实际利率与国民收入增速"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "rId": "rId42"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0012790964309147088,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0012790964309147088,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "数据来源：CEIC、IMF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "实证研究类v3"
+          ],
+          "chosen": false,
+          "text_content": "5.1.2 日本的实证分析与结果讨论",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6819147712867737,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6819147712867737,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "鉴于上面的数据，对于日本的情况结合第四章的模型分析，主要构建城市化率（U）、人口红利（De）、收入增速（I）、实际利率（ri）分别对住房供给（S）和住宅投资占比（inv）的影响。结合公式4.1、4.4，在模型构建上有如下两种考虑，一种是原始数据构建的模型，一种是对数据进行对数化处理后的模型32："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "S= +1U+2 De+3I+4 ri+(5.1)"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "LnS=  +1ln U+2ln De+3I+4 ri+(5.2)"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Inv=  +1U+2 De+3I+4 ri+(5.3)"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.1262592240480489,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1262592240480489,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对于式5.1和5.2数据时间为1965年—2011年，共46个观测值，对于式5.3"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5801369165392605,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1262592240480489,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "和5.4数据时间为1985年—2007年共22个观测值。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.45387769249121157,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "下面对各个变量进行平稳性和单位根检验，在平稳性方面，日本的城市化率（U）、人口红利（De）收入增速（I）、实际利率（ri）、住房供给（S）、住宅投资占比（inv）都是非平稳时间序列。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.24416876733930543,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.24416876733930543,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "32由于收入I统计的是对数变化，因此在以下的式中便不对其做对数变化，而对于ri根据一般的金融数据表现，实际利率的变化一阶后基本都是平稳时间序列，对原数据进行对数变化后，意义不大"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4175267721135485,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4175267721135485,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表5.1  日本1965-2011城市化、人口抚养比、住房供给、收入、实际利率序列单位根检验"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['变量', 'ADF统计量', '临界值', 'AIC', 'SC', '差分次数', 'CTK', '结论'], ['U', '-6.2239', '\\uf02d4.1756***', '0.1893', '0.3122', '2', 'C，T', 'I(2)'], ['Ln U', '-6.28', '-4.1626***', '-8.5597', '-8.4369', '2', 'C，T', 'I(2)'], ['De', '-3.3378', '-4.1985*', '-5.3159', '-5.065', '1', 'C，T', 'I(1)'], ['lnDe', '-3.7017', '-4.1985*', '-12.9932', '-12.7424', '1', 'C，T', 'I(1)'], ['I', '-6.3793', '-4.1865***', '5.0479', '5.1707', '1', 'C，T', 'I(1)'], ['ri', '-7.4164', '-4.1809***', '4.9311', '5.0528', '1', 'C，T', 'I(1)'], ['inv', '-5.895', '-4.5716***', '0.926', '1.2229', '1', 'C，T', 'I(1)'], ['S', '-9.5701', '-4.1809***', '8.0673', '8.1889', '1', 'C，T', 'I(1)'], ['Ln S', '-9.6774', '-4.1809***', '-1.0917', '-0.97', '1', 'C，T', 'I(1)']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.12242062105996272,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.12242062105996272,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "说明：（1）*、**、***分别表示显著性水平为10%、5%、1%"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.011460051608934563,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.011460051608934563,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（2）根据各序列的特点来选择C、T、K"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0104594986078423,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0104594986078423,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（3）根据AIC与SC选择滞后阶数"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4100465184728877,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4100465184728877,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从表5.1可以看出，除了城市化（U）及其对数（lnU）为二阶单整数列外，日本的住房面积供给（S）、对数供给（lnS）、人口抚养比（De）、对数人口抚养比（lnDe）、国民收入增速（I）、实际利率（ri）和房地产投资额占比（inv）均为一阶单整数列，从而可以对这些序列进行协整分析。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.22835920001214272,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.22835920001214272,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "选用Johansen-Juselius多元协整分析技术进行上述变量的协整，根据AIC 与"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.15821952729633057,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.15821952729633057,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "SC标准选取相应的阶数，同时对残差进行检验，判断是否具有异方差性，从式"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.2842706494493481,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2842706494493481,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "5.1、5.2、5.3构建的模型中，进行相应的检验后，只得出以下的两个协整关系："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "33"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "S=4.8745-0.0062 De+0.0057 I+0.0109 ri(5.1.1)"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（0.3109）(0.0064)"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（0.0030）*"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（0.0062）*"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "n=45"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "R 2 =0.1569F=2.5431DW=1.8916"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Inv=16.1456-0.2580 De+0.0801 I+0.3600 ri(5.3.1)"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "(2.1725)(0.0465) *** (0.0461) *** (0.1410) **"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "n=22"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "R 2 =0.7833F=22.8939DW=1.1476"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.11027603957201795,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.11027603957201795,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "注：在以上两个式子中（）中为标准误SE，*、**、***分别表示显著水平为10%、5%和1%"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5203878417044235,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5203878417044235,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "接下来对上述两个协整关系进行Granger因果检验，检验的结果可参见附表1、附表2，从结果看，对于日本的住房供给面积与人口抚养比之间并不存在显著的因果关系，而日本房地产投资的占比与实际利率、收入增速和人口结构之间形成了一定的因果关系。对上述两个协整关系构建VAR进行分析，但都由于至少有"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.21082523902750006,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.21082523902750006,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "33本文对其余同阶的变量也试图构建协整关系，但是最后的结果都不显著，并且这些变量中一些最大特征值和迹统计量不能拒绝R=0的假设"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.307745406037509,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.307745406037509,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "一个特征根在单位圆外，因此不能构成稳健的VAR，本文在此不做继续讨论。总结上述的两个协整关系，可以看出，1965年以来，日本的住房市场的供"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5270507009134772,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5270507009134772,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "给与人口红利的变化并没有产生显著的因果关系，并且人口红利、收入增速和实际利率对于住房面积的供给影响也很小，虽然居民收入增速和实际利率的变化对住房供给有一定影响，但从模型整体的解释能力看，并不具备太多的优势。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.48502562351359874,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.48502562351359874,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而住房投资额占GDP比例的变化与人口红利、居民收入、实际利率之间构成了较好的解释关系，从式5.3.1可以看出，长期而言，当期人口结构提升一个百分点，（即人口负债的提升）房地产投资额占GDP的比重将会下降25.8%，当期居民收入增速提升一个百分点，则会使房地产投资额占GDP的比重提升8%，而实际利率每提升一个百分点也会使相应的投资占比提升36%，可以看到在1985年-2007年期间，日本的人口抚养比持续下降，此时日本正处于人口红利期，因此每当人口抚养比下降便会对房地产的投资额形成一定的促进，从而提高其在"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.37755966672646774,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.37755966672646774,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "GDP中占比，收入对房地产的影响解释比较明了，而实际利率的变化需要再说明一点，日本从1982年开始步入了持续了实际正利率时代，而这一时期的正利"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.474761610568453,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2914928795587548,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "率也分两个阶段，即1995年之前，相对较高的存款利率与较低的通胀水平，使得居民的实际财富在不断增值，从而促成了地产等资产价值的提升，因而有一定的正向推动作用，而1995年之后，日本的存款利率开始大幅下降，但是通胀水平也维持在很低的范围，进入2000年后，由于CPI出现负数，因此使得实际利率保持为正，日本经济的持续低迷使得其GDP总量和增速开始下降，相应的地产投资额的变化保持稳定的水平。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.18326873100969823,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "实际利率为正促进了居民的消费，也在一定程度上维系着房地产投资活动的热情。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "数据与样本"
+      ],
+      "chosen": false,
+      "text_content": "6.1 中国数据简述",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.2978352017140161,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.2978352017140161,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "中国的城市化率在2000以来步入快行道，每年以高于1个百分点的速度推"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.24107453239708762,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.24107453239708762,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "进，但是各地不平衡的状况依然突出，以2006年为例，城市化率较高的北京、天津、上海分别达到了84.33%、75.37%和88.7%，与发达国家基本相同，但是在广大中西部地区，城市化率水平不到40%，如贵州、云南、河北分别为27.49%、"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.19302444325873525,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.19302444325873525,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "30.5%和38.45%，截至到2011年底，虽然全国整体的城市化率已经达到51.3%，"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.2306812663540206,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.2306812663540206,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "但还有18个省区的城市化率低于这一水平，而且都集中在中西部，与此同时，"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5498546309635484,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5498546309635484,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "中国各地的城市化率发展速度也有较大的差异，东部部分省市近6年来城市化发展水平在不断减速，而中部部分地区提速较快。部分省市城市化率情况可参见图"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "6.1."
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "rId": "rId52"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.47106127543159726,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.47106127543159726,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "图6.1  中国部分省市2006-2011城市化率"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.3559875327332107,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3559875327332107,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "数据来源：Wind、中国国家统计局"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.7997955975042297,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5561829207958457,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "而人口抚养比的情况，截至2011年底，中国整体为35%,按照人口学的理论依然处于人口红利期，从各省区市的情况看，人口抚养比最高的为贵州，2011年为49.85%，最低的为上海（19.27%），从2006-2011六年间各省区市的人口抚养比变化情况看，各省区市差别较大，没有一个省份在该区间内处于一直上升或下降的态势，人口抚养比的变化并非处于直线发展态势。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.2436126767083839,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2010年由于第六次全国人口普查，多数省区市的人口抚养比整体比2009年有超过2个百分点的下降。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5445490759255572,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5445490759255572,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "图6.2  中国部分省区市2006-2011人口抚养比"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "50"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "40"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "30"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "20"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "10"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "0"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "rId": "rId54"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0006148656280889665,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0006148656280889665,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "天津内蒙古黑龙江江苏河南广东西藏宁夏"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.3559875327332107,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3559875327332107,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "数据来源：Wind 中国国家统计局"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.6997403091163765,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6997403091163765,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "在住房市场的供求方面，选取各地当年住房面积的销售增速作为住房市场的需求量，新开工面积的增速当做住房供给量，用当年的房地产投资完成额/GDP当做房地产行业对经济的贡献，可以看到（图6.3、图6.4）即便在同一年不同地区的住房销售和供给的增速差异还是很大的，这也体现了房地产市场内部的细分性。"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "rId": "rId59"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.3292977247412642,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3292977247412642,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "图6.3   2006-2011中国部分省市住房销售面积增速"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.3559875327332107,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3559875327332107,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "数据来源：Wind、中国国家统计局"
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "rId": "rId60"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.25768393215419183,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.25768393215419183,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "图6.5  2006-2011中国部分省区市新开工面积增速"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.3559875327332107,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3559875327332107,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "数据来源：Wind、中国国家统计局"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.20790174702857,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.20790174702857,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "对于实际利率和居民收入增速的数据本文不再做过多的描述，具体可参见附表5和附表6。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "数据与样本"
+      ],
+      "chosen": false,
+      "text_content": "1.2 研究方法与数据说明",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.9421162595148915,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.9421162595148915,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本文的研究以模型分析和实证检验为主，在模型分析部分主要采用了数学推导和几何图形证明的方式，对于城市化、人口红利、住房市场供求及相关的要素，本文借鉴相关学者的研究，构建了静态模型，并对模型的动态变化采用了四象限图的分析方法予以说明。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "从具体的方法看，模型分析没有过多的数学证明，只是更多的采用了图形直观演绎的方式，但是四个国家的实证研究结果在一定程度上支持了本文的研究假设，这可以说是对严格数学证明的一个弥补，总体而言，对于模型的数学证明和优化分析还需要在以后不断改进。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.2518519669610777,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.2518519669610777,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "在实证检验部分，本文对相关国家的数据进行了时间序列分析和面板数据分析，采用的软件分别是Eviews6.0和Stata12.0，在对面板数据分析前，本文已经对相关数据的正态性和残差等进行过检验，对这一部分，文中不再列举相关结果。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.769205170652729,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.769205170652729,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本文采集了日本、韩国、印度、中国大量的数据，这些数据分别来自UN、World Bank、IMF及相应国家的统计部门和房地产监管部门，对于这些数据，本文通过Bloomberg、CEIC和Wind金融终端进行提取并作了简单处理，对数据库的多数数据的有效性进行了核对，由于采取的数据频率以年为主，且房地产市场的供给和需求数据多数以同比增长率计算，如不做具体说明，本文数据的单位都以%计。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "变量定义": [],
+  "检验": [],
+  "结论与分析": [
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": false,
+      "part": [
+        "结论与分析"
+      ],
+      "chosen": false,
+      "text_content": "第七章  总结与讨论",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "日本、韩国、印度、中国的实证研究结果都表明，在长期内，人口抚养比的提升对住房供给增速的提升有负面作用，从日本这样老龄化程度较高的社会来看，当前其人口结构已经对房地产市场的继续发展形成了制约，而对于印度这样少儿抚养比很高的社会而言，其源源不断的劳动力的形成和积累会对房地产市场的发展形成较大的支撑，处于印度和日本发展阶段中间的中国，是否会走相应的第三条道路，还需要时间来检验，不过可以看到的是，目前，中国国内的区域差异并没有缩小，在城市化与房地产市场发展方面，2006年-2011年间的数据表明这种差异还在扩大。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "对于中国一些较为发达的区域而言，由于经济和社会发展水平的提升，老龄化现象目前比较严重，其人口抚养比内部结构已经发生变化，这些区域人口的作用可能更多的会向日本趋同，如果日本的发展轨迹在中国能够实现，那么未来这些地区房地产的供给增速会降低，房地产的增加值也会相应的减少，对于中国的发达地区而言，只有改变经济的增长方式，并试图延缓或改变目前的人口结构问题，才能继续维系区域的可持续发展。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "对于一些发展较为滞后，但有着充足劳动力人口的省份，由于当前的老年抚养比较低，劳动人口的占比较高，增速较快，在人力资本的拉动下，这些地区的房地产供给和需求还有一定的发展空间，对于经济发展可持续的地区，有可能更好的发挥人口红利的正向推动，从而实现区域的赶超。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "而城市化的影响在本文中虽然缺少日本、韩国、印度的实证研究，但是已有很多学者从不同角度和方式论证了城市化推进的形式和质量的重要性。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "中国的实证结果表明，在整体城市化率达到52%以前，其对于住房需求和供给的推动都是正面的，但是截至2011年底，中国整体的城市化率已经达到51.27%，如果没有质量的提升，城市化盲目推进将会对住房市场的继续发展形成负面影响。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "从当前一些发达省份房地产投资额的占比看，增速已经开始下降，如果不能实现产业内部的升级以及城市化多方位的提升，房地产做为国民经济支柱产业的日子可能时不久已。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "虽然中国政府已经意识到房地产调控的重要性，并在2013年继续出台了调控措施，但是从实施和最后的结果看，违背市场机制的政策和短视的决策安排，将会使问题的隐患进一步增大。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "从房地产市场的内在规律和多数国家数十年的发展经验看，房地产单一发展的模式已经进入尾声，如何把房地产金融、房地产服务与社会民众生活联系起来，"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "使得民众能够消费得起、利用的好，对于扩大地产市场的内涵有重要的意义。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "如果不从优化人口结构、提高城市质量、尊重市场行为、疏通运行机制着手，中国的房地产市场的发展模式难以为继。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "对于可能处于中等收入陷阱的中国而言，拉美国家的发展路径可能更具有借鉴意义，20世纪90年代以来，巴西、阿根廷、墨西哥等国家的城市化率水平都已经远远高于中国，且从人均GDP看，这些国家已经步入中等收入国家，对于刚刚跨入中等收入国家的中国而言，未来城市化的发展前景和经济形势是否会走入拉美模式，还需要进行更为细致的调研和思考，中国的问题与拉美相比有何特殊性、相似性，这对于中国未来的发展可能会有更大的参考价值。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "实证研究类v3": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "数据与样本",
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "5.1 日本的城市化、人口红利与住房供给的实证分析",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "数据与样本"
+          ],
+          "chosen": false,
+          "text_content": "5.1.1 日本的数据简述",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.39392338353867784,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.39392338353867784,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "二战后，随着经济重建的加快，日本的城市化水平又步入正轨，1955年日本经济基本恢复，而其城市化的水平也步入高速发展时期。1960年—2011年日本的城市化率大致可分三个阶段，一个是1960年—1975年，此时日本的城市人口增速保持了长达十余年2.5%以上的增速，而其城市化率也由1960年的63%迅"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.382847469446809,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.382847469446809,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "速突破至1970年的71.87%，1975年后，日本的城市化步入稳定发展阶段，城市人口逐渐饱和，城市人口增速不断降低，最低至1998年的0.41%，这一时期的城市化主要体现为大都市区域外围和功能区的变化，同时各城市区域内的人口迁移也成为城市化提升的一个重要特征。第三个阶段为1999年至现在，2000年后，随着日本新一轮都市规划区和城市圈的扩大，其城市人口增速出现了突发性的提升，2001年日本的城市化率突破了80%，截至2011年底，日本的城市化率为"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3120911908855817,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3120911908855817,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "91.13%。关于日本的城市化情况可参见图5.1."
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.37431767626995976,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.37431767626995976,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在人口红利方面，（参见图5.2）1960 年以来日本的人口抚养比出现了较大的变化，由1964年开始降到50%以下的水平，并保持了将近30年的持续下降，"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7183415110164132,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4027610713646744,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "仔细分析这一阶段的人口抚养比的变化，便可发现，其15-64岁之间的劳动人口的占比长期维持在66%-69%的水平，人口抚养比的下降更多的是由于0—14岁人口占比的下降所致，1960年这一群体人口占比为30.15%，而到1987年，迅速下降至20.32%，而同一时期，老年人口的占比提升了大概3个百分点。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3155804396517388,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "可以看到，这一时期日本处于明显的人口红利期，劳动年龄人口占比较大，且比较稳定，而老龄化情况还不太严重。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4033765666611217,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4033765666611217,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "5个百分点，而2000年65岁以上人口占比由17.18%大幅提升至2011年的23.4%，可以看到，2000年后，日本逐步进入人口负债期，老龄化、少子化成为制约其经济发展的一个重要因素。"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "rId": "rId37"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.42273832555563906,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.42273832555563906,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "图5.1  日本1960-2011城市人口增速与城市化率"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0012790964309147088,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0012790964309147088,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "数据来源：CEIC、World Bank"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5110423054348494,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5110423054348494,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "图5.2  日本1960-2011人口抚养比"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "rId": "rId38"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0012790964309147088,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0012790964309147088,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "数据来源：CEIC、World Bank"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.618415518156046,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.618415518156046,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "关于日本的房地产市场情况，本文目前搜集到的数据只有1965年以来日本的新开工建设套数和新开工房屋面积的数据，以及1985年—2007年日本房地产投资额占GDP的比重数据，关于房屋销售的数据还没有与城市化和人口抚养比相对应的时间长度，多数日本的房地产销售数据集中在东京、横滨、大阪等城市层面，且数据期限大都在1990年以后，因此，销售数据的欠缺，对本文的实证分析构成了很大的影响，如果以后能搜集到更多日本具体城市层面的人口和城市化的数据，做相应的面板数据分析便可更好的验证本文的结论。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.48005613492688226,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.48005613492688226,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对于日本房地产市场的开工数据，本文将其视为日本房地产市场的供给，因为开工建设量和开工面积多数在当期会转为住房、商业地产、工业地产等具体的供给，在房地产内部，不同形态的房屋供给有着很强的关联性。从图5.3可以看出，伴随着城市化率的提升，以及劳动力人口占比的相当规模，1965年—1970年间，日本的建设开工面积出现了较大的增长，但是在1970年后，从开工面积的绝对量和增速上看，步入了低谷，20世纪80年代中后期，随着日本经济的再次腾飞，以及人口红利的支持，其房屋开工面积增速又开始提升，并一直维持到"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.10459938720011133,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.10459938720011133,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "90年代中期，2005年以后，日本的住房建设开工面积绝对量又步入低潮。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.24254252462679474,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.24254252462679474,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在住房投资占比方面，从图5.4可以看出，1985年以来，随着日本经济的提振，其房地产投资额占比一直提升，至1989年达到GDP的6.9%，但是之后，开始缓慢下降，1997年后，下降的速度提升，大概每年下降0.3%，至2007年日本房地产投资额占GDP比重为2.9%。"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "rId": "rId39"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.14341033310554047,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.14341033310554047,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "图5.3  日本年建设开工面积与增速1965—2011"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0012790964309147088,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0012790964309147088,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "数据来源：CEIC、Ministry of Land, Infrastructure and Transport, Japan"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.19594897942935502,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.19594897942935502,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "图5.4  日本房地产投资额占GDP比重1985-2007"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "8"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "6"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "4"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "2"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "0"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.1693693635692318,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1693693635692318,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "房地产投资占GDP%"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0012790964309147088,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0012790964309147088,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "数据来源：Japan Real Estate Institute、Statistics Japan"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.23822004099468513,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1598144739432807,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "关于日本的国民收入增速和实际利率情况可参见表5.5本文不做具体的解释。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.07840556705140446,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "其中国民收入增速为国民经济核算账户中国民可支配收入的增速，实际利率为当年一年期定期存款利率减去当年CPI同比增速。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.23526038107176062,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.23526038107176062,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "31选择国民可支配收入增速考虑了工资及其他收入的因素，在韩国、印度、中国的相应指标选择上与此相同"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.16203273673509044,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16203273673509044,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "图5.5  日本1965—2011实际利率与国民收入增速"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "rId": "rId42"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0012790964309147088,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0012790964309147088,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "数据来源：CEIC、IMF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "实证研究类v3"
+          ],
+          "chosen": false,
+          "text_content": "5.1.2 日本的实证分析与结果讨论",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6819147712867737,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6819147712867737,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "鉴于上面的数据，对于日本的情况结合第四章的模型分析，主要构建城市化率（U）、人口红利（De）、收入增速（I）、实际利率（ri）分别对住房供给（S）和住宅投资占比（inv）的影响。结合公式4.1、4.4，在模型构建上有如下两种考虑，一种是原始数据构建的模型，一种是对数据进行对数化处理后的模型32："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "S= +1U+2 De+3I+4 ri+(5.1)"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "LnS=  +1ln U+2ln De+3I+4 ri+(5.2)"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Inv=  +1U+2 De+3I+4 ri+(5.3)"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.1262592240480489,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1262592240480489,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对于式5.1和5.2数据时间为1965年—2011年，共46个观测值，对于式5.3"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5801369165392605,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1262592240480489,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "和5.4数据时间为1985年—2007年共22个观测值。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.45387769249121157,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "下面对各个变量进行平稳性和单位根检验，在平稳性方面，日本的城市化率（U）、人口红利（De）收入增速（I）、实际利率（ri）、住房供给（S）、住宅投资占比（inv）都是非平稳时间序列。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.24416876733930543,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.24416876733930543,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "32由于收入I统计的是对数变化，因此在以下的式中便不对其做对数变化，而对于ri根据一般的金融数据表现，实际利率的变化一阶后基本都是平稳时间序列，对原数据进行对数变化后，意义不大"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4175267721135485,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4175267721135485,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表5.1  日本1965-2011城市化、人口抚养比、住房供给、收入、实际利率序列单位根检验"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['变量', 'ADF统计量', '临界值', 'AIC', 'SC', '差分次数', 'CTK', '结论'], ['U', '-6.2239', '\\uf02d4.1756***', '0.1893', '0.3122', '2', 'C，T', 'I(2)'], ['Ln U', '-6.28', '-4.1626***', '-8.5597', '-8.4369', '2', 'C，T', 'I(2)'], ['De', '-3.3378', '-4.1985*', '-5.3159', '-5.065', '1', 'C，T', 'I(1)'], ['lnDe', '-3.7017', '-4.1985*', '-12.9932', '-12.7424', '1', 'C，T', 'I(1)'], ['I', '-6.3793', '-4.1865***', '5.0479', '5.1707', '1', 'C，T', 'I(1)'], ['ri', '-7.4164', '-4.1809***', '4.9311', '5.0528', '1', 'C，T', 'I(1)'], ['inv', '-5.895', '-4.5716***', '0.926', '1.2229', '1', 'C，T', 'I(1)'], ['S', '-9.5701', '-4.1809***', '8.0673', '8.1889', '1', 'C，T', 'I(1)'], ['Ln S', '-9.6774', '-4.1809***', '-1.0917', '-0.97', '1', 'C，T', 'I(1)']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.12242062105996272,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.12242062105996272,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "说明：（1）*、**、***分别表示显著性水平为10%、5%、1%"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.011460051608934563,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.011460051608934563,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（2）根据各序列的特点来选择C、T、K"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0104594986078423,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0104594986078423,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（3）根据AIC与SC选择滞后阶数"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4100465184728877,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4100465184728877,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从表5.1可以看出，除了城市化（U）及其对数（lnU）为二阶单整数列外，日本的住房面积供给（S）、对数供给（lnS）、人口抚养比（De）、对数人口抚养比（lnDe）、国民收入增速（I）、实际利率（ri）和房地产投资额占比（inv）均为一阶单整数列，从而可以对这些序列进行协整分析。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.22835920001214272,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.22835920001214272,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "选用Johansen-Juselius多元协整分析技术进行上述变量的协整，根据AIC 与"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.15821952729633057,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.15821952729633057,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "SC标准选取相应的阶数，同时对残差进行检验，判断是否具有异方差性，从式"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.2842706494493481,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2842706494493481,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "5.1、5.2、5.3构建的模型中，进行相应的检验后，只得出以下的两个协整关系："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "33"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "S=4.8745-0.0062 De+0.0057 I+0.0109 ri(5.1.1)"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（0.3109）(0.0064)"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（0.0030）*"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（0.0062）*"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "n=45"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "R 2 =0.1569F=2.5431DW=1.8916"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Inv=16.1456-0.2580 De+0.0801 I+0.3600 ri(5.3.1)"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "(2.1725)(0.0465) *** (0.0461) *** (0.1410) **"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "n=22"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "R 2 =0.7833F=22.8939DW=1.1476"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.11027603957201795,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.11027603957201795,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "注：在以上两个式子中（）中为标准误SE，*、**、***分别表示显著水平为10%、5%和1%"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5203878417044235,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5203878417044235,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "接下来对上述两个协整关系进行Granger因果检验，检验的结果可参见附表1、附表2，从结果看，对于日本的住房供给面积与人口抚养比之间并不存在显著的因果关系，而日本房地产投资的占比与实际利率、收入增速和人口结构之间形成了一定的因果关系。对上述两个协整关系构建VAR进行分析，但都由于至少有"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.21082523902750006,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.21082523902750006,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "33本文对其余同阶的变量也试图构建协整关系，但是最后的结果都不显著，并且这些变量中一些最大特征值和迹统计量不能拒绝R=0的假设"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.307745406037509,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.307745406037509,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "一个特征根在单位圆外，因此不能构成稳健的VAR，本文在此不做继续讨论。总结上述的两个协整关系，可以看出，1965年以来，日本的住房市场的供"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5270507009134772,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5270507009134772,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "给与人口红利的变化并没有产生显著的因果关系，并且人口红利、收入增速和实际利率对于住房面积的供给影响也很小，虽然居民收入增速和实际利率的变化对住房供给有一定影响，但从模型整体的解释能力看，并不具备太多的优势。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.48502562351359874,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.48502562351359874,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而住房投资额占GDP比例的变化与人口红利、居民收入、实际利率之间构成了较好的解释关系，从式5.3.1可以看出，长期而言，当期人口结构提升一个百分点，（即人口负债的提升）房地产投资额占GDP的比重将会下降25.8%，当期居民收入增速提升一个百分点，则会使房地产投资额占GDP的比重提升8%，而实际利率每提升一个百分点也会使相应的投资占比提升36%，可以看到在1985年-2007年期间，日本的人口抚养比持续下降，此时日本正处于人口红利期，因此每当人口抚养比下降便会对房地产的投资额形成一定的促进，从而提高其在"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.37755966672646774,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.37755966672646774,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "GDP中占比，收入对房地产的影响解释比较明了，而实际利率的变化需要再说明一点，日本从1982年开始步入了持续了实际正利率时代，而这一时期的正利"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.474761610568453,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2914928795587548,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "率也分两个阶段，即1995年之前，相对较高的存款利率与较低的通胀水平，使得居民的实际财富在不断增值，从而促成了地产等资产价值的提升，因而有一定的正向推动作用，而1995年之后，日本的存款利率开始大幅下降，但是通胀水平也维持在很低的范围，进入2000年后，由于CPI出现负数，因此使得实际利率保持为正，日本经济的持续低迷使得其GDP总量和增速开始下降，相应的地产投资额的变化保持稳定的水平。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.18326873100969823,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "实际利率为正促进了居民的消费，也在一定程度上维系着房地产投资活动的热情。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "6.2 中国城市化率、人口红利与住房供给的面板数据分析",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.4111570680009683,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4111570680009683,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "由于中国采用了31个省区市的面板数据，因此本文暗含的假设是在2006—"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5714344844671817,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5714344844671817,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2011年不同的时间点上，这些变量背后能体现出各省区的差异，而面板数据分析中的固定效应模型便可很好的反应这一情况，使用固定效应的前提是个体间存在显著的差异，对于特定的个体而言，组内在时间序列上的差异较小，对于中国的31个省区市而言，由于文中考虑的自变量之外还有很多的不可观测因素会影"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.37003924682905975,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.37003924682905975,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "响到住房的供给，因此选用固定效应模型（FE）较为恰当，此外节6.1中的数据描述部分也很好的反应了这一现实。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5896884033721166,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5896884033721166,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "同样借鉴第五章式5.1、式5.2、式5.3提出的计量模型，由于中国的面板数据中有销售的数据，因此将销售Sd及其对数ln Sd作为因变量，依然对城市化率、人口抚养比、实际利率和收入增速回归。同时，考虑到第四章，节4.4.3 中"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.8976458390615872,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.8976458390615872,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "关于人口红利对住房供求关系的模型，即在图4.7中，人口红利对住房供求并非是单调变化的，因此分别加入三次项De3和(ln De) 3予以刻画，此外，还考虑了城市化推进的动态影响，即在超过一定的限度后，城市化对住房供求的边际影响会下降，因此还纳入了U 2及(lnU) 2.35考虑了以上因素后，在固定效应模型下，对"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.6809071659957069,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6809071659957069,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "第五章中式5.1、式5.2、式5.3进行相应的修正，得出本章中国分析框架下的模型："
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "SUDeIriDe3 U 2  "
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": " (6.1)"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1234560"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "LnSlnU ln DeIri(ln De) 3 (lnU) 2   "
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": " (6.2)"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1234560"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "S  UDeIriDe3 U 2  "
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": " (6.3)"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "d1234560"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "LnS"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "LnU ln DeIri(ln De) 3 (lnU) 2   "
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": " (6.4)"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "d1234560"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "invUDeIriDe3 U 2  "
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": " (6.5)"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1234560"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Ln invlnU ln DeIri(ln De) 3 (lnU) 2  (6.6)"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1234560"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "0"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.29075688711129793,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.29075688711129793,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "对比可以发现，除了加入Sd, De3，ln De3，U 2, (lnU) 2模型中还多了变量  ，"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.6023711911400825,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6023711911400825,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "而这也代表了影响31个省区市中住房供求以及房地产投资额占比的其它不可解释的因素，即固定效应部分。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 2.001663066888799,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.9844436371697642,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "35这里之所以选择De而不选择U一方面是由于模型的设定，另一方面是由于在同样的期限内，可能人口结构的变化对于住房市场供求的影响变化会更大，随着时间的推移城市化对供求的边际影响量可能会小于人口结构。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.25272027254222135,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "考虑到模型的自由度问题，只加入这一个高次项。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7644991571768138,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "此外，在第五章的分析中，日本、韩国、印度没有考虑三次项的影响，是因为采用了时间序列的分析方法，这与一般的OLS回归有着方法论上的区别，即使考虑到人口结构和城市化的三次项，从单位根检验的结果看，上述两个变量的三次项都是非平稳过程，因此也无法和相应的因变量建立协整关系。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.2948530525843176,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6820032710603537,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "在进入面板数据分析之前，先对上文提出的六个模型的普通OLS进行遗漏变量和冗余性的检验，经过Ramsey检验后可以发现式6.2即供给的对数增长对于人口、城市化的模型存在着遗漏变量的问题，其F值为7.95，不能拒绝不存在遗漏变量的零假设。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5040068933937085,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "在进行多个自变量的二次项和三次项的试验后，依然存在着遗漏变量的问题，因此式6.2构建的模型还需要其他变量的引入来进一步优化，对此，本文暂不讨论，接下来的讨论中只关注式6.1、式6.3—式6.6。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.10884288813025533,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "对于Ramsey检验的结果及冗余变量检验的AIC与BIC值可参见附表7和附表8。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5326567383068637,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5326567383068637,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "对于面板数据，不同时期数据的稳定性是能否进行有效分析的前提，因此对数据进行Chow检验非常必要。如果2006-2011年本文的统计数据不存在结构的变动和断点，那么便可开展以下的验证，本文用Stata.12选取2008年为分界点，对式6.1进行了Chow检验，得出的F值为0.0004，在95%的置信水平下 F"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.3356752076222085,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3356752076222085,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（4, 23）=2.80，因此不能拒绝原假设，面板数据不存在前后时间结构的变化，对于其它年份和式6.3—式6.6的检验结果，本文不做赘述，总之，经过不同时点和不同式子的Chow检验后，面板数据存在结构的一致性。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.353126473938233,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.353126473938233,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "此外，在做具体分析之前，先对混合数据模型和固定效应模型进行 F 统计量检验。这里 F 统计量定义为："
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "F= SSEr -SSEu   / (n 1)"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "SSEu  / (ntnk)"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.20415084565087033,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.20415084565087033,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "其中SSEr、SSEu分别为混合数据模型的残差平方和及面板数据模型中个体固定效应的残差平方和。n=31，t=6，k=5，Ho为选择混合数据模型，依据模型式6.1"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.3493279595232427,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3493279595232427,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "式、式6.3—式6.6，分别对混合模型和面板数据进行F检验，得出的F值分别"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.16629912462619162,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.16629912462619162,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "为3.3404、5.9060、6.3167、5.1712、6.9723，因此在1%的显著水平下，对于式"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.36686230258975305,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.36686230258975305,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "6.1、式6.3—式6.6拒绝原假设，即不选择混合数据模型，而选用固定效应模型。同时，在做固定效应模型前，还应对随机效应和固定效应进行Hausman 检"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.44660479622715143,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.44660479622715143,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "验。根据模型式6.1、式6.2—式6.6在选定相关变量后，Hausman检验得到的 2"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5808897700593627,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5808897700593627,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "值分别为31.2883、32.0710、35.0488、23.5301、25.6547，因此在1%的概率下拒绝随机效应的原假设，对上述相关变量采取固定效应模型进行分析。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

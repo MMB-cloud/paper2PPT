@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b265bfc-09d0-4da6-a839-278f048f2e68" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>oMath</find>
+      <find>&lt;w:style w:type=</find>
+      <find>w:body</find>
+      <find>Math</find>
+      <find>&lt;m:oMath</find>
+      <find>&lt;m:oMathPara&gt;</find>
+      <find>3-1</find>
+      <find>&lt;m:oMath&gt;</find>
+      <find>m:oMath</find>
+      <find>李建军</find>
+      <find>&lt;o:OLEObject</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature-110-batchtest" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/user/input/U201812114-姚佳豪-1.《绿色信贷绿色信贷对商业银行信贷风险影响的实证研究》 - 副本/word/document.xml" />
+        <option value="$PROJECT_DIR$/public/user/input/U201812114-姚佳豪-1.《绿色信贷绿色信贷对商业银行信贷风险影响的实证研究》 - 副本/word/styles.xml" />
+        <option value="$PROJECT_DIR$/public/user/input/U201815896-周子乂-1.《数字普惠金融的减贫效应——基于区域经济发展水平不同的实证研究》 - 副本/word/document.xml" />
+        <option value="$PROJECT_DIR$/public/user/input/U201815057-丁璇-1.《高管风险承担与企业ESG的实证研究》 - 副本/word/document.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1400" />
+    <option name="height" value="944" />
+  </component>
+  <component name="ProjectId" id="2OlvdHmMofFWwBAafuZfBd6My2p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/word2PPT/paper2ppt2/public/dataSet/test/优化算法类&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="paper2ppt2" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="paper2ppt2" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\word2PPT\paper2ppt2\public\dataSet\test\优化算法类" />
+      <recent name="E:\word2PPT\paper2ppt2\public\dataSet\test\调查研究类" />
+      <recent name="E:\word2PPT\paper2ppt2\public\dataSet\test" />
+      <recent name="E:\研究生开题\初稿\图" />
+      <recent name="E:\word2PPT\paper2ppt2\public\script" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\word2PPT\paper2ppt2\public\script" />
+      <recent name="E:\word2PPT\paper2ppt2\public\dataSet\test" />
+      <recent name="E:\word2PPT\paper2ppt2\public\dataSet\else" />
+      <recent name="E:\word2PPT\paper2ppt2\public\dataSet\test\调查研究类" />
+      <recent name="E:\word2PPT\paper2ppt2\public\script\else" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="paper2ppt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="paper2ppt" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Classifier" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="paper2ppt2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/classifier2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/classifier2/Classifier.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EvaluateModel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="paper2ppt2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/docxCompresser2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\word2PPT\paper2ppt2\src\docxCompresser2\EvaluateModel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="K-means (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="paper2ppt2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/K-means.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="K-means" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="paper2ppt2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/clustering" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\word2PPT\paper2ppt2\K-means.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="paper2ppt2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="paper2ppt2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.EvaluateModel" />
+        <item itemvalue="Python.Classifier" />
+        <item itemvalue="Python.K-means (1)" />
+        <item itemvalue="Python.K-means" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b265bfc-09d0-4da6-a839-278f048f2e68" name="Changes" comment="" />
+      <created>1682148069501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682148069501</updated>
+      <workItem from="1682148071007" duration="52070000" />
+      <workItem from="1682260031183" duration="199000" />
+      <workItem from="1682294453035" duration="8376000" />
+      <workItem from="1682317786239" duration="22859000" />
+      <workItem from="1682410510305" duration="2755000" />
+      <workItem from="1682476490786" duration="1466000" />
+      <workItem from="1682480420501" duration="23000" />
+      <workItem from="1682481292539" duration="22870000" />
+      <workItem from="1682555377745" duration="740000" />
+      <workItem from="1682573163956" duration="407000" />
+      <workItem from="1684906034451" duration="2575000" />
+      <workItem from="1684908642444" duration="3333000" />
+      <workItem from="1684925596293" duration="26000" />
+      <workItem from="1684929838859" duration="2462000" />
+      <workItem from="1684974530021" duration="1490000" />
+      <workItem from="1685358848130" duration="610000" />
+      <workItem from="1685426264392" duration="75000" />
+      <workItem from="1685426890420" duration="683000" />
+      <workItem from="1685945656343" duration="6652000" />
+      <workItem from="1687159073336" duration="626000" />
+      <workItem from="1687344627266" duration="87000" />
+      <workItem from="1687349810688" duration="2326000" />
+      <workItem from="1687605653858" duration="8000" />
+      <workItem from="1687686132056" duration="10000" />
+      <workItem from="1687691285037" duration="107000" />
+      <workItem from="1687777347818" duration="7810000" />
+      <workItem from="1687831678980" duration="8000" />
+      <workItem from="1687865414000" duration="3888000" />
+      <workItem from="1687871267665" duration="2547000" />
+      <workItem from="1687935278006" duration="189000" />
+      <workItem from="1687935562077" duration="249000" />
+      <workItem from="1690095400086" duration="3000" />
+      <workItem from="1690163046802" duration="3837000" />
+      <workItem from="1690272829123" duration="12657000" />
+      <workItem from="1690351910065" duration="635000" />
+      <workItem from="1690454738005" duration="183000" />
+      <workItem from="1690521908921" duration="12025000" />
+      <workItem from="1690686961644" duration="10926000" />
+      <workItem from="1690769602259" duration="17847000" />
+      <workItem from="1690876066411" duration="8992000" />
+      <workItem from="1690942585810" duration="14055000" />
+      <workItem from="1691030406056" duration="5534000" />
+      <workItem from="1691113709104" duration="12280000" />
+      <workItem from="1691200619803" duration="302000" />
+      <workItem from="1691201093332" duration="131000" />
+      <workItem from="1691202610122" duration="17000" />
+      <workItem from="1691202688305" duration="56000" />
+      <workItem from="1691205235741" duration="11039000" />
+      <workItem from="1691285114625" duration="22062000" />
+      <workItem from="1691545104722" duration="16143000" />
+      <workItem from="1691629242783" duration="11203000" />
+      <workItem from="1691715709335" duration="7557000" />
+      <workItem from="1691974934089" duration="6926000" />
+      <workItem from="1691983238304" duration="1168000" />
+      <workItem from="1692061422035" duration="4268000" />
+      <workItem from="1692148151213" duration="1355000" />
+      <workItem from="1692846067229" duration="79000" />
+      <workItem from="1692854749508" duration="13361000" />
+      <workItem from="1692942840449" duration="11363000" />
+      <workItem from="1693013441555" duration="1461000" />
+      <workItem from="1693460327525" duration="13088000" />
+      <workItem from="1693805774410" duration="8198000" />
+      <workItem from="1693980972041" duration="7613000" />
+      <workItem from="1694068210757" duration="927000" />
+      <workItem from="1702345085314" duration="2000" />
+      <workItem from="1702345107892" duration="604000" />
+      <workItem from="1705930278299" duration="147000" />
+      <workItem from="1705930467552" duration="2000" />
+      <workItem from="1705930528174" duration="14000" />
+      <workItem from="1705930634850" duration="1171000" />
+      <workItem from="1705932205521" duration="28000" />
+      <workItem from="1705932651232" duration="7000" />
+      <workItem from="1705932961862" duration="319000" />
+      <workItem from="1712283620141" duration="3203000" />
+      <workItem from="1712387156938" duration="4521000" />
+      <workItem from="1712391854452" duration="522000" />
+      <workItem from="1712392393272" duration="8061000" />
+      <workItem from="1712495003932" duration="3552000" />
+      <workItem from="1712535839824" duration="557000" />
+      <workItem from="1712843334903" duration="3412000" />
+      <workItem from="1713079225310" duration="9073000" />
+      <workItem from="1713186926759" duration="209000" />
+      <workItem from="1713443403467" duration="7943000" />
+      <workItem from="1713580474263" duration="4729000" />
+      <workItem from="1714919181036" duration="4072000" />
+      <workItem from="1715000945568" duration="298000" />
+      <workItem from="1716291444472" duration="1186000" />
+      <workItem from="1716380271625" duration="7425000" />
+      <workItem from="1716467901295" duration="4576000" />
+      <workItem from="1716815517202" duration="4795000" />
+      <workItem from="1717078170991" duration="2705000" />
+      <workItem from="1718111555182" duration="4096000" />
+      <workItem from="1719800112095" duration="54538000" />
+      <workItem from="1720508282407" duration="172169000" />
+      <workItem from="1723098583052" duration="20345000" />
+      <workItem from="1723188103882" duration="1970000" />
+      <workItem from="1723279439266" duration="333000" />
+      <workItem from="1725268331016" duration="554000" />
+      <workItem from="1727405481602" duration="4177000" />
+      <workItem from="1728436621378" duration="134437000" />
+      <workItem from="1729739922184" duration="6564000" />
+      <workItem from="1730011574606" duration="9903000" />
+      <workItem from="1730646461864" duration="86848000" />
+      <workItem from="1731741860734" duration="122165000" />
+      <workItem from="1733711740567" duration="8041000" />
+      <workItem from="1733725289720" duration="108969000" />
+      <workItem from="1734493104861" duration="11720000" />
+      <workItem from="1734594320776" duration="28668000" />
+    </task>
+    <task id="LOCAL-00001" summary="first time">
+      <created>1713443863591</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713443863591</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first time">
+      <created>1719827085084</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719827085084</updated>
+    </task>
+    <task id="LOCAL-00003" summary="v2">
+      <created>1721648452893</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721648452893</updated>
+    </task>
+    <task id="LOCAL-00004" summary="8.9 生成ppt初步打通">
+      <created>1723197723293</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723197723293</updated>
+    </task>
+    <task id="LOCAL-00005" summary="8.9 生成ppt初步打通">
+      <created>1727406991551</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727406991551</updated>
+    </task>
+    <task id="LOCAL-00006" summary="8.9 生成ppt初步打通&#10;12.20 初步完成">
+      <created>1734704753295</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734704753295</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7071000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first time" />
+    <MESSAGE value="v2" />
+    <MESSAGE value="8.9 生成ppt初步打通" />
+    <MESSAGE value="8.9 生成ppt初步打通&#10;12.20 初步完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.9 生成ppt初步打通&#10;12.20 初步完成" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/docxCompresser2/TextRankModel.py</url>
+          <line>95</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/docxCompresser2/TextRankModel.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/classifier2/Classifier.py</url>
+          <line>158</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/docxParser/CompositeNode.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/docxParser/DocxParser.py</url>
+          <line>239</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/docxParser/DocxParser.py</url>
+          <line>223</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/docxCompresser2/DocxCompresserPlus.py</url>
+          <line>244</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="docx_document.paragraphs[88].part.part.part.styles.element" />
+      </configuration>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/src/docxCompresser2/MooModelSolver.py" line="25">
+        <watch expression="f1" language="Python" />
+      </inline-watch>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/document_xml$evaluate.coverage" NAME="EvaluateModel Coverage Results" MODIFIED="1734532536914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/docxCompresser2" />
+    <SUITE FILE_PATH="coverage/document_xml$Classifier.coverage" NAME="Classifier Coverage Results" MODIFIED="1732452413855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/classifier2" />
+    <SUITE FILE_PATH="coverage/document_xml$main.coverage" NAME="main Coverage Results" MODIFIED="1734667872958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/document_xml$K_means__1_.coverage" NAME="K-means (1) Coverage Results" MODIFIED="1732434991715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/document_xml$K_means.coverage" NAME="K-means Coverage Results" MODIFIED="1732416871429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/clustering" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/user/input/U201812114-姚佳豪-1.《绿色信贷绿色信贷对商业银行信贷风险影响的实证研究》 - 副本/word/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22321">
+          <caret line="400" column="60" lean-forward="false" selection-start-line="400" selection-start-column="60" selection-end-line="400" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/user/input/U201812114-姚佳豪-1.《绿色信贷绿色信贷对商业银行信贷风险影响的实证研究》 - 副本/word/document.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1619">
+          <caret line="12100" column="21" lean-forward="false" selection-start-line="12100" selection-start-column="14" selection-end-line="12100" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/user/input/U201815896-周子乂-1.《数字普惠金融的减贫效应——基于区域经济发展水平不同的实证研究》 - 副本/word/document.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6393">
+          <caret line="23596" column="28" lean-forward="false" selection-start-line="23596" selection-start-column="28" selection-end-line="23596" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/user/input/U201815057-丁璇-1.《高管风险承担与企业ESG的实证研究》 - 副本/word/document.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="17304" column="32" lean-forward="false" selection-start-line="17304" selection-start-column="20" selection-end-line="17304" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

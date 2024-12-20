@@ -1,0 +1,6211 @@
+{
+  "title": "基于消费者需求分析的中国食品企业绿色营销策略实证研究2023218_165520",
+  "children": [
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": false,
+      "part": [],
+      "chosen": false,
+      "text_content": "摘  要",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "随着经济的发展和工业化的进程，人们生活水平不断提高，但同时付出的环境代价也令人堪忧。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "绿色营销就是在这样的背景下兴起的，它强调的是在提升经济发展和利益的同时能够达到可持续发展的要求，经济活动应该降低对环境的污染和威胁，制造出安全和质量可靠的产品。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "中国食品行业的发展迅速，但伴随其中的食品安全问题成为了社会和消费者最关心的话题。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "中国消费者对安全、质量可靠、绿色食品的需求不断增加。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "食品产业的绿色营销趋势日益明显。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本文主要讨论了中国食品产业应该采取怎样的绿色营销策略来满足中国消费者的需求，通过问卷调查、数理统计的实证研究，调查并分析了中国消费者对目前中国食品产业的满意度及对绿色食品的需求，基于此提出中国食品产业绿色营销策略的建议。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "文章首先介绍了国内外绿色营销的发展现状和研究成果，分析了目前中国食品产业的现状及存在的问题。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "文献综述部分是对传统营销和绿色营销的对比分析，绿色营销概念的形成，与其他消费者相比，绿色消费者的特点其消费倾向；及目前绿色营销主要的策略，包括防御性营销和主动性营销，根据营销策略将企业分为极端环保、防御环保、灰度环保及偏向环保。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "问卷是本文收集消费者对食品企业绿色营销的倾向性的主要手段。借助"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "SPSS16.0，作者采用了信度分析、因子分析、聚类分析及交叉列表分析，对问卷的结果进行了数理统计分析。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "主要结论包括消费者对目前食品产业的满意度及对绿色食品的消费意向，基于因子分析，测试了目前消费者的绿色消费倾向；通过聚类分析，将消费者做进一步的市场细分，并得出相关的人口特征；最后基于消费者对绿色食品的产品特性、价格、购买地点及促销方式的偏好，分析了我国食品产业在进行绿色营销时的营销组合。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "关键字： 绿色营销；食品企业；营销策略；消费者需求   "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": false,
+      "part": [],
+      "chosen": false,
+      "text_content": "References",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Amanda, &amp;Min, Chunghan. (2010). Growing Green Market in China, Asia-Pacific Business and Technology Report. http: //www. biztechreport. com/story/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "922-growing-green-market-china."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Arminda, M., &amp; Mario Lino Barata Raposo. (2010). Green Consumer Market Segmentation: Empirical Findings from Portugal. International Journal of Consumer Studies, Vol 34, 429-436."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Belz, F. M. (2008). Marketing in the age of sustainable development. In System Innovation for Sustainability-Perspectives on Radical Changes to Sustainable Consumption and Production, Tukker A et al. (eds). Greenleaf: Sheffield;114–135."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Belz, Frank-Martin, &amp; Schmidt-Riediger, Birte. (2010). Marketing Strategies in the Age of Sustainable Development: Evidence from the Food Industry. Business Strategy and the Environment, I9, pp 401-416."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Bradley, N. (1989). The Green Marketing Mix. Industrial Marketing Research Association News, December, 1989, pp.8-9."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Chamorro, Antonio, &amp; Rubio, Sergio, &amp; Miranda, Francisco J. (2009). Characteristics of Research on Green Marketing. Business Strategy and the Environment, I8 223-239."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Coddington, W. (1993). Environmental Marketing: Positive Strategies for Reaching the Green Consumer, New York, McGraw-Hill."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Dellinger, A. B. &amp; Leech, N. L. (2007). Toward a Unified Validation Framework in Mixed Methods Research. Journal of Mixed Methods Research, Vol. 1, No. 4, 309-332."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Fan, Haofu., &amp; Lin Zeng (2011). Implementation of Green Marketing Strategy in China-A Study of the Green Food Industry. Master Thesis in Business Administration, University of Gävle."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Fuller, D. (1999). Sustainable Marketing: Managerial–Ecological Issues, Thousand"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Oaks, CA, Sage."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "George, D., &amp; Mallery, P. (2003). SPSS for Windows step by step: A simple guide and"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": false,
+      "part": [],
+      "chosen": false,
+      "text_content": "Reference. 11.0 update (4th ed.). Boston: Allyn &amp; Bacon.",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Ginsberg, J. M. and Bloom, P. N. (2004) Choosing the Right Green Marketing Strategy,"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "MIT Sloan Management Review, Vol. 46 No. 1, pp.79‐84."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Glorieux-Boutonnat, A. (2004) Can the environment help boost your marketing. The Australian Journal of Dairy Technology, Vol. 59 No. 2."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Grant, J. (2007). The Green Marketing Manifesto, England, John Wiley &amp; Sons Ltd Hartmann, P. and Ibanez, V. A. (2006). Green value added. Marketing Intelligence &amp;"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Planning, Vol. 24 Iss: 7, pp.673-680."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Henion, K., &amp; Kinnear, T. (1976). A guide to ecological marketing. In Ecological Marketing(eds by K. Henion&amp;T. Kinnear), AMA, Columbus, OH."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Kotler, P. (1998). Marketing Management - Analysis, Planning, Implementation, and Control. 9th Edition, Englewood Cliffs: Prentice‐Hall."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Kotler, Philip &amp; Keller, L. Kevin (2012). Marketing Management 14e. Pearson Education Limited 2012."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Kotler, Philip., &amp; Armstrong, Gary. (2009). Principles of Marketing, Pearson Education. Louis E. Boone, David L. Kurtz. (2010). Contemporary Business, John Wiley &amp; Sons."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Mainieri, T. &amp; Barnett, E. (1997) Green buying: the influence of environmental concern on consumer behaviour. Journal of Social Psychology, 137, 189–204."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "McDaniel, S. W. and Rylander, D. H. (1993) Strategic green marketing. Journal of Consumer Marketing, Vol. 10 Iss: 3, pp.4-10."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Mitchell, R. W., Wooliscroft, B., &amp; Higham, J. (2010). Sustainable market orientation: A new approach to managing marketing strategy. Journal of Macromarketing, 20(2),160–170."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Mostafa, M. (2007) Gender differences in Egyptian consumers' green purchase behaviour: the effects of environmental knowledge, concern and attitude. International Journal of Consumer Studies, 31, 220–229."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Ottman, J. A. (1993) Green Marketing: Challenges &amp; Opportunities for the New Marketing Age, Chicago, NTC Publishing Group."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Ottman, J. A. (2008) The Five Simple Rules of Green Marketing. Design Management Review, Vol. 19 Iss: 4, pp.65–69."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Ottman, J. A. (1998). Green Marketing: Opportunity for Innovation, Book Surge Publishing."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Ottman, J., &amp; Terry, V. (1998) Strategic Marketing of Greener Products. Journal of Sustainable Product Design, Issue 5, April 1998: 53-57."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Ottman, J. A. (2011). The new rules of green marketing: strategies, tools, and inspiration for sustainable branding. San Francisco, Calif.: Berrett-Koehler Publishers."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Peattie, K. &amp; Charter, M. (1997) Green marketing. In Green Management (eds by P. McDonagh &amp; A. Prothero), pp. 388–412. The Dryden Press, London."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Peattie, K. (2001) Golden goose or wild gooseThehuntforthegreenconsumer."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Business Strategy and the Environment, Vol. 10 Iss: 4, pp.187–199."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Polonsky, M. J. and Mintu‐Wimsatt, A. T. (1995). Environmental marketing: strategies, practice, theory, and research. New York: Haworth."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Polonsky, M. J. and Rosenberger, P. J. III (2001). Reevaluating green marketing: a strategic approach. Business Horizons, Vol. 44 No. 5, pp.21‐30."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Prakash, A. (2002) Green marketing, public policy and managerial strategies. Business Strategy and the Environment, Vol. 11 Iss: 5, pp.285–297."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Queensland Government (2006) Green Marketing: The competitive advantage of sustainability, Queensland Government Environmental Protection Agency, March, 2006."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Research Report on Chinese Food Industry, 2008-2009. http: // www. prlog. org/10366758-research-report-on-chinese-food-industry-20082009. html."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Roper ASW. (2002). Green Gauge Report. New York: Roper ASW."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Saxena, Rajan. (2009). Marketing Management. 1st edition, Tata-Mc Grow-Hill Pub."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "New-Delhi. Co. ltd, pp 657."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Sharma, A., Iyer, G. R., Mehrotrac, A., &amp; Krishnana, R. (2008). Sustainability and business-to-business marketing: A framework and implications. Industrial Marketing Management. Retrieved October 21, 2010, from http: //www. gbconference. com/files/sdarticle01. pdf."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Silverman, D. (2002) Interpreting Qualitative Data–Methods for analyzing talk, text"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "And interaction, 2nd edition, London: SAGE Publications Ltd."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Simintiras, A., Schlegelmilch, B., &amp; Diamantopoulos, A. (1994) Greening the marketing mix: a review of the literature and an agenda for future research. In Perspectives on Marketing Management, Vol.4 (ed. by M. Baker), pp.1–25."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Simula, H., Lehtimäki T., &amp; Salo, J. (2009). Managing greenness in technology marketing. Journal of Systems and Information Technology, Vol. 11 Iss: 4, pp.331"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "‐346."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Stanton, W. J. &amp; Futrell, C. (1987). Fundamentals of Marketing, New York, McGraw‐Hill."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Teng, Bo. (2007). The Problems of Chinese Enterprises' Product Strategy in Green Marketing. Qing Dao University PHD Dissertation."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Varey, R. J. (2010). Marketing means and ends for a sustainable society: A welfare agenda for transformative change. Journal of Macromarketing, 30(2),112–126."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "风笑天(Feng Xiaotian). （2009）.社会学研究方法. 北京：中国人民大学出版社."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "顾肠(Gu Yang). （2004）. 我国绿色营销理论与实践十年回顾，《经济纵横》，第7期，"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "P61-63."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "姜慧萍(Jiang Huiping)，&amp;李国津(Li Guojin). (2007)绿色营销中的博弈分析. 内蒙古：内蒙古科技出版社, 44-46."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "李世宗(Li Shizong). （2008）.绿色营销绩效改善方法探析[J].湖北财经高等专科学校学报，6: 12-15."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "沈荣根(Shen Rongen).（1998）绿色营销管理.上海：复旦大学出版社."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "万后芬(Wang Houfeng). （2001）.绿色营销.北京：高等教育出版社."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "王爱民(Wang Aiming). （2003）. 绿色营销创新的理论研究——基于环境经济学与可持续发展理论. 武汉理工大学硕士学位论文."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "王博(Wang Bo). （2007）我国食品生产企业绿色营销策略研究. 对外经贸大学工商管理硕士学位论文."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "王淑芬(Wang Shufeng). (2007). 应用统计学. 北京：北京大学出版社."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "魏明侠(Mei Mingxia). （2002）.绿色营销的机理与绩效评价研究. 武汉理工大学博士学位论文."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": false,
+      "part": [],
+      "chosen": false,
+      "text_content": "摘  要",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "随着经济的发展和工业化的进程，人们生活水平不断提高，但同时付出的环境代价也令人堪忧。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "绿色营销就是在这样的背景下兴起的，它强调的是在提升经济发展和利益的同时能够达到可持续发展的要求，经济活动应该降低对环境的污染和威胁，制造出安全和质量可靠的产品。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "中国食品行业的发展迅速，但伴随其中的食品安全问题成为了社会和消费者最关心的话题。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "中国消费者对安全、质量可靠、绿色食品的需求不断增加。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "食品产业的绿色营销趋势日益明显。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本文主要讨论了中国食品产业应该采取怎样的绿色营销策略来满足中国消费者的需求，通过问卷调查、数理统计的实证研究，调查并分析了中国消费者对目前中国食品产业的满意度及对绿色食品的需求，基于此提出中国食品产业绿色营销策略的建议。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "文章首先介绍了国内外绿色营销的发展现状和研究成果，分析了目前中国食品产业的现状及存在的问题。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "文献综述部分是对传统营销和绿色营销的对比分析，绿色营销概念的形成，与其他消费者相比，绿色消费者的特点其消费倾向；及目前绿色营销主要的策略，包括防御性营销和主动性营销，根据营销策略将企业分为极端环保、防御环保、灰度环保及偏向环保。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "问卷是本文收集消费者对食品企业绿色营销的倾向性的主要手段。借助"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "SPSS16.0，作者采用了信度分析、因子分析、聚类分析及交叉列表分析，对问卷的结果进行了数理统计分析。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "主要结论包括消费者对目前食品产业的满意度及对绿色食品的消费意向，基于因子分析，测试了目前消费者的绿色消费倾向；通过聚类分析，将消费者做进一步的市场细分，并得出相关的人口特征；最后基于消费者对绿色食品的产品特性、价格、购买地点及促销方式的偏好，分析了我国食品产业在进行绿色营销时的营销组合。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "关键字： 绿色营销；食品企业；营销策略；消费者需求   "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": false,
+      "part": [],
+      "chosen": false,
+      "text_content": "References",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Amanda, &amp;Min, Chunghan. (2010). Growing Green Market in China, Asia-Pacific Business and Technology Report. http: //www. biztechreport. com/story/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "922-growing-green-market-china."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Arminda, M., &amp; Mario Lino Barata Raposo. (2010). Green Consumer Market Segmentation: Empirical Findings from Portugal. International Journal of Consumer Studies, Vol 34, 429-436."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Belz, F. M. (2008). Marketing in the age of sustainable development. In System Innovation for Sustainability-Perspectives on Radical Changes to Sustainable Consumption and Production, Tukker A et al. (eds). Greenleaf: Sheffield;114–135."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Belz, Frank-Martin, &amp; Schmidt-Riediger, Birte. (2010). Marketing Strategies in the Age of Sustainable Development: Evidence from the Food Industry. Business Strategy and the Environment, I9, pp 401-416."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Bradley, N. (1989). The Green Marketing Mix. Industrial Marketing Research Association News, December, 1989, pp.8-9."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Chamorro, Antonio, &amp; Rubio, Sergio, &amp; Miranda, Francisco J. (2009). Characteristics of Research on Green Marketing. Business Strategy and the Environment, I8 223-239."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Coddington, W. (1993). Environmental Marketing: Positive Strategies for Reaching the Green Consumer, New York, McGraw-Hill."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Dellinger, A. B. &amp; Leech, N. L. (2007). Toward a Unified Validation Framework in Mixed Methods Research. Journal of Mixed Methods Research, Vol. 1, No. 4, 309-332."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Fan, Haofu., &amp; Lin Zeng (2011). Implementation of Green Marketing Strategy in China-A Study of the Green Food Industry. Master Thesis in Business Administration, University of Gävle."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Fuller, D. (1999). Sustainable Marketing: Managerial–Ecological Issues, Thousand"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Oaks, CA, Sage."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "George, D., &amp; Mallery, P. (2003). SPSS for Windows step by step: A simple guide and"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": false,
+      "part": [],
+      "chosen": false,
+      "text_content": "Reference. 11.0 update (4th ed.). Boston: Allyn &amp; Bacon.",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Ginsberg, J. M. and Bloom, P. N. (2004) Choosing the Right Green Marketing Strategy,"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "MIT Sloan Management Review, Vol. 46 No. 1, pp.79‐84."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Glorieux-Boutonnat, A. (2004) Can the environment help boost your marketing. The Australian Journal of Dairy Technology, Vol. 59 No. 2."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Grant, J. (2007). The Green Marketing Manifesto, England, John Wiley &amp; Sons Ltd Hartmann, P. and Ibanez, V. A. (2006). Green value added. Marketing Intelligence &amp;"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Planning, Vol. 24 Iss: 7, pp.673-680."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Henion, K., &amp; Kinnear, T. (1976). A guide to ecological marketing. In Ecological Marketing(eds by K. Henion&amp;T. Kinnear), AMA, Columbus, OH."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Kotler, P. (1998). Marketing Management - Analysis, Planning, Implementation, and Control. 9th Edition, Englewood Cliffs: Prentice‐Hall."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Kotler, Philip &amp; Keller, L. Kevin (2012). Marketing Management 14e. Pearson Education Limited 2012."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Kotler, Philip., &amp; Armstrong, Gary. (2009). Principles of Marketing, Pearson Education. Louis E. Boone, David L. Kurtz. (2010). Contemporary Business, John Wiley &amp; Sons."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Mainieri, T. &amp; Barnett, E. (1997) Green buying: the influence of environmental concern on consumer behaviour. Journal of Social Psychology, 137, 189–204."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "McDaniel, S. W. and Rylander, D. H. (1993) Strategic green marketing. Journal of Consumer Marketing, Vol. 10 Iss: 3, pp.4-10."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Mitchell, R. W., Wooliscroft, B., &amp; Higham, J. (2010). Sustainable market orientation: A new approach to managing marketing strategy. Journal of Macromarketing, 20(2),160–170."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Mostafa, M. (2007) Gender differences in Egyptian consumers' green purchase behaviour: the effects of environmental knowledge, concern and attitude. International Journal of Consumer Studies, 31, 220–229."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Ottman, J. A. (1993) Green Marketing: Challenges &amp; Opportunities for the New Marketing Age, Chicago, NTC Publishing Group."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Ottman, J. A. (2008) The Five Simple Rules of Green Marketing. Design Management Review, Vol. 19 Iss: 4, pp.65–69."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Ottman, J. A. (1998). Green Marketing: Opportunity for Innovation, Book Surge Publishing."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Ottman, J., &amp; Terry, V. (1998) Strategic Marketing of Greener Products. Journal of Sustainable Product Design, Issue 5, April 1998: 53-57."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Ottman, J. A. (2011). The new rules of green marketing: strategies, tools, and inspiration for sustainable branding. San Francisco, Calif.: Berrett-Koehler Publishers."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Peattie, K. &amp; Charter, M. (1997) Green marketing. In Green Management (eds by P. McDonagh &amp; A. Prothero), pp. 388–412. The Dryden Press, London."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Peattie, K. (2001) Golden goose or wild gooseThehuntforthegreenconsumer."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Business Strategy and the Environment, Vol. 10 Iss: 4, pp.187–199."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Polonsky, M. J. and Mintu‐Wimsatt, A. T. (1995). Environmental marketing: strategies, practice, theory, and research. New York: Haworth."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Polonsky, M. J. and Rosenberger, P. J. III (2001). Reevaluating green marketing: a strategic approach. Business Horizons, Vol. 44 No. 5, pp.21‐30."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Prakash, A. (2002) Green marketing, public policy and managerial strategies. Business Strategy and the Environment, Vol. 11 Iss: 5, pp.285–297."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Queensland Government (2006) Green Marketing: The competitive advantage of sustainability, Queensland Government Environmental Protection Agency, March, 2006."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Research Report on Chinese Food Industry, 2008-2009. http: // www. prlog. org/10366758-research-report-on-chinese-food-industry-20082009. html."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Roper ASW. (2002). Green Gauge Report. New York: Roper ASW."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Saxena, Rajan. (2009). Marketing Management. 1st edition, Tata-Mc Grow-Hill Pub."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "New-Delhi. Co. ltd, pp 657."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Sharma, A., Iyer, G. R., Mehrotrac, A., &amp; Krishnana, R. (2008). Sustainability and business-to-business marketing: A framework and implications. Industrial Marketing Management. Retrieved October 21, 2010, from http: //www. gbconference. com/files/sdarticle01. pdf."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Silverman, D. (2002) Interpreting Qualitative Data–Methods for analyzing talk, text"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "And interaction, 2nd edition, London: SAGE Publications Ltd."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Simintiras, A., Schlegelmilch, B., &amp; Diamantopoulos, A. (1994) Greening the marketing mix: a review of the literature and an agenda for future research. In Perspectives on Marketing Management, Vol.4 (ed. by M. Baker), pp.1–25."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Simula, H., Lehtimäki T., &amp; Salo, J. (2009). Managing greenness in technology marketing. Journal of Systems and Information Technology, Vol. 11 Iss: 4, pp.331"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "‐346."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Stanton, W. J. &amp; Futrell, C. (1987). Fundamentals of Marketing, New York, McGraw‐Hill."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Teng, Bo. (2007). The Problems of Chinese Enterprises' Product Strategy in Green Marketing. Qing Dao University PHD Dissertation."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Varey, R. J. (2010). Marketing means and ends for a sustainable society: A welfare agenda for transformative change. Journal of Macromarketing, 30(2),112–126."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "风笑天(Feng Xiaotian). （2009）.社会学研究方法. 北京：中国人民大学出版社."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "顾肠(Gu Yang). （2004）. 我国绿色营销理论与实践十年回顾，《经济纵横》，第7期，"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "P61-63."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "姜慧萍(Jiang Huiping)，&amp;李国津(Li Guojin). (2007)绿色营销中的博弈分析. 内蒙古：内蒙古科技出版社, 44-46."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "李世宗(Li Shizong). （2008）.绿色营销绩效改善方法探析[J].湖北财经高等专科学校学报，6: 12-15."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "沈荣根(Shen Rongen).（1998）绿色营销管理.上海：复旦大学出版社."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "万后芬(Wang Houfeng). （2001）.绿色营销.北京：高等教育出版社."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "王爱民(Wang Aiming). （2003）. 绿色营销创新的理论研究——基于环境经济学与可持续发展理论. 武汉理工大学硕士学位论文."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "王博(Wang Bo). （2007）我国食品生产企业绿色营销策略研究. 对外经贸大学工商管理硕士学位论文."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "王淑芬(Wang Shufeng). (2007). 应用统计学. 北京：北京大学出版社."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "魏明侠(Mei Mingxia). （2002）.绿色营销的机理与绩效评价研究. 武汉理工大学博士学位论文."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": false,
+      "part": [],
+      "chosen": false,
+      "text_content": "Appendix",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "中国消费者对绿色食品需求调查"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "非常感谢您参与此次的问卷调查。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "该问卷共三部分，47道题，大概需要5分钟左右的时间。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "问卷结果只作为学术研究数据，不涉及个人信息。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "如果您对此次问卷调查的结果感兴趣，请在问卷后留下您的邮箱。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "您的："
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1. 性别A男B 女"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2. 居住地（城市名） "
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "3. 年龄"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 18-25      B 26-30      C 31-40      D 31-50      E 51-60 F 60以 上"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "4. 教育背景"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A高中 B大专本科 C研究生 D博士 E海外留学 F其他"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "5. 收入水平（月收入，人民币）"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 2000 以下 B 2000- 3500    C 3500-6000    D 6000-8000      E 8000-10000    F"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "10000以上"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "6. 您对目前我国食品产业的满意程度"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A非常不满意B不满意C一般D满意E非常满意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "7. 您购买食品时，最关心食品的"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A品牌信誉B食品配料C产品标准或认证D价格E其他"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "8. 食品安全事故是否会影响您购买绿色食品？"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A会B不会"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "9. 您是否购买过绿色食品"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A是（请回答10 &amp; 11）B否(请回答12)"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "10. 您购买绿色食品的频率是"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A每天B每周C经常但不确定频率D不经常（请回答12）"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "11. 促使您购买绿色食品的原因"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A产品质量可靠"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "B企业品牌影响力"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "C购买的人多"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "D礼品"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "E响应和促进食品安全宣传"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "F好奇"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "G其他"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "12. 您不购买绿色食品的原因"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A绿色食品安全也不一定可靠"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "B价格过高"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "C 可选择种类少"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "D购买不方便"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "E品牌知名度低"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "F不感兴趣"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "G其他"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "第二部分对于下面的描述，您的态度是"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1. 我购买食品时检查是否有绿色标志"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2. 我不会购买有信誉风险的企业的食品"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "3. 我会尽量购买绿色食品"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "4. 我对关于绿色食品产业的报道感兴趣"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "5. 我赞同绿色食品企业的绿色理念"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "6. 我愿意资助推动绿色食品发展的活动或宣传"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "7. 我参加过推动绿色食品发展得活动或宣传"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "8. 我建议朋友家人购买绿色食品"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "9. 我非常关心食品质量"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "10. 我非常关心食品产业的发展"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "11. 食品安全问题让人愤怒"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "12. 食品安全问题是企业过来不善的责任"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "13. 食品安全问题是政府监控不利的后果"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "14. 食品安全问题反应了消费者影响力不足"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "15. 食品安全问题并不严重"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "第三部分以下关于绿色食品的描述，您的态度是"
+            }
+          ]
+        },
+        {
+          "type": 3,
+          "outLvl": "",
+          "score": 1,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "table_data": "[['1.  食品质量安全最重要', '', '', '', '', ''], ['A 非常不同意2.  食品配方最重要', 'B', '不同意', 'C一般', 'D同意', 'E非常同意'], ['A 非常不同意3.  食品营养价值最重要', 'B', '不同意', 'C一般', 'D同意', 'E非常同意'], ['A 非常不同意4.  食品味道最重要', 'B', '不同意', 'C一般', 'D同意', 'E非常同意'], ['A 非常不同意5.  食品生产技术最重要', 'B', '不同意', 'C一般', 'D同意', 'E非常同意'], ['A 非常不同意', 'B', '不同意', 'C一般', 'D同意', 'E非常同意']]"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "6. 食品生产环境可靠最重要"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "7. 我愿意支付更高的价格来购买绿色安全食品"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "8. 我愿意支付绿色食品消费税"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "9. 绿色食品价格不一定要比普通食品高"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "10. 绿色食品包装不够易于辨识"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "11. 食品包装保证食品安全最重要"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "12. 目前的食品广告可信度低"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "13. 绿色食品的宣传可信度低"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "14. 绿色标志可信度高"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "15. 绿色标志只是宣传手段"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "16. 食品生产企业应开展绿色宣传"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "17. 保证在食品的分销和运输过程中的质量安全"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "18. 超市或市场应设立绿色食品专区"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "19. 绿色食品应开设独立的门市"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "20. 目前绿色食品分销点的数量能够满足我的需求"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "A 非常不同意B  不同意C一般D同意E非常同意"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Questionnaire for Chinese Consumer Needs for Green Food"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "First Part"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1. Gender(A) Male(B) Female"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2. Living city "
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "3. Age"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（A）18-25(B) 26-30(C) 31-40(D) 31-50(E) 51-60(F) above 60"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "4. Educational background"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（A）High school(B) Bachelor (C) Master(D) Ph. D(E) Degree abroad"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（F）Other"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "5. Income monthly (RMB)"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（A）Below 2000(B) 2000-3500 (C) 3500-6000 (D) 6000-8000"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（E）8000-10000 (F) above 10000"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "6. To what extent Chinese food industry satisfy your needs"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（A）very dissatisfied (B) dissatisfied (C) Neutral (D) Satisfied (E) Very satisfied"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "7. When you are buying food, what you care most"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（A）brand reputation (B) ingredients (C) production standards and certification"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（D）price (E) other"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "8. Food security scandal will impact your decision of buying green food?"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（A）Yes (B) No"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "9. Have you ever bought green food"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（A）Yes  (please jump to Q10 &amp; 11) (B) No(Please jump to Q12)"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "10. How often you will buy green food"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（A）each day (B) each week (C) many time but not sure the frequency (D) Not so often(Please jump to Q12)"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "11. What is the main reason you choose green food"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（A）Reliable quality"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（B）Company image (C) Many other people bought"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（D）Just for gifts"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（E）As response to propaganda of green marketing"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（F）Out of curiosity"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（G）Others"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "12. The main reason you do not choose green food"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（A）The quality is not necessarily reliable"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（B）Price is too high"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（C）Less product diversity and less choice"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（D）Inconvenience of buying"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（E）Low recognition of the brand"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（F）Not interested"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（G）Others"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Second Part"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "The answers are from:"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（A）Strongly disagree; (B) disagree; (C) Neutral; (D) Agree; (E) Strongly disagree"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "16. I check green mark when I buy food"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "17. I will never buy products of company which had security scandals"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "18. I make special effort to buy green food"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "19. I am interested in reading reports concerning green food industry"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "20. I support the green marketing ideology of food industry"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "21. I will give money to green food propaganda to promote food industry"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "22. I have participated in activities promoting green food"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "23. I suggest friends and families to buy green food"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "24. I am highly concerned on food quality"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "25. I care the development of food industry"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "26. I become angry with food scandals"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "27. Food safety problem is the result of bad management of company"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "28. Food safety problem is the result of government weak supervision"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "29. Food safety problem reflects consumer power is still not strong enough"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "30. Food safety problem is not so serious"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "The Third Part"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "The answers are from:"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（A）Strongly disagree; (B) disagree; (C) Neutral; (D) Agree; (E) Strongly disagree"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "21. Food quality is the most important"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "22. Food ingredients are the most important"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "23. Food nutrition is the most important"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "24. Food taste is the most important"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "25. Food production technology the most important"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "26. Safe production environment is the most important"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "27. I am willing to pay more for green food"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "28. I am willing to pay tax for green food"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "29. The price of green food is unnecessarily higher than other food products"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "30. The package of green food is not easy enough to recognize"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "31. The most important for food package should ensure safety"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "32. Current advertisements of food are not reliable"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "33. Advertisements for green food are not reliable"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "34. Green food marks are reliable"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "35. Green mark is just marketing method"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "36. Food industry should carry out green marketing"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "37. Food safety should be ensure during distribution and transportation"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "38. There should be special area just for selling green food in supermarkets and food markets"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "39. Independent stores should be opened up for green food"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "40. The number of green food distributors currently can meet my demand."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

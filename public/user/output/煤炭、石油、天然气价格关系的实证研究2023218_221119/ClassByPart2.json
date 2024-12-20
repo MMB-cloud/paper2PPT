@@ -1,0 +1,4363 @@
+{
+  "title": [],
+  "摘要": [],
+  "研究背景": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究背景",
+        "研究目的"
+      ],
+      "chosen": false,
+      "text_content": "1.1 研究背景及意义",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究背景"
+          ],
+          "chosen": false,
+          "text_content": "1.1.1 研究背景",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4699469484597499,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4699469484597499,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "“十三五”规划定调转型清洁能源，注重建立煤矿退出机制，淘汰落后产能，有序引导劣质煤产能退出市场，清洁能源替代石化能源的未来趋势不会改变，而这需要漫长的过程。煤炭是最易开采且最廉价的一次性能源，推动着中国经济数十年的高速发展，短期内我国煤炭消费的绝对量不会减少，煤炭的基础性地位现阶段难以被撼动，例如"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7816592578148944,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2956947506053216,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "2014年美国煤炭消费总量约为8亿吨，中国煤炭消费总量约为36亿吨，是美国的4倍之多，总体上中国消费了超过全球一半的煤炭量。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.48596450720957285,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "即使中国煤炭业连续三年价格跌跌不休，但就中国目前的现状而言，煤炭仍具有举足轻重的地位。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.338827473885632,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.27677210669545493,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "根据国家统计局整理数据显示，2014年中国原油需求突破5亿吨，原油进口和净进口量双双突破3亿吨，我国的石油净进口量位居世界首位，石油供需缺口逐步拉大，对外依存度高达60%，极有可能波及到国民经济的各个方面。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2374975815126236,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "石油是现代化建设中最重要的战略资源之一，是各个国家所重视的战略高地。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.36145320315358864,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而石油的散状式分布、较少的需求价格弹性等特点决定它与众不同的一面。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.46310458252396486,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "目前我国页岩气可采储量较大，是未来的重点开发对象，但仍然处于初级开采阶段，在未来一段时间石油将继续对政治、经济产生重要影响，在国家安全建设方面意义重大。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.168886471692741,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.199784106194384,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "天然气被誉为21世纪的新能源，因其低碳、高能、便捷的优势，已成为众多国家力推的能源。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.339209960639484,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在消费上，2014年全球天然气消费量为33930亿立方米，消费量最大的国家为美国，约7500亿立方米，占全球消费总量的22.7%，我国天然气消费总量为1800亿立方米，同比增长7.4%，产销量连续多年保持同比增长，进口天然气500多亿立方米，对外依存度为32%左右。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.23587909294932802,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "根据国务院办公厅印发的2014至2020年能源发展战略行动规划，2020年天然气消费比重需达到10%以上，相当于3600亿立方米；常规国产天然气、煤层气、页岩气实目标2450亿立方米，对外依存度缩减到32%以内。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.39401331190954514,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "非常规天然气页岩气是未来的重点开采对象，天然气在我国能源结构中将占据愈加突出的位置。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6574133333345834,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6574133333345834,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "纵观国内与国际两个维度，在一次能源消费结构中，煤炭、石油、天然气都占据关键位置，对世界经济结构产生巨大影响。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究目的"
+          ],
+          "chosen": false,
+          "text_content": "1.1.2 研究意义",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 2.026794084665244,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4818561731799223,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "随着我国经济改革深层次推进，煤炭机制改革应运而生，煤炭价格改革逐步迈向市场化。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.447537724584975,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "十八届三中全会定调市场在资源配置中起决定作用，我国煤炭价格形成机制向基本市场化靠拢，市场规律已成为煤炭资源配置的重要参考标准。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.45984585909046793,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在未来一段时间内，尽管绿色低碳的发展理念已深入人心，煤炭的基础性短期内难以被撼动，煤炭对于中国经济的发展意义非凡，作为世界上最大的煤炭生产国、消费国和进口国，短期内煤炭依然是我国能源结构的主角之一。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6375543278098786,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "所以，研究国内与国外煤炭价格波动，对于促进我国煤炭工业的发展，完善国内煤炭政策制度，促进经济的可持续发展，都有着重要的现实意义。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.1187379651679343,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1619469972458184,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "能源供给，2014中国GDP同比增长7.3%，褪去以往的高速增长节奏，中国经济已步入相对缓慢的中高速增长阶段，下行压力与日俱增。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4244131896941425,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在提质增效、爬坡过坎的新时期，我国石油对外依存度屡创新高，这无疑释放着某种危险信号，不利于中国经济的可持续发展、全面建设小康社会的实现。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5323777782279735,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "研究国内外石油价格的波动，对于保障我国石油的供给安全，避免经济的硬着陆，促进“十三五规划”的全面协调发展，具有重要的战略意义。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.85502478709903,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "境污染问题。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3169483884766316,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "目前，我国加大对天然气的开发力度，非常规天然气岩页气是国家重点推广对象，结合具体国情高瞻远瞩，实行战略性工程“西气东输”，天然气需求呈现较快增长，但在我国一次能源消费量中占比仍然微弱，不足5%，这与世界23.7%的占比水平有很大的差距。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5380763986223983,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "因此，研究国内外天然气价格，对于保障我国天然气供应安全、调整消费结构、提高利用效率的重要性不言而喻。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.5573779852077567,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8559896203799752,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "煤炭、石油和天然气具有替代关系，研究三者之间的价格关系，有助于厘清具体的动态关联，助推能源结构优化，并为我国能源价格市场化改革以及应对国际能源价格冲击等方面提供实证依据，中国作为全球第二大经济体，每一次跨越都离不开充足的能源供给支撑，而煤炭、石油、天然气行业作为中国的基础性产业，在经济发展中具有很强的敏感性，对交通运输、化工制品、机械制造等行业，甚至整个国民经济都有较大的联动效应，可谓“牵一发而动全身”。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7013883648277816,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "因此，有必要对国内外煤炭、石油、天然气价格波动进行深入的研究，助推中国经济的可持续发展，为实现“两个一百年”奋斗目标添砖加瓦，2021年实现全面建成小康社会，2049年建设成社会主义现代化国家。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究目的": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究背景",
+        "研究目的"
+      ],
+      "chosen": false,
+      "text_content": "1.1 研究背景及意义",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究背景"
+          ],
+          "chosen": false,
+          "text_content": "1.1.1 研究背景",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4699469484597499,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4699469484597499,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "“十三五”规划定调转型清洁能源，注重建立煤矿退出机制，淘汰落后产能，有序引导劣质煤产能退出市场，清洁能源替代石化能源的未来趋势不会改变，而这需要漫长的过程。煤炭是最易开采且最廉价的一次性能源，推动着中国经济数十年的高速发展，短期内我国煤炭消费的绝对量不会减少，煤炭的基础性地位现阶段难以被撼动，例如"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7816592578148944,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2956947506053216,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "2014年美国煤炭消费总量约为8亿吨，中国煤炭消费总量约为36亿吨，是美国的4倍之多，总体上中国消费了超过全球一半的煤炭量。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.48596450720957285,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "即使中国煤炭业连续三年价格跌跌不休，但就中国目前的现状而言，煤炭仍具有举足轻重的地位。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.338827473885632,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.27677210669545493,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "根据国家统计局整理数据显示，2014年中国原油需求突破5亿吨，原油进口和净进口量双双突破3亿吨，我国的石油净进口量位居世界首位，石油供需缺口逐步拉大，对外依存度高达60%，极有可能波及到国民经济的各个方面。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2374975815126236,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "石油是现代化建设中最重要的战略资源之一，是各个国家所重视的战略高地。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.36145320315358864,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而石油的散状式分布、较少的需求价格弹性等特点决定它与众不同的一面。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.46310458252396486,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "目前我国页岩气可采储量较大，是未来的重点开发对象，但仍然处于初级开采阶段，在未来一段时间石油将继续对政治、经济产生重要影响，在国家安全建设方面意义重大。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.168886471692741,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.199784106194384,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "天然气被誉为21世纪的新能源，因其低碳、高能、便捷的优势，已成为众多国家力推的能源。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.339209960639484,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在消费上，2014年全球天然气消费量为33930亿立方米，消费量最大的国家为美国，约7500亿立方米，占全球消费总量的22.7%，我国天然气消费总量为1800亿立方米，同比增长7.4%，产销量连续多年保持同比增长，进口天然气500多亿立方米，对外依存度为32%左右。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.23587909294932802,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "根据国务院办公厅印发的2014至2020年能源发展战略行动规划，2020年天然气消费比重需达到10%以上，相当于3600亿立方米；常规国产天然气、煤层气、页岩气实目标2450亿立方米，对外依存度缩减到32%以内。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.39401331190954514,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "非常规天然气页岩气是未来的重点开采对象，天然气在我国能源结构中将占据愈加突出的位置。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6574133333345834,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6574133333345834,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "纵观国内与国际两个维度，在一次能源消费结构中，煤炭、石油、天然气都占据关键位置，对世界经济结构产生巨大影响。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究目的"
+          ],
+          "chosen": false,
+          "text_content": "1.1.2 研究意义",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 2.026794084665244,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4818561731799223,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "随着我国经济改革深层次推进，煤炭机制改革应运而生，煤炭价格改革逐步迈向市场化。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.447537724584975,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "十八届三中全会定调市场在资源配置中起决定作用，我国煤炭价格形成机制向基本市场化靠拢，市场规律已成为煤炭资源配置的重要参考标准。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.45984585909046793,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在未来一段时间内，尽管绿色低碳的发展理念已深入人心，煤炭的基础性短期内难以被撼动，煤炭对于中国经济的发展意义非凡，作为世界上最大的煤炭生产国、消费国和进口国，短期内煤炭依然是我国能源结构的主角之一。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6375543278098786,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "所以，研究国内与国外煤炭价格波动，对于促进我国煤炭工业的发展，完善国内煤炭政策制度，促进经济的可持续发展，都有着重要的现实意义。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.1187379651679343,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1619469972458184,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "能源供给，2014中国GDP同比增长7.3%，褪去以往的高速增长节奏，中国经济已步入相对缓慢的中高速增长阶段，下行压力与日俱增。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4244131896941425,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在提质增效、爬坡过坎的新时期，我国石油对外依存度屡创新高，这无疑释放着某种危险信号，不利于中国经济的可持续发展、全面建设小康社会的实现。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5323777782279735,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "研究国内外石油价格的波动，对于保障我国石油的供给安全，避免经济的硬着陆，促进“十三五规划”的全面协调发展，具有重要的战略意义。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.85502478709903,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "境污染问题。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3169483884766316,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "目前，我国加大对天然气的开发力度，非常规天然气岩页气是国家重点推广对象，结合具体国情高瞻远瞩，实行战略性工程“西气东输”，天然气需求呈现较快增长，但在我国一次能源消费量中占比仍然微弱，不足5%，这与世界23.7%的占比水平有很大的差距。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5380763986223983,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "因此，研究国内外天然气价格，对于保障我国天然气供应安全、调整消费结构、提高利用效率的重要性不言而喻。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.5573779852077567,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8559896203799752,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "煤炭、石油和天然气具有替代关系，研究三者之间的价格关系，有助于厘清具体的动态关联，助推能源结构优化，并为我国能源价格市场化改革以及应对国际能源价格冲击等方面提供实证依据，中国作为全球第二大经济体，每一次跨越都离不开充足的能源供给支撑，而煤炭、石油、天然气行业作为中国的基础性产业，在经济发展中具有很强的敏感性，对交通运输、化工制品、机械制造等行业，甚至整个国民经济都有较大的联动效应，可谓“牵一发而动全身”。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7013883648277816,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "因此，有必要对国内外煤炭、石油、天然气价格波动进行深入的研究，助推中国经济的可持续发展，为实现“两个一百年”奋斗目标添砖加瓦，2021年实现全面建成小康社会，2049年建设成社会主义现代化国家。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究综述": [
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": false,
+      "part": [
+        "研究综述"
+      ],
+      "chosen": false,
+      "text_content": "2  国内外研究现状综述",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究综述"
+          ],
+          "chosen": false,
+          "text_content": "2.1 国内研究现状综述",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": true,
+              "part": [
+                "研究综述"
+              ],
+              "chosen": false,
+              "text_content": "2.1.1 煤炭价格研究综述",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 2.5325866151071947,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.28722283172168017,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "吕涛、聂锐[1]从需求拉动、成本推动与国际市场带动三个方面分析了煤炭价格上涨的原因，指出煤炭价格上涨有其合理性和必然性，建议从煤炭产销运存四个环节建立长效机制。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.39416447890340167,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "蔡鑫磊[2]认为世界煤炭贸易体系的复杂性及煤炭与国民经济的有机联系，决定了煤炭价格的复杂多样性，提出建立煤炭价格调节基金、转产发展基金等创新型措施。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5817665398795239,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "袁桂秋、张玲丹[3]从下游产业对煤炭的需求角度，分析某些因素对煤炭价格的影响程度，并预测了未来煤炭价格的变化趋势。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6196645510085554,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "邹绍辉、张金锁[4]运用Monte Carlo检验和单位根检验方法对煤炭价格变动模型进行了实证研究，结果表明，在一般情况下，几何布郎运动能较好地拟合我国煤炭价格的变化过程；对于突发事件，风险中性跳跃-扩散模型可以较好拟合我国煤炭价格的波动过程。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6497682135940336,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "何慧[5]基于误差修正模型和传递函数模型来研究煤炭价格与下游产业、替代品之间的相互关系，得到的结论与西方经济学中的理论比较吻合，符合一定经济和现实意义。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.8914591748602094,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.08839747892995727,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "GARCH效应，并且具有明显的杠杆效应，但波动不具有GARCH-M效应。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.8030616959302521,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "丁志华、冯猜猜等[7]基于通径分析理论来研究我国煤炭价格波动及其因素，研究表明，煤炭生产量和国内生产总值对煤炭价格的直接与间接影响相差无几。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2.1.2 石油价格研究综述",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.6393880002581849,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.26639187503925343,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "陈淮、邓郁松[8]对我国石油价格形成机制改革提出建设性的意见，认为应建立合理有效的进口石油价格形成机制，运用市场化的风险采购方式，引导油价理性发展。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.34153307101573044,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "焦建玲、余炜彬等[9]认为目前的石油价格还不能真正反映中国石油的供需状况，无法达到有效配置资源的目的，原油作为一种商品，价格构成至少应包括成本、税金、利润三部分，原油、成品油价格应具有合理的比价。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.43278990627632385,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "刘启民[10]在石油定价过渡时期提出石油定价机制改革的几点建议，认为我国石油价格应与国际市场完全接轨，建立周密的财政、税收调节机制及价格联动机制。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.2634267918578964,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "王学栋、孙增芹等[11]论述当前石油价格的种种弊端，现在的价格完全市场化的条件还未成熟，政府仍需加强对石油价格的管控。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.33524635606898057,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "张绍云[12]从石油风险管理的角度，研究分析降低石油风险的建议，利用远期工具、期权工具缓冲风险，减少油价波价给经济发展带来的影响。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.22100042819528204,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.22100042819528204,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "说明中国石油价格波动是一个结构突变的趋势平稳过程，油价波动冲击影响是暂时的，经过一段时间，终会回归到均衡路径。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2.1.3 天然气价格研究综述",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 3.9334650910011275,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6786744578823236,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "在天然气价格研究方面，张玉清、杨清[14]指出天然气价格“双轨制”存在供需矛盾，没有体现买卖双方的权利义务，无法适应市场化的市场，建议政府利用市场净回值方法核查天然气基础价格，逐步实现天然气价格的规范化和市场化。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5583787763635378,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "范秋芳、马扬[15]从现代西方经济学理论的角度，指出我国天然气作为自然垄断行为，目前只允许企业获得较少利润，禁止暴利经营，已不能适应加入WTO后的中国经济发展，只有建立科学合理的比价体系，综合采取出厂价、管输价、终端消费价多元化的定价方式，才能适应天然气市场化的国际趋势。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5520715940798016,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "李志学、彭飞[16]以美国天然气价格管制为视角，剖析美国现行的天然气价格形成和管理机制，文章认为应精减政府管制，完善市场竞争机制，促进我国天然气产业的有序发展。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.579646185138951,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "张航燕[17]通过分析美国、日本、德国等发达国家的天然气价格管理方式，结合我国天然气价格管理存在的价格构成不合理、购销价格比例不合理等问题，建议引入成本倒逼机制、双部定价法。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5762213951093231,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "刘英祥[18]从石油替代、石油安全和天然气发展的战略角度，研究我国天然气从开发、运输与消费的各个环节，应打破区域性垄断，解决天然气税收政策双轨制问题以及天然气合作双轨制问题。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4881186358965932,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "朱渝[19]通过比较天然气成本加成法与市场净回值法，并以粤桂两省天然气价格改革试点情况为例，结合欧盟和俄罗斯市净回值法的基本经验，虽然目前中石化、中石油和中海油三大国有石油公司掌控天然气管道建设销售等环节，从长期发展趋势来看，我国天然气市将日臻成熟，终究会形成天然气供给主体多元化、全国市场一体化的新格局。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5003540465305967,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "董康银、孙仁金等[20]基于天然气产业链的角度，提出我国天然气价格改革构想，国产天然气运用市场净回值法定价，进口天然气用成本加成法定价，引进第三方机构介入天然气产销端，理顺居民用气和非居民用气的关系。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2.1.4 煤炭、石油和天然气价格关系研究综述",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.5787912717912556,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7250183888432852,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在煤炭与石油价格、煤炭与天然气以及石油与天然气价格波动研究方面，国内文献相对较少，治瑞祥[21]提出煤炭石油价格存在的种种问题，煤炭价格偏低、石油缺乏合理的比价。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4318271099254365,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "刁心柯、唐安宝[22]通过格兰杰因果关系检验、Johansen协整检验，建立直接效应模型与状态空间模型，结果表明石油、煤炭价格对改善能源利用效率具有一定的作用。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.421945773022534,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "李长林[23]呼喊油气资源价格改革，解决石油天然气价格偏低的问题，实行优质优价。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.7330631568575516,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7330631568575516,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在煤炭价格、石油价格和天然气价格关系的研究方面，文献也相对较少，陈瑞珍[24]研究分析了能源与经济增长的关系，一次能源煤炭、石油、天然气的供给需要与经济增长紧密相连，进入21世纪，中国的政治、经济、文化等各方面飞速增长，经济实力显著"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.1370229611188014,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.34787664172034205,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "提升，但以煤炭、石油、天然气粗放型利用方式尚未根本改变。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4720961982602821,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "魏臻博[25]以政府角度为视角展开思考，运用责任分析理论分析我国政府在能源构建体系中责任缺失及表现，中国急需建立多元化的能源安全体系，建立煤炭、石油、天然气战略储备，深化与国际的合作，减少对国外能源的依赖。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.31705012113817743,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "齐宝平[26]从宏观层面研究分析节约能源和结构变化的相关理论，通过建立模型，运用多元回归分析方法对社会总节能量，及煤炭、天然气、石油的节约量进行影响因素分析，结果表明：对于煤和电力，技术是关键因素，结构不显著；对于石油和天然气，结构与技术对于节能量全部正相关，提高第二产业技术水平至关重要。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.2 国外研究现状综述",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2.2.1 煤炭价格研究综述",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.5972278663327907,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5972278663327907,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Waright[27]通过研究不同时期中国的政治和经济问题，以此为切入点分析中国的煤炭价格，应从细节建立双重定价体系，加强对煤炭价格的管制，避免通货紧缩。Ling et"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 2.591552132687891,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3626086750916565,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "al. [28]基于博弈模型，研究中国的煤电联动机制，认为关键问题在于电力和中国市场改革，实现煤电联动机制可以电力公司的利润率，增加市场份额。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7442448803234811,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Dong et al. [29]研究了市场中期的行为对长期煤炭价格的影响，预测煤炭价格对中国未来的能源消费结构及私营部门的投资决策至关重要，在煤炭价格估计和预测中，随机变化趋势模型优于ARIMA模型。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4564260220191985,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Yang et al. [30]认为美国天然气价格低，与潜在的燃料能够实现转换，可能推动美国国内煤炭价格更低，但这种效应不太可能抵消全球煤炭消耗增加的趋势；对于中国，在2011年之后，煤炭价格限制引发了广泛的电力短缺，只有加强与全球煤炭和石油价格之间的通信，才能适应中国独特的市场状况。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6026900175345057,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Sun et al[31]讨论了建立在向均数回归过程并结合长期记忆的校准问题能力模型，进行仿真测试的效率研究，分析一系列中国煤炭现货价格在现实生活中的情况。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4255825377190493,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Chen[32]直通检测煤炭价格变化对中国经济的影响，依据GDP平减指数、CPI、PPI，计算出口价格水平变化，结果显示5%－25%的一般价格水平改变是由于实际火炭价格冲击，投资者和外国人大约支付了四分之三的通货膨胀。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2.2.2 石油价格研究综述",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.3419118106893767,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.08417231904500205,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "RogerA et al. [33]考察了石油期货合约交易量与回报的线性和非线性关系，显著的线性、非线性的因果关系检测。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.25773949164437465,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "GrahamA et al. [34]用布伦特石油净价分析成立一个石油生产优化模型的不确定性和生产约束，霍特林估值显示，生产约束和净价格预计不会使利率上升，当前净价和储备水平是充分的统计计算的近似价值储备。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 2.184893874239169,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.38609497886842414,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "al. [35]研究表明，石油价格增长会直接或间接地影响所有的建设项目，对于交通建设有关于的项目影响最大，因为它与石油的紧密联系。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.059373942341279344,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "Amir H et al. [36]使用常数和动态对冲比率，结果显示由于不同地区市场供给与需求因素差异，跨区域市场套期保值效果是不同的。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.36302828537944304,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Robert K et al. [37]使用美国原油和成品油的月度数据分析二者之间价格的不对称关系，这种关系是炼厂产能利用率和库存的行为结果，原油价格之间的非对称关系和家庭取暖有可能是零售商和消费者之间的合约安排，价格不对称可能产生有效的市场，政府并没有理由运用政策干预来减少或消除价格在汽车用油和家庭取暖用油的市场不对称。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.43305644777500635,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Bradley T et al. [38]运用M-TAR模型分析美国石油期货价格和现货价格之间的不对称关系，结果表明，期货和现货价格为每个石油类型共合体时允许非对称调整为每个能源市场。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3748212644348671,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Szymon Wlazlowski et al. [39]分析欧洲石油市场价格水平和垂直的动态变化，结果表明国家之间价格差异对本地价格调整有重大影响，根据跨国价格溢出效应发现，在跨国间由于不对称的价格，福利转移并不如国家之前所宣称的高水平。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5685189554401489,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Fardous Alom et al. [40]使用门限GARCH、指数GARCH模型，样本研究显示：1995至2000年期间，所有未来的价格回报显示持久和非对称的影响冲击波动，但持续的水平和程度不同，由于积极的冲击不能完全补偿负面冲击的影响，政府应采取反周期的政策，确保一个稳定的商业环境。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2.2.3 天然气价格研究综述",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 2.872674263540641,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3381501504136557,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "A. M. Samsan[41]认为2000年是天然气价格的分水岭，就如1973年原油价格的分界线，随着天然气的迅速发展，未来将容易成为市场的根基能源，俄罗期、加拿大、阿尔及利亚毫无疑问将是天然气出口的最主要受益国，与此同时也会引起更多的争端。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.23853210643218206,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "John T et al. [42]利用1976年至1993的美国天然气现货价格评估美国天然气市场的整合程度，实证结果表明，东部和中部地区形成了一个高度综合的市场，但是与更加整合的西方市场相比，这个市场仍然相当分割。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.38881534216457714,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "Salah Abosedra et al. [43]建立ARCH和GARCH模型考察了美国天然价格波动的持久性，结果表明，天然气价格的波动增加了Enron公司的倒闭。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6405105767944518,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Anne Neumann et al. [44]分析欧洲天然气价格与两个大宗产品市场现货价格之间的关系，运用卡尔曼滤波来检验价格格融合在不同的地区是否真正发生，研究结果表明，英国的管道建设和泽布吕赫几乎是完美的价格收敛，欧洲的自由化仍在继续。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5451162965383499,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "Stephen P. A. et al. [45]使用纠错模型论证表明，原油价格的波动对天然气价格影响突出，连续的天然气和石油产品存在替代。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.2766453653594017,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Aune et al. [46]认为地区天然气市将逐渐变得更加一体化，大陆之间的贸易在未来的几十年中，将获得可观增长，主要进口地区价格仍将保持在当前水平，但中东的限制性出口可能会改变这种局面。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.44490442583802237,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Masih et al. [47]分析了天然气和甲醇价格之间的关系，天然气是推动欧洲和美国甲醇价格的原因，但不包括远东，甲醇价格在三大洲与激增的天然气价格保持一致。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2.2.4 煤炭、石油和天然气价格关系研究综述",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 3.552097066525292,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6405495834375119,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "在煤炭价格与石油价格、煤炭价格与天然气价格、石油价格与天然气价格研究方面，前面二类的文献相对很少。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5429567955382575,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "Bill[48]研究布伦特原油与天然气价格之间的潜在关系，强调并没有明确的参数可以表明布伦特原油与美国天然气价格有关，在未来几年，如果价格仍在增加，消费者会期待紧缩范围的石油和天然气。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5402054588721772,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Peter R et al. [49]研究了天然气和石油价格之间的关系以及导致其偏离长期均衡价格的短期因素，证据表明，天然气和原油价格之间的关系是间接的，库存、天气等都会影响短期因素致使其偏离长期均衡。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.42524749353957175,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Geman et al. [50]直接分析石油和天然气两大主要大宗商品库存和价格波动之间的关系，发现价格波动和库存之间是负相关的，负相关在那些匮乏的时期尤为盛行，分析结果说明了15年的美国石油和天然气价格和库存的关系。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.515720816396076,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Tonn et al. [51]使用小波动分析天然气和石油期货价格之间的关系，研究显示：①天然气期货和石油期货价格有很高的高频协方差；②增加商品金融化符合投资者的利益；③即使在高频率，也不存在时间序列的波动一直领先其他水平。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.2489608054455477,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "Ramberg et al. [52]认为近年来原油和天然气价格共合体已经脱钩，任何简单公式化得出的两者关系并不科学，且协整关系并不稳定，在短期和长期范围内差别很大。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.27074974221881437,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Brigida[53]运用误差修正模型准确地捕捉天然和原油价格之间的协整关系，分析发现美国天然气和原油价格在2000年并没有永久“脱钩”，而是经历了一个临时政权的转变，预测的天然气和原油的相对定价符合条件概率。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3677063710773354,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "Smead[54]指出天然气和原油价格之间的差额收缩主要受石油价格下降的影响。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.6408328492752458,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6408328492752458,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在煤炭价格、石油价格和天然气价格关系的研究方面，Bachmeier et al. [55]评估了原油、煤炭和天然气市场的整合程度，结论显示，世界石油市场是一个高度集成的经济市场，煤炭市场整合程度很弱，原油、煤炭和天然气市场只有非常微弱的整合。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.3561705823335533,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6061997549589273,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Mohammadi[56]使用美国1970年后的煤炭、原油和天然气年度和月度数据，检验三者之间的长期关系和短期动态，结果表明，原油价格不受煤炭和天然气市场的影响，煤炭价格并不受原油和天然气市场的影响，单向因果关系证明天然气价格受到原油市场的影响。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.749970827374626,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Bildirici et al. [57]使用ARDL（自回归分布滞后模型）对金砖国家的煤炭、天然气和石油消费与经济增长的关系进行了研究，结果表明，中国和印度的煤炭与经济增长有双向的因果关系，巴西、俄罗斯和土耳其的天然气与经济增长存在双向的长期因果关系。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.3 文献评述",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从国内的文献综述可以得出，对于煤炭、石油和天然气其中两者之间关系的研究较多，既有关于能源体制的分析，也有关于能源之间价格波动之间关系的预测分析，多数学者运用VAR模型和GARCH模型进行实证研究，但是关于三者之间相互关系的文献较少，也极少涉及到国际与国内的能源之间价格的横向比较。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从国外的文献综述可以看出，部分学者创新使用博弈模型、M-TAR模型研究能源价格对经济市场及其它能源价格的影响，而关于三者之间相互关系的文献较少，也极少涉及到国际与国内的能源之间价格的横向比较，考虑到经济全球化的渗入，局部狭窄范围的研究显然已不能满足对能源价格关系的分析，本文的研究紧密结合当下能源形势，具有重要的社会意义。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究综述"
+      ],
+      "chosen": false,
+      "text_content": "2.1 国内研究现状综述",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究综述"
+          ],
+          "chosen": false,
+          "text_content": "2.1.1 煤炭价格研究综述",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 2.5325866151071947,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.28722283172168017,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "吕涛、聂锐[1]从需求拉动、成本推动与国际市场带动三个方面分析了煤炭价格上涨的原因，指出煤炭价格上涨有其合理性和必然性，建议从煤炭产销运存四个环节建立长效机制。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.39416447890340167,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "蔡鑫磊[2]认为世界煤炭贸易体系的复杂性及煤炭与国民经济的有机联系，决定了煤炭价格的复杂多样性，提出建立煤炭价格调节基金、转产发展基金等创新型措施。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5817665398795239,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "袁桂秋、张玲丹[3]从下游产业对煤炭的需求角度，分析某些因素对煤炭价格的影响程度，并预测了未来煤炭价格的变化趋势。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6196645510085554,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "邹绍辉、张金锁[4]运用Monte Carlo检验和单位根检验方法对煤炭价格变动模型进行了实证研究，结果表明，在一般情况下，几何布郎运动能较好地拟合我国煤炭价格的变化过程；对于突发事件，风险中性跳跃-扩散模型可以较好拟合我国煤炭价格的波动过程。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6497682135940336,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "何慧[5]基于误差修正模型和传递函数模型来研究煤炭价格与下游产业、替代品之间的相互关系，得到的结论与西方经济学中的理论比较吻合，符合一定经济和现实意义。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.8914591748602094,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.08839747892995727,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "GARCH效应，并且具有明显的杠杆效应，但波动不具有GARCH-M效应。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8030616959302521,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "丁志华、冯猜猜等[7]基于通径分析理论来研究我国煤炭价格波动及其因素，研究表明，煤炭生产量和国内生产总值对煤炭价格的直接与间接影响相差无几。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.1.2 石油价格研究综述",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.6393880002581849,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.26639187503925343,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "陈淮、邓郁松[8]对我国石油价格形成机制改革提出建设性的意见，认为应建立合理有效的进口石油价格形成机制，运用市场化的风险采购方式，引导油价理性发展。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.34153307101573044,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "焦建玲、余炜彬等[9]认为目前的石油价格还不能真正反映中国石油的供需状况，无法达到有效配置资源的目的，原油作为一种商品，价格构成至少应包括成本、税金、利润三部分，原油、成品油价格应具有合理的比价。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.43278990627632385,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "刘启民[10]在石油定价过渡时期提出石油定价机制改革的几点建议，认为我国石油价格应与国际市场完全接轨，建立周密的财政、税收调节机制及价格联动机制。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2634267918578964,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "王学栋、孙增芹等[11]论述当前石油价格的种种弊端，现在的价格完全市场化的条件还未成熟，政府仍需加强对石油价格的管控。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.33524635606898057,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "张绍云[12]从石油风险管理的角度，研究分析降低石油风险的建议，利用远期工具、期权工具缓冲风险，减少油价波价给经济发展带来的影响。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.22100042819528204,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.22100042819528204,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "说明中国石油价格波动是一个结构突变的趋势平稳过程，油价波动冲击影响是暂时的，经过一段时间，终会回归到均衡路径。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.1.3 天然气价格研究综述",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 3.9334650910011275,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6786744578823236,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "在天然气价格研究方面，张玉清、杨清[14]指出天然气价格“双轨制”存在供需矛盾，没有体现买卖双方的权利义务，无法适应市场化的市场，建议政府利用市场净回值方法核查天然气基础价格，逐步实现天然气价格的规范化和市场化。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5583787763635378,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "范秋芳、马扬[15]从现代西方经济学理论的角度，指出我国天然气作为自然垄断行为，目前只允许企业获得较少利润，禁止暴利经营，已不能适应加入WTO后的中国经济发展，只有建立科学合理的比价体系，综合采取出厂价、管输价、终端消费价多元化的定价方式，才能适应天然气市场化的国际趋势。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5520715940798016,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "李志学、彭飞[16]以美国天然气价格管制为视角，剖析美国现行的天然气价格形成和管理机制，文章认为应精减政府管制，完善市场竞争机制，促进我国天然气产业的有序发展。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.579646185138951,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "张航燕[17]通过分析美国、日本、德国等发达国家的天然气价格管理方式，结合我国天然气价格管理存在的价格构成不合理、购销价格比例不合理等问题，建议引入成本倒逼机制、双部定价法。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5762213951093231,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "刘英祥[18]从石油替代、石油安全和天然气发展的战略角度，研究我国天然气从开发、运输与消费的各个环节，应打破区域性垄断，解决天然气税收政策双轨制问题以及天然气合作双轨制问题。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4881186358965932,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "朱渝[19]通过比较天然气成本加成法与市场净回值法，并以粤桂两省天然气价格改革试点情况为例，结合欧盟和俄罗斯市净回值法的基本经验，虽然目前中石化、中石油和中海油三大国有石油公司掌控天然气管道建设销售等环节，从长期发展趋势来看，我国天然气市将日臻成熟，终究会形成天然气供给主体多元化、全国市场一体化的新格局。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5003540465305967,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "董康银、孙仁金等[20]基于天然气产业链的角度，提出我国天然气价格改革构想，国产天然气运用市场净回值法定价，进口天然气用成本加成法定价，引进第三方机构介入天然气产销端，理顺居民用气和非居民用气的关系。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.1.4 煤炭、石油和天然气价格关系研究综述",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.5787912717912556,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7250183888432852,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在煤炭与石油价格、煤炭与天然气以及石油与天然气价格波动研究方面，国内文献相对较少，治瑞祥[21]提出煤炭石油价格存在的种种问题，煤炭价格偏低、石油缺乏合理的比价。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4318271099254365,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "刁心柯、唐安宝[22]通过格兰杰因果关系检验、Johansen协整检验，建立直接效应模型与状态空间模型，结果表明石油、煤炭价格对改善能源利用效率具有一定的作用。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.421945773022534,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "李长林[23]呼喊油气资源价格改革，解决石油天然气价格偏低的问题，实行优质优价。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7330631568575516,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7330631568575516,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在煤炭价格、石油价格和天然气价格关系的研究方面，文献也相对较少，陈瑞珍[24]研究分析了能源与经济增长的关系，一次能源煤炭、石油、天然气的供给需要与经济增长紧密相连，进入21世纪，中国的政治、经济、文化等各方面飞速增长，经济实力显著"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.1370229611188014,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.34787664172034205,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "提升，但以煤炭、石油、天然气粗放型利用方式尚未根本改变。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4720961982602821,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "魏臻博[25]以政府角度为视角展开思考，运用责任分析理论分析我国政府在能源构建体系中责任缺失及表现，中国急需建立多元化的能源安全体系，建立煤炭、石油、天然气战略储备，深化与国际的合作，减少对国外能源的依赖。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.31705012113817743,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "齐宝平[26]从宏观层面研究分析节约能源和结构变化的相关理论，通过建立模型，运用多元回归分析方法对社会总节能量，及煤炭、天然气、石油的节约量进行影响因素分析，结果表明：对于煤和电力，技术是关键因素，结构不显著；对于石油和天然气，结构与技术对于节能量全部正相关，提高第二产业技术水平至关重要。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究假设": [],
+  "数据与样本": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "数据与样本",
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "4.2 数据分析",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "数据与样本"
+          ],
+          "chosen": false,
+          "text_content": "4.2.1 数据选取",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.1169262105655058,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5789003146358849,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "（1）煤炭价格。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5380258959296208,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "大同煤矿位于中国煤炭大省ft西省北部，是我国最大的煤矿，同时也是国内最大的优质动力煤供应基地，因此本文选取2003年－2010年大同煤矿月度现货价格作为分析变量，数据来源于凤凰网，记为C1。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7149762115162317,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1414213562373095,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（2）石油价格。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5735548552789222,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "大庆油田是我国最大的油区，也是世界产量最高的油气地之一，约占中国原油产量的65%，大庆原油价格基本能够代表中国石油价格的整体水平[68]，因此本文选取2003年－2010年大庆石油月度现货价格作为分析变量，数据来源于凤凰网，记为P1。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.4364981837976252,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5773498634323646,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "（3）天然气价格。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.41857134122760653,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "按天然气用途来分，我国天然气有居民用气价格、非居民用气价格；按天然气环节划分，我国天然气价格包括井口价、管输价和输气价。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.44057697913765403,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "以上所提及的价格都以天然气出厂价为基础，数据来源于博士论文[69]，故本文选取天然气出厂价格作为分析变量，记为N1。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "17"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.255941842449623,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.255941842449623,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "表4.1  我国能源价格名称及符号"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "table_data": "[['价格名称', '煤炭价格', '石油价格', '天然气价格'], ['表示符号', 'C1', 'P1', 'N1']]"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.2.2 数据处理",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7624540776494778,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6743552227816434,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文所使用的数据经过平稳性检验均为非平稳序列，为了尽可能消除波动的影响，对序列进行一阶差分，以更科学地分析煤炭、石油和天然气价格的波动关系。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.08809885486783443,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "本文所使用的计量工具是Eviews7.0。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.008430330486426866,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.008430330486426866,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "①平稳性检验"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.519745853579716,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.519745853579716,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "为了避免伪回归出现及分析结果的科学性，本文运用Eviews计量软件对煤炭、石油和天然气价格变量序列进行平稳性检验，如表4.2所示。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.2667450049204092,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2667450049204092,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "表4.2  我国能源价格序列平稳性检验"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "table_data": "[['变量', 'T 值', 'P 值', '1%临界值', '是否存在单位根'], ['C1', '-1.541456', '0.5082', '-3.504727', '是'], ['D(C1)', '-6.805615', '0.0000', '-3.503879', '否'], ['P1', '-2.376016', '0.1513', '-3.503049', '是'], ['D(P1)', '-5.405148', '0.0000', '-3.503049', '否'], ['N1', '-1.703225', '0.4263', '-3.502238', '是'], ['D(N1)', '-9.488857', '0.0000', '-3.503049', '否']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.06736159800928822,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.06736159800928822,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "注：d（·）表示对变量取一阶差分"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.44780955592516014,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.22281731926772058,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表2中，在显著性水平为1%时，各变量原始序列的ADF值都不显著，这说明原序列存在单位根。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.22499223665743953,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而各序列的一阶差分序列，在1%的显著水平下，统计值的绝对值都大于1%临界值，拒绝了存在单位根的原假设，C1、P1、N1变量序列都是在99%置信水平下的一阶单整序列，用I1（1）表示。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.020058249660499166,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.020058249660499166,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "②季节性检验"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.04718158527705481,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.04718158527705481,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "文运用序列的趋势图及自相关图来识别时间序列的季节性，序列满足一阶单整，一阶差分后运用Eviews得出序列的趋势图（图4.1）及自相关图（图4.2、4.3、4.4）。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "18"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "1,200"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1,000"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "800"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "600"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "400"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "200"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "0"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "20032004200520062007200820092010"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "C1"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "P1"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "N1"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.22619360626071944,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.22619360626071944,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "图4.1  我国能源价格序列序列趋势图"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "table_data": "[['自相关', '偏相关', '自相关', '偏相关', '概率']]"
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId38"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4934239489528638,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4934239489528638,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "图4.2  我国煤炭价格序列自相关图"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "19"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "table_data": "[['自相关', '偏相关', '自相关', '偏相关', '概率']]"
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId39"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.22049765282553108,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.22049765282553108,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "图4.3  我国石油价格序列自相关图"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "table_data": "[['自相关', '偏相关', '自相关', '偏相关', '概率']]"
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId40"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.49187349774934364,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.49187349774934364,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "图4.4  我国天然气价格序列自相关图"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.1347234277472735,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1347234277472735,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从图中可以看出，经过一阶差分后，自相关系数基本上都在随机区间范围，并没有显示出季节性，综合趋势图及自相关图此序列并不存在季节性。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "20"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "数据与样本",
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "5.1 数据分析",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本文选取2003年－2010年国内外煤炭、石油和天然气价格的月度数据作为分析变量，数据来源、季节性检验及数据处理同第四章。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "变量定义": [],
+  "检验": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "检验"
+      ],
+      "chosen": false,
+      "text_content": "4.3 格兰杰因果检验",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.7372628667900721,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7372628667900721,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本文用DC1表示煤炭价格的一阶差分序列，DP1表示我国石油价格的一阶差分序列，DN1表示我国天然气价格的一阶差分序列，如表4.3所示："
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.3674390746426897,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3674390746426897,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "表4.3  我国能源价格一阶差分序列符号"
+            }
+          ]
+        },
+        {
+          "type": 3,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": true,
+          "table_data": "[['名称', '煤炭价格一阶差分序列', '石油价格一阶差分序列', '天然气价格一阶差分序列'], ['符号', 'DC1', 'DP1', 'DN1']]"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.4391390219370436,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4391390219370436,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "本文运用Eviews进行格兰杰因果检验，结果如表4.4所示："
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5546322916469053,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5546322916469053,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "表4.4  我国能源价格序列格兰杰因果检验"
+            }
+          ]
+        },
+        {
+          "type": 3,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": true,
+          "table_data": "[['零假设:', '数量', 'F统计值', '概率'], ['DN1 does not Granger Cause DC1', '86', '2.89585', '0.0101'], ['DC1 does not Granger Cause DN1', '', '9.23657', '4.E-08'], ['DP1 does not Granger Cause DC1', '86', '5.81896', '2.E-05'], ['DC1 does not Granger Cause DP1', '', '1.66353', '0.1320'], ['DP1 does not Granger Cause DN1', '86', '3.65706', '0.0020'], ['DN1 does not Granger Cause DP1', '', '1.98263', '0.0694']]"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.027541381671530724,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.027541381671530724,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "表中，在95%的置信水平下，p=0.0101、4. E-08、2. E-05、0.0020拒绝原假设，p=0.1320、"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5745282486805225,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5745282486805225,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "p=0.0694接受假设，因此国内煤炭与天然气存在双向的因果关系，煤炭与石油存在单向的因果关系，石油与天然气存在单向的因果关系。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "检验"
+      ],
+      "chosen": false,
+      "text_content": "5.2 平稳性检验",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.9052631578947369,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.9052631578947369,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "为了避免伪回归出现及分析结果的科学性，本文运用Eviews计量软件对煤炭、石油和天然气价格变量序列进行ADF平稳性检验，如表5.1所示。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.4460876618552003,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4460876618552003,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "表5.1  国内外能源价格序列平稳性检验"
+            }
+          ]
+        },
+        {
+          "type": 3,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": true,
+          "table_data": "[['变量', 'T 值', 'P 值', '1%临界值', '是否存在单位根'], ['C1', '-1.541456', '0.5082', '-3.504727', '是'], ['D(C1)', '-6.805615', '0.0000', '-3.503879', '否'], ['P1', '-2.376016', '0.1513', '-3.503049', '是'], ['D(P1)', '-5.405148', '0.0000', '-3.503049', '否'], ['N1', '-1.703225', '0.4263', '-3.502238', '是'], ['D(N1)', '-9.488857', '0.0000', '-3.503049', '否'], ['C2', '-1.335443', '0.6117', '-3.480425', '是'], ['D(C2)', '-8.074917', '0.0000', '-3.480425', '否'], ['P2', '-1.224824', '0.6625', '-3.480425', '是'], ['D(P2)', '-7.213450', '0.0000', '-3.480425', '否'], ['N2', '-2.427921', '0.1361', '-3.480038', '是'], ['D(N2)', '-9.963432', '0.0000', '-3.480425', '否']]"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.09802118612291023,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.09802118612291023,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "注：d（·）表示对变量取一阶差分"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.7161037577506368,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3655055370832039,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "表5.1中，在显著性水平为1%时，各变量原始序列的ADF值都不显著，这说明原序列存在单位根。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.350598220667433,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "而各序列的一阶差分序列，在1%的显著水平下，统计值的绝对值都大于1%临界值，拒绝了存在单位根的原假设，C1、P1、N1、C2、P2、N2变量序列在99%置信水平下均为一阶单整序列，用I3（1）表示。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "结论与分析": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "结论与分析"
+      ],
+      "chosen": false,
+      "text_content": "5.6 我国煤炭、石油和天然气价格政策建议",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "结论与分析"
+          ],
+          "chosen": false,
+          "text_content": "5.6.1 煤炭价格改革建议",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.4443511527155628,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.9727432655243551,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "根据本文对煤炭价格实证研究分析，煤炭价格的变化主要源于自身影响，与石油和天然气的替代关系并不明显，并不能有效地推动我国能源结构优化，煤炭价格市场化水平较低。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.47160788719120766,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "虽然经过多年的改革推进，我国煤炭价格市场化水平已经有所提高，早在2012年底，国务院办公厅发布《关于深化电煤市场化改革的指导意见》，并规定电煤价格波动幅度超过5%时，以年度为周期，相应调整上网电价，同时将电力企业消纳煤价波动的比例由30%调整为10%，这标志着煤炭价格市场化基本完成，但煤炭价格市场化的道路仍然艰巨。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5558349427964945,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5558349427964945,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "一是推进煤炭价格市场化政策的有效落地，真正发挥市场的决定性作用，建立煤炭相关行业的市场价格调节机制，充分发挥市场的调节作用，避免政府的间接性宏观援助，为煤炭、石油和天然气价格的市场变化提供成长空间。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4843000656003357,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4843000656003357,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "二是理顺煤炭与电力公司的市场关系，深化煤炭行业产业链，丰富煤炭结构层次，全方位多层次地推进煤炭市场与国际市场的接轨，厘清煤炭价格国际市场端的客观变化，为实现三种能源价格的市场化合理调整提供条件。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5907141725122145,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5907141725122145,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "三是完善煤炭期货市场，构建更科学的煤炭价格调控体系，注重顶层设计并构建有中国特色的煤炭期货市场，大力支持大型煤炭期货市场的完善，丰富品种、交易透明化，减少国际煤炭价格对我国煤炭价格的冲击，促进煤炭行业的平稳发展，有效地反应我国煤炭市场的未来状况。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "5.6.2 石油价格改革建议",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7978300561942977,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5378712838539881,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "实证结果表明国际能源价格对我国石油价格产生影响，我国石油价格市场化水平仍然较低，国际石油价格变动对我国油价产生影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2599587723403096,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "石油价格形成机制的改革离不开外部环境、成熟的市场结构、完善的财税政策和监管政策，及石油战略储备体系的建设。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.19035841363382575,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.19035841363382575,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "年初，国家发改委决定进一步完善成品油定价机制，重新设置调控上下限。调控上限为每桶130美元，下限为每桶40美元，即当国际市场油价高于130美元时，汽、柴油最"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "高零售价格少提或不提；低于40美元时，汽、柴油最高零售价格不降低；在40美元-"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5582369130266709,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5582369130266709,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "130美元之间时，国内成品油价格机制正常运转，涨降遵循市场规律。正如上述规定，目前我国石油价格市场化是特定区间的体现，并不具有真正意义的市场价格形成机制，本文现提出以下建议："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5236107403696475,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5236107403696475,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "一是建立大型原油期货交易市场，形成能够反映中国原油市场供给需求的基准价格，助力实现石油价格形成完全市场化，为实现煤炭、石油和天然气价格市场化调整创造空间。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.36728855054831994,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.36728855054831994,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "二是加大对税收环节的监管力度，规范地方练厂、民营批发商和社会加油站的转票、倒卖发票等行为，严厉打击偷逃成品油消费税的市场主体，依据成品油质量升级规划，对所有调市场主体供应的成品油严格监管，强化对炼油和批发主体的监控，加强对炼油厂出厂环节的监管，实现政府部门和加油站税的信息共享，防止“劣币驱除良币”的产生，维护正常的经营秩序，建立公平的石油市场竞争氛围，对任何市场主体都采取足额征税，规范石油的市场环境，提升本国石油生产竞争力，逐渐减少国际石油价格变化对我国能源价格的冲击。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.34429242054368125,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.34429242054368125,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "三是完善石油储备体系为油价改革给足空间，要想达到国家石油战略储备目标，目前石油储备应具有90天至100天进口量的储备水平，这样才能避免油价波动对市场产生负面影响。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "5.6.3 天然气价格改革建议",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.3211069471606791,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6758612649814006,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "实证结果表明，我国天然气价格主要受自身影响，不能有效地体现能源之间的替代关系，不利于能源结构的科学调整，一定程度违背市场经济规律。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6452456821792785,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "尽管经过几十年的天然气价格改革，尤其2011年“市场净回值”定价机制的引入，我国基本初步建立反映市场化的天然气价格动态调整机制，然而每逢天然气价改，总是伴随着价格的上涨，例如2014的《关于调整天然气价格的通知》上调了非居民工天然气价格0.4元/立方米，天然气价格市场化的水平仍然很低。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5788180510491281,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5788180510491281,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "一是理顺天然气价格体系，完善天然气净回值定价方法，遵循经济规律，完善峰谷差价、季节性差价及可中断气价，加强计价违法行为的技术、管理监管，重点清理地方政府乱收费行为，深耕天然气价格形成的市场土壤，客观地体现天然气和煤炭、石油的替代关系。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.35285070371560023,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.35285070371560023,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "二是逐步取消各省门站价的管制，科学规划居民生活用气价格，同时完善对储气设施、输气管道的监管，引入社会力量实现公开准入，逐步放开天然气价格的管制，助推天然气价格市场化的前进。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.19627145977154065,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.19627145977154065,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "三是健全天然气管网等基础设施的管理体系，逐渐实行输气管道和储气设施的市场化收费模式，为实现公开、公平、有序竞争的天然气市场化目标奠定基础。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "实证研究类v3": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "数据与样本",
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "4.2 数据分析",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "数据与样本"
+          ],
+          "chosen": false,
+          "text_content": "4.2.1 数据选取",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.1169262105655058,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5789003146358849,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "（1）煤炭价格。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5380258959296208,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "大同煤矿位于中国煤炭大省ft西省北部，是我国最大的煤矿，同时也是国内最大的优质动力煤供应基地，因此本文选取2003年－2010年大同煤矿月度现货价格作为分析变量，数据来源于凤凰网，记为C1。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7149762115162317,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1414213562373095,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（2）石油价格。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5735548552789222,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "大庆油田是我国最大的油区，也是世界产量最高的油气地之一，约占中国原油产量的65%，大庆原油价格基本能够代表中国石油价格的整体水平[68]，因此本文选取2003年－2010年大庆石油月度现货价格作为分析变量，数据来源于凤凰网，记为P1。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.4364981837976252,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5773498634323646,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "（3）天然气价格。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.41857134122760653,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "按天然气用途来分，我国天然气有居民用气价格、非居民用气价格；按天然气环节划分，我国天然气价格包括井口价、管输价和输气价。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.44057697913765403,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "以上所提及的价格都以天然气出厂价为基础，数据来源于博士论文[69]，故本文选取天然气出厂价格作为分析变量，记为N1。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "17"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.255941842449623,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.255941842449623,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "表4.1  我国能源价格名称及符号"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "table_data": "[['价格名称', '煤炭价格', '石油价格', '天然气价格'], ['表示符号', 'C1', 'P1', 'N1']]"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.2.2 数据处理",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7624540776494778,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6743552227816434,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文所使用的数据经过平稳性检验均为非平稳序列，为了尽可能消除波动的影响，对序列进行一阶差分，以更科学地分析煤炭、石油和天然气价格的波动关系。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.08809885486783443,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "本文所使用的计量工具是Eviews7.0。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.008430330486426866,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.008430330486426866,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "①平稳性检验"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.519745853579716,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.519745853579716,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "为了避免伪回归出现及分析结果的科学性，本文运用Eviews计量软件对煤炭、石油和天然气价格变量序列进行平稳性检验，如表4.2所示。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.2667450049204092,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2667450049204092,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "表4.2  我国能源价格序列平稳性检验"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "table_data": "[['变量', 'T 值', 'P 值', '1%临界值', '是否存在单位根'], ['C1', '-1.541456', '0.5082', '-3.504727', '是'], ['D(C1)', '-6.805615', '0.0000', '-3.503879', '否'], ['P1', '-2.376016', '0.1513', '-3.503049', '是'], ['D(P1)', '-5.405148', '0.0000', '-3.503049', '否'], ['N1', '-1.703225', '0.4263', '-3.502238', '是'], ['D(N1)', '-9.488857', '0.0000', '-3.503049', '否']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.06736159800928822,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.06736159800928822,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "注：d（·）表示对变量取一阶差分"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.44780955592516014,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.22281731926772058,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表2中，在显著性水平为1%时，各变量原始序列的ADF值都不显著，这说明原序列存在单位根。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.22499223665743953,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而各序列的一阶差分序列，在1%的显著水平下，统计值的绝对值都大于1%临界值，拒绝了存在单位根的原假设，C1、P1、N1变量序列都是在99%置信水平下的一阶单整序列，用I1（1）表示。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.020058249660499166,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.020058249660499166,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "②季节性检验"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.04718158527705481,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.04718158527705481,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "文运用序列的趋势图及自相关图来识别时间序列的季节性，序列满足一阶单整，一阶差分后运用Eviews得出序列的趋势图（图4.1）及自相关图（图4.2、4.3、4.4）。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "18"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "1,200"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1,000"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "800"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "600"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "400"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "200"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "0"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "20032004200520062007200820092010"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "C1"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "P1"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "N1"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.22619360626071944,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.22619360626071944,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "图4.1  我国能源价格序列序列趋势图"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "table_data": "[['自相关', '偏相关', '自相关', '偏相关', '概率']]"
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId38"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4934239489528638,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4934239489528638,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "图4.2  我国煤炭价格序列自相关图"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "19"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "table_data": "[['自相关', '偏相关', '自相关', '偏相关', '概率']]"
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId39"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.22049765282553108,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.22049765282553108,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "图4.3  我国石油价格序列自相关图"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "table_data": "[['自相关', '偏相关', '自相关', '偏相关', '概率']]"
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId40"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.49187349774934364,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.49187349774934364,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "图4.4  我国天然气价格序列自相关图"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.1347234277472735,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1347234277472735,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从图中可以看出，经过一阶差分后，自相关系数基本上都在随机区间范围，并没有显示出季节性，综合趋势图及自相关图此序列并不存在季节性。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "20"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "数据与样本",
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "5.1 数据分析",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本文选取2003年－2010年国内外煤炭、石油和天然气价格的月度数据作为分析变量，数据来源、季节性检验及数据处理同第四章。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

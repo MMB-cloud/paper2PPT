@@ -1,0 +1,267 @@
+{
+  "摘要": [
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "摘要"
+      ],
+      "chosen": false,
+      "text_content": "摘  要",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "融资约束是上市公司外部融资面临的重大问题，研究融资约束，尤其是非标准审计意见下的融资约束问题具有重要意义。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "从企业层面来看，非标准审计意见有利于上市公司认识到自身存在的不足，并指导上市公司改善财务经营状况。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "从政府层面来看，上市公司在非标准审计意见下受到的融资约束，可以通过获得政府补贴来缓解资金压力。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "从社会民生角度来看，可以深刻认识我国经济体制下的非标准审计意见和政府补贴与融资约束之间的关系。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "引入政府补贴变量，分析政府补贴下非标准审计意见对上市公司融资约束的影响和非标准审计意见下政府补贴对上市公司融资约束的影响，为投资者或债权人以及政府宏观调控和制定相关政策提供参考作用。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本文拟解决的关键问题是检验政府补贴下非标准审计意见和政府补贴对上市公司融资约束产生的作用机理；并深入分析非标准审计意见下政府补贴对上市公司融资约束产生的作用机理。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "主要内容有两点：一是探讨政府补贴下，非标准审计意见对融资约束的影响和政府补贴程度对融资约束的影响，验证非标准审计意见是否会加重上市公司融资约束，政府补贴是否具有缓解上市公司融资约束的作用；二是分析非标准审计意见下，政府补贴对上市公司融资约束的影响，对比分析有无政府补贴对上市公司融资约束的影响。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "研究的基本思路是运用修正的现金-现金敏感系数衡量融资约束模型，引入政府补贴程度和非标准审计意见两个变量，从政府补贴和非标准审计意见层面运用规范和实证相结合的方法进行研究。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "通过线性回归模型进行实证研究，发现：（1）政府补贴下，非标准审计意见与经营性现金流的交叉乘积项回归系数显著为正，表明政府补贴下被出具非标准审计意见会增加上市公司融资约束。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（2）政府补贴与经营性现金流的交叉乘积项回归系数显著为负，表明政府补贴能够缓解上市公司融资约束。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（3）非标准审计意见下，政府补贴会增加上市公司融资约束，即有政府补贴的上市公司融资约束比没有政府补贴的融资约束大。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本文的创新点主要是以下三点：（1）在政府补贴下融资约束的基础上，考虑了非标准审计意见。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（2）在非标准审计意见下，考虑了政府补贴对上市公司融资约束的影响。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（3）在前两点的基础上，丰富了政府补贴下的融资理论。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "目前，虽有学者研究两者之间的关系，并涉足于金融发展、管制、政企关联以及银企关联等方面的审计意见与融资约束关系的研究，但鲜少考虑政府补贴调控市场资源配置的作用对上市公司融资约束的影响。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "关键词：上市公司；非标准审计意见；政府补贴；融资约束；国有企业    "
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "I"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "重庆理工大学硕士学位论文"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "II"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究背景": [],
+  "研究目的": [],
+  "研究综述": [],
+  "研究假设": [],
+  "数据与样本": [],
+  "变量定义": [],
+  "检验": [],
+  "结论与分析": [],
+  "实证研究类v3": []
+}

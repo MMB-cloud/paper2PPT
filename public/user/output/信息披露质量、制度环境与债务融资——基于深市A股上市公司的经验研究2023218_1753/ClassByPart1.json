@@ -1,0 +1,5353 @@
+{
+  "title": [],
+  "摘要": [],
+  "研究背景": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究背景",
+        "研究目的"
+      ],
+      "chosen": false,
+      "text_content": "1.1 研究背景及意义",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究背景"
+          ],
+          "chosen": false,
+          "text_content": "1.1.1 研究背景",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.48483225410085123,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.48483225410085123,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "现阶段中国社会融资结构（如图1①）的突出特点是银行贷款在融资总量中占绝对优势，股票市场融资与企业债券市场融资规模相对偏小，企业外部的长、短期融资均依赖于银行贷款；中国人民银行发布的《2010年中国金融市场发展报告》②的统计数据显示：2006—2010年中国企业债券和股票等直接融资占融资总量一直在15%左右徘徊，约85%的融资来源于银行贷款，随着资本市场的发展，虽然权益融资与债券融资有了一定的发展，但债务融资在公司融资总额中占绝对比重。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "100"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.20850175920515185,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.20850175920515185,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "国内非金融机构部门融资总量贷款"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0003968106733187961,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0003968106733187961,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "股票国债"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "企业债券"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "80"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "60"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "40"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "20"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "0"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "20062007200820092010"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4100669515244125,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4100669515244125,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "图 1  我国2006-2010年融资结构图"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.9640487000470417,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3003530047886777,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "随着我国金融改革的深入与发展，企业取得银行贷款比以前面临更大的困难。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.13886098930591428,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "许多公司因不能及时得到资金支持而导致资金链断裂，如1995年巨人集团破产，2004年德隆集团倒闭事件、2003年三九集团陷入债务危机等等。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2738611089326461,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "为尽多的获得银行贷款，很多企业不惜弄虚作假，粉饰财务报表骗取银行的信任，这样的事件在我国层出不穷，如2004年的南海华光事件、2010年的蓝田股份事件等等。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.25097359701980354,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "这说明，在我国，银行贷款融资是公司生产、经营所需，公司在取得银行贷款时可能会“不择手段”。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.002075805756699412,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.002075805756699412,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "①根据中国人民银行各年货币政策执行报告整理所得。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0004554627779926768,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0004554627779926768,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "②来自中国人民银行网站http: //www. pbc. gov. cn/。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 2.27748363641793,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4722123744328414,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "信息披露是会计与金融研究的热点。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5040721755251064,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "一方面，监管机构不断加大企业定期披露（年报披露、中报披露、季报披露）的要求和力度；另一方面，违规、虚假信息披露的案例时有发生；市场对信息披露水平的提高能否做出有效反应，进而建立回馈机制。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5966681001881259,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "若信息披露质量的提高可以帮助企业减轻资本成本和缓解融资约束，企业将会主动提高信息披露水平，改善市场信息不对称程度，提高市场效率。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7045309862718561,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "我国处于转型经济阶段，制度发展相对比较落后，政府在资源配置方面仍然起着重要作用，高水平的信息披露能否减轻公司的融资约束，帮助企业获得更多的银行贷款，使公司受益？这一作用是否受我国特殊的制度环境影响？市场化进程的好坏，政府干预的多少，以及法治水平的高低影响如何？这一问题有待研究。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.40833303452769715,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.40833303452769715,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "金融危机的发生为世界各国银行敲响了警钟，银行怎样控制贷款风险呢？不论是贷款审核还是过程监控，会计信息自始至终是商业银行掌握企业财务状况的重要渠道，因而企业会计信息质量成为银行关注的重点，金融危机期间我国政府"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.9531044207176593,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.39598810461076644,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "4万亿救市，以及对银行贷款的干预是否影响信息披露质量与银行新增借款的关系？我国银行肩负降低不良贷款①率的重任，信贷风险控制将更加严格，金融危机“悲剧”发生在发达国家，为我国银行敲响警钟，信贷风险控制的难度可见一斑。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5571163161068929,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "因此，银行在信贷决策时会加大对贷款企业的信息披露关注程度。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究目的"
+          ],
+          "chosen": false,
+          "text_content": "1.1.2 研究意义：",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "3",
+              "score": 0.0,
+              "selected": true,
+              "part": [
+                "研究目的"
+              ],
+              "chosen": false,
+              "text_content": "1.1.2.1 理论意义",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.1112004442394943,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5049258590902213,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "第一，债务融资是现代公司理财研究的重要内容，信息披露问题与债务融资问题都是理论界探讨的重要问题。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6062745851492729,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "本文对信息披露质量、债务融资的相关理论以及二者相关关系进行了回顾与分析，为其他学者的研究提供了一定的参考。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.9729124681905883,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.663416621174062,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "第二，债务融资是影响企业发展的重要因素。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.30949584701652627,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "我国当前是以银行为主导的金融体系，国有性质较明显，民营企业常常在信贷方面受到“制度歧视”，在金融危机期间，银行面对自身利润最大化与政府干预的双重压力下怎样既控制风险又促进经济发展，为我国资本市场的发展以及相关政策的制定提供了理论参考。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": ""
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.1352768273787804,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.1352768273787804,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "①不良贷款(Non-Performing Loan)也指非正常贷款或有问题贷款，是指借款人未能按原定的贷款协议按时偿还商业银行的贷款本息，或者已有迹象表明借款人不可能按原定的贷款协议按时偿还商业银行的贷款本息而形成的贷款。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "2"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.4352904413027048,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5853970223726274,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "第三，随着市场化进程的发展，制度环境不断变化，制度环境的变化能够有效减轻代理问题和信息不对称，减少市场不完全性，缩小内外源融资成本的差异，降低企业面临的融资约束，通过这一微观传导机制促进经济的发展。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.8498934189300773,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "因此，用企业实际数据研究制度环境是否改变信息披露质量对债务融资的这种关系，其结论对实践具有一定的理论指导意义。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "3",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1.1.2.2 现实意义",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.2627853586720792,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7511591361290074,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "第一，企业方面：通过研究信息披露质量与债务融资的关系，可以启示企业提高信息披露质量，从而获得较多银行贷款，降低企业融资成本。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5116262225430717,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "有利于资金在企业间合理配置，业绩好的企业可以得到更多的资金支持，帮助企业合理有效的利用资金，满足生产、经营需要，促进资源的优化配置，为很多无法获得银行贷款的企业提供了一个思路：提高信息披露质量。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.7987941302790439,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.1911399347256094,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "第二，银行方面：优化银行信贷决策，降低信贷风险。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6076541955534345,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "贷款是商业银行的主要业务，风险控制对其持续经营与发展的影响至关重要，银行可以通过高质量的信息披露掌握企业的真实状况，有利于银行通过企业信息披露质量控制其信贷风险，保证信贷政策的合理性。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.0402622861880233,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3003104837236302,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "第三，政府方面：有助于政府对企业与银行的合理监管，提高资金的利用率。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3106982414433147,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "必要的监管是信息披露可靠性、相关性的重要保证，是资本市场健康发展的重要条件。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.12394172195600062,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "不合理的监管有可能会引起市场混乱，1929年的世界性经济危机与美国安然公司的造假案件给我们深刻的启示，也是重要的例证。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.30531183906507764,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "将政府的适度干预与信贷市场调节结合在一起，针对我国特殊的制度环境状况，接受金融危机的教训，提供合理的政策保障，保障资金的有效利用，带动资本市场的发展。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究目的": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究背景",
+        "研究目的"
+      ],
+      "chosen": false,
+      "text_content": "1.1 研究背景及意义",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究背景"
+          ],
+          "chosen": false,
+          "text_content": "1.1.1 研究背景",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.48483225410085123,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.48483225410085123,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "现阶段中国社会融资结构（如图1①）的突出特点是银行贷款在融资总量中占绝对优势，股票市场融资与企业债券市场融资规模相对偏小，企业外部的长、短期融资均依赖于银行贷款；中国人民银行发布的《2010年中国金融市场发展报告》②的统计数据显示：2006—2010年中国企业债券和股票等直接融资占融资总量一直在15%左右徘徊，约85%的融资来源于银行贷款，随着资本市场的发展，虽然权益融资与债券融资有了一定的发展，但债务融资在公司融资总额中占绝对比重。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "100"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.20850175920515185,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.20850175920515185,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "国内非金融机构部门融资总量贷款"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0003968106733187961,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0003968106733187961,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "股票国债"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "企业债券"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "80"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "60"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "40"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "20"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "0"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "20062007200820092010"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4100669515244125,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4100669515244125,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "图 1  我国2006-2010年融资结构图"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.9640487000470417,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3003530047886777,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "随着我国金融改革的深入与发展，企业取得银行贷款比以前面临更大的困难。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.13886098930591428,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "许多公司因不能及时得到资金支持而导致资金链断裂，如1995年巨人集团破产，2004年德隆集团倒闭事件、2003年三九集团陷入债务危机等等。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2738611089326461,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "为尽多的获得银行贷款，很多企业不惜弄虚作假，粉饰财务报表骗取银行的信任，这样的事件在我国层出不穷，如2004年的南海华光事件、2010年的蓝田股份事件等等。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.25097359701980354,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "这说明，在我国，银行贷款融资是公司生产、经营所需，公司在取得银行贷款时可能会“不择手段”。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.002075805756699412,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.002075805756699412,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "①根据中国人民银行各年货币政策执行报告整理所得。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0004554627779926768,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0004554627779926768,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "②来自中国人民银行网站http: //www. pbc. gov. cn/。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 2.27748363641793,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4722123744328414,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "信息披露是会计与金融研究的热点。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5040721755251064,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "一方面，监管机构不断加大企业定期披露（年报披露、中报披露、季报披露）的要求和力度；另一方面，违规、虚假信息披露的案例时有发生；市场对信息披露水平的提高能否做出有效反应，进而建立回馈机制。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5966681001881259,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "若信息披露质量的提高可以帮助企业减轻资本成本和缓解融资约束，企业将会主动提高信息披露水平，改善市场信息不对称程度，提高市场效率。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7045309862718561,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "我国处于转型经济阶段，制度发展相对比较落后，政府在资源配置方面仍然起着重要作用，高水平的信息披露能否减轻公司的融资约束，帮助企业获得更多的银行贷款，使公司受益？这一作用是否受我国特殊的制度环境影响？市场化进程的好坏，政府干预的多少，以及法治水平的高低影响如何？这一问题有待研究。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.40833303452769715,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.40833303452769715,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "金融危机的发生为世界各国银行敲响了警钟，银行怎样控制贷款风险呢？不论是贷款审核还是过程监控，会计信息自始至终是商业银行掌握企业财务状况的重要渠道，因而企业会计信息质量成为银行关注的重点，金融危机期间我国政府"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.9531044207176593,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.39598810461076644,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "4万亿救市，以及对银行贷款的干预是否影响信息披露质量与银行新增借款的关系？我国银行肩负降低不良贷款①率的重任，信贷风险控制将更加严格，金融危机“悲剧”发生在发达国家，为我国银行敲响警钟，信贷风险控制的难度可见一斑。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5571163161068929,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "因此，银行在信贷决策时会加大对贷款企业的信息披露关注程度。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究目的"
+          ],
+          "chosen": false,
+          "text_content": "1.1.2 研究意义：",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "3",
+              "score": 0.0,
+              "selected": true,
+              "part": [
+                "研究目的"
+              ],
+              "chosen": false,
+              "text_content": "1.1.2.1 理论意义",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.1112004442394943,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5049258590902213,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "第一，债务融资是现代公司理财研究的重要内容，信息披露问题与债务融资问题都是理论界探讨的重要问题。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6062745851492729,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "本文对信息披露质量、债务融资的相关理论以及二者相关关系进行了回顾与分析，为其他学者的研究提供了一定的参考。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.9729124681905883,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.663416621174062,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "第二，债务融资是影响企业发展的重要因素。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.30949584701652627,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "我国当前是以银行为主导的金融体系，国有性质较明显，民营企业常常在信贷方面受到“制度歧视”，在金融危机期间，银行面对自身利润最大化与政府干预的双重压力下怎样既控制风险又促进经济发展，为我国资本市场的发展以及相关政策的制定提供了理论参考。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": ""
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.1352768273787804,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.1352768273787804,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "①不良贷款(Non-Performing Loan)也指非正常贷款或有问题贷款，是指借款人未能按原定的贷款协议按时偿还商业银行的贷款本息，或者已有迹象表明借款人不可能按原定的贷款协议按时偿还商业银行的贷款本息而形成的贷款。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "2"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.4352904413027048,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5853970223726274,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "第三，随着市场化进程的发展，制度环境不断变化，制度环境的变化能够有效减轻代理问题和信息不对称，减少市场不完全性，缩小内外源融资成本的差异，降低企业面临的融资约束，通过这一微观传导机制促进经济的发展。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.8498934189300773,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "因此，用企业实际数据研究制度环境是否改变信息披露质量对债务融资的这种关系，其结论对实践具有一定的理论指导意义。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "3",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1.1.2.2 现实意义",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.2627853586720792,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7511591361290074,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "第一，企业方面：通过研究信息披露质量与债务融资的关系，可以启示企业提高信息披露质量，从而获得较多银行贷款，降低企业融资成本。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5116262225430717,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "有利于资金在企业间合理配置，业绩好的企业可以得到更多的资金支持，帮助企业合理有效的利用资金，满足生产、经营需要，促进资源的优化配置，为很多无法获得银行贷款的企业提供了一个思路：提高信息披露质量。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.7987941302790439,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.1911399347256094,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "第二，银行方面：优化银行信贷决策，降低信贷风险。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6076541955534345,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "贷款是商业银行的主要业务，风险控制对其持续经营与发展的影响至关重要，银行可以通过高质量的信息披露掌握企业的真实状况，有利于银行通过企业信息披露质量控制其信贷风险，保证信贷政策的合理性。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.0402622861880233,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3003104837236302,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "第三，政府方面：有助于政府对企业与银行的合理监管，提高资金的利用率。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3106982414433147,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "必要的监管是信息披露可靠性、相关性的重要保证，是资本市场健康发展的重要条件。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.12394172195600062,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "不合理的监管有可能会引起市场混乱，1929年的世界性经济危机与美国安然公司的造假案件给我们深刻的启示，也是重要的例证。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.30531183906507764,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "将政府的适度干预与信贷市场调节结合在一起，针对我国特殊的制度环境状况，接受金融危机的教训，提供合理的政策保障，保障资金的有效利用，带动资本市场的发展。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究综述": [
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": false,
+      "part": [
+        "研究综述"
+      ],
+      "chosen": false,
+      "text_content": "2  文献综 述",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本章就信息披露质量与债务融资的关系，信息披露质量与债务融资期限的关系，政府干预、信息披露质量与债务融资的关系，制度环境与债务融资的关系相关国内外研究进行回顾及评价，在此基础上，指出本文所做研究的必要性与重要性。"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.1 信息披露质量与债务融资",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6818396908759115,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6818396908759115,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "国外研究综述：国外学者从会计信息的各个方面研究了会计信息与债务融资的关系，几乎得出一致结论：会计信息对债务融资是有用的；会计信息（如盈余信息，现金流信息等）的质量有助于银行的决策，为银行做出决策提供了重要的参考。自从Ball Brown（1968）发现会计盈余信息具有信息含量的证据后，西方大量出现了证明会计信息具有信息含量的文献；国外学者通过实证研究得出的结论基本一致，会计信息在我国证券市场具有信息含量，会计信息对投资者是有用的"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.413723669495651,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（Chenetal, 1999）。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5512049875145895,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Abdel Khalik（1973）通过问卷调查，研究发现如果仅依靠财务比率而没有详细的财务信息支持，可能导致银行低估企业风险，同时发现银行偏爱详细的财务数据，没发现详细财务数据妨碍银行制定信贷政策的证据。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3867112650871318,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Larry（1992）强调了现金流量表对银行信贷人员的重要性，认为现金流影响偿还债务而非利润，经营现金流是评价借款人信誉的一种重要财务信息，也是评价信贷风险的重要信息（Billings Morton, 2002），是银行信贷人员除会计报表附注信息外经常使用的信息（Kwok, 2002）。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4758074168939297,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Bamber Stratton（1997）检验了修正审计报告(modified audit report)对信贷决策的影响，若信贷申请材料中存在对报表不确定性修正的审计报告，信贷人员会认为这份贷款申请风险较高，会提高贷款利率及减少发放贷款；Kitindi（2007）对博茨瓦纳债权人年报信息的使用状况调查发现：与其他报表相比利润表相对更重要。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6525550373820135,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6525550373820135,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "国内研究综述：国内很多学者研究了财务信息与非财务信息对银行信贷的影响，李小燕等（2003）认为信用等级转移，业绩指标有先导性；现金流的业绩指标更能提示企业的违约风险，与经营者业绩相关性更强。胡奕明、周伟（2005）发现银行贷款政策（贷款数量、贷款期限、贷款保证方式）与企业财务状况虽然存"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "10"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 2.1604151757173975,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7095533048970795,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在一定联系，但不明确，银行改变某些贷款政策传导监督压力的效力是有限的，还发现：贷款政策与一些非财务指标之间存在合理相关关系，说明非财务指标在银行贷款政策的制定中非常重要；很多学者通过问卷来研究银行授信过程中信息使用情况，了解银行工作人员对财务信息的应用情况，以及财务信息与非财务信息在银行授信过程中发挥的作用，大多数的信贷人员认为会计信息基本上能满足企业授信的分析要求（饶艳超等，2005）。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6982848138577785,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在我国特殊的制度背景下，廖秀梅（2007）研究结果表明：会计信息可以降低信贷决策中（企业与银行均为政府终极控制时）银行监督出现缺位，银行信贷决策中使用会计信息不仅考虑会计信息质量问题，也受所有权制度约束，实证表明会计信息对信贷决策具有重要的促进作用，帮助银行与企业相互了解，提高了信贷决策正确比率，降低了信贷风险。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7525770569625395,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在盈余管理对银行信贷的影响上存在一定的不同研究结果，我国银行业不能有效识别企业的会计操纵行为，导致了银行资源配置不合理和发生不良债权（叶志锋、胡玉明，2009）；姚立杰、夏冬林（2009）的研究结果是我国银行能识别借款企业的盈余质量，对未来的研究主题方面，叶志锋等（2011）提出：一是构造整体性指标检验会计信息质量对银行信贷配置效率的影响；二是深入探究借款人在信贷过程中会计信息使用方式；三是从动态视角考察会计信息质量对银行信贷配置效率的影响；四是通过对会计信息质量的需求特征，提出改善银行信息获取、传递及使用措施。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4968424613610719,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4968424613610719,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "文献评述：已有文献得出的结论基本一致：企业会计信息对于银行的信贷决策是有帮助的，并且有很多学者探讨了哪些会计信息对信贷决策更为重要。企业"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.8009211043978552,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8009211043978552,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（债务人）与银行（债权人）之间信息不对称程度较严重，银行很难了解和把握企业的行为，银行为自身利益免遭侵害，保障自身效益，往往与企业签订债务契约，通过契约控制贷款的风险，许多出于风险管理的保护性条款出现在契约中（限制额外的负债、不允许出售资产等），银行有许多手段出现在控制风险的过程中，其中最重的就是授信评估，财务信息既有定性分析，也有定量分析，是衡量企业偿债能力的关键信息，也是银行授信的重要依据；企业财务状况（获利能力、偿债能力、变现能力等）越好，承担风险的能力也就越强，给银行带来的损失也就越少，企业更容易以较低的利率获得较多的贷款，财务报告信息对企业进行债务融资与银行信贷决策的重要作用己经得到验证。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "11"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.2 信息披露质量与债务期限结构",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.7180545572942263,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5807388617640856,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "国外研究综述：美国的银行根据企业会计信息质量授予不同的债务期限，在中国可能存在不同（Graham et al 2008, Bharath et al 2008），通过经理人员与贷款人之间的信息不对称对公司债务期限结构影响的实证检验，Daniservska（2002）研究发现短期盈余信息不对称正面影响公司债务期限，公司存在严重短期盈余信息不对称会依赖短期债务融资更多，担保价值比例较高，债务期限较长。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2870215869968546,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "通过研究管理层持股对公司债务期限的影响，（Datta、Raman, 2005）发现管理层持股比例与公司债务期限存在显著负相关关系，研究推进了人们对公司债务期限影响因素的认识，但是存在一定的缺陷，即各国在制度环境上存在差异，很难控制其对债务期限结构的影响，所以研究结论具有一定的局限性。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5835262979694462,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Fanyu（2005）用AMR评级作为衡量信息披露质量的变量，发现信息披露质量较高的公司短期债务较少、长期借款较多。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2667678105638398,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Regina（2009）使用二级债券市场债券报价收益衡量信息不对称，检验了信息不对称与债务代理成本的关系（在综合债券市场中），发现信息不对称能降低债务合约期限，高债券报价收益导致较短的债务期限。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6681609837104975,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6681609837104975,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "国内研究综述：对债务期限结构的研究，国内学者起步较晚，我国许多专家与学者都对公司债务期限进行深入的研究，雷森等（2004）通过分析银行与企业目标取向、行为机制，建立二者之间不完全信息信号传递动态博弈模型，通过分析模型指出：若信贷配给带来的交易费用足够大，高质量企业会选择较多短期债务来传递高质量的信号，差企业却无法模仿；肖作平（2005）从动态视角对债务期限结构影响因素进行经验检查，研究发现：调整成本显著影响债务期限结构；没发现公司使用债务期限结构向市场传递信号的证据。熊正德、刘露（2008）从行业的角度出发研究信息不对称对上市公司债务期限结构的影响，通过实证检验，结果表明我国上市公司的信息不对称程度与债务期限结构行业差异较显著，信息不对称因素对一些行业上市公司的债务期限结构影响显著；基于我国政府干预特殊制度背景下，刘志远等（2008）通过代理理论，实证研究了终极控制人与其所控制上市公司债务期限结构的关系，结果表明：终极控制人为国有性质时，其所控上市公司长期负债比例偏高；陆正飞，祝继高和孙便霞（2008）通过研究银行长期借款，针对企业盈余管理行为与银行信贷决策的关系，研究发现：盈余管理程度不同的上市公司，新增银行长期借款与会计信息相关性差异不显著，控制"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "12"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6791185058309491,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3453475211151622,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "了借款类型、借款期限等因素后，该结论依然成立；江伟（2010）研究结果表明：上市公司不会随制度环境的改善而获得更多的长期债务融资，地区法制环境和金融发展的水平越高，上市公司的长期债务融资越少，在法制环境比较好的地区，金融发展水平的提高可以帮助上市公司获得更多的长期债务融资，本文的研究结果有助于帮助我们深入了解我国上市公司长期债务融资较低的制度因素。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3337709847157869,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "基于债务期限的信息不对称理论，胡元木（2011）检验了Flannery模型、Dianmond模型在我国的适用性，公司会根据信息不对称的程度选择不同期限的债务，公司（低风险和高风险）在信息不对称程度较高时选择短期债务满足资金需求，相反，中等风险公司却会选择长期债务，所得结论与其所用理论模型预期基本一致，同样的理论模型在信息不对称程度降低后未能得到验证。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7392200907822681,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7392200907822681,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "文献评述：国内外学者对债务期限结构进行了大量研究，以往的研究较多的从企业特征、制度环境等方面分析，很少有学者从信息风险等角度入手研究信息披露质量对债务期限结构的影响，作为新兴的市场经济国家，我国具有自己的属性与特点，在很多方面与其他国家存在较大的差异，现阶段我国正处于转轨时期，企业与银行都面临较大的挑战，针对我国特殊的背景，在以往研究的基础上，本文结合我国的制度环境，考虑信息风险，研究了信息披露质量与债务期限的关系，信息披露质量是否是影响债务融资的重要因素，银行是否把信息披露质量作为贷款期限的依据，为企业获得合理贷款与银行风险管理提供建议。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.3 政府干预、信息披露质量与债务融资",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.22387458728007947,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.22387458728007947,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "国外研究综述：银行与政府的密切关系导致软预算约束（Berglof、Roland，"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.46099387444358847,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.46099387444358847,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1995），银行给政府偏好的坏项目融资，可得到政府较多的津贴和好处，若政府提供银行的解救资金可以弥补银行给坏项目的贷款，银行将会继续贷款，产生软预算约束。（Shleifer、Vishny, 1994）分析了所有权性质对寻租①行为的影响，结果表明，因为寻租成本较低，公有企业与政府的关系比私有企业强，更容易产生寻租行为，会计信息对债务契约的有用性大大降低（La Porta, 2002），银行对有政府背景的企业存在金融软约束，且贯穿于契约的整个过程，体现在事前签约、"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3616664727025034,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.14689176771451362,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "①按照寻租理论的鼻祖美国经济学家克鲁格的定义和阐述，寻租是指人们凭借政府保护而进行的寻求财富转移的活动。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.21477470498798978,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "它包括“旨在通过引入政府干预或者终止它的干预而获利的活动”。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "13"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3815055260951888,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3815055260951888,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "事中监督与控制及事后执行（Frydma, 2002），国有企业的风险较低，由于国有企业面临违约问题时，政府会帮助其渡过难关（Brandt、Li, 2003），结合亚洲经济危机，（Johnson、Mitton, 2003）研究发现，资本控制者为具有政治关系的企业提供租金，资本控制加强后获得补贴，有更高的财务杠杆；政府是国有银行的最终所有者，主导着银行信贷资源的分配，信贷资源会更多地配置给国有企业，私有企业却难以得到银行信贷的支持(Allen、Qian, 2005)，拥有“政治关系”的企业可以从银行获得更多的长期贷款，而且只需要提供较少的抵押资产"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5250286405159516,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5250286405159516,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（Charumilind, 2006），在那些高度腐败、产权保护差、政府干预程度高的国家更明显（Faccio, 2006），（Fan, Twite, 2010）的跨国研究也表明，投资者保护较好的国家里，公司债务期限结构会更长；市场化程度高的地区，政府对公司的干预水平相对较低，公司所面临的融资约束更多受到自身禀赋的影响，在市场化程度低的地区，政府出于政治目的（如政绩等），直接为企业追加投资或直接干预企业贷款行为，充当担保人，帮助需要融资的国有企业获得贷款（Dinc, 2005），从而降低了融资契约的履约成本，公司受到的融资约束更少。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6629859149564892,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6629859149564892,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "国内研究综述：孙铮等（2005）研究发现：市场化程度越高的地区，长期债务的比重越低，出现差异的主要原因是政府对企业干预程度的不同，司法体系难以使长期债务契约有效执行时，政府关系是一种重要的替代机制；政治关系、政府干预影响了银行向国有上市公司的贷款决策（薛玉莲，2008），持续经营不确定情况下，对民营上市公司贷款决策更加严格，国有上市公司却没有因此受到较明显影响，但持续经营不确定的国有上市公司债务违约现象比同类民营上市公司严重的多；在转型经济下的我国，相比国有企业，审计意见对非国有企业融资约束有更显著的缓解作用，市场化程度越低，这种作用越显著，政府软约束对审计的替代作用（王少飞，2009）对改善政府干预后果与促进非国有企业融资有实践价值，银行对私有产权控股的公司要求其会计政策更加稳健，对私有产权控股且短期借款比例高的公司会计政策要求更加稳健，对长期借款比例高的国有产权控股公司的会计政策要求低（刘运国，2010），在政府干预的制度环境中，信息风险对长期借款的影响在国有企业的正相关关系更显著，这种选择主要体现在债权人对国有企业的可操纵信息风险（杨孙蕾，2011），在我国，银行贷款是企业重要的融资渠道，政府的隐性担保和行政干预使国有公司以较少的担保获得银行贷"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "14"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.2718138180875232,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2718138180875232,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "款（沈红波，2011），金融危机冲击导致经营环境恶化，信贷萎缩，王连军（2011）认：在政府的指令性贷款与自身利润最大化的双重任务约束下，银行道德风险增加，贷款资金投放背离政府救市意图，政府干预没有造成不良贷款率的提高，对信贷规模的扩张影响深刻，长期会造成过度利用银行信贷资源和潜在风险的上升。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.39515751827714457,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.39515751827714457,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "文献评述：以上研究发现，大部分学者认为民营企业在债务融资方面受到"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6198166034760951,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6198166034760951,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "“歧视”，国有企业得到更多优惠，实际控制人性质削弱了信息披露质量与新增银行借款的相关关系，但是由于我国特殊的经济背景，加上金融危机的影响，银行面对利润最大化与政府干预较强的双重压力，金融危机时期信息披露质量对新增银行借款的关系是否发生了变化？以往的研究相对较少，所以这是本文讨论的一个问题。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.4 制度环境与债务融资",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4828038611177083,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4828038611177083,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "国外文献综述：国外文献对制度环境与债务融资研究较多，LaPorta 等人"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6328467677103328,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6328467677103328,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（1997,2002）指出投资者法律保护水平较高可以帮助企业获得外部融资，而且享有更高的市场价值，还引入了公司治理的研究领域，其认为公司治理结构是适应外部制度环境的内生性反应，提供了跨国比较的证据，对于帮助我们理解外部制度因素（法律环境、金融发展等）对企业债务融资的影响具有重要作用，"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.14434722886768692,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.14434722886768692,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（Demirgvc-Kunt, Maksimovic, 1999）证实了法律保护程度与长期债务比例正相关，投资者保护较好的国家里，公司有更长的债务期限结构（Giannetti，2003，"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3186649391420746,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3186649391420746,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Fan，Titman、Twite，2010），法律对债权人的保护和银行体系的发展可以促进银行为企业提供更多的贷款（Mitton, 2008）"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6145206888732568,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6145206888732568,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "国内文献综述：各地区金融发展水平的差距影响了企业债务融资，金融发展水平越高，企业短期债务比率越高，金融发展有助于很多企业（可抵押资产较少的企业、规模小的企业、依赖无形资产投资的企业等）获得债务融资（江伟、李斌，2006），加深了我们关于金融发展对公司融资决策影响的理解，他们还发现：在政府干预程度较低、金融发展水平较高的地区，国有银行的差别贷款行为对不同性质企业的影响有所减弱，指出了导致国有银行差别贷款行为的制度根源，余明桂、潘红波（2008）认为：在我国金融发展较落后、法治水平较低和产权保护"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "15"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4279866486374764,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4279866486374764,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "不强的制度条件下，政治关系作为一种替代性的非正式机制，可以帮助民营企业缓解落后制度的阻碍作用，帮助民营企业得到更多信贷支持；地区制度环境与经济发展水平对财务报告在较大程度上起到了决定性作用，但可能忽略了准则差异及文化因素的影响，在研究会计信息质量与会计稳健性的差异时，不仅考虑宏观制度因素，微观层面的研究也要结合宏观制度层面进行分析（朱松、夏冬林，"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6473892771621308,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6473892771621308,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "2009），叶康涛等（2010）发现遭到负面报道的企业，其下一年的债务融资规模会变低，银行在贷款决策时会考虑借款人的声誉，公司所在地区市场化程度越高，影响越弱，声誉与市场化程度之间存在相互替代的关系；对于非政府控制的上市公司，被出具持续经营审计意见（简称“GCO”）后，公司的银行贷款有显著的下降，而且公司是否被出具GCO与下一年银行贷款变化之间的负相关关系显著地受制度环境因素的影响（廖义刚，2010），即在市场化进程程度较高、金融发展水平较高、法治水平较高的地区，两者负相关关系更为显著；苏坤（2012）把政府控制、内部结构与制度环境三者放在统一框架进行分析，结果发现：政府行政级别越低，干预银行信贷资源配置额的动机就越强，公司可以获得更多的银行贷款，与制度环境较差的地区相比，制度环境较好地区的政府控制、内部结构对银行信贷资源配置影响较小。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6055467761220319,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6055467761220319,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "文献评述：很多学者从制度环境研究了不同制度环境下债务融资的状况以及不同制度环境下信息披露状况，从不同的角度探讨了制度环境对债务融资的影响，大部分学者得出的结论基本一致：制度环境深刻影响了债务融资，对资金的配置起到了一定的调节作用，但很少有文献研究不同制度环境下信息披露质量对债务融资的影响，本文基于这一点进行了深入研究。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "16"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究假设": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究假设"
+      ],
+      "chosen": false,
+      "text_content": "4.1 假设的提出",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.37244108903780954,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.37244108903780954,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "授信评估作为银行控制信贷风险的关键性手段，在银行信贷过程中发挥着重要作用，会计信息在此过程中帮助银行衡量企业的偿债能力（企业未来财务状况、经营成果等），是授信过程中的重要依据；财务状况越好的公司，越有能力负担财务上的风险，债务融资越具有吸引力，大量研究认为，会计信息有助于银行信贷决策（Abdel-Khalik，1973；Watts，Zinunerman，1986；Diamond，1991；Chung，"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.049211426242434755,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.049211426242434755,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Ghicas，Pastena，1993；Kitindi，Magembe，sethibe，2007)，会计信息对银行信贷决策的作用己得到验证。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5039957289462562,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5039957289462562,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "在当前正式金融制度下，银行的潜在信贷风险可以通过资本市场进行量化、分析、评估，此过程所依据的是“可计算性”的企业生产、经营、管理等方面的信息；签订债务契约前，银行通过会计信息考核企业的财务状况、经营成果及现金流量等，据此决定是否贷款，贷款方式，贷款额度；签订债务契约后，银行贷款后会跟踪、掌握企业对信贷资金的使用状况，通过对企业资金应用情况来评估企业资金的风险及再贷款的信用情况，此过程企业如果出现违反契约规定行为时，为保护自身权益会及时收回贷款。如果企业想顺利融资，以较低的代价获得银行存款，必须首先解决因信息不对称给债权人（银行）带来的对信贷风险评估问题，这样就很容易通过风险评估，达到信贷审核要求，（Diamond、Verriechia，"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5215109221546563,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5215109221546563,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1991）通过研究认为解决此问题的一种有效方法是：提高信息披露水平；信息披露质量的高低对银行信贷的作用是显而易见的，银行对企业风险状况的判断会较多的依赖高质量的信息披露，通过风险评估状况制定出合理贷款利率和贷款数量的决策，因此，会计信息质量较高的公司更容易得到银行的青睐，在相同条件下，会得到更多的银行新增借款。由此，提出假设1："
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.46497807932469454,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.46497807932469454,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "假设1：企业信息披露质量越高越受到银行的青睐，获得的银行借款越多。合理的债务期限结构既是银行信贷决策的重要一环，也是企业债务融资的重"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.42110653695657585,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.42110653695657585,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "要内容，使企业具有良好的债务融资治理效应，与企业发展密切相关；债务市场中，银行与企业要想建立长期的合作互信关系，克服两者的信息不对称程度，银"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "23"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.3215024020058075,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3215024020058075,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "行作为专业借贷机构，就必须掌握借款企业的一些事关风险评估的关键信息（如现金流、信用状况和投资机会等），美国银行依据企业会计信息质量的差异而给予不同的债务期限（Graham、Li, Qiu, Bharath, Sunder, 2008）。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.30703020235775463,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.30703020235775463,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "银行信贷结构方面，长期贷款与短期借款是两种性质完全不同的债务；长期借款由于其期限相对较长，借款企业的财务状况在这期间可能具有较大不确定性，违反债务契约的可能性相对较高，所以银行对外部履约机制（如法律保护投资者的程度、所有权性质等）的依赖性较强(Diamond, 1991; Rajan, 1992)，市场化程度较低的地区，企业与政府保持密切关系，其长期借款可以得到政府的"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.46344559703012655,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.46344559703012655,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "“隐性担保”（孙铮等，2005）；廖秀梅（2007）认为政府干预银行的信贷决策主要通过长期借款，随着贷款期限变长，企业融资风险变大，银行决策依赖上一期会计信息越弱；企业长期借款不存在短期还款压力，会计信息对企业新增长期借款的影响不显著（陆正飞，2008）；相对于长期借款而言，银行对短期借款的控制较容易，银行掌握借款企业生产、经营信息，可以及时、有效的监督企业"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.25232192905369805,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.25232192905369805,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（Diamond, 1991; Rajan, 1992），由于短期借款时间短，企业在资产结构、资产价值等方面变化相对较小，银行及时收回本息的风险较低（Diamond、Rajan，"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5354335149175464,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5354335149175464,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2001）；所以，银行以信息披露质量作为风险评估的依据，企业的短期借款受上一年信息披露质量的影响较大，银行出于自身利益考虑，更愿意通过提供短期债务融资监督、控制企业（李斌、江伟，2006），企业会通过短期借款进行融资适应自身的发展，接受银行信贷审核，银行可以借此减少因信息不对称带来的信贷风险。由此，提出假设2："
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.35610098246290145,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.35610098246290145,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "假说2：相对于新增长期借款而言，信息披露质量与新增短期借款更具有正相关关系。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.4836270375046322,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4836270375046322,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "在货币政策紧缩时期，企业选择更稳健的会计报告政策，传递自身良好盈利能力和偿债能力的信号，增加获得银行贷款的可能性，在货币政策趋紧时期，信息披露质量较好的公司获得了更多的银行贷款（李志军、王善平，2011），随着融资需求的增大而获得更多贷款，贷款利率也更低；作为债权人，银行必然要求企业提高信息披露质量，银行最关注的是企业的资产能否偿还债务，而不是企业资产增值的潜力；一方面，银行把信息披露质量作为重要指标保证贷款的安全性；另一方面银行关注企业违约风险，银行把信息披露质量作为债务违约风险的"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "24"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.05523235230894626,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.05523235230894626,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "重要提示。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5177422720037841,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5177422720037841,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "金融危机期间，很多企业出现资金短缺，为了维护企业发展，得到银行贷款支持，很多企业粉饰财务报表，银行作为经济主体，一方面，要实现自身利润最大化，另一方面，政府要减少金融危机的影响，维护金融稳定，银行不得不贷款给一些信息披露质量较差的企业，再加上银行对国有企业的偏爱，即使国有企业信息披露状况很差，企业照常可以获得银行的贷款；由于稳定的需要，政府的支持对信息披露质量的要求可能有所下降，因为金融危机的影响，信息披露质量的好坏对债务融资的影响可能减弱。由此，提出假设3："
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.37548677842355926,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.37548677842355926,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "假设3：相对于金融危机前，金融危机削弱了信息披露质量对银行新增借款的影响。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.6487687099700444,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6487687099700444,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "我国各地经济状况与社会发展水平差异性较大，由于不同的资源状况、地理位置、国家政策，导致我国各地区的市场化程度存在较大差异（孙铮等，2005），关系到银行的风险评估与信贷决策，对企业的债务融资影响较大，具体来讲，随着市场化改革的不断深入，市场化水平较高的地区，银行间竞争更加激烈，这些地区的银行发放贷款会更多地考虑自身利益最大化，而不是关注政治目的；然而在市场化程度较低的地区，银行间的竞争相对较少，地方政府致力于增加就业、稳定财政收入、促进经济发展等，主动干预银行贷款决策的动机较强，相比市场化程度较高的地区，贷款人长期债务履约成本较高，在市场化程度较低的地区，政府对银行的信贷干预降低了借款企业的履约成本，政府对国有银行的干预在市场化程度较高的地区相对较弱，这些地区的银行会加强贷款的审查、监督，银行对贷款管理的措施（如提高信息披露质量、调整贷款期限、要求更多的抵押等）更加严苛。另外，法律法规在债务市场的作用是不可忽视的，(LaPorta, 1997)认为法律法规作为信用市场发展的重要因素，影响信息披露质量对债务融资的作用，完善的法律法规有利于增强银行的贷款意愿，减少企业的信贷约束(Jappelli等, 2005)，有效率的法律体系中，企业取得外部融资更容易（Demirg、Mak, 1998），缺乏投资者权利保护的国家，企业的融资障碍较多（Laeven、Majnoni, 2003），法律、金融发展较好的西方发达国家，债权人给企业提供更多的长期借款（Fanet al.2007）；从我国实际情况看，司法体系不完善，缺乏独立性，干预司法独立的行为（政府部门、政府官员）屡见不鲜，法律往往不能有效的实施，成为一纸空"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "25"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.4602438221741002,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4602438221741002,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "文；公司的管辖权属于当地的中级人民法院，虽然各地区上市公司所处的大环境基本一致，但是各地区的法治水平差距较大（樊纲等，2011），对银行的贷款行为影响深刻，在法治水平较高的地区，银行会利用贷款企业的信息披露机制来保护自身权益，加强风险评估，降低信贷风险。由此，提出假设4："
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.4731026599983673,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4731026599983673,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "假说4：市场化程度越高、政府干预程度越低及法治水平越好的地区，信息披露质量对新增银行借款的影响越显著。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0848500290632486,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0848500290632486,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "综上，本文实证思路如图4—1。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.49289956264698737,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.49289956264698737,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "信息披露质量"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.1851640199545103,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.1851640199545103,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "新增银行借款"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.1548087193004064,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.1548087193004064,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "新增短期银行借款"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.1523345656067251,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.1523345656067251,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "新增长期银行借款"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.2138786895548373,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.2138786895548373,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "市场化进程、政府干预程度、法治水平"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.06668961421339868,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.06668961421339868,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "金融危机"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.41028776908357434,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.41028776908357434,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "制度环境"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.10607346979980517,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.10607346979980517,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "图4—1  本文实证思路图"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "数据与样本": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "数据与样本"
+      ],
+      "chosen": false,
+      "text_content": "4.3 样本的选择及来源",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5570521879839643,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5570521879839643,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本文的研究样本是：2007—2009年在深市A股上市的公司，本研究对样本"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "30"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.47065856326915273,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.2494472234645002,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "的筛选如下：（1）剔除金融行业的上市公司。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.22121133980465252,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（2）剔除创业板上市的公司。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.48137835014367963,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.48137835014367963,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "省制度环境各指标的指数得分。通过数据筛选与各数据配对后，得到了1964 个"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.018782904696413,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.21878290469641293,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "样本数据，其中2009年736家，2008年664家，2007年564家。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.8,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "为了保证回归结果准确、可靠，消除数据异常值的影响，本位对所选变量各指标新增银行借款、新增短期银行借款、新增长期银行借款、公司规模、资产收益率、资产负债率、经营现金流、增发和配股进行了上下1％的缩尾处理（winsorize），本文的统计分析应用了Excel和SAS软件。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "变量定义": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "变量定义"
+      ],
+      "chosen": false,
+      "text_content": "4.2 变量的选择及计量",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "变量定义"
+          ],
+          "chosen": false,
+          "text_content": "4.2.1 被解释变量",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.24953720278486188,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.24953720278486188,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文用Loanit来表示样本公司第t年单位资产的新增银行借款，其值用第t年与上一年的银行借款（短期借款+长期借款+一年内到期的长期借款①）之差除以上一年资产总计②计算所得。本模型将Loanit分成SLoanit（单位资产新增短期借款）与LLoanit（单位资产新增长期借款）两个部分分别做回归分析，验证假设2；其中的SLoanit用第t年与上一年短期借款之差除以上一年资产总计计算所得，"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.09324625234660193,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.09324625234660193,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "①本文借鉴陆正飞等（2008）在《盈余管理、会计信息与银行债务契约》的做法，用一年内到期的非流动负债代替一年内到期的长期借款，因为一年内到期的的长期借款与一年内到期的非流动负债基本一样，差距较小。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.17156251528380254,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.17156251528380254,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "②除以公司期初的资产总计以消除量纲的影响。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "26"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.05817903195307015,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.05817903195307015,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "LLoanit是由第t年与上一年①（长期借款+一年内到期长期借款）之差除以上一年资产总计计算所得。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.2.2 解释变量",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.517021840302964,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.517021840302964,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（1）信息披露质量的度量"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4545304684354132,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4545304684354132,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "以往实证研究中，度量信息披露质量的三种主要方法：①权威机构设置的信息披露质量评价指数；②学者自建的信息披露质量指数；③学者使用的一些比较合理、充分体现信息披露质量的相关替代变量。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.42751137275479845,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.42751137275479845,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "第一，权威机构设置的信息披露质量评价指数；以往相关研究文献中，研究者广泛运用的信息披露指数有：①国际财务分析和研究中心的信息披露评价体系②；②标准普尔的披露评分③；③投资管理和研究—协会的披露指数④；④普华永道的“不透明指数”⑤；⑤深交所的信息披露评级（下文有具体的分析介绍）。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7763976210558422,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4392885246423104,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "第二，学者自建的信息披露质量指数；国内外许多学者从自身研究问题的实际需要出发，自行构建了信息披露质量的评价体系，他们针对自身研究，从理论分析入手，对其所研究的问题所需项目归纳、整理后进行赋值，将赋值加总后得出自建指数。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3371090964135318,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "国外方面较为重要的是Botosan（1997）自建的评价指数，他用五大类信息中各个关键信息披露项目赋值，然后加总后得分，作为评价自愿性信息披露的指数，用该指数来衡量信息披露质量的好坏。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3164454504146518,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3164454504146518,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "①在企业的资产负债表中，一年内到期的长期负债是流动负债的一个组成部分，但从契约性质来看，它仍然属于长期负债，所以，这里将其划分到长期贷款中，由于我国债券市场规模偏小，因此一年内到期的长期负债主要有银行贷款构成，江伟（2006）也将一年内到期的非流动负债作为银行贷款的组成部分。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3937606998280499,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3937606998280499,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "②该评价体系即CIFAR指数，根据分析挑选的90个重要披露项目而来，样本来自34个国家，18个不同制造业的856家公司，根据披露项目在公司年报中披露情况分析量化，披露数量越多，该指数越大，说明信息披露质量越高。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.43497880905053504,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.43497880905053504,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "③该评分将年报中的信息分为98种属性，对这些信息情况进行积分，然后得出总得分，该种打分重点考虑是否提供某种信息而不考虑信息的质量，被广泛用于跨国研究以比较各国之间公司信息透明度。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.1865973479763995,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1865973479763995,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "④该指数是美国投资管理和研究协会财务分析师，对27个行业的460家公司的年度报告、季度报告、其他"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.35890511012763404,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.35890511012763404,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "披露信息、与投资者关系的活动等信息的披露情况通过打分进行评价，但是该指数到1995年就停止了。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.07006997609204949,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.07006997609204949,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "⑤该指数是普华永道会计公司2001年，对全球35个国家从法律、腐败、财经政策、政府管制、会计准则"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.012471667646494211,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.012471667646494211,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "与实务等5各方面打分评价而做的调查报告。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "27"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.27175854150300205,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.27175854150300205,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "性、完整性、及时性来评价，得出信息披露的子指数。具有代表性的还有王永梅"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.41247558195910344,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.41247558195910344,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（2003）借鉴Botosan的研究并结合我国的具体披露情况构建了信息披露指数，崔学刚（2004）也设计了自愿性信息披露指数，由41个自愿性信息披露条目构成。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.3259629921596883,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.39714527702802804,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "第三，相关替代变量；信息披露质量的相关替代变量较多，许多专家学者在以往的研究文献中较多使用的信息披露质量替代变量有：（1）盈余透明度。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4602855731710602,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "盈余是财务报告的核心，也是投资者关注的焦点信息，其披露质量在一定程度上表现了公司披露水平，信息披露质量高表明盈余透明度高。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.002382724931500273,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（2）管理层盈余预测。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.46614941702909973,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "此替代变量对公司未来盈余预测信息进行了说明，还有许多相关方面的定性信息披露，其充分性、全面性越高，说明信息披露质量越高；（3）事件法，以上市公司违规被处罚的事件数目表示公司整体信息披露质量，次数越多说明信息披露质量越差。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.22029688858230137,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.19903876157700234,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "通过对比分析认为，权威机构设置的评级指数具有较多优势：（1）结果公开性强，使用性较广，设置成本较低，不随研究者不同而改变指数，研究可验证性较强，有较强的适用性。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.021258127005299023,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（2）权威性较强，指标是权威机构众多专家学者的研究成果，凝结了许多相关领域权威人士的智慧。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.8287809739211185,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.38393648163149807,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "“质”，又考虑了信息披露的“量”，包括了正式披露与非正式披露两方面的质量评价。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4448444922896204,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "针对我国信息披露的实际情况及所用数据状况的完整与权威，所以选择了深交所的信息披露质量评价指数作为本研究的度量指标。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.8042314721692002,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7346997816460257,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "综上，本文选取了深交所对信息质量的评级作为公司信息披露质量的替代变量，深交所的考评按照法律法规的规定，针对上市公司信息披露的各方面（准确性、及时性、完整性和合法性）的特征，结合企业因信息披露而受奖惩情况，以及监管机构的监管情况，对上一年上市公司信息披露考评得到优秀、良好、合格和不合格四个不同的考评等级，因其较强的权威性，很多专家学者利用其作为研究的衡量指标（如曾颖，2006；张宗新，2007）。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.06953169052317451,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文的回归分析将考评结果“不合格”与“合格”为0，“良好”与“优秀”为1。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.49229952446570485,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.49229952446570485,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（2）制度环境"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.13119876824346768,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.13119876824346768,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文选取了樊纲等（2011）的报告中的市场化指数（Mar）、政府干预指数"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.32208317525866714,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.32208317525866714,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（Gov）、法治水平指数（Leg）来衡量我国的制度环境，市场化程度的好坏也就"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "28"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.768554498369412,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5009376995563116,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "是市场化指数的高低，用报告中市场化进程的总得分来表示，得分越高说明市场化程度越高；政府干预程度的高低也就是政府干预指数的大小，用减少政府对企业的负担指数表示，指数越小说明政府干预程度越高；法治水平高低也就是法治水平指数的大小，用市场中介组织的发育和法律制度环境得分表示，得分越高说明法治水平越高。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2676167988131004,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本研究以样本各年各省中位数为分界线，作为制度环境好坏的分类标准。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.2.3 控制变量的选择及计量",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.8957981141312745,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4134296331005143,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "除信息披露质量外，本文把影响银行新增借款的财务指标分为上期财务指标和本期财务指标。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4823684810307603,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "银行发放贷款时要考虑借款企业的上期财务报告，包括审计意见、资产收益率、资产负债率、公司规模等（廖秀梅，2007；陆正飞等，2008），许多本期的财务指标关系到企业的生产经营，对银行借款影响较深刻，如经营现金流与增发、配股等（胡奕明等，2007）。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5506549531024155,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5506549531024155,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（1）审计意见（audit）:审计意见是影响银行借款的重要因素，是银行信贷决策的重要参考因素，银行认为审计意见越好，企业提供的相关信息越可靠，获得贷款越容易，本文对企业上期审计意见类型做虚拟变量，当企业上期审计意见类型为标准非保留意见时取0，其他意见类型为1。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3985259158263776,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3985259158263776,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（2）资产收益率（roa）:资产收益率越高，说明企业的经营效益越好，偿债能力越强，偿债能力是银行做出信贷决策最为重视的财务指标之一，直接关系到银行贷款的风险，本文用上期净利润与资产总计的比值表示。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4185907867252127,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4185907867252127,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（3）资产负债率（lev）：一般来说，企业的资产负债率越大，表明其面临的流动性风险越大，偿债能力越弱，企业还本付息的能力越弱，银行贷款收回的安全性越小，企业越不容易得到银行的贷款，本文用总负债与资产总计的比值表示。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4347523134678863,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.05281914892782778,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（4）经营现金流（cash）：经营现金流是所有财务报表中最重要的指标之一。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3819331645400585,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "它主要记录了企业在销售商品、提供劳务、购买商品、接受劳务、支付税收等活动的现金流动情况，反映了主营业务的现金收支状况，是预测企业偿债风险的重要指标，本文用当期经营现金流除以期初资产总计来表示。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0005716826840112819,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0005716826840112819,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（5）增发和配股（seo）：孙铮、李增泉和王景斌（2006）等人的研究结果"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "29"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6773719505719428,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5996833892751885,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表明，权益融资因素都会影响企业的债务融资。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.07768856129675426,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文用当期增发、配股金额的和与期初资产总计的比值来表示。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.43708116158716764,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.43708116158716764,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（6）公司规模（size）：企业规模不同，社会声誉存在差别，通常来讲资产规模越大，债务违约发生的可能性越小，越容易获得银行的借款，本文采用上年资产总计的自然对数，作为衡量公司规模的指标。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.1816746136646497,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1816746136646497,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（7）年度(year)：为控制宏观经济的影响，引入了年份哑变量。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.07060575761825293,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.07060575761825293,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（8）行业(ind)：按证监会的行业分类标准，由于制造业较多而且差距较大，本文对制造业继续分类，在剔除金融保险业后，剩余21个行业。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.07065169574375024,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.07065169574375024,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表4—1相关变量的定义如表所示："
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['变量名称', '符号', '含义'], ['单位资产新增银行借款', 'Loan', '第 t 年和第 t-1 年银行借款之差除以第 t-1 年资产总计'], ['单位资产新增短期借款', 'Sloan', '第 t 年和第 t-1 年短期银行借款之差除以第 t-1年资产总计'], ['单位资产新增长期借款', 'Lloan', '第t 年和第t-1 年长期银行借款（长期借款与一年内到期的非流动负债）之差除以第t-1 年资产总计'], ['信息披露质量', 'quality', '\"不合格”与“合格”为 0，“良好”与“优秀”为 1。(上一期)'], ['市场化进程指数', 'Mar', '市场化指数大于当年各省中位数时取 1，反之取 0'], ['政府干预指数', 'Gov', '政府干预指数大于当年各省中位数时取 1（政府干预程度低），反之取 0（政府干预程度高）'], ['法治水平指数', 'Leg', '法治水平指数大于各省中位数时取 1，反之取 0'], ['审计意见', 'audit', '当审计意见为标准非保留意见时取 0，反之取 1（上一期）'], ['资产收益率', 'roa', '净利润除以资产总计（上一期）'], ['资产负债率', 'lev', '负债除以资产总计（上一期）'], ['经营现金流', 'cash', '经营现金流除以期初资产总计'], ['增发和配股', 'seo', '增发和配股实际筹集的资金除以期初资产总计'], ['规模', 'size', '资产总计的自然对数（上一期）'], ['年度', 'year', '年度虚拟变量，共设置两个年度哑变量'], ['行业', 'ind', '行业哑变量，控制行业因素的影响。按证监会的分类标准（除了制造业继续划分为小类外），共有22 个行业，剔除金融行业后，共设置 20 个行业哑变量。']]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "变量定义",
+        "检验",
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "5.1 描述性检验",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "5.1.1 信息披露质量",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6170548608634554,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6170548608634554,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表5—1  信息披露质量的描述性分析"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['披露质量', '2006', '', '2007', '', '2008', '', '合计', ''], ['', '数量', '比例', '数量', '比例', '数量', '比例', '数量', '比例'], ['优秀', '56', '9.93%', '63', '9.49%', '76', '10.33%', '195', '9.93%'], ['良好', '304', '53.90%', '346', '52.11%', '443', '60.19%', '1093', '55.65%'], ['合格', '176', '31.21%', '228', '34.34%', '199', '27.04%', '603', '30.70%'], ['不合格', '28', '4.96%', '27', '4.06%', '18', '2.44%', '73', '3.72%'], ['样本量', '564', '', '664', '', '736', '', '1964', '']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.34113697367712653,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.34113697367712653,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由上表可知，总体来看，三年中公司信息披露质量较好（考评结果为优秀或良好）的1288家，其数量占总样本的65.58%，其中样本公司考评结果为“优秀”分别为56家（9.93%）、63家（9.49%）和76家（10.33%），考评结果为“良好”"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.16923469687624515,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16923469687624515,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "的样本公司分别为304家（53.90%）、346家（52.11%）和443家（60.19%），信"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.2608333185040721,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2608333185040721,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "息披露质量较差（考评结果为及格或不及格）的有680家，其数量占总样本的"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.004868770500684563,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.004868770500684563,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "34.5%，考评结果为“合格”的分别为176家（31.21%）、228家（34.34%）、199家（27.04%），考评结果为“不合格”的分别为28家（4.96%）、27家（4.06%）、"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4598250702728817,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4598250702728817,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "18家（2.44%）。信息披露质量较好的公司数量逐年增加，所占比例却先降后升，考评结果为“合格”的公司在数量与所占比例上都出现先降后升的趋势，考评结果为“不合格”的公司在数量与所占比例上都出现逐年递减的趋势；总体来说，我国上市公司信息披露质量相对较高"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5389921911171504,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5389921911171504,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表5  一2不同行业的信息披露质量的分布"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['行 业', '优秀', '', '良好', '', '合格', '', '不合格', '', '样本量'], ['农、林、牧、渔业', '1', '3.23%', '16', '51.61%', '13', '41.94%', '1', '3.23%', '31'], ['采掘业', '7', '18.42%', '11', '28.95%', '16', '42.11%', '4', '10.53%', '38'], ['制造业', '116', '9.85%', '670', '56.88%', '350', '29.71%', '42', '3.57%', '1178'], ['电力、煤气及水的生产和供应业业', '6', '7.89%', '47', '61.84%', '22', '28.95%', '1', '1.32%', '76'], ['建筑业', '6', '22.22%', '14', '51.85%', '7', '25.93%', '0', '0.00%', '27'], ['交通运输、仓储业', '14', '29.17%', '24', '50.00%', '8', '16.67%', '2', '48', '4.17%'], ['信息技术业', '9', '7.63%', '77', '65.25%', '28', '23.73%', '4', '3.39%', '118']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "32"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['批发和零售贸易', '15', '12.71%', '69', '58.47%', '33', '27.97%', '1', '0.85%', '118'], ['房地产业', '11', '6.18%', '84', '47.19%', '69', '38.76%', '14', '7.87%', '178'], ['社会服务业', '8', '9.64%', '48', '57.83%', '26', '31.33%', '1', '1.20%', '83'], ['传播与文化产业', '1', '5.56%', '6', '33.33%', '10', '55.56%', '1', '5.56%', '18'], ['综合类', '1', '1.96%', '27', '52.94%', '21', '41.18%', '2', '3.92%', '51']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.031623981317422424,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.031623981317422424,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从表中可以看出，优秀样本中，所占比例最大的行业是交通运输、仓储业"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.032571241843085366,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.032571241843085366,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（29.17%），最小的行业是综合类（1.96%）；良好样本中，所占比例最大的行业是信息技术业（65.25%），最小的行业是采掘业（28.95%）；合格样本中，所占比例最大的行业是传播与文化产业（55.56%），最小的行业是交通运输、仓储业"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5344667106241829,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.03161705199855434,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（16.67%）；不合格样本中，所占比例最大的行业是采掘业（10.53%），最小的行业是建筑业（0.00%）。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5028496586256286,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由上可知：信息披露质量较好的是交通运输、仓储业与信息技术业，信息披露质量较差的是传播与文化产业和采掘业，不同行业之间信息披露质量差距较大。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "变量定义",
+            "实证研究类v3"
+          ],
+          "chosen": false,
+          "text_content": "5.1.2 其他变量统计性分析",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.17912570321985632,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.17912570321985632,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表5—3  其他变量描述性检验"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['变量', '样本量', '均值', '标准偏差', '总和', '最小值', '最大值'], ['Loan', '1964', '0.02726', '0.14400', '53.52959', '-0.47233', '0.67816'], ['Sloan', '1964', '0.00807', '0.10528', '15.85273', '-0.40616', '0.40666'], ['Lloan', '1964', '0.01947', '0.08883', '38.24699', '-0.17516', '0.54220'], ['audit', '1964', '0.07994', '0.27127', '157.00000', '0', '1.00000'], ['roa', '1964', '0.03401', '0.09799', '66.79995', '-0.51169', '0.38970'], ['lev', '1964', '0.57263', '0.55485', '1125', '0.06444', '4.77890'], ['cash', '1964', '0.06525', '0.11213', '128.15422', '-0.33748', '0.44856'], ['seo', '1964', '0.03277', '0.13609', '64.36565', '0', '0.96979'], ['size', '1964', '21.14463', '1.11521', '41528', '18.00000', '24.00000'], ['mar', '1964', '0.75204', '0.43194', '1477', '0', '1.00000'], ['gov', '1964', '0.70570', '0.45584', '1386', '0', '1.00000'], ['leg', '1964', '0.75713', '0.42893', '1487', '0', '1.00000']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.15006037389270396,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.15006037389270396,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由上表可知，新增长期借款均值（0.01947）远远大于新增短期借款的均值"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5683806756091162,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5683806756091162,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（0.00807），说明企业新增长期借款相对较多；审计意见的均值为0.07994，该指标描述了公司的财务状况，这就意味着大约有8%的公司财务问题严重，被出具非标准的审计意见；资产收益率均值为0.03401，最小值（-0.51169）与最大值（0.38970）差距较大，说明上市公司之间获利能力差异很大；资产负债率的"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "33"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.29561423331881753,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.29561423331881753,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "均值为0.57263，说明上市公司整体负债水平较高，有较大的财务风险；经营现金流的均值（0.06525）远远大于公司新增借款均值（0.02726），说明上市公司的现金流较充分；增发和配股的均值为（0.03277）与新增银行借款的均值"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.47514735607657205,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.47514735607657205,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（0.02726）差别不大，说明股权融资也是公司获得资金的重要融资渠道；市场化进程指数、政府干预指数、法治水平指数的均值分别为0.75204、0.70570、0.75713，相对较高，说明我国制度环境较好。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "检验": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "变量定义",
+        "检验",
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "5.1 描述性检验",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "5.1.1 信息披露质量",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6170548608634554,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6170548608634554,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表5—1  信息披露质量的描述性分析"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['披露质量', '2006', '', '2007', '', '2008', '', '合计', ''], ['', '数量', '比例', '数量', '比例', '数量', '比例', '数量', '比例'], ['优秀', '56', '9.93%', '63', '9.49%', '76', '10.33%', '195', '9.93%'], ['良好', '304', '53.90%', '346', '52.11%', '443', '60.19%', '1093', '55.65%'], ['合格', '176', '31.21%', '228', '34.34%', '199', '27.04%', '603', '30.70%'], ['不合格', '28', '4.96%', '27', '4.06%', '18', '2.44%', '73', '3.72%'], ['样本量', '564', '', '664', '', '736', '', '1964', '']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.34113697367712653,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.34113697367712653,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由上表可知，总体来看，三年中公司信息披露质量较好（考评结果为优秀或良好）的1288家，其数量占总样本的65.58%，其中样本公司考评结果为“优秀”分别为56家（9.93%）、63家（9.49%）和76家（10.33%），考评结果为“良好”"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.16923469687624515,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16923469687624515,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "的样本公司分别为304家（53.90%）、346家（52.11%）和443家（60.19%），信"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.2608333185040721,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2608333185040721,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "息披露质量较差（考评结果为及格或不及格）的有680家，其数量占总样本的"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.004868770500684563,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.004868770500684563,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "34.5%，考评结果为“合格”的分别为176家（31.21%）、228家（34.34%）、199家（27.04%），考评结果为“不合格”的分别为28家（4.96%）、27家（4.06%）、"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4598250702728817,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4598250702728817,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "18家（2.44%）。信息披露质量较好的公司数量逐年增加，所占比例却先降后升，考评结果为“合格”的公司在数量与所占比例上都出现先降后升的趋势，考评结果为“不合格”的公司在数量与所占比例上都出现逐年递减的趋势；总体来说，我国上市公司信息披露质量相对较高"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5389921911171504,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5389921911171504,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表5  一2不同行业的信息披露质量的分布"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['行 业', '优秀', '', '良好', '', '合格', '', '不合格', '', '样本量'], ['农、林、牧、渔业', '1', '3.23%', '16', '51.61%', '13', '41.94%', '1', '3.23%', '31'], ['采掘业', '7', '18.42%', '11', '28.95%', '16', '42.11%', '4', '10.53%', '38'], ['制造业', '116', '9.85%', '670', '56.88%', '350', '29.71%', '42', '3.57%', '1178'], ['电力、煤气及水的生产和供应业业', '6', '7.89%', '47', '61.84%', '22', '28.95%', '1', '1.32%', '76'], ['建筑业', '6', '22.22%', '14', '51.85%', '7', '25.93%', '0', '0.00%', '27'], ['交通运输、仓储业', '14', '29.17%', '24', '50.00%', '8', '16.67%', '2', '48', '4.17%'], ['信息技术业', '9', '7.63%', '77', '65.25%', '28', '23.73%', '4', '3.39%', '118']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "32"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['批发和零售贸易', '15', '12.71%', '69', '58.47%', '33', '27.97%', '1', '0.85%', '118'], ['房地产业', '11', '6.18%', '84', '47.19%', '69', '38.76%', '14', '7.87%', '178'], ['社会服务业', '8', '9.64%', '48', '57.83%', '26', '31.33%', '1', '1.20%', '83'], ['传播与文化产业', '1', '5.56%', '6', '33.33%', '10', '55.56%', '1', '5.56%', '18'], ['综合类', '1', '1.96%', '27', '52.94%', '21', '41.18%', '2', '3.92%', '51']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.031623981317422424,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.031623981317422424,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从表中可以看出，优秀样本中，所占比例最大的行业是交通运输、仓储业"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.032571241843085366,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.032571241843085366,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（29.17%），最小的行业是综合类（1.96%）；良好样本中，所占比例最大的行业是信息技术业（65.25%），最小的行业是采掘业（28.95%）；合格样本中，所占比例最大的行业是传播与文化产业（55.56%），最小的行业是交通运输、仓储业"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5344667106241829,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.03161705199855434,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（16.67%）；不合格样本中，所占比例最大的行业是采掘业（10.53%），最小的行业是建筑业（0.00%）。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5028496586256286,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由上可知：信息披露质量较好的是交通运输、仓储业与信息技术业，信息披露质量较差的是传播与文化产业和采掘业，不同行业之间信息披露质量差距较大。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "变量定义",
+            "实证研究类v3"
+          ],
+          "chosen": false,
+          "text_content": "5.1.2 其他变量统计性分析",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.17912570321985632,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.17912570321985632,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表5—3  其他变量描述性检验"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['变量', '样本量', '均值', '标准偏差', '总和', '最小值', '最大值'], ['Loan', '1964', '0.02726', '0.14400', '53.52959', '-0.47233', '0.67816'], ['Sloan', '1964', '0.00807', '0.10528', '15.85273', '-0.40616', '0.40666'], ['Lloan', '1964', '0.01947', '0.08883', '38.24699', '-0.17516', '0.54220'], ['audit', '1964', '0.07994', '0.27127', '157.00000', '0', '1.00000'], ['roa', '1964', '0.03401', '0.09799', '66.79995', '-0.51169', '0.38970'], ['lev', '1964', '0.57263', '0.55485', '1125', '0.06444', '4.77890'], ['cash', '1964', '0.06525', '0.11213', '128.15422', '-0.33748', '0.44856'], ['seo', '1964', '0.03277', '0.13609', '64.36565', '0', '0.96979'], ['size', '1964', '21.14463', '1.11521', '41528', '18.00000', '24.00000'], ['mar', '1964', '0.75204', '0.43194', '1477', '0', '1.00000'], ['gov', '1964', '0.70570', '0.45584', '1386', '0', '1.00000'], ['leg', '1964', '0.75713', '0.42893', '1487', '0', '1.00000']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.15006037389270396,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.15006037389270396,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由上表可知，新增长期借款均值（0.01947）远远大于新增短期借款的均值"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5683806756091162,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5683806756091162,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（0.00807），说明企业新增长期借款相对较多；审计意见的均值为0.07994，该指标描述了公司的财务状况，这就意味着大约有8%的公司财务问题严重，被出具非标准的审计意见；资产收益率均值为0.03401，最小值（-0.51169）与最大值（0.38970）差距较大，说明上市公司之间获利能力差异很大；资产负债率的"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "33"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.29561423331881753,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.29561423331881753,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "均值为0.57263，说明上市公司整体负债水平较高，有较大的财务风险；经营现金流的均值（0.06525）远远大于公司新增借款均值（0.02726），说明上市公司的现金流较充分；增发和配股的均值为（0.03277）与新增银行借款的均值"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.47514735607657205,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.47514735607657205,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（0.02726）差别不大，说明股权融资也是公司获得资金的重要融资渠道；市场化进程指数、政府干预指数、法治水平指数的均值分别为0.75204、0.70570、0.75713，相对较高，说明我国制度环境较好。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "结论与分析": [],
+  "实证研究类v3": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "变量定义",
+        "检验",
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "5.1 描述性检验",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "5.1.1 信息披露质量",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6170548608634554,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6170548608634554,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表5—1  信息披露质量的描述性分析"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['披露质量', '2006', '', '2007', '', '2008', '', '合计', ''], ['', '数量', '比例', '数量', '比例', '数量', '比例', '数量', '比例'], ['优秀', '56', '9.93%', '63', '9.49%', '76', '10.33%', '195', '9.93%'], ['良好', '304', '53.90%', '346', '52.11%', '443', '60.19%', '1093', '55.65%'], ['合格', '176', '31.21%', '228', '34.34%', '199', '27.04%', '603', '30.70%'], ['不合格', '28', '4.96%', '27', '4.06%', '18', '2.44%', '73', '3.72%'], ['样本量', '564', '', '664', '', '736', '', '1964', '']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.34113697367712653,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.34113697367712653,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由上表可知，总体来看，三年中公司信息披露质量较好（考评结果为优秀或良好）的1288家，其数量占总样本的65.58%，其中样本公司考评结果为“优秀”分别为56家（9.93%）、63家（9.49%）和76家（10.33%），考评结果为“良好”"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.16923469687624515,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16923469687624515,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "的样本公司分别为304家（53.90%）、346家（52.11%）和443家（60.19%），信"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.2608333185040721,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2608333185040721,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "息披露质量较差（考评结果为及格或不及格）的有680家，其数量占总样本的"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.004868770500684563,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.004868770500684563,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "34.5%，考评结果为“合格”的分别为176家（31.21%）、228家（34.34%）、199家（27.04%），考评结果为“不合格”的分别为28家（4.96%）、27家（4.06%）、"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4598250702728817,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4598250702728817,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "18家（2.44%）。信息披露质量较好的公司数量逐年增加，所占比例却先降后升，考评结果为“合格”的公司在数量与所占比例上都出现先降后升的趋势，考评结果为“不合格”的公司在数量与所占比例上都出现逐年递减的趋势；总体来说，我国上市公司信息披露质量相对较高"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5389921911171504,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5389921911171504,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表5  一2不同行业的信息披露质量的分布"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['行 业', '优秀', '', '良好', '', '合格', '', '不合格', '', '样本量'], ['农、林、牧、渔业', '1', '3.23%', '16', '51.61%', '13', '41.94%', '1', '3.23%', '31'], ['采掘业', '7', '18.42%', '11', '28.95%', '16', '42.11%', '4', '10.53%', '38'], ['制造业', '116', '9.85%', '670', '56.88%', '350', '29.71%', '42', '3.57%', '1178'], ['电力、煤气及水的生产和供应业业', '6', '7.89%', '47', '61.84%', '22', '28.95%', '1', '1.32%', '76'], ['建筑业', '6', '22.22%', '14', '51.85%', '7', '25.93%', '0', '0.00%', '27'], ['交通运输、仓储业', '14', '29.17%', '24', '50.00%', '8', '16.67%', '2', '48', '4.17%'], ['信息技术业', '9', '7.63%', '77', '65.25%', '28', '23.73%', '4', '3.39%', '118']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "32"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['批发和零售贸易', '15', '12.71%', '69', '58.47%', '33', '27.97%', '1', '0.85%', '118'], ['房地产业', '11', '6.18%', '84', '47.19%', '69', '38.76%', '14', '7.87%', '178'], ['社会服务业', '8', '9.64%', '48', '57.83%', '26', '31.33%', '1', '1.20%', '83'], ['传播与文化产业', '1', '5.56%', '6', '33.33%', '10', '55.56%', '1', '5.56%', '18'], ['综合类', '1', '1.96%', '27', '52.94%', '21', '41.18%', '2', '3.92%', '51']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.031623981317422424,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.031623981317422424,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从表中可以看出，优秀样本中，所占比例最大的行业是交通运输、仓储业"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.032571241843085366,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.032571241843085366,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（29.17%），最小的行业是综合类（1.96%）；良好样本中，所占比例最大的行业是信息技术业（65.25%），最小的行业是采掘业（28.95%）；合格样本中，所占比例最大的行业是传播与文化产业（55.56%），最小的行业是交通运输、仓储业"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5344667106241829,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.03161705199855434,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（16.67%）；不合格样本中，所占比例最大的行业是采掘业（10.53%），最小的行业是建筑业（0.00%）。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5028496586256286,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由上可知：信息披露质量较好的是交通运输、仓储业与信息技术业，信息披露质量较差的是传播与文化产业和采掘业，不同行业之间信息披露质量差距较大。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "变量定义",
+            "实证研究类v3"
+          ],
+          "chosen": false,
+          "text_content": "5.1.2 其他变量统计性分析",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.17912570321985632,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.17912570321985632,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表5—3  其他变量描述性检验"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['变量', '样本量', '均值', '标准偏差', '总和', '最小值', '最大值'], ['Loan', '1964', '0.02726', '0.14400', '53.52959', '-0.47233', '0.67816'], ['Sloan', '1964', '0.00807', '0.10528', '15.85273', '-0.40616', '0.40666'], ['Lloan', '1964', '0.01947', '0.08883', '38.24699', '-0.17516', '0.54220'], ['audit', '1964', '0.07994', '0.27127', '157.00000', '0', '1.00000'], ['roa', '1964', '0.03401', '0.09799', '66.79995', '-0.51169', '0.38970'], ['lev', '1964', '0.57263', '0.55485', '1125', '0.06444', '4.77890'], ['cash', '1964', '0.06525', '0.11213', '128.15422', '-0.33748', '0.44856'], ['seo', '1964', '0.03277', '0.13609', '64.36565', '0', '0.96979'], ['size', '1964', '21.14463', '1.11521', '41528', '18.00000', '24.00000'], ['mar', '1964', '0.75204', '0.43194', '1477', '0', '1.00000'], ['gov', '1964', '0.70570', '0.45584', '1386', '0', '1.00000'], ['leg', '1964', '0.75713', '0.42893', '1487', '0', '1.00000']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.15006037389270396,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.15006037389270396,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由上表可知，新增长期借款均值（0.01947）远远大于新增短期借款的均值"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5683806756091162,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5683806756091162,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（0.00807），说明企业新增长期借款相对较多；审计意见的均值为0.07994，该指标描述了公司的财务状况，这就意味着大约有8%的公司财务问题严重，被出具非标准的审计意见；资产收益率均值为0.03401，最小值（-0.51169）与最大值（0.38970）差距较大，说明上市公司之间获利能力差异很大；资产负债率的"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "33"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.29561423331881753,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.29561423331881753,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "均值为0.57263，说明上市公司整体负债水平较高，有较大的财务风险；经营现金流的均值（0.06525）远远大于公司新增借款均值（0.02726），说明上市公司的现金流较充分；增发和配股的均值为（0.03277）与新增银行借款的均值"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.47514735607657205,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.47514735607657205,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（0.02726）差别不大，说明股权融资也是公司获得资金的重要融资渠道；市场化进程指数、政府干预指数、法治水平指数的均值分别为0.75204、0.70570、0.75713，相对较高，说明我国制度环境较好。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

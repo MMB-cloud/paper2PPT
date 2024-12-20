@@ -1,0 +1,3986 @@
+{
+  "title": [],
+  "摘要": [],
+  "研究背景": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究背景"
+      ],
+      "chosen": false,
+      "text_content": "第一节 选题的背景",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "一、 中国周边环境的转变",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.4472421846386418,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.41465960865429263,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "中国是世界上邻国最多的国家，良好的周边环境对中国的发展至关重要。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.28785322100153865,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "经过30年的外交努力，中国与绝大多数东亚和南亚国家建立了战略伙伴关系，以和平谈判的方式妥善解决了同12个邻国的边界问题。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.36969600406108577,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "但是近几年来，受各方因素影响，中国周边海洋安全局势变得越发紧张。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.15929259211244853,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "主要表现在：一是2009年美国提出“重返亚太”战略，在亚太地区积极部署航母编队以及攻击型核潜艇，并积极地加强与美国在亚太地区的军事同盟和合作伙伴，进行大规模的联合军事演习；二是中日钓鱼岛之争。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16435169608443184,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "美国“重返亚洲”引发了中日钓鱼岛之争，安倍右翼政权全面否定中国对东海防空识别区有同等权利，全面扩张海洋军力，构建海洋备战态势，在钓鱼岛海域活动猖獗；三是南海问题。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.051389062724844434,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "菲律宾频频挑起南海岛屿争端，不断增强菲美军事联系，增加海空军备投入，并考虑允许美国在菲增加军事力量及部署间谍机，以“增强菲律宾的防御能力”；四是澳大利亚极力迎合和美国“重返亚太”战略，同意美国在其北部达尔文港增加驻军；五是中印边界问题。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5609289565719002,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.20126007159690312,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1962年中国和印度两国间爆发了一场边界战争，在此之后中印边界问题至今未能取得突破性进展。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.021092951970130006,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而2009年之后，印度借美国重返亚太之势，捞取自身战略利益；六是台湾正处于第一岛链中间，具有重要的战略意义。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.33857593300486705,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "台湾当局开始愿意与中国内陆进行会谈，但是对于台湾归属于中国这个问题仍然避而不谈，台湾问题依然有待解决。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "二、 现代战争方式的转变",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6381513297235737,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.43830779184232693,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "随着全球经济的快速发展，现代战争方式也发生了巨大的转变。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.07284153745016363,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从1990年的海湾战争到2011年的利比亚战争可以看出，由于高新技术在各个军事领域的应用，使得现代战争有着不同以往的特点：一是战争突然性增大。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.12700200043108306,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "目前突袭是许多国家常用的重要手段，而高科技武器的发展，为突袭提供了更加便利的条件。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4259948815266043,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.04299742717607084,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "同时，战争立体化程度提高，使得战场范围扩大。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.07965446265650712,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "并随着航天和深海武器的发展，海空力量从辅助性到相对独立性，海空对抗已成为一种基本作战样式；二是武器命中率及杀伤力提高，战争破坏性增大。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.030356421480578842,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "高新技术的大力发展，让常规武器得到极大的改进——射（航）程增大，杀伤覆盖面大，射速提高，弹着点密度大，造成连续杀伤和破坏。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.024701210362822912,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "同时，核、化学、中子武器的出现，使战争的破坏杀伤力产生质的飞跃；三是战争消耗大，保障更艰巨。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.08857069533029964,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "现代战争是高消耗、高投入的战争、高伤亡率的战争，使战争保障更加艰巨。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.05946576079932825,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "如物资消耗量大，补给量就大，后勤保障设施和供应线的袭击和反袭击斗争也更加激烈；四是战争更加严酷，军队质量建设更加重要。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.06704298133477132,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "这就对兵员的精神素质要求更高了，对兵员各方面素质要求更高了，以及对军队五种能力的要求更高了；五是战情多变，节奏加快，更需要高超的组织指挥艺术。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.024042864530698083,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "武器装备机动性的加强缩短了战场转换时间，战斗间隙变小，战机稍纵即逝，要求组织指挥要提高时效性。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.009163057855527271,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "多维战场交融一体，多种样式交错协同，战略战役态势复杂，双方阵地交错，前后方界限模糊，要求组织指挥要具有高度灵活性。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 3.172529719429469,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.43407533624481043,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在中国周边安全环境变得紧张以及现代战争方式发生了巨大转变的背景下，党的十八大中明确指出，“建设与我国国际地位相称、与国家安全和发展利益相适应的巩固国防和强大军队，是我国现代化建设的战略任务。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.14190012060961094,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "”要达到十八大中的要求，需要相应的国防费作为支撑。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6574733215240509,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "实际上就是要使中国的国防费规模满足中国防御性的国防政策，在中国周边安全局势变得更加紧张的情况下能保障国家安全，在不影响中国经济发展的情况下推进中国军队的现代化建设。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5320575909033687,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "目前，中国的国防费规模是否与中国国情相适应，即是否达到最优了。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5288983501476279,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "倘若不是最优，那么合理的或者最优规模又是多少？倘若确定了最优规模，那么如何从宏观政策和国防费的结构上来提高国防费使用效率？这些问题是值得研究的。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.878125,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "本文以1990-2010年的相关数据为研究对象，通过实证分析来确定中国国防费的最优规模，以及研究中国自身国内生产总值与中国周边潜在威胁国家或地区的国防费规模对于中国国防费规模的影响，最终提出相关的政策建议。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究目的": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究目的"
+      ],
+      "chosen": false,
+      "text_content": "第二节 研究意义",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究目的"
+          ],
+          "chosen": false,
+          "text_content": "一、 理论意义",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.880183811957404,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2448453596577828,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "国防费规模问题作为国防经济的一个基础性问题，已经在国防经济研究中引起了普遍的关注，关于国防费规模的理论和实践必将随着研究的深入逐步完善。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5543130844575138,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "论文在国防费规模与经济增长关系及其理论根据的基础上，进一步将相关国家的国防费规模纳入研究框架。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7468629638065735,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由此出发建立了国防费规模的部分调整模型，应用经济学的科学研究方法来研究确定国防费的最优规模，以及相关因素对国防费规模的影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.33416240403553377,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "这些研究将对于完善国防费规模及其最优的相关理论具有重要的意义。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "二、 实践意义",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.0427663851133784,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3845574290328334,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "世界各国对于国防费最优规模的理想政策目标是在不影响本国经济增长的同时还要确保国家安全。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.059559517445672276,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在党的十八大报告中指出，“必须坚持以国家核心安全需求为导向，统筹经济建设和国防建设，按照国防和军队现代化建设”三步走“战略构想，加紧完成机械化和信息化建设双重历史任务，力争到二0二0年基本实现机械化，信息化建设取得重大进展。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5986494386348727,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "”无论是中国自身的经济增长还是其他国家国防费的变动都对中国国防费规模有着深刻的影响，如何在不影响本国经济增长的同时还要确保国家安全中寻找平衡点是学者对该主题研究的重点和方向。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究综述": [],
+  "研究假设": [],
+  "数据与样本": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "数据与样本"
+      ],
+      "chosen": false,
+      "text_content": "第一节 模型的建立与数据的选取",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.8444097755928969,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5664395114716045,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "本文模型依据的是Murdoch和Sandler提出的：一国的国防费规模的大小取决于内外部两种因素。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.27797026412129233,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "外部的影响因素主要包括敌对国或者潜在敌对国的军事威胁、盟国的军事溢出、国家周边环境的变化等，内部的影响因素则一般包括国家对外政策的变化和本国收入（如国内生产总值）等。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 2.2384745743657772,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.2960839872267091,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "从20世纪80年代起，中国主张独立自主的外交政策，表现为不结盟政策。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7702210305900339,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "因此，在影响中国国防费规模的外部因素中是没有盟国的军事溢出或溢入这一项因素的。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3415062965564306,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "而自中国成立以来，中国的军事战略方针一直是积极防御，即对外政策没有发生改变。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.8306632599926035,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "因此，总体而言影响中国国防费规模的因素主要是潜在敌对国家的军事威胁和本国的收入。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Log(CHINA t)α1β1Log(GDP t)ε1t"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "(4-1)"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Log(CHINA t)α2 β2Log(SUM t)ε2t"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "(4-2)"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5009399569696128,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5009399569696128,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "其中，CHINAt为国防费规模，GDPt为国内生产总值，SUMt为潜在敌对国家和地区的国防费规模，ε1t、ε2t为误差项，α1、α2为常数项，β1、β2为斜率系数（本章表示弹性）。假如基于Log(CHINAt)与Log(GDPt)、Log(CHINAt)与"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5913287122412153,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5913287122412153,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "Log(SUMt)的VAR模型分别进行协整检验，若是都通过了检验，这就意味着存在"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.00879992864395066,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.00879992864395066,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "长期均衡关系。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.14693959046471428,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.14693959046471428,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "这种长期的均衡关系是可以分别用β1、β2来表示：β1 =(CHINAt / CHINAt)"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.04553617313628004,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.04553617313628004,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "/(GDPt/GDPt), β2 =(CHINAt/CHINAt) /(SUMt/SUMt). 由于β1、β2反映的都是长期均衡关系，所以在一定时期内β1、β2是相对稳定的。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5181205404243756,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5181205404243756,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "为了分析国防费占国内生产总值的最优比重（最优防务负担），建立了部分调整模型如下所示："
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "CHINA α3β3GDP t"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "t"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "(4-3)"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5196741199959523,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5196741199959523,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "其中，CHINA表示的是最优的国防费规模，GDPt则仍表示的是国内生产"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "t"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.6249637762368594,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6249637762368594,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "总值。由于最优的国防费规模是不能通过观测所得，因此，本章根据“部分调整假说”对最优的国防费规模进行确定，即假定因变量的实际变动（CHINAt －"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.12203905464649431,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.12203905464649431,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "CHINAt-1），与其理想值和前期值之间的差异( CHINA－CHINA)成正比："
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "t"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "CHINAt－CHINAt-1＝δ( CHINA－CHINA)＋ε3t"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "t-1"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "(4-4)"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "tt-1"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.071414171454262,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.071414171454262,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "式(4-4)中δ称为调整因子，表明实际值CHINAt向理想值CHINA调整的速"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "t"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.040223565958685474,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.040223565958685474,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "度，|δ|越大调整速度越快，但0|δ|1。式(4-4)可以化为一般形式："
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "CHINAt＝(1－δ) CHINAt-1＋δCHINA＋ε3t"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "t"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "(4-5)"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.011170198402062249,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.011170198402062249,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "由式(4-5)可见，CHINAt是现期理想值和前期实际值的加权平均。将式(4-3)代入式(4-5)中，得："
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "CHINAt＝δα3＋δβ3GDP t＋(1－δ) CHINAt-1＋δε3t"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "(4-6)"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "式(4-6)可看成："
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "CHINAt＝η0＋η1 GDPt＋η2 CHINAt-1＋υ1t"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "(4-7)"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.27927150045771615,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.27927150045771615,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "对式(4-7)进行最小二乘法回归，得到β3 η1 /|1-η2 |，β3在一定时期内是相"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.003937804193467099,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.003937804193467099,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "对稳定的。由β1 =(CHINAt/CHINAt) /(GDPt/GDPt)可得：CHINAt/GDPt ＝"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "CHINAt/( GDPt  β1"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.28224940290575895,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.28224940290575895,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "），进而得到最优防务负 担"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "CHINA /GDPt ＝"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "t"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "CHINA/(GDPtβ1)。由式(4-3)可得：β3＝CHINA/GDPt，代入"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "tt"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.23367068883894546,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.23367068883894546,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "CHINA/GDPt＝CHINA/(GDPtβ1)，得到最优的防务负担CHINA/GDPt"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "ttt"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0003861348992950571,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0003861348992950571,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "＝β/β，将估计值代入得：CHINA/GDP＝/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "＝/[||]。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "31tt"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "β3     β1η1"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1-η2    β1"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.7941135643117713,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7941135643117713,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "同理，为了分析国防费规模在潜在敌对国家和地区的国防费规模的最优占比，建立部分调整模型，如下所示："
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "CHINA  α4β4 SUM t"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "t"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.254633379758909,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.254633379758909,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "通过相同的方法可以得到模型："
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "(4-8)"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "CHINAt＝ω0＋ω1  SUMt＋ω2 CHINAt-1＋υ2t"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "(4-9)"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.3887216341376454,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3887216341376454,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "对式(4-9)也进行最小二乘法回归，得到国防费占潜在敌对国家和地区的国防"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.3600005945550723,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3600005945550723,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "费的最优比重CHINA/SUM＝/＝"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "/ [|"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "|]。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "tβ4     β2ω1"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "t"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "1-ω2  β2"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 2.36036206523025,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6102821823916518,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本文选取的样本为1990~2010年间中国及潜在敌对国家或地区国防费的年度数据和中国的国内生产总值的年度数据。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5084978377146678,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "基于中国现今的国际安全环境，但是由于俄罗斯、越南以及韩国数据上的缺失，因此只选取出对中国有潜在威胁的国家和地区共6个，分别是美国、日本、菲律宾、台湾、印度和澳大利亚。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6301657991502179,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "用CHINA表示中国的国防费规模，SUM表示美国、日本、菲律宾、台湾、印度和澳大利亚的国防费规模之和，数据来源于斯德哥尔摩和平研究所网站。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6114162459737125,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "用GDP表示中国的国内生产总值，用人民币汇率对数据进行换算，数据来源于中国国家统计局网站。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.13846617402691294,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.13846617402691294,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "表 4.1  样本区间数据单位：百万美元"
+            }
+          ]
+        },
+        {
+          "type": 3,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": true,
+          "table_data": "[['年份', '中国国防费(CHINA)', '中国国内生产总值(GDP)', '潜在威胁的国家或地区国防费(SUM)', 'CHINA  SUM 的比重'], ['1990', '19820', '390278.9425', '642246', '0.03'], ['1991', '20833', '409172.8704', '579880', '0.04'], ['1992', '25317', '488221.7468', '613487', '0.04'], ['1993', '23454', '613223.2682', '592532', '0.04'], ['1994', '22432', '559224.2037', '565099', '0.04'], ['1995', '23059', '727981.4299', '542065', '0.04'], ['1996', '25424', '856084.6703', '522993', '0.05'], ['1997', '26335', '952653.0797', '523853', '0.05'], ['1998', '29901', '1019462.016', '520349', '0.06'], ['1999', '34454', '1083278.629', '532076', '0.06'], ['2000', '37040', '1198474.999', '549700', '0.07'], ['2001', '45422', '1324817.815', '562590', '0.08'], ['2002', '52832', '1453820.095', '619746', '0.09'], ['2003', '57390', '1640966.004', '687848', '0.08'], ['2004', '63560', '1931644.33', '744829', '0.09'], ['2005', '71496', '2257618.919', '781817', '0.09'], ['2006', '84021', '2713495.396', '803968', '0.10'], ['2007', '96906', '3495664.201', '834568', '0.12'], ['2008', '106774', '4521827.29', '893688', '0.12'], ['2009', '128869', '4990525.73', '978341', '0.13'], ['2010', '136467', '5931203.12', '1004581', '0.14']]"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.42933049451898786,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.42933049451898786,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "注：a. 国防费的数据来源于SIPRI, World Military Expenditure Databases，http: //www. sipri. org."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0016017899341269541,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0016017899341269541,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "b. GDP的数据资料是根据国家统计局网站——http: //www. stats. gov. cn.整理所"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "得。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "变量定义": [],
+  "检验": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "检验",
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "第二节 平稳性检验",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.056048015357027,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.8413793103448276,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "为了分析中国国防费规模与中国国内生产总值、中国国防费规模与潜在威胁的国家和地区总国防费规模之间的协整关系，首先是要检验三者是否都平稳，只有是平稳的变量才有可能存在协整关系。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.10816533957218902,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "平稳性检验的方法有多种，目前经济学家广泛使用的一种方法是Dickey和Fuller提出的单位根检验(unit root test)。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.10650336544001039,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "最初形成的检验方式是DF检验。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.35183135047447023,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.35183135047447023,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Dickey和Fuller对DF检验进行了扩充形成了本文运用的ADF检验。ADF检验法是从三种模型中选一种进行检验："
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.1512736153782983,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.1512736153782983,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "模型1：Δy t  "
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "δy t   1 "
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "m"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "I 1"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "βiΔy t  i ε t"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.1512736153782983,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.1512736153782983,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "模型2：Δy t  "
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "αδy t  1   "
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "m"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "i1"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "βiΔy t  i ε t"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "m"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.1512736153782983,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.1512736153782983,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "模型3：Δy t αβtδy t1βiΔy tiεt"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "i1"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.26789454703859034,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.17028923918562833,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "模型3中t是时间变量，模型2中包含了截距项α，而模型1中不包含截距项和时间项。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.09760530785296201,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "该检验时原假设H0：δ0，即存在单位根。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.38090873421869265,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.25355589479183427,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "2、1进行顺序检验，直到拒绝原假设（即原序列不存在单位根，为平稳序列）时停止检验。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.12735283942685838,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "也就是说，当δ的ADF检验值小于临界值，或者t统计量的概率值小于0.05时，拒绝原假设H0：δ0，得出检验的序列是平稳序列的结论，否则序列存在单位根，是非平稳序列。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.09267983239874884,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.09267983239874884,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本文利用Eviews5.0，采用ADF检验方法来检验序列CHINA、GDP、SUM"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.00824106912119904,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.00824106912119904,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "的对数是否平稳。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.20524935378714831,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.20524935378714831,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "表4.2  单位根检验结果"
+            }
+          ]
+        },
+        {
+          "type": 3,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": true,
+          "table_data": "[['Fi fi', 'ADF', ''], ['', '%&amp;', '( &amp;'], ['Log (CHINA)', '1.±3²', '0.99F8'], ['Log (GDP)', '1.164', '0.9966'], ['Log (STM)', '0.4F9', '0.9810'], ['DLog (CHINA)', '–3.60F', '0.01±9'], ['DLog (GDP)', '–4.8F3', '0.0011'], ['DLog (STM)', '–3.²²9', '0.0339']]"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.013968074870504187,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.013968074870504187,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "注：D表示的是一阶差分。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.09016433486830344,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.09016433486830344,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "由表4.2检验结果发现，在5%的显著性水平下，序列Log (CHINA)、Log"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.08805765349840422,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.08805765349840422,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（GDP）、和Log (SUM)的概率值分别为0.9978、0.9966、0.9810，均大于0.05，不能拒绝原假设，三个序列均为是不平稳序列。然后，对序列Log (CHINA)、Log"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.3843974741846673,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3843974741846673,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（GDP）、和Log (SUM)进行一阶差分，同样用ADF检验法检验原序列的一阶差分序列，检验结果发现：原序列的一阶差分序列DLog (CHINA)、DLog (GDP)、DLog (SUM)的概率值分别为0.0159、0.0011、0.0339，均小于0.05，拒绝原假设，此时原序列的一阶差分序列均是平稳的，说明原序列Log (CHINA)与Log (GDP)、Log (SUM)之间可能存在协整关系。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "检验"
+      ],
+      "chosen": false,
+      "text_content": "第一节 滞后阶数的检验",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.9235294117647059,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.9235294117647059,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "在第四章中，我们确定了Log(CHINA)、Log(GDP)与Log(SUM)都是一阶单整的序列。在此，构建这三个序列的VAR模型，由于这不是大样本，数据较少，取最大的滞后阶数为3，进行检验，结果如下："
+            }
+          ]
+        },
+        {
+          "type": 4,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": true,
+          "rId": "rId15"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "$±.1; &lt;=%? @"
+            }
+          ]
+        },
+        {
+          "type": 3,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": true,
+          "table_data": "[['*AR Lag 0rder Selection Criteria', '', '', '', '', '', ''], ['Endogenou› variable›: Log(CHINA) Log(GDP) Log(STM)', '', '', '', '', '', ''], ['E×ogenou› variable›: C', '', '', '', '', '', ''], ['Sample: 1990 ²010', '', '', '', '', '', ''], ['Included ob›ervation›: 18', '', '', '', '', '', ''], ['Lag', 'LogL', 'LR', 'FPE', 'AIC', 'SC', 'HØ'], ['0', '18.0F8F6', 'NA', '3.F6e–0±', '–1.6F±418', '–1.±²F0²3', '–1.6±49±6'], ['1', '100.8664', '1²8.F808', '1.06e–08', '–9.8F404F', '–9.²8046±', '–9.F9²²00'], ['²', '10F.4F61', '8.0F8±²0', '1.±3e–08', '–9.6084±F', '–8.±69690', '–9.46±²²6'], ['3', '131.9648', '²1.F6FF6*', '3.69e–09*', '–11.3²943*', '–9.84±4F4*', '–11.1²481*']]"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "ƒ„* indicate›lag order›elected bμthe criterion: LR: ›equential modi£ied LR te›t›tati›tic (each te›t at±% level): FPE: Final prediction error: AIC: Akaike in£ormation criterion: SC: Schwar›in£ormation criterion: H: Hannan–Øuinn in£ormation criteriono"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5872201650135127,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.36414870175260755,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "由表5.1知，在Lag=3时，SC值最小，为-9.845474，即根据SC准则，模型的最佳滞后阶数是3；在Lag=3时，AIC值最小，为-11.32943，即根据AIC准则，滞后阶数应该是3。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.22307146326090518,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "该表中的AIC和SC值同时在Lag=3时达到了最小，因此协整检验最佳滞后阶数是3。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "结论与分析": [],
+  "实证研究类v3": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "第三 章结合前人的研究，从国防费的规模(包括绝对规模、防务负担)以及结构的比较分析中国国防费规模的合理性。",
+      "children": []
+    },
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "第二节 国内学者关于国防费的研究成果",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "实证研究类v3"
+          ],
+          "chosen": false,
+          "text_content": "一、 中国国防费规模的相关研究",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "3",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（一）定量分析研究国防费规模",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.7146246372598906,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.458150110619224,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "任会芬，秦红燕（2005）分析得到：通过20多年来的相关数据对比分析，发现将国防费占GDP的比重、占财政支出的比重、国民年人均国防费、现役军人年人均国防费这四项指标值，与世界平均水平相比，中国的国防费规模严重偏低，制约了中国国防建设的发展。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5451799084059831,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "李国亭在2005年时的研究认为，相较于世界主要国家及地区，中国国防费规模在是绝对以及相对规模上，都处于较低的水平。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4472374482097129,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "从国防费规模绝对值的比较上看，以中国目前的经济水平，要想尽快追上西方国家水平是一件不可能的事情。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.2640571700249705,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "不过，只要中国加大力度发展经济追上并且超越某些发展中国家的可能性还是非常高的。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.39982838792156816,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.19064381221422577,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "2.35%，比美国的平均水平要低许多（美国国防费占GDP的比重一直在3%以上）。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.2091845757073424,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "袁迎珍（2009）则是在以往将2.5%作为衡量防务负担是否合理的经验研究基础上，估算出中国历年防务负担等指标的最优值，将得到的最优值同实际值对比分析。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.2707464753162188,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3812623196321796,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "1999年来的时间段，中国的国防规模一直是平稳增长的状态。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.40961572460962636,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "郝万禄，崔俊，黄薇（2011）认为，同美国、俄罗斯、日本以及印度等国比较分析，中国的国防费规模是比较低的。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4798684310744127,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "因而，中国应该按照国防建设与经济建设相平衡的原则，对比分析其他国家的国防费规模水平，建立同经济水平相平衡的一种稳定渐进式的国防费规模增长机制。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "3",
+              "score": 0.0,
+              "selected": true,
+              "part": [
+                "实证研究类v3"
+              ],
+              "chosen": false,
+              "text_content": "（二）实证分析研究国防费规模与其影响因素的关系",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 2.5895465866278804,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6502792408770682,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "卢周来（2006）基于1953年到2001年之间的历年国防费规模以及本国国内生产总值的数据，采用新古典模型对中国国防费规模的影响因素进行了回归，其结果发现：当GNP以及潜在威胁国家或地区的国防费总规模增加时，中国国防费规模会随之增加。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6177922982778217,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "黄朝峰（2006）等人在基于国防费的供给和需求并不是等同的情况下，把“局部调整假设”引入国防费的需求模型中，之后将调整后的模型用于中国国防费规模的研究上去，发现：若国内生产总值、上一期国防费规模减小，将使得中国本期国防费规模也缩小；同时也得出由于中国前期国防费规模是十分偏低，导致后期国防费规模较大的扩大，但大部分是在补偿前期的不足，中国已经不再适用于让国防费规模仅仅适当增长的这种方式了。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.8432000000000001,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Qian Sun和Qiao Yu在研究中，采用的是1965~1993年之间相关国家的国防费规模以及GNP的数据作为研究对象，通过局部均衡模型对中国国防费规模与其影响的因素进行分析，其结果为：中国国防费规模随着GNP、潜在威胁国家或地区国防费总规模还有其自身的国防费规模延滞因素的增加而增加，而同中国对外的政策呈现负相关的关系，只有周边国家所发生的战争对中国国防费规模没有影响。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.47827504747299027,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "李宏（2006）运用计量方式，来判定中国国防费规模在1978~2002年之间的数据是否是平稳的。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.6510774463839553,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.1954775667211755,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "Jenkins方法建立相对应的ARMA模型，对数据进行拟合，发现其拟合值同实际值相差不大。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4555998796627798,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "再预测出2003年以及2004年的中国国防费规模值大小，发现同实际值相差同样不大，说明此模型是相对科学可信的。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "二、 中国国防费结构的研究",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "3",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（一）定量分析研究国防费结构",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.25120593158531973,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.25120593158531973,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "黄宁辉，李明珠（2006）认为，根据经济学中的生产者理论，应该将军队看作是国防安全这种产品的生产“厂商”，采用数理分析的方法得到了：当国防费各子系统的边际国防产出相等时，此时的国防费配置状态才达到最优。但是在实际情况下，要想各边际国防产出到达相等的状态，其理论前提是必须要有足够的国防费对边际国防产出较高的项进行投入，使得该项的边际值减小至与其他项相等"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 3.4569929671022113,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.09382275237986483,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "同的时候，再停止投入。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3299380090874441,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "这只能是在经济发展水平非常高的时候才有可能实现，但就目前中国的经济情况，这种状态是无法达到的。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4340252738792589,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "梁英武，白璐（2007）认为，目前的中国还是处于以经济建设为重心的发展当中，因而限制了中国国防费规模的增长，适应不了中国军队加快现代化进程的需求。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.48624709210344275,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "此时，在一定的国防费规模下，如何使中国国防费的结构尽量靠近最优状态，才能提高国防费的配置效率。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.15736644752733622,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "对此，从内生变量的角度进行分析，找到其有效的路径。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.13683312064866646,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "郭佳，吕颖（2009）认为，一国国防费的结构反映出了该国国防资源的布局与状态，体现出了该国国防投入的重点与方向。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.17208290515781138,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "优化一国国防费的结构其实就是通过调整组合现有的国防资源以产出最大化战斗力。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3506012387676,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "因此，基于对1994年至2003年之间的国防费结构进行分析，结论是虽然我国国防费结构优化的趋势是良好的，但与世界军事发展的要求还是有一定的差距。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.32843012693664336,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "樊大为等在2009年时，采用新古典经济增长模型来进行分析，认为一个国家的战斗力增长是取决于装备增长率和军事劳动增长率，根据该观点，将装备费和军人的工资来衡量国防费有机构成。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.15484806835095322,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "但是，如果仅仅是军队的技术提高了，而其他方面（如监督不力），这也会是的国防费达不到有机构成。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0355769869485775,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "最终得出，本文所阐述的这种理论是不符合实际情况的。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5118747316822992,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "刘朝勋（2010）认为，目前中国国防费规模基本与经济发展相适应，然国防费的结构还有待进一步优化，还存在比较大的提升空间。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.2653462136323131,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "杨峰（2011）在文章中对对国防费的结构进行优化的动因进行了研究分析。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "3",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（二）实证分析研究国防费结构的合理化",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.514907957661748,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.514907957661748,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "杨峰（2005）等人采用中国1952年至2002年之间的国防费有关数据作为样"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.0806577334061451,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4707628026097715,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "本，基于结构控制模型，对中国的国防费结构进行了实证分析，得到的1952年至2002年间的对武器装备和军事人力的投入的最优量，通过与实际值相比较发现，长期以来，在某一段较短的时期内，中国国防费结构可以达到一种适应性优化的状态。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.39986203182099844,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "袁迎珍（2008）则是运用了层次分析法，基于1998年和2002年中国国防费在军兵种间分配的情况，进行分析，其结果为：1998年和2002年时的陆军比例均高于模型得到的最优值，而其它军种的比例则均都低于模型得到的最优值。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.21003289897537528,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "尤其是二炮部队的比例，其理想值高于这两年间较高的那一个实际值18.85个百分点，海军所占份额与其理想值也有一定的差距，这就意味着，中国军兵种间的国防费分配比例是不科学的，将有碍于战斗力水平达到最大化。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "检验",
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "第二节 平稳性检验",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.056048015357027,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.8413793103448276,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "为了分析中国国防费规模与中国国内生产总值、中国国防费规模与潜在威胁的国家和地区总国防费规模之间的协整关系，首先是要检验三者是否都平稳，只有是平稳的变量才有可能存在协整关系。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.10816533957218902,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "平稳性检验的方法有多种，目前经济学家广泛使用的一种方法是Dickey和Fuller提出的单位根检验(unit root test)。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.10650336544001039,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "最初形成的检验方式是DF检验。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.35183135047447023,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.35183135047447023,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Dickey和Fuller对DF检验进行了扩充形成了本文运用的ADF检验。ADF检验法是从三种模型中选一种进行检验："
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.1512736153782983,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.1512736153782983,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "模型1：Δy t  "
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "δy t   1 "
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "m"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "I 1"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "βiΔy t  i ε t"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.1512736153782983,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.1512736153782983,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "模型2：Δy t  "
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "αδy t  1   "
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "m"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "i1"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "βiΔy t  i ε t"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "m"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.1512736153782983,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.1512736153782983,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "模型3：Δy t αβtδy t1βiΔy tiεt"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "i1"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.26789454703859034,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.17028923918562833,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "模型3中t是时间变量，模型2中包含了截距项α，而模型1中不包含截距项和时间项。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.09760530785296201,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "该检验时原假设H0：δ0，即存在单位根。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.38090873421869265,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.25355589479183427,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "2、1进行顺序检验，直到拒绝原假设（即原序列不存在单位根，为平稳序列）时停止检验。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.12735283942685838,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "也就是说，当δ的ADF检验值小于临界值，或者t统计量的概率值小于0.05时，拒绝原假设H0：δ0，得出检验的序列是平稳序列的结论，否则序列存在单位根，是非平稳序列。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.09267983239874884,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.09267983239874884,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本文利用Eviews5.0，采用ADF检验方法来检验序列CHINA、GDP、SUM"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.00824106912119904,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.00824106912119904,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "的对数是否平稳。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.20524935378714831,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.20524935378714831,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "表4.2  单位根检验结果"
+            }
+          ]
+        },
+        {
+          "type": 3,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": true,
+          "table_data": "[['Fi fi', 'ADF', ''], ['', '%&amp;', '( &amp;'], ['Log (CHINA)', '1.±3²', '0.99F8'], ['Log (GDP)', '1.164', '0.9966'], ['Log (STM)', '0.4F9', '0.9810'], ['DLog (CHINA)', '–3.60F', '0.01±9'], ['DLog (GDP)', '–4.8F3', '0.0011'], ['DLog (STM)', '–3.²²9', '0.0339']]"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.013968074870504187,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.013968074870504187,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "注：D表示的是一阶差分。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.09016433486830344,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.09016433486830344,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "由表4.2检验结果发现，在5%的显著性水平下，序列Log (CHINA)、Log"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.08805765349840422,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.08805765349840422,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（GDP）、和Log (SUM)的概率值分别为0.9978、0.9966、0.9810，均大于0.05，不能拒绝原假设，三个序列均为是不平稳序列。然后，对序列Log (CHINA)、Log"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.3843974741846673,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3843974741846673,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（GDP）、和Log (SUM)进行一阶差分，同样用ADF检验法检验原序列的一阶差分序列，检验结果发现：原序列的一阶差分序列DLog (CHINA)、DLog (GDP)、DLog (SUM)的概率值分别为0.0159、0.0011、0.0339，均小于0.05，拒绝原假设，此时原序列的一阶差分序列均是平稳的，说明原序列Log (CHINA)与Log (GDP)、Log (SUM)之间可能存在协整关系。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "第二节 协整检验",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0759748701514266,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0759748701514266,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "本章用第四章中所提到的Johansen协整检验方法对Log (CHINA)和Log"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.7414550249431379,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7414550249431379,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（GDP）、Log (SUM)的滞后3阶的VAR模型进行检验。通过比较分析，选取结果相对较好的第一种形式（序列无确定趋势且协整方程无截距项）进行协整检验，检验结果如下："
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.20228906562339607,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.20228906562339607,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "表 5.2  Johansen协整检验结果"
+            }
+          ]
+        },
+        {
+          "type": 3,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": true,
+          "table_data": "[['序列名', '原假设', '特征值', 'Trace Statistic(P 值)', '-max 统计量P 值）', '滞后阶数'], ['Log (CHINA) Log (GDP)Log (SUM)', '0*', '0.997', '157.9(0.000)', '104.8(0.000)', '3'], ['', ' 1 个*', '0.851', '53.17(0.000)', '32.38(0.000)', '3'], ['', ' 2 个*', '0.705', '20.79(0.001)', '20.79(0.001)', '3']]"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.12354279059073,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.12354279059073,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "注：*表示在5%的显著水平下拒绝原假设。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.3577520656829615,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3577520656829615,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "由表5.2可知，在不存在协整关系的假设下，由于Trace Statistic以及λ-max统计量的P值分别为0.000、0.000，均小于0.05，拒绝了原假设，证明表明Log"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.2986265999684905,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4784532949521361,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "（CHINA）与Log (GDP)、Log (SUM)之间至少存在着协整关系。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.40791833237620845,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "在协整向量个数至多1个的假设下，Trace Statistic以及λ-max统计量的P值分别为0.000、0.000，均小于0.05，拒绝了原假设，证明表明Log (CHINA)与Log (GDP)、Log (SUM)之间至少存在着一个协整关系。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.41225497264014577,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "在协整向量个数至多2个的假设下，Trace Statistic以及λ-max统计量的P值分别为0.001、0.001，均小于0.05，拒绝了原假设，证明表明Log (CHINA)与Log (GDP)、Log (SUM)之间至少存在着两个协整关系。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.37065302891261476,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.37065302891261476,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "（SUM）之间存在着长期均衡关系，同时还说明了它们之间至少存在着一个方向上的格兰杰因果关系。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

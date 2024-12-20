@@ -1,0 +1,83 @@
+{
+  "摘要": [
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "摘要"
+      ],
+      "chosen": false,
+      "text_content": "摘  要",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "况，对优化中小板房地产上市公司的融资结构提出几点政策性建议，包括：优化债务结构，控制银行借款比率和提高长期借款比率；努力提高公司的盈利水平，提高内部融资比例；关注融资结构与企业成长性的关系；优化股权融资，完善公司治理；发展债券融资；拓宽融资渠道。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "关键词：房地产上市公司；中小板；经营绩效；融资结构   "
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究背景": [],
+  "研究目的": [],
+  "研究综述": [],
+  "研究假设": [],
+  "数据与样本": [],
+  "变量定义": [],
+  "检验": [],
+  "结论与分析": [],
+  "实证研究类v3": []
+}

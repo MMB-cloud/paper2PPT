@@ -1,0 +1,138 @@
+{
+  "摘要": [
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "摘要"
+      ],
+      "chosen": false,
+      "text_content": "摘  要",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本文研究了中国上海期货交易所的有色金属期货对伦敦金属交易所的过度反应，主要研究铜，铝，锌三个期货品种。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "我们首先分析了造成商品期货市场过度反应的心理学原因，机构投资者与个人投资者各自的认知偏差反应到了他们的投资决策中，从而造成了过度反应。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "另外，期货市场的一些固有交易机制更是加强了过度反应的程度。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "在实证部分，我们首先证明了伦敦市场的铜，铝和锌的价格变动，即收益率的确对上海市场存在引导作用。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "其次，我们进一步发现在引导的过程上海市场对伦敦的信息存在过度的反应。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "铜期货在早期对伦敦市场存在过度反应，但是2007年后市场变得更为有效，这种现象不在存在。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "铝期货和锌期货均存在一定程度的过度反应，以此构造的投资策略能获得显著的正收益。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "关键字：过度反应有色金属期货海外市场"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究背景": [],
+  "研究目的": [],
+  "研究综述": [],
+  "研究假设": [],
+  "数据与样本": [],
+  "变量定义": [],
+  "检验": [],
+  "结论与分析": [],
+  "实证研究类v3": []
+}

@@ -1,0 +1,5150 @@
+{
+  "title": [],
+  "摘要": [],
+  "研究背景": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究背景"
+      ],
+      "chosen": false,
+      "text_content": "1.1 研究背景",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 3.1053676146739724,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "股份制公司这一形式的出现最早是在西方国家，并在世界各地飞速发展起来。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5234678315906303,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "目前，我国上市公司大多采取股份制方式，经营权与所有权的分离已经成为了现代股份制企业的基本模式。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.11388690821290716,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "从其优点来看，“两权分离”有助于提升公司的经营和管理专业化，并促进资源的优化分配；从不利的方面来说，权力的分离也会造成信息的非对称性，从而产生代理费用的问题。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.42426640324367054,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "如何对代理人进行有效的监控与激励，以减少代理费用，如何处理和平衡代理人与股东之间的利益相关关系，是公司发展和治理中的关键因素。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7241286608720665,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "为此，在我国上市公司中推行股权激励是近年来我国企业推行的一项重大措施。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5375945461735163,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "对于股权激励能否对公司的绩效和发展产生正面的作用，存在着不同的看法。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7820232645811818,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "事实上，股权激励的效果收到多种因素影响，由于企业所在行业、企业规模以及企业自身的特点不同，激励效果“因人而异”。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.6578244739776866,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.9390965769523423,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "在此背景下，本文从实证角度出发，探讨了我国限制性股票激励对制造业上市公司业绩的影响程度，单独研究限制性股票激励与制造业上市公司绩效的关系，结论更具针对性。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.2944506436865698,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "另外，随着国际竞争越来越激烈，如何在激励的竞争中掌握核心优势、占领优势地位，是我国制造业上市公司需要考虑的重要问题。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4242772533387743,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "因此选取制造业上市公司作为研究对象，研究在制造业上市公司中两者的关系有极大地现实意义。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究目的": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究目的"
+      ],
+      "chosen": false,
+      "text_content": "1.2 研究意义",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.7230787669234062,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5506419068605533,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "从可行性的角度来讲，对于股权激励或者管理层持股对于公司绩效有怎样的影响这个问题，许多学者开展了大量的研究，大部分成果也指出股权激励确实会对公司绩效产生一定程度的影响。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.17243686006285303,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "因此，本文的研究是具有一定可行性的。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 3.914749635249598,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7806885893703167,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "理论意义上，虽然关于股权激励对企业绩效表现影响的研究较多，但是大部分学者在开展研究时没有区别激励方式。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7499205724158924,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "单独以限制性股票为研究对象，研究其与企业绩效表现的研究相对较少。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4819736436381355,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "同时，对于股权激励强度这一要素，较多是用管理层持股作为衡量指标，但是本文认为管理层持有的股份不一定都是通过股权激励制度而来，用管理层持有股份数占公司总股本的比例来衡量激励强度可能会有偏差，所以本文用限制性股票激励计划中的激励比例，也就是激励计划授予的股份数与当时公司总股本的比值来代表股权激励强度。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.32094596633270106,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "另外，部分专家学者在研究两者的关系时，选取的样本公司包含全行业公司，没有对单个行业进行细致的研究。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.1407387021293128,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "还有一部分学者则是将单个公司作为案例进行分析，研究结果不具有普遍性。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7534990820289688,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "由于各个行业都有其特点，本文认为分行业研究股权激励与企业绩效的关系更加具有可操作性和针对性。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5510468647461579,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "所以结合我国股权激励的特点和制造业在我国的重要地位，本文选择制造业上市公司作为研究对象，可以从理论上深入研究在制造业上市公司这一样本中，限制性股票激励能所发挥怎样的效应。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.13593621458811295,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "挖掘股权激励的理论价值，希望从中探索出降低代理成本的有效途径。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.7124348973757242,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.10880111318532981,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "现实意义上，我国是制造业大国，制造业在我国始终处于促进经济发展、稳定国内就业与链接世界的核心地位。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.08909715054874029,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "从体量上看，制造业是我国体量最大且分布最广的行业，包含了千万个制造业大类与细分行业，延伸至我国经济发展的各个领域。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.1157985243608835,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "从稳定就业上来看，我国制造业由于分布广，品类全，制造业公司提供的就业岗位尤其之多，在稳定就业方面发挥着举足轻重的作用。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.034375,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "在经济全球化的方面来看，我国制造业与全球产业链联系紧密，是我国经济与世界经济链接的桥梁。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.36436310928077065,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "因此，本文选取制造业公司作为研究对象，具有重要的现实意义。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究综述": [
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": false,
+      "part": [
+        "研究综述"
+      ],
+      "chosen": false,
+      "text_content": "2 相关理论基础与文献综述",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.1 相关理论基础",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2.1.1 委托代理理论",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.9417450323105194,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.294454253580929,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "委托代理理论又被称为现在契约理论，该理论指出委托人与代理人之间可能因为利益冲突和信息不对称导致委托代理成本。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4247847848943788,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "股东作为公司的所有者，其主要目标和利益趋向是公司的长远发展，而职业经理人因为任期和绩效考核的原因，其主要目标是绩效考核内或者任期内的绩效目标，相比于股东目标更加短期，因此在委托代理的关系中出现了委托人与受托人利益趋向不同的问题。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.19338755421795653,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "其次，由于公司股东与职业经理人的身份不同，会产生信息不对称的问题。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6971706937335195,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "因为经理人直接参与企业的日常经营活动，所以对企业各方面经营信息有着全面且准确的了解；而公司股东作为受托方直接放弃了企业的日常管理权利，对企业的经营状况等信息的获取都是通过职业经理人的汇报而来，对信息的了解程度和信息准确度上都远不及职业经理人，信息不对称加剧了委托代理成本。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.33194774588373566,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "比如，职业经理人在选择投资计划的时候，往往会倾向于在短期内获得更大的利益，从而有利于公司的短期绩效要求，这对公司的长远发展是不利的，但对于股东来说，由于信息不对称而无法限制他们的行动。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.036750495335113,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.8294608979916006,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "为了缓解上述股东与职业经理人的利益取向不同和信息不对称的问题，必须建立一套能够有效限制职业经理人非理性行为的机制，减少企业的委托代理成本，以达到企业所有者与经营者之间的利益协调统一。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.017833028432269186,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在此背景下，将股权转让给管理层，使其成为股东的一员，可以更好地发挥其作用。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.1894565689112433,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "管理层拥有股份，不但可以得到劳动报酬，而且可以对经营中的超额收益行使剩余索取权，这样，管理者和管理者就可以共担风险、共享收益，从而使其在做决策时，更能考虑到公司的长远发展。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2.1.2 激励理论",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.39891893184830385,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.015363841252923328,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "美国著名心理学家马斯洛于1943年首先提出了需求层次的概念，其认为人类的需要由低到高，分为生理、安全、社交、尊重和自我实现的需求。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.20530985819323944,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "这一理论指出，人的首要目标是获得较低的要求，其次才是更高的要求。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.17824523240214107,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "股权激励既能满足员工的较低层次的物质需求，又使其具有股东地位，从而满足其尊重需求和自我实现需求。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.7507992242377026,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.35742267801224153,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "公司实行股权激励的具体办法，就是给股东一个优惠的价格，或者以赠予的形式授予其一定数量的股票，让他们的身份发生转变，同时也可以保护股东的权益。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.39337654622546103,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "由此可知，，相对于传统的绩效奖金激励，股权激励更具持久性、激励效果更强。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.2 限制性股票概述",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.9127612461601653,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.00028111073302031415,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "随着现代公司制度的不断发展，经营权与所有权分开运行成为一种趋势。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4274222967082606,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由此带来的委托-代理问题成为企业在激烈的竞争中保持优势所需要考虑的重要问题。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.05297558822306544,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "公司股东与职业经理人的目标不同可能会给公司带来严重的经营问题。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5716728988652605,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "一般来讲，由于任期和绩效考核等相关因素的客观存在，职业经理人往往更加注重企业短期效益的提升，以此为出发点职业经理人可能怎会出于个人利益而做出一些短期内使自身利益最大化，而上期可能不利于公司发展的决策；而公司股东则更加注重长期发展。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.09483063798076814,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而要解决上述问题，首先，需要职业经理人自身的道德约束，以及其个人决策要符合公司长远利益；另外，职业经理人的行为也需要外在力量约束，这就需要制度层面和公司股东进行约束。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7655787136497902,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "所以，公司股东在聘请职业经理人管理公司的同时，设立相应规章制度对其进行一定程度的控制，将经理人的利益与企业的长期价值联系在一起，因此，股权激励应运而生。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.576870981131567,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5623060302417505,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "限制性股票时股权激励的主要方式之一，即通过一定的限制条件将公司的股权分配给员工的激励行为，是缓解委托-代理问题的重要方法。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.20975123474831361,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "委托代理理论提到经理人与股东之间存在信息不对称的问题，管理者主要从事公司的日常运作，对公司的财务和经营情况比较了解，如果管理者为了达到自己的目的，故意隐瞒公司的一些情况，从而达到自己的目的，就会导致公司的资产受损。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8048137161415029,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "因此，许多公司都采取了限制性股票激励的方式调控其行为，限制性股票激励使经理人与企业的长远利益联系起来，共担风险、共享利润，有利于调动经理人的工作积极性，形成一种长期的激励机制。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.4982390818269935,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4540892582614417,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "具体来讲，限制性股票是指公司根据事先设定的条件向特定的激励对象发放的股份，限制性股票激励计划主要包括激励对象、激励数量、授予价格、授予期限和解锁条件五个部分。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2991337567119103,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "激励对象主要是公司的核心管理人员，出于独立性的考虑，不能包含独立董事；激励数量要结合公司整体的股权价值，一般来讲，个人激励总额不得超过公司总股本的1%；授予价格和期限一般根据公司的具体规定，在股权激励办法所规定范围内自由选择；解锁条件主要分为个人指标和公司指标。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.549420432840857,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "个人绩效指标主要是公司的内部考核；企业绩效指标主要包括营业收入指标、净利润指标、资产回报率等，部分指标还需要参考企业所在行业均值。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.19559563401278457,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "具体指标的选取是参考股权激励制度规定和公司的具体情况而定。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究综述"
+          ],
+          "chosen": false,
+          "text_content": "2.3 文献综述",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7835636229371407,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.52840777007907,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "目前，国内外专家学者就股权激励对企业绩效有怎样的影响这一问题有非常丰富的研究成果。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1772965762129899,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由于研究对象的差异、研究时间不同等因素，学者们也有着不同的见解。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.07785927664508072,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "总体来说，分为线性相关和非线性相关或不相关两种观点。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.1743361718496315,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.37060574622450143,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在具体的实施中，某些公司在实施激励计划时，可能既实施了限制性股票激励计划，又实施了股票期权激励计划。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8037304256251301,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "其次，由于限制性股票在我国发展的时间不久，单独将限制性股票作为研究对象的研究相对不多，而不区分限制性股票与股票期权的股权激励或管理层持股与企业绩效的研究较多，因此，本文将从限制性股票与股票期权的对比研究、限制性股票激励与企业绩效线性相关、限制性股票激励与企业绩效非线性相关或不相关三个方面进行文献梳理，其中限制性股票激励与企业绩效的相关关系的论述中包含了部分不区分股权激励方式的论述。"
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": true,
+              "part": [
+                "研究综述"
+              ],
+              "chosen": false,
+              "text_content": "2.3.1 国内研究现状",
+              "children": [
+                {
+                  "type": 0,
+                  "outLvl": "3",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（1）限制性股票与股票期权的对比研究",
+                  "children": [
+                    {
+                      "type": 1,
+                      "outLvl": "",
+                      "score": 1.6740127372151428,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "children": [
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.36947029157837963,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "肖淑芳等（2016）从管理层权力的角度研究上市公司股权激励方式的偏好。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.6915493516462915,
+                          "selected": false,
+                          "part": [],
+                          "chosen": true,
+                          "text_content": "结果表明，企业大多使用限制性股票来进行对公司管理层的激励。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.1458433466719382,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "且在管理层权力大的公司这种情况越显著。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.4671497473185333,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "原因为获利空间更大的限制性股票更能激发管理层的工作热情；并且，限制性股票激励计划中，被激励对象的权利与义务更加对等，其利益与企业利益绑定更加紧密，更有利于管理层发挥其才能，为企业创造更多价值。"
+                        }
+                      ]
+                    },
+                    {
+                      "type": 1,
+                      "outLvl": "",
+                      "score": 2.5736673409036777,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "children": [
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.6170817562549196,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "陈文强等（2021）在研究企业怎样在限制性股票激励与股票期权之间做出选择时，提出了企业在生命周期的不同阶段会选择不同激励方式的设想。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.5319407999579725,
+                          "selected": false,
+                          "part": [],
+                          "chosen": true,
+                          "text_content": "结果表明，发展阶段会影响企业对于激励方式的选择。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.33412661673660177,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "处于成长或衰退期的公司偏好股票期权；而处于成熟期的公司更偏好限制性股票激励。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.5300928852999978,
+                          "selected": false,
+                          "part": [],
+                          "chosen": true,
+                          "text_content": "其解释为，在成长期或者衰退期，股票期权使激励对象有更强的风险共担效应，驱动企业的绩效增长。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.5604252826541861,
+                          "selected": false,
+                          "part": [],
+                          "chosen": true,
+                          "text_content": "而在成熟期，限制性股票激励有更强的利益绑定效应，继而驱动企业价值增长。"
+                        }
+                      ]
+                    },
+                    {
+                      "type": 1,
+                      "outLvl": "",
+                      "score": 1.1952295150362153,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "children": [
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.3335778011171407,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "陈文哲等（2022）在研究上市公司股权激励模式选择时，创造性的引入了博弈论的分析框架。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.5688112896032139,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "研究结果指出，代理问题严重、投资风险大的企业倾向于限制性股票激励，原因是股东可以通过限制性股票激励更有效地促进激励对象工作。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.29284042431586066,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "其次，限制性股票同时存在激励性和福利性，可以通过合理设置考核及激励机制发挥限制性股票的激励作用。"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": 0,
+                  "outLvl": "3",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（2）限制性股票激励与企业绩效线性相关的论述",
+                  "children": [
+                    {
+                      "type": 1,
+                      "outLvl": "",
+                      "score": 1.8662843919202734,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "children": [
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.7285614669247924,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "郭蕾等（2019）在研究限制性股票激励和企业创新产出之间的关系时，选取2009年至2015年之间实施股权激励的387家科技型公司作为样本。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.46358285929006166,
+                          "selected": false,
+                          "part": [],
+                          "chosen": true,
+                          "text_content": "结果表明，股权激励对企业的创新具有正向的调节作用，且激励强度越强，创新产出越高。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.6741400657054194,
+                          "selected": false,
+                          "part": [],
+                          "chosen": true,
+                          "text_content": "蔡蕙（2020）在研究高管股权激励与企业绩效的关系时也得到过类似的结论。"
+                        }
+                      ]
+                    },
+                    {
+                      "type": 1,
+                      "outLvl": "",
+                      "score": 1.2689008736077452,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "children": [
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.707536095930334,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "陈效东等（2016）以我国A股市场中的上市公司作为研究对象，深入分析限制性股票激励对企业资产投资效率的作用。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.5613647776774112,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "研究表明，对企业管理层进行激励，能够使其更加关注能够长期获得投资回报的项目，提高企业资金的使用效率。"
+                        }
+                      ]
+                    },
+                    {
+                      "type": 1,
+                      "outLvl": "",
+                      "score": 1.1239945696787033,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "children": [
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.46104336755468733,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "胡景涛等（2020）不区分激励方式研究2006-2017年我国实施过激励的上市公司的相关数据。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.6629512021240159,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "研究发现，对与上市公司高管进行的股权激励预期效果不明显，但是对普通员工进行股权激励起到了补救作用，有助于企业绩效的提升。"
+                        }
+                      ]
+                    },
+                    {
+                      "type": 1,
+                      "outLvl": "",
+                      "score": 1.2459160144407218,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "children": [
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.10851878239619325,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "周仁俊等（2010）从公司产权的角度出发。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.3867048125043027,
+                          "selected": false,
+                          "part": [],
+                          "chosen": true,
+                          "text_content": "结果表明，管理层激励能够提升公司绩效。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.5712502486528851,
+                          "selected": false,
+                          "part": [],
+                          "chosen": true,
+                          "text_content": "通过区分国有与非国有公司发现，在非国有企业中激励对于企业绩效提升的效应更明显。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.1794421708873406,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "谢德仁等（2010）利用经验数据对比研究也得出了类似的结论。"
+                        }
+                      ]
+                    },
+                    {
+                      "type": 1,
+                      "outLvl": "",
+                      "score": 0.9436800769683403,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "children": [
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.32800608429649214,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "万华林（2018）在研究股权激励与企业财务的关系时，从行为金融学的角度对二者的关系进行阐述。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.6156739926718482,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "文章指出，实施股权激励对提高公司的内部治理水平有积极的影响，并且在维系股东和经理人关系的同时能够提高经理人的积极性，从而对企业绩效产生积极的促进作用。"
+                        }
+                      ]
+                    },
+                    {
+                      "type": 1,
+                      "outLvl": "",
+                      "score": 0.8842300630703341,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "children": [
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.6348464195977604,
+                          "selected": false,
+                          "part": [],
+                          "chosen": true,
+                          "text_content": "孟庆斌等（2019）研究普通员工激励对于企业创新的作用。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.2493836434725737,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "结果表明，员工激励能够提高员工在创新过程中的积极性、团队协作等，从而提高创新效率，对公司价值的提高存在正向的调节作用。"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": 0,
+                  "outLvl": "3",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（3）限制性股票激励与企业绩效非线性相关或不相关的论述",
+                  "children": [
+                    {
+                      "type": 1,
+                      "outLvl": "",
+                      "score": 0.3894533479635367,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "children": [
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.3894533479635367,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "黄桂田等（2008)指出，管理层激励对公司绩效存在倒U型影响，即在临界点之前，股权激励对公司绩效存在正向的影响；过了临界点之后，股权激励对公司绩效则存在负向的影响。"
+                        }
+                      ]
+                    },
+                    {
+                      "type": 1,
+                      "outLvl": "",
+                      "score": 1.125438779403185,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "children": [
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.6479121525703699,
+                          "selected": false,
+                          "part": [],
+                          "chosen": true,
+                          "text_content": "唐雨虹等（2017）在研究上市公司股权激励实施效果时，分别从代理成本和企业绩效两个方面出发。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.47752662683281516,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "结果表明，股权激励计划可能会增加管理层的非理性投资，而且也不能显著降低管理层的在职消费，由此对企业绩效的改善也不明显。"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2.3.2 国外研究现状",
+              "children": [
+                {
+                  "type": 0,
+                  "outLvl": "3",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（1）限制性股票与股票期权的对比研究",
+                  "children": [
+                    {
+                      "type": 1,
+                      "outLvl": "",
+                      "score": 1.350519687529838,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "children": [
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.7351502526959961,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "Helena和Martin（2014）在研究股权激励与企业价值的关系时，对限制性股票和股票期权进行了区分，分别研究两者对企业价值的影响。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.6153694348338419,
+                          "selected": false,
+                          "part": [],
+                          "chosen": true,
+                          "text_content": "研究表明，短期内股票期权对企业价值的提升作用更明显，而长期来看，限制性股票具有更加长效的影响。"
+                        }
+                      ]
+                    },
+                    {
+                      "type": 1,
+                      "outLvl": "",
+                      "score": 0.8654177293891806,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "children": [
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.5149415061791704,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "Brian和Kevin（2002）在研究限制性股票和股票期权对公司发展的影响是，从成本控制和风险管理的角度进行了分析。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.35047622321001015,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "研究结果表明，限制性股票在成本控制和风险管理两个方面都优于股票期权。"
+                        }
+                      ]
+                    },
+                    {
+                      "type": 1,
+                      "outLvl": "",
+                      "score": 0.4008943977831251,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "children": [
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.24063726449488904,
+                          "selected": false,
+                          "part": [],
+                          "chosen": true,
+                          "text_content": "Lian和Su（2011）从降低代理成本的角度分析股票期权与限制性股票的作用。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.16025713328823601,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "结果表明，股票期权在降低代理成本方面有更好的效果。"
+                        }
+                      ]
+                    },
+                    {
+                      "type": 1,
+                      "outLvl": "",
+                      "score": 0.6647543172487602,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "children": [
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.6647543172487602,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "Raluca（2009）通过研究长期薪酬激励制度与企业风险控制的关系得出，限制性股票激励能够有效控制不必要的风险投资和风险支出；而股票期权激励能够增加公司的有效研究投资，推动公司的研发进步。"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": 0,
+                  "outLvl": "3",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（2）限制性股票激励与企业绩效线性相关的论述",
+                  "children": [
+                    {
+                      "type": 1,
+                      "outLvl": "",
+                      "score": 2.206004968932816,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "children": [
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.9296591343685163,
+                          "selected": false,
+                          "part": [],
+                          "chosen": true,
+                          "text_content": "Chen（2003）在研究限制性股票激励与企业绩效的关系时，以123家对管理层进行激励的日本上市公司作为样本公司。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.6651334905582843,
+                          "selected": false,
+                          "part": [],
+                          "chosen": true,
+                          "text_content": "结果表明，实施激励能够促进企业绩效的提升。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.24596948501899002,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "同样的，Jana和Laura（2019）在研究两者的关系时，用托宾Q值作为被解释变量。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.3652428589870256,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "结果表明，不论是长期还是短期，限制性股票激励都能促进绩效的提升，长期的激励效果更为明显。"
+                        }
+                      ]
+                    },
+                    {
+                      "type": 1,
+                      "outLvl": "",
+                      "score": 1.193409818531988,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "children": [
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.566531505663219,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "Souder（2010）也研究了管理层持股比例与企业价值的关系，研究表明对于管理层的股权激励能够优化薪酬结构，提高管理层的工作积极性，并且可以使管理层在做决策时更多考虑企业的长期发展。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.6268783128687689,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "同样的，LI（2017）也认为对于企业管理层实施股权激励额能够带来利益趋同效应，即股权激励能够在一定程度上将经理人与企业的利益联系在一起，从而对企业绩效产生积极的影响。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.0,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "Jeffrey（2012）也得出了相似的结论。"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": 0,
+                  "outLvl": "3",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（3）限制性股票激励与企业绩效非线性相关或不相关的论述",
+                  "children": [
+                    {
+                      "type": 1,
+                      "outLvl": "",
+                      "score": 1.8886015227746866,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "children": [
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.8158871480691217,
+                          "selected": false,
+                          "part": [],
+                          "chosen": true,
+                          "text_content": "Li-Hui（2018）在研究限制性股票激励与企业绩效之间的关系时发现，企业绩效的提升或者下降与是否实施限制性股票激励没有明显的相关关系。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.6793804055327308,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "同样，Lin Jiang和Kling（2017）在研究股权激励与企业绩效的关系时，将股票期权作为研究对象，用净资产收益率ROE作为被解释变量来衡量绩效。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.3933339691728341,
+                          "selected": false,
+                          "part": [],
+                          "chosen": true,
+                          "text_content": "研究发现，两者没有显著的关系。"
+                        }
+                      ]
+                    },
+                    {
+                      "type": 1,
+                      "outLvl": "",
+                      "score": 0.5491035929027986,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "children": [
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.5491035929027986,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "Yan（2011）在研究中支出，随着股权激励强度的提高，职业经理人更加把其工作重点放在个人利益最大化上，而不顾股东和企业的长期发展价值。"
+                        }
+                      ]
+                    },
+                    {
+                      "type": 1,
+                      "outLvl": "",
+                      "score": 0.6344202862137724,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "children": [
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.5351620121391991,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "Kim（2011）从外部治理能力的角度出发，研究在公司的外部治理能力不同时，实施限制性股票激励会对公司绩效带来怎样的影响。"
+                        },
+                        {
+                          "type": 2,
+                          "outLvl": "",
+                          "score": 0.0992582740745733,
+                          "selected": false,
+                          "part": [],
+                          "chosen": false,
+                          "text_content": "结果表明，当外部治理能有效发挥作用时，两者没有表现出很强的关系；相反，当外部治理能力无效时，两者表现出先负相关后正相关的变化关系。"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.4 文献评述",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6933462116518794,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6933462116518794,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "总体来看，对于股权激励尤其是限制性股票激励与企业绩效是否有关的问题，国内外学者都有着不同观点，主要可以分为股权激励与企业绩效存在线性相关关系和股权激励与企业绩效非线性相关或不相关。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.438300398526542,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5594515969638998,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "对于股权激励与企业绩效关系的分歧，本文认为的原因可能是：第一，对于股权激励模式的选择不同。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2584648613864128,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由于国内外资本市场发展的不平衡性，股权激励模式也不尽相同，部分学者研究股票期权激励模式，另一部分学者则研究限制性股票激励模式；第二，对于股权激励强度衡量指标选择不同。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5300957667368746,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "对于股权激励强度，其衡量指标主要有管理层持股比例、激励股数占总股本的比重等；第三，企业绩效的衡量标准不同。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.044663147231189075,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "国外学者采用托宾Q值代表企业较多，而国内学者则较多使用会计指标。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.045625026208165484,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "综合来看，由于变量选取、样本公司与研究视角的不同，再加上不同国家的股权激励制度与相关政策的不同，最终导致了研究结果的不同。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.8956077814323946,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8956077814323946,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "针对以上问题，本文将限制性股票激励作为研究对象，以我国A股主板制造业上市公司作为初始样本，研究在制造业中，限制性股票与企业绩效的相关关系，而制造业作为我国覆盖范围最广的行业，对于我国的经济稳定和人民生活具有重要的地位，这样不仅避免了行业周期性对实证结果的影响，又更加具有现实意义。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究综述"
+      ],
+      "chosen": false,
+      "text_content": "2.3 文献综述",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.7835636229371407,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.52840777007907,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "目前，国内外专家学者就股权激励对企业绩效有怎样的影响这一问题有非常丰富的研究成果。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.1772965762129899,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "由于研究对象的差异、研究时间不同等因素，学者们也有着不同的见解。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.07785927664508072,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "总体来说，分为线性相关和非线性相关或不相关两种观点。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.1743361718496315,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.37060574622450143,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "在具体的实施中，某些公司在实施激励计划时，可能既实施了限制性股票激励计划，又实施了股票期权激励计划。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.8037304256251301,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "其次，由于限制性股票在我国发展的时间不久，单独将限制性股票作为研究对象的研究相对不多，而不区分限制性股票与股票期权的股权激励或管理层持股与企业绩效的研究较多，因此，本文将从限制性股票与股票期权的对比研究、限制性股票激励与企业绩效线性相关、限制性股票激励与企业绩效非线性相关或不相关三个方面进行文献梳理，其中限制性股票激励与企业绩效的相关关系的论述中包含了部分不区分股权激励方式的论述。"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究综述"
+          ],
+          "chosen": false,
+          "text_content": "2.3.1 国内研究现状",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "3",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（1）限制性股票与股票期权的对比研究",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.6740127372151428,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.36947029157837963,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "肖淑芳等（2016）从管理层权力的角度研究上市公司股权激励方式的偏好。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6915493516462915,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "结果表明，企业大多使用限制性股票来进行对公司管理层的激励。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.1458433466719382,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "且在管理层权力大的公司这种情况越显著。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4671497473185333,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "原因为获利空间更大的限制性股票更能激发管理层的工作热情；并且，限制性股票激励计划中，被激励对象的权利与义务更加对等，其利益与企业利益绑定更加紧密，更有利于管理层发挥其才能，为企业创造更多价值。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 2.5736673409036777,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6170817562549196,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "陈文强等（2021）在研究企业怎样在限制性股票激励与股票期权之间做出选择时，提出了企业在生命周期的不同阶段会选择不同激励方式的设想。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5319407999579725,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "结果表明，发展阶段会影响企业对于激励方式的选择。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.33412661673660177,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "处于成长或衰退期的公司偏好股票期权；而处于成熟期的公司更偏好限制性股票激励。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5300928852999978,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "其解释为，在成长期或者衰退期，股票期权使激励对象有更强的风险共担效应，驱动企业的绩效增长。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5604252826541861,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "而在成熟期，限制性股票激励有更强的利益绑定效应，继而驱动企业价值增长。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.1952295150362153,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3335778011171407,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "陈文哲等（2022）在研究上市公司股权激励模式选择时，创造性的引入了博弈论的分析框架。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5688112896032139,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "研究结果指出，代理问题严重、投资风险大的企业倾向于限制性股票激励，原因是股东可以通过限制性股票激励更有效地促进激励对象工作。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.29284042431586066,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "其次，限制性股票同时存在激励性和福利性，可以通过合理设置考核及激励机制发挥限制性股票的激励作用。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "3",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（2）限制性股票激励与企业绩效线性相关的论述",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.8662843919202734,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7285614669247924,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "郭蕾等（2019）在研究限制性股票激励和企业创新产出之间的关系时，选取2009年至2015年之间实施股权激励的387家科技型公司作为样本。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.46358285929006166,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "结果表明，股权激励对企业的创新具有正向的调节作用，且激励强度越强，创新产出越高。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6741400657054194,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "蔡蕙（2020）在研究高管股权激励与企业绩效的关系时也得到过类似的结论。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.2689008736077452,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.707536095930334,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "陈效东等（2016）以我国A股市场中的上市公司作为研究对象，深入分析限制性股票激励对企业资产投资效率的作用。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5613647776774112,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "研究表明，对企业管理层进行激励，能够使其更加关注能够长期获得投资回报的项目，提高企业资金的使用效率。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.1239945696787033,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.46104336755468733,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "胡景涛等（2020）不区分激励方式研究2006-2017年我国实施过激励的上市公司的相关数据。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6629512021240159,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "研究发现，对与上市公司高管进行的股权激励预期效果不明显，但是对普通员工进行股权激励起到了补救作用，有助于企业绩效的提升。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.2459160144407218,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.10851878239619325,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "周仁俊等（2010）从公司产权的角度出发。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3867048125043027,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "结果表明，管理层激励能够提升公司绩效。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5712502486528851,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "通过区分国有与非国有公司发现，在非国有企业中激励对于企业绩效提升的效应更明显。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.1794421708873406,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "谢德仁等（2010）利用经验数据对比研究也得出了类似的结论。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.9436800769683403,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.32800608429649214,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "万华林（2018）在研究股权激励与企业财务的关系时，从行为金融学的角度对二者的关系进行阐述。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6156739926718482,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "文章指出，实施股权激励对提高公司的内部治理水平有积极的影响，并且在维系股东和经理人关系的同时能够提高经理人的积极性，从而对企业绩效产生积极的促进作用。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.8842300630703341,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6348464195977604,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "孟庆斌等（2019）研究普通员工激励对于企业创新的作用。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.2493836434725737,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "结果表明，员工激励能够提高员工在创新过程中的积极性、团队协作等，从而提高创新效率，对公司价值的提高存在正向的调节作用。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "3",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（3）限制性股票激励与企业绩效非线性相关或不相关的论述",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.3894533479635367,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3894533479635367,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "黄桂田等（2008)指出，管理层激励对公司绩效存在倒U型影响，即在临界点之前，股权激励对公司绩效存在正向的影响；过了临界点之后，股权激励对公司绩效则存在负向的影响。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.125438779403185,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6479121525703699,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "唐雨虹等（2017）在研究上市公司股权激励实施效果时，分别从代理成本和企业绩效两个方面出发。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.47752662683281516,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "结果表明，股权激励计划可能会增加管理层的非理性投资，而且也不能显著降低管理层的在职消费，由此对企业绩效的改善也不明显。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.3.2 国外研究现状",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "3",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（1）限制性股票与股票期权的对比研究",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.350519687529838,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7351502526959961,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Helena和Martin（2014）在研究股权激励与企业价值的关系时，对限制性股票和股票期权进行了区分，分别研究两者对企业价值的影响。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6153694348338419,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "研究表明，短期内股票期权对企业价值的提升作用更明显，而长期来看，限制性股票具有更加长效的影响。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.8654177293891806,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5149415061791704,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Brian和Kevin（2002）在研究限制性股票和股票期权对公司发展的影响是，从成本控制和风险管理的角度进行了分析。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.35047622321001015,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "研究结果表明，限制性股票在成本控制和风险管理两个方面都优于股票期权。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.4008943977831251,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.24063726449488904,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "Lian和Su（2011）从降低代理成本的角度分析股票期权与限制性股票的作用。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.16025713328823601,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "结果表明，股票期权在降低代理成本方面有更好的效果。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.6647543172487602,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6647543172487602,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Raluca（2009）通过研究长期薪酬激励制度与企业风险控制的关系得出，限制性股票激励能够有效控制不必要的风险投资和风险支出；而股票期权激励能够增加公司的有效研究投资，推动公司的研发进步。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "3",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（2）限制性股票激励与企业绩效线性相关的论述",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 2.206004968932816,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.9296591343685163,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "Chen（2003）在研究限制性股票激励与企业绩效的关系时，以123家对管理层进行激励的日本上市公司作为样本公司。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6651334905582843,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "结果表明，实施激励能够促进企业绩效的提升。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.24596948501899002,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "同样的，Jana和Laura（2019）在研究两者的关系时，用托宾Q值作为被解释变量。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3652428589870256,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "结果表明，不论是长期还是短期，限制性股票激励都能促进绩效的提升，长期的激励效果更为明显。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.193409818531988,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.566531505663219,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Souder（2010）也研究了管理层持股比例与企业价值的关系，研究表明对于管理层的股权激励能够优化薪酬结构，提高管理层的工作积极性，并且可以使管理层在做决策时更多考虑企业的长期发展。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6268783128687689,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "同样的，LI（2017）也认为对于企业管理层实施股权激励额能够带来利益趋同效应，即股权激励能够在一定程度上将经理人与企业的利益联系在一起，从而对企业绩效产生积极的影响。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Jeffrey（2012）也得出了相似的结论。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "3",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（3）限制性股票激励与企业绩效非线性相关或不相关的论述",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.8886015227746866,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.8158871480691217,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "Li-Hui（2018）在研究限制性股票激励与企业绩效之间的关系时发现，企业绩效的提升或者下降与是否实施限制性股票激励没有明显的相关关系。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6793804055327308,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "同样，Lin Jiang和Kling（2017）在研究股权激励与企业绩效的关系时，将股票期权作为研究对象，用净资产收益率ROE作为被解释变量来衡量绩效。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3933339691728341,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "研究发现，两者没有显著的关系。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.5491035929027986,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5491035929027986,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Yan（2011）在研究中支出，随着股权激励强度的提高，职业经理人更加把其工作重点放在个人利益最大化上，而不顾股东和企业的长期发展价值。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.6344202862137724,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5351620121391991,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Kim（2011）从外部治理能力的角度出发，研究在公司的外部治理能力不同时，实施限制性股票激励会对公司绩效带来怎样的影响。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0992582740745733,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "结果表明，当外部治理能有效发挥作用时，两者没有表现出很强的关系；相反，当外部治理能力无效时，两者表现出先负相关后正相关的变化关系。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究假设": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究假设"
+      ],
+      "chosen": false,
+      "text_content": "3.1 假设提出",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 3.718815730299456,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6491677758591249,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "根据本文的文献综述部分，委托代理理论提到两权分离会导致信息不对称、管理层与股东利益不一致等问题，限制性股票激励通过对管理层发放限制性股票，能够使管理层和股东的利益关系更加紧密，推动管理层发挥其才能，从而对企业的长期发展产生正向的作用。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.31930942425094855,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "万华林（2018）在研究股权激励与企业财务的关系时，从行为金融学的角度对二者的关系进行阐述。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6791907747815605,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "文章指出，实施股权激励对提高公司的内部治理水平有积极的影响，并且在维系股东和经理人关系的同时能够提高经理人的积极性，从而对企业绩效产生积极的促进作用。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6885913415731105,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "陈效东、周嘉南等（2016）以我国A股市场中的上市公司作为研究对象，深入分析限制性股票激励对企业资产投资效率的作用。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6009795787673482,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "研究表明，对企业管理层进行激励，能够使其更加关注能够长期获得投资回报的项目，提高企业资金的使用效率。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "谢德仁等（2010）也有相似的结论。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5996430627036216,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "孟庆斌等（2019）研究普通员工激励对于企业创新的作用。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.18193377236374178,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "结果表明，员工激励能够提高员工在创新过程中的积极性、团队协作等，从而提高创新效率。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.8045975956144684,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.8045975956144684,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "假设1：限制性股票激励有利于企业绩效的提升。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 3.841533935040145,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.33080188887416767,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "激励理论指出激励能够提高被激励者的工作积极性，促使其发挥才能。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6309210175802703,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "激励强度越强，则被激励者将会有更大的动力去提企业的绩效，为企业创造价值。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4745399180037305,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "李小娟（2017）在研究股权激励强度与上市公司绩效的关系时，将2009年—2015年实施股权激励的上市公司作为研究样本，不区分激励方式。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6225350504177262,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "研究结果表明，激励强度对企业价值具有积极的调节作用。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6173458299091982,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "且股权激励强度越强，企业价值和企业绩效表现越好。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6757997936095931,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "郭蕾等（2019）在研究股权激励和企业创新产出之间的关系时，选取2009年至2015年之间实施股权激励的387家科技型公司作为样本。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.489590436645459,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "结果表明，股权激励对企业的创新具有正向的调节作用，且激励强度越强，创新产出越高。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.7642917780913421,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7642917780913421,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "假设2：限制性股票激励强度越强，企业绩效表现越好。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "数据与样本": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "数据与样本"
+      ],
+      "chosen": false,
+      "text_content": "3.2 样本数据来源",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 2.321227649684828,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7727653976360922,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "本文以主板制造业上市公司为研究对象，样本来源时间段选取为2016-2019年。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6986305982078721,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "即将2016-2019年对公司管理层实施限制性股票激励计划的公司作为样本，获取相应公司的2016-2021年度数据作为样本数据。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.8498316538408635,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "对于假设1，本文将2016-2019年间董事会通过限制性股票激励方案，但最终停止实施的公司列入对照组，探究两者的绩效表现有何差异。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.6717270550806292,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.10148868214254077,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "本文数据来源于Choice金融终端与国泰安数据库。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.22915653421931637,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "经过初步筛选，获取了200多家样本公司。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3410818387187721,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "但是由于部分公司当前存在财务异常情况或者部分年份数据有缺失，所以还要对已获取的样本公司做进一步筛选。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.13404763589878643,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.13404763589878643,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "（1）剔除标识ST、*ST的上市公司；"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.1038453105412736,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.1038453105412736,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "（2）剔除部分数据缺失且无法完善的上市公司；"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.7261686554071003,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7261686554071003,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（3）实施限制性股票激励计划的同时包含股票期权激励的公司；"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.4410210909114621,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4410210909114621,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（4）激励计划方案中不涉及管理层人员的公司。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.920919471657943,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6058065748297472,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "最终通过筛选确定了168家制造业上市公司作为本文的样本公司，并获取了911组对应公司的数据。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3151128968281958,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本文将借助Excel2016与Stata17软件进行数据处理。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "变量定义": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "变量定义"
+      ],
+      "chosen": false,
+      "text_content": "3.3 变量定义",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "变量定义"
+          ],
+          "chosen": false,
+          "text_content": "3.3.1 被解释变量",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.9249695164999694,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5206844254468453,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "对于假设1、2的检验，被解释变量是企业绩效的相关指标。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.413207990334594,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从文献综述可以看出，部分学者运用会计指标衡量企业绩效。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.05724095124941938,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "主要可选择的指标是总资产收益率ROA和净资产收益率ROE。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2887028789197674,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "本文选取总资产收益率ROA来衡量公司的绩效。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3178637940151649,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "ROA越高，表明企业的资金回报效率越高，获利能力越强。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.004175047758068256,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "净资产收益率ROE又称作股东权益报酬率、权益利润率。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1082457280248374,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "通过计算净资产中净利润所占比重来评估公司的盈利能力。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.21484870075127263,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文将净资产收益率ROE用来进行稳健性检验。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "3.3.2 解释变量",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.3655967530430682,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.518246261889687,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "（1）是否实施限制性股票激励（Inc）。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.441024648049687,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "对于假设1，本文将是否实施限制性股票激励作为解释变量。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.40632584310369413,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在所选时间段内，将实施限制性股票激励计划的上市公司赋值为1，为避免股权激励公告效应的影响，本文将董事会宣告通过限制性股票激励计划但最终停止实施的同类样本赋值为0。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.531908510334874,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4792820582542059,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "（2）激励强度（Str）。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.25683294114223837,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "一些学者用管理层持股指标来衡量股权激励强度。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3280807865615964,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "但管理层持股可能包含非限制性股票激励计划中的部分（周双双，2021），即管理层持股并不能准确的代表限制性股票激励计划中的激励强度。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4677127243768334,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "所以本文采用激励方案公告时激励数量占公司总股本的比重代表限制性股票激励强度。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "3.3.3 控制变量",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.1753660569799087,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4298619043951092,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "企业的发展是一个复杂的过程，影响其价值提升的因素更是多种多样。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7455041525847995,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文主要研究的是限制性股票激励和激励强度对企业价值的影响，除此之外，对于不同的企业还有很多不可忽略的客观因素影响其价值创造，如周仁俊（2010）、万华林（2018）、林大庞和苏冬蔚（2011）等人的研究，可以看出企业规模、资本结构、公司成长性和股权集中度对企业绩效有着很大的影响。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.3112940385644372,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.40659614298168134,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（1）企业规模（Size）：普遍意义上讲，企业规模越大，企业所掌握的资源也相对较多，企业的整体实力也就越强，就能够在竞争中掌握主动地位。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5358214316049328,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "所以本文认为企业规模是影响企业绩效的重要因素。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3688764639778229,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "本文用期末资产总额代表企业规模。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.0208952783804772,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.17099409486863132,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "（2）资本结构（Lev）：资本结构是公司长期发展的重要影响因素。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.39048246522221886,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "合理的资本结构不仅对于企业内部控制有重要意义，而且对于企业价值的提升有重要的作用。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1715992118833348,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "相反，不合理的资本结构则会阻碍公司的发展。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.14118970560968364,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "比如过高的负债会给公司经营带来巨大的风险。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1466298007966086,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "本文用资产负债率代表资本结构。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.9667356047227671,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4317109292524285,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（3）成长性（Growth）：公司成长性虽然是从过去的经营绩效计算而来，但是能够真实的总结与反应企业的成长能力与发展潜力。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.17068677849454822,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "公司成长性越好，则越有可能获得市场的认可，从而就有更好的资源获取能力。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3643378969757905,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "本文用主营业务收入增长率来衡量企业的成长性。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.861480680554025,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.23320703513082802,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（4）股权集中度（Top10）：如果公司的大股东拥有较多的股份，那么其与公司的利益关系就会更加密切，而股东对公司的监督也会更加积极，这对公司的业绩也会有很大的帮助。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.49975615995191836,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "但是，如果企业的股份集中程度太高，也可能使大股东为了自身的利益，而做出损害公司利益的事情。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.12851748547127861,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文主要以前十大股东的股份占有率来衡量股权集中度。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.013200880880874547,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.013200880880874547,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "表3-1 变量总览"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "table_data": "[['变量类别', '变量名称', '变量符号', '变量计算公式'], ['被解释变量', '总资产收益率', 'ROA', '净利润/总资产'], ['', '净资产收益率', 'ROE', '净利润/股东权益'], ['解释变量', '是否实施限制性股票激励', 'Inc', '实施限制性股票激励的公司赋值为1；宣告激励计划但未实施的样本赋值为0'], ['', '激励强度', 'Str', '授予股份数占当时公司股本总数的比例'], ['控制变量', '公司规模', 'Asset', '年末资产总额'], ['', '资本结构', 'Lev', '年末总负债/总资产'], ['', '成长性', 'Growth', '主营业务收入增长率'], ['', '股权集中度', 'Top10', '年末前十大股东持股比例之和']]"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "检验": [],
+  "结论与分析": [
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": false,
+      "part": [
+        "结论与分析"
+      ],
+      "chosen": false,
+      "text_content": "5 总结与展望",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "根据本文的研究结果，限制性股票激励、激励强度与公司业绩之间具有显著的正相关性，即限制性股票激励能够提升公司业绩，并且随着激励强度的增强而增强。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本文认为，由于限制性股票激励能在一定程度上减少委托代理费用，激发员工的工作热情，而且激励强度越大，积极对象所得到的回报也就越大，对公司的股价变化也就越敏感，从而促使他们将更多的精力投入到公司的运营中，最终推动了公司的发展。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "从委托代理理论、激励理论等角度分析，限制性股票的有效性不应该随着时间的推移而降低。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "但是，在实际操作中，很多因素是不能被有效量化的。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "例如，在不同的行业中，限制性股票的行权条件是完全不同的。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "在激励理论的基础上，激励程度的提高则意味着绩效的提高。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "然而，由于信息不对称问题的客观存在，如果激励计划解锁条件过于严格，则可能加剧管理层过度投资等非理性行为。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "其次，激励只是公司治理的一部分，公司的长期发展依赖于自身的稳步经营、有效的内控和着眼长远的企业战略等，但是外部环境的变化如经济环境、政策变化和行业周期性等都是影响公司经营的不可控制因素。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "由于作者当前学术水平的限制，许多因素无法综合考虑，这也是本文的研究所存在的局限性。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "尽管本文存在一定的局限性，但是这也说明作者还有很多可以提升的空间。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "在此基础上，作者期望以后可以综合考虑企业类型、管理层性质等因素对企业经营业绩的影响，并将更多的变量纳入到建模分析过程中。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "另外，在现代企业发展过程中，股权激励制度被普遍认为是一种长期的激励机制，因而在今后的研究中必须对激励机制进行全面的优化。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "而在公司治理结构日益健全的今天，本文提出了构建长期、长效的股权激励机制有利于公司这一观点。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "所以，如何合理、高效地使用限制性股票，并且建立健全的激励计划监督与考核机制，已成为当前亟待解决的问题。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本文认为，企业应充分认识到，实行股权激励是一项长期而又行之有效的战略决策，但不可盲目地实行，必须充分结合公司的内部治理水平，充分考虑公司的内部治理结构是否能够与未来的激励方案相匹配的问题，并做好充分的准备来迎接未来的机遇和挑战。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "实证研究类v3": [
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": false,
+      "part": [
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "4 实证结果",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "实证研究类v3"
+          ],
+          "chosen": false,
+          "text_content": "4.1 描述性统计分析",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.40308694899478015,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.40308694899478015,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "为了更直观的了解变量的整体情况，本文进行描述性统计分析，结果如表4-1所示："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.30776051988639236,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.30776051988639236,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "表4-1 各变量的描述性统计结果（模型1、2）"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "table_data": "[['变量', '最大值', '最小值', '平均值', '标准差', '观察值'], ['ROA', '37.18%', '-48.57%', '6.24%', '5.58', '911'], ['ROE', '48.04%', '-82.42%', '10.52%', '9.69', '911'], ['Inc', '1', '0', '0.88', '0.32', '911'], ['Str', '8.53%', '0', '1.85%', '1.57', '911'], ['Asset', '3879.46', '8.31', '147.19', '373.15', '911'], ['Lev', '79.87%', '5.95%', '41.08%', '15.36', '911'], ['Growth', '267.31%', '-73.85%', '20.04%', '29.70', '911'], ['Top10', '87.90%', '17.92%', '54.73%', '14.81', '911']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5057355677941578,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.08513889746693677,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "被解释变量ROA代表总资产收益率。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4205966703272211,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "ROA最大值为37.18%，最小值为-48.57%，相差接近86%，可以看出，尽管都是制造业上市公司，但是不同公司之间的获利能力差距较大；ROA均值为6.24%，当一个公司的ROA大于6.24%时，就表明这家公司当年的绩效水平在所选样本公司的平均水平之上。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.5099238441305807,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5472412753261094,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "解释变量Inc代表是否实施限制性股票激励。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.34309636271229416,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "实施的公司赋值为1，宣告激励计划但未实施的样本赋值为0。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6195862060921771,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Inc均值约为0.89，这意味着在2012-2019年间主板制造业公司在通过激励计划后，约有11%的上市公司因为某些原因没有实施限制性股票激励计划。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.9161473570625507,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4149419936515536,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "解释变量Str代表激励强度，即授予股份占公司股本总数的比例。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5012053634109971,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "最大值8.53%，表明某些公司为了实施长效的激励投入相对较大；最小值是0，表示没有实施限制性股票激励。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3121820688699912,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.01342825509318711,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "控制变量Asset代表资产总额。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.006550181452673502,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "可以看到资产总额最大值为3879.46亿元，最小值为8.31亿元，前者约是后者的468倍。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2922036323241306,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "尽管样本公司都是制造业公司，但是可能由于每个公司的行业地位或者具体生产的产品性质不同，所以会有上述差异。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7044225467339602,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0794198371450277,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "控制变量Lev代表资本结构。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6250027095889324,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "最大值约为80%，最小值约为6%，说明不同企业之间的资本结构存在较大的差异；均值约为41%，表明样本公司的平均资产负债率较高。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.23553119087704535,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.014420095492269006,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "控制变量Growth代表主营业务收入增长率。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.22111109538477636,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "最大值为267.31%，最小值为-73.85%，表明样本公司之前的发展前景存在较大差异，出现负值表明在部分公司当年的经营业绩相比往年有所下降，负值较大则表明经营业绩下降较多。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.2483918358766313,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16907023766401655,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "控制变量Top10表示公司前十大股东持股比例之和。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.00277458543432179,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Top10最大值为87.90%，最小值为17.92%，均值接近55%。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2773106940462442,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "说明不同公司之间股权集中度有较大差异，并且样本公司的平均股权集中度较高。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7992363187320487,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "这也侧面反映了部分公司想要通过限制性股票激励来合理分配公司的股权，想要通过优化股权结构提升企业价值。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.2 相关性分析",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5025727870552205,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5025727870552205,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文运用Stata17分别对模型1和模型2的变量进行相关性分析，初步考察各变量之间的相关性，分析结果如下："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.15272247365029376,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.15272247365029376,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "表4-2 模型1的相关性检验结果"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "table_data": "[['', 'ROA', 'Inc', 'Asset', 'Lev', 'Growth', 'Top10'], ['ROA', '1', '', '', '', '', ''], ['Inc', '0.1341*', '1', '', '', '', ''], ['Asset', '0.0444**', '0.0856', '1', '', '', ''], ['Lev', '-0.2839***', '0.0921', '0.3167***', '1', '', ''], ['Growth', '0.2365**', '0.0116', '0.0196', '0.1070', '1', ''], ['Top10', '0.2704***', '-0.1565', '-0.0317', '-0.1069***', '0.0179', '1']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.15272247365029376,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.15272247365029376,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "表4-3 模型2的相关性检验结果"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "table_data": "[['', 'ROA', 'Str', 'Asset', 'Lev', 'Growth', 'Top10'], ['ROA', '1', '', '', '', '', ''], ['Str', '0.1632**', '1', '', '', '', ''], ['Asset', '0.0444**', '0.0346', '1', '', '', ''], ['Lev', '-0.2839***', '0.0437', '0.3167***', '1', '', ''], ['Growth', '0.2365**', '0.0116', '0.0196', '0.1070', '1', ''], ['Top10', '0.2704***', '-0.1565***', '-0.0317', '-0.1069***', '0.0179', '1']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.8674647152496398,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5141219679410616,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从表4-2和表4-3可以看出，解释变量是否实施限制性股票激励Inc与被解释变量总资产收益率ROA的相关系数为0.1341；解释变量激励强度Str与ROA的相关系数为0.1632。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3533427473085782,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "说明Inc、Str与ROA之间都存在显著的正相关关系。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.714919165680816,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.714919165680816,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "资产负债率Lev与总资产收益率ROA的相关系数为-0.2839，且在1%的水平上显著，说明资产负债率和总资产收益率存在显著的负相关关系；公司规模、企业成长性、前十大股东持股比例与ROA的相关系数都为正数，且都表现为显著相关，表明本文所选取的控制变量对被解释变量都有一定的影响，在回归模型中引入这些控制变量是可行的。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4940048756085711,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4940048756085711,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "为了规避多重共线性对后续研究的影响，本文将进行多重共线性检验，结果如下："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.35044905111431257,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.35044905111431257,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "表4-4 模型1、2多重共线性检验结果"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "table_data": "[['模型1', '', '模型2', ''], ['变量', 'VIF', '变量', 'VIF'], ['Lev', '1.17', 'Lev', '1.14'], ['Asset', '1.11', 'Asset', '1.11'], ['Inc', '1.06', 'Top10', '1.05'], ['Top10', '1.03', 'Str', '1.04'], ['Growth', '1.01', 'Growth', '1.01'], ['VIF均值', '1.08', 'VIF均值', '1.07']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.366201035527022,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.366201035527022,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "通常情况下，VIF值小于10则可以认为模型不存在多重共线性，检验结果显示，模型1与模型2各变量的VIF值均小于10，则初步判断本文的模型不存在多重共线性的问题，可以进入回归分析阶段。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.3 多元回归分析",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "4.3.1 是否实施限制性股票激励与企业绩效的回归分析",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.22882017225362833,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.22882017225362833,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "根据模型1对数据进行回归分析，得到的结果如下："
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.17811795874877312,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.17811795874877312,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "表4-5 模型1回归结果"
+                    }
+                  ]
+                },
+                {
+                  "type": 3,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "table_data": "[['模型1', 'F(5,905)', '', 'Prob＞F', '', 'R2', 'Adj-R2', '', 'Root MSE', '', 'obs'], ['', '58.11', '', '0.0000', '', '0.2430', '0.2389', '', '4.8692', '', '911'], ['ROA', '', 'Coefficient', '', 'Std.err.', '', '', 't', '', 'P&gt;|t|', ''], ['Inc', '', '2.1601***', '', '0.5137', '', '', '4.20', '', '0.000', ''], ['Asset', '', '0.0022***', '', '0.0005', '', '', '4.90', '', '0.000', ''], ['Lev', '', '-0.1297***', '', '0.0114', '', '', '-11.42', '', '0.000', ''], ['Growth', '', '0.0499***', '', '0.0055', '', '', '9.13', '', '0.000', ''], ['Top10', '', '0.0949***', '', '0.0111', '', '', '8.57', '', '0.000', ''], ['_cons', '', '3.1366***', '', '0.9222', '', '', '3.40', '', '0.001', '']]"
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.1844202220620758,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.1844202220620758,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "可以看到，模型1的R2为0.2430，调整R2为0.2389，说明模型1能够解释说明被解释变量、解释变量与控制变量之间的相关关系。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.2837008441051152,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.39052749569358675,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "从解释变量的角度看，是否实施限制性股票激励Inc的回归系数为2.1601，对应的p值为0.000。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7823855185124686,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "说明实施限制股票激励对企业绩效具有显著的正向调节作用，即实施限制性股票激励能够促进企业绩效的提升。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.1107878298990598,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "假设1得到验证。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 3.305321465995036,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.11457042616198511,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "从控制变量的角度看，所有控制变量的p值均为0.000，即所有控制变量都在1%的显著性水平上与被解释变量呈现显著的相关关系。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5905226981817896,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "其中Asset、Growth、Top10与ROA表现出显著的正相关关系，这表明公司规模、公司成长性和股权集中度都会对企业绩效产生正向的调节作用。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7369828152814084,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "规模较大、发展前景较好的公司相对拥有较多的行业资源和较高的市场认可度，其实施限制性股票激励使被激励者通过提升企业绩效而获得能奖励空间更大，更能够激发其积极性。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.8095219798908339,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "股权集中度较高的企业，在快速发展或者急需企业绩效来刺激公司的市场表现的阶段，董事会更容易通过限制性股票激励方案，从而对企业绩效产生积极的影响。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.16128860915656662,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "与此同时，资产负债率Lev与ROA之间表现出显著的负相关关系。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5186672182618877,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "这表明企业的资产负债率越高，其在日常经营中所面临的风险可能就会越大，这些风险因素会加剧企业发展的不稳定性，从而对企业的发展产生非常不利的影响。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3737677190605653,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "这就提醒企业在日常的经营活动中应当优化资本结构，尽可能将资产负债率控制在合理且可控的范围之内，从而达到风险控制的效果。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "4.3.2 激励强度与企业绩效的回归分析",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.22882017225362833,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.22882017225362833,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "根据模型2对数据进行回归分析，得到的结果如下："
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.17811795874877312,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.17811795874877312,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "表4-6 模型2回归结果"
+                    }
+                  ]
+                },
+                {
+                  "type": 3,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "table_data": "[['模型2', 'F(5,905)', '', 'Prob＞F', '', 'R2', 'Adj-R2', '', 'Root MSE', '', 'obs'], ['', '55.23', '', '0.0000', '', '0.2338', '0.2296', '', '4.8988', '', '911'], ['ROA', '', 'Coefficient', '', 'Std.err.', '', '', 't', '', 'P&gt;|t|', ''], ['Str', '', '0.2697**', '', '0.1052', '', '', '2.56', '', '0.011', ''], ['Asset', '', '0.0023***', '', '0.0005', '', '', '5.02', '', '0.000', ''], ['Lev', '', '-0.1226***', '', '0.0113', '', '', '-10.87', '', '0.000', ''], ['Growth', '', '0.0502***', '', '0.0055', '', '', '9.12', '', '0.000', ''], ['Top10', '', '0.0935***', '', '0.0112', '', '', '8.34', '', '0.000', ''], ['_cons', '', '4.3096***', '', '0.8572', '', '', '5.03', '', '0.000', '']]"
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.2391959057745212,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.19293398693823635,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "可以看到，模型2的R2为0.2338，调整R2为0.2296，说明模型二也能够解释说明各变量之间的相关关系。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.2528308107951432,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "从解释变量的角度看，激励强度Str的回归系数为0.2697，对应的p值为0.011，即在5%的显著性水平上显著。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6826432781420818,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "说明激励强度对企业绩效具有显著的正向调节作用，即激励强度的提升能够促进企业绩效的提升。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.1107878298990598,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "假设2得到验证。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.9340792800463407,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.18633055998197576,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "从控制变量的角度看，与模型1的回归结果相似，模型2中所有控制变量的p值均为0.000，即所有控制变量都在1%的显著性水平上与被解释变量呈现显著的相关关系。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5883354913335964,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "其中Asset、Growth、Top10与ROA表现出显著的正相关关系，这表明公司规模、公司成长性和股权集中度都会对企业绩效产生正向的调节作用，此结论已经在假设1的检验中得到验证。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5243695328528895,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "规模较大、发展前景较好的公司拥有相对较高的市场认可度，有利于企业的发展。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.1713449194405483,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "同时，与前文假设1的检验结果相一致，Lev与ROA之间也表现出显著的负相关关系。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4636987764373308,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "前文提到，资产负债率高意味着企业所面临的风险大，对企业的发展不利。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.14744674015277495,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.14744674015277495,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "所以，本文初步得出结论："
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.8033527204398777,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.8033527204398777,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "（1）对于假设1，实证结果表明，实施限制性股票激励有利于企业绩效的提升。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.776434316422105,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.776434316422105,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "（2）对于假设2，实证结果表明，限制性股票激励强度越强，企业绩效表现越好。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.4 稳健性检验",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.307974718265114,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.307974718265114,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "为了增强本文研究结果的可信度，本文用净资产收益率ROE替代假设1与假设2的被解释变量总资产收益率ROA来进行稳健性检验。"
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "4.4.1 是否实施限制性股票激励与企业绩效的稳健性检验",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.245710031191699,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.245710031191699,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "根据模型1，将被解释变量ROA替换成ROE进行稳健性检验，得到的结果如下："
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.31827045518606956,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.31827045518606956,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "表4-7 模型1稳健性检验结果"
+                    }
+                  ]
+                },
+                {
+                  "type": 3,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "table_data": "[['模型1', 'F(5,905)', '', 'Prob＞F', '', 'R2', 'Adj-R2', '', 'Root MSE', '', 'obs'], ['', '27.85', '', '0.0000', '', '0.1333', '0.1286', '', '9.0431', '', '911'], ['ROE', '', 'Coefficient', '', 'Std.err.', '', '', 't', '', 'P&gt;|t|', ''], ['Inc', '', '2.9632***', '', '0.9541', '', '', '3.11', '', '0.002', ''], ['Asset', '', '0.0061***', '', '0.0008', '', '', '7.20', '', '0.000', ''], ['Lev', '', '-0.064***', '', '0.0211', '', '', '-3.03', '', '0.003', ''], ['Growth', '', '0.0776***', '', '0.0102', '', '', '7.64', '', '0.000', ''], ['Top10', '', '0.0951***', '', '0.0206', '', '', '4.62', '', '0.000', ''], ['_cons', '', '2.8761*', '', '1.7126', '', '', '1.68', '', '0.093', '']]"
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.530613415750399,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.530613415750399,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "从表4-7中可以得知，用净资产收益率ROE衡量企业绩效时，模型1的R2为0.1333，调整后的R2为0.1286，说明调整后的模型1也能够解释各变量之间的相关关系，但是对于原模型1来说，拟合优度有所降低。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.0948242661589058,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7198225025774694,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "同时可以看出，是否实施限制性股票激励Inc与企业绩效ROE的相关系数依然显著为正，值得注意的是，用净资产收益率ROE衡量企业绩效时，解释变量是否实施限制性股票激励Inc与企业绩效ROE的回归系数有所提高，即相比于总资产收益率ROA，实施限制性股票激励更有助于净资产收益率ROE的提升。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.18413590488116388,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "原因可能是ROE作为证监会对公司IPO、增发等行为的重要考核指标，可能会受到公司管理层的修饰。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.1908658587002726,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "总之，根据以上结果，假设1通过了稳健型检验。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "4.4.2 激励强度与企业绩效的稳健性检验",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.245710031191699,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.245710031191699,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "根据模型2，将被解释变量ROA替换成ROE进行稳健性检验，得到的结果如下："
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.31827045518606956,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.31827045518606956,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "表4-8 模型2稳健性检验结果"
+                    }
+                  ]
+                },
+                {
+                  "type": 3,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "table_data": "[['模型2', 'F(5,905)', '', 'Prob＞F', '', 'R2', 'Adj-R2', '', 'Root MSE', '', 'obs'], ['', '27.16', '', '0.0000', '', '0.1305', '0.1257', '', '9.058', '', '911'], ['ROE', '', 'Coefficient', '', 'Std.err.', '', '', 't', '', 'P&gt;|t|', ''], ['Str', '', '0.5012**', '', '0.1946', '', '', '2.58', '', '0.010', ''], ['Asset', '', '0.0062***', '', '0.0008', '', '', '7.30', '', '0.000', ''], ['Lev', '', '-0.054***', '', '0.0208', '', '', '-2.61', '', '0.009', ''], ['Growth', '', '0.0781***', '', '0.0102', '', '', '7.67', '', '0.000', ''], ['Top10', '', '0.0958***', '', '0.0207', '', '', '4.62', '', '0.000', ''], ['_cons', '', '4.1131**', '', '1.5850', '', '', '2.59', '', '0.010', '']]"
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.4829924534339187,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.530613415750399,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "从表4-8中可以得知，用净资产收益率ROE衡量企业绩效时，模型2的R2为0.1305，调整后的R2为0.1257，说明调整后的模型2也能够解释各变量之间的相关关系，但是对于原模型2来说，拟合优度有所降低。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7615131789832472,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "从解释变量的角度看，激励强度Str与企业绩效ROE的相关系数依然显著为正，同样值得注意的是，用净资产收益率ROE衡量企业绩效时，解释变量限制性股票激励强度Str与企业绩效ROE的回归系数有所提高，解释原因与假设1的原因相同，即公司管理层可能会为了通过证监会的考核对ROE进行一定程度的修饰。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.1908658587002726,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "总之，根据以上结果，假设2也通过了稳健型检验。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.4188125931710729,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.21508571563315054,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "综上，从表4-7和表4-8可以看出，对于假设1和假设2的稳健性检验结果与原回归结果基本一致，假设1和假设2解释变量与被解释变量显著正相关的关系不变，且在各变量相关系数的方向上也保持不变。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.20372687753792232,
+                      "selected": false,
+                      "part": [],
+                      "chosen": true,
+                      "text_content": "总体来说，假设1与假设2的回归结果与原结果基本保持一致，表明本文的研究结果具有较高的可信度。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.5 实证过程的回顾与分析",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 2.0203299818859075,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8583333333333334,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在研究设计阶段，本文根据委托代理理论和相关学者的研究成果提出了假设1，限制性股票激励有利于企业绩效的提升；根据激励理论提出了假设2，限制性股票激励强度越强，企业绩效表现越好。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.452142496205619,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "接着本文以主板制造业上市公司为研究对象，根据筛选标准最终确认了168家样本公司，并且一共获取了911组对应公司2016-2021年的相关数据。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7098541523469551,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "之后根据假设1和假设2选取了解释变量是否实施限制性股票激励Inc、激励强度Str和被解释变量总资产收益率ROA，结合相关学者的研究选取企业规模Asset、资本结构Lev、成长性Growth和股权集中度Top10作为控制变量，并建立本文的研究模型，至此，研究设计基本完成。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 3.4660992740034056,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2996392505151453,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "进入到回归分析阶段，本文分别对两个模型进行了回归分析。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1339324623600369,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "从模型的拟合优度来看，模型1的R2为0.2430，模型2的R2为0.2338。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.20174538534326936,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "总体来看，模型1与模型2都能够解释说明各变量之间的相关关系。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5836910443767566,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "但是可以看出两个模型的拟合优度都不是最佳状态，究其原因，本文认为企业的发展是一个极其复杂的过程，大到经济形势、政策环境，小到一份财务数据、员工的一句话，都可能对企业的发展产生巨大的影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5643733870564156,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "同样的，企业绩效也受到多种因素的影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3321578407740433,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "所以本文认为简单的多元线性回归模型只能大体上描绘出解释变量与被解释变量之间的关系，并不能精准的刻画各个阶段解释变量的变化究竟会给被解释变量带来怎样的影响，这也是本文的局限性之处。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7596593292578243,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "但是回到回归结果本身，模型1与模型2的回归结果的确验证了本文两个假设的正确性，即限制性股票激励能够促进企业绩效的提升，激励强度越强，企业绩效表现越好。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5909005743199145,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "并且各控制变量与被解释变量之间的关系也符合普遍认知，比如规模较大且成长性较好的公司一般会有较好的绩效表现，因为这些公司掌握着较多的资源并且有较高的市场认可度；而负债率过高，风险就越大，加剧了企业发展的不稳定性。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "总体来看，研究结果符合预期。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.831087610660076,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.35402217673901115,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "最后，为了增强研究结果的可信度，本文用ROE替换ROA，对两个模型进行稳健性检验。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.10999714208582902,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "从总体上来看，用ROE替代ROA后，模型1与模型2的拟合优度都有所降低。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.15279238756762847,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "但是两个模型中的解释变量与被解释变量之间的相关关系并没有改变，仍然是显著正相关。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.692230436646344,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "值得注意的是，用ROE衡量企业绩效时，两个模型中解释变量的回归系数均有所提高，即相比于总资产收益率ROA，实施限制性股票激励、激励强度越强，更有助于总资产收益率ROE的提升。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.29465300831250646,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "究其原因，本文认为ROE作为证监会对公司IPO、增发等行为的重要考核指标，公司管理层可能会对其进行一定程度的调整以达到修饰的目的，所以才会出现上述差异。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.22739245930875673,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "综上，假设1与假设2都通过了稳健型检验。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7690410392799247,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2851868899243294,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "回顾本文实证部分的研究过程，虽然有一些不足，但是的确是在作者本人现有学术水平的基础上不可避免的问题，然而这些问题的存在，也是作者往后可以改进和提升的地方。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.22504297041995255,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "总体上来看，本文的研究结果符合假设的预期，全部的实证过程也具有一定的严谨性。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.25881117893564276,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "至此，实证过程的回顾与分析基本完成。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "4.1 描述性统计分析",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.40308694899478015,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.40308694899478015,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "为了更直观的了解变量的整体情况，本文进行描述性统计分析，结果如表4-1所示："
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.30776051988639236,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.30776051988639236,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "表4-1 各变量的描述性统计结果（模型1、2）"
+            }
+          ]
+        },
+        {
+          "type": 3,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": true,
+          "table_data": "[['变量', '最大值', '最小值', '平均值', '标准差', '观察值'], ['ROA', '37.18%', '-48.57%', '6.24%', '5.58', '911'], ['ROE', '48.04%', '-82.42%', '10.52%', '9.69', '911'], ['Inc', '1', '0', '0.88', '0.32', '911'], ['Str', '8.53%', '0', '1.85%', '1.57', '911'], ['Asset', '3879.46', '8.31', '147.19', '373.15', '911'], ['Lev', '79.87%', '5.95%', '41.08%', '15.36', '911'], ['Growth', '267.31%', '-73.85%', '20.04%', '29.70', '911'], ['Top10', '87.90%', '17.92%', '54.73%', '14.81', '911']]"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5057355677941578,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.08513889746693677,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "被解释变量ROA代表总资产收益率。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4205966703272211,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "ROA最大值为37.18%，最小值为-48.57%，相差接近86%，可以看出，尽管都是制造业上市公司，但是不同公司之间的获利能力差距较大；ROA均值为6.24%，当一个公司的ROA大于6.24%时，就表明这家公司当年的绩效水平在所选样本公司的平均水平之上。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.5099238441305807,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5472412753261094,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "解释变量Inc代表是否实施限制性股票激励。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.34309636271229416,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "实施的公司赋值为1，宣告激励计划但未实施的样本赋值为0。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6195862060921771,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Inc均值约为0.89，这意味着在2012-2019年间主板制造业公司在通过激励计划后，约有11%的上市公司因为某些原因没有实施限制性股票激励计划。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.9161473570625507,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4149419936515536,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "解释变量Str代表激励强度，即授予股份占公司股本总数的比例。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5012053634109971,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "最大值8.53%，表明某些公司为了实施长效的激励投入相对较大；最小值是0，表示没有实施限制性股票激励。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.3121820688699912,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.01342825509318711,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "控制变量Asset代表资产总额。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.006550181452673502,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "可以看到资产总额最大值为3879.46亿元，最小值为8.31亿元，前者约是后者的468倍。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.2922036323241306,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "尽管样本公司都是制造业公司，但是可能由于每个公司的行业地位或者具体生产的产品性质不同，所以会有上述差异。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.7044225467339602,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0794198371450277,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "控制变量Lev代表资本结构。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6250027095889324,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "最大值约为80%，最小值约为6%，说明不同企业之间的资本结构存在较大的差异；均值约为41%，表明样本公司的平均资产负债率较高。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.23553119087704535,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.014420095492269006,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "控制变量Growth代表主营业务收入增长率。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.22111109538477636,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "最大值为267.31%，最小值为-73.85%，表明样本公司之前的发展前景存在较大差异，出现负值表明在部分公司当年的经营业绩相比往年有所下降，负值较大则表明经营业绩下降较多。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.2483918358766313,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.16907023766401655,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "控制变量Top10表示公司前十大股东持股比例之和。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.00277458543432179,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "Top10最大值为87.90%，最小值为17.92%，均值接近55%。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.2773106940462442,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "说明不同公司之间股权集中度有较大差异，并且样本公司的平均股权集中度较高。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7992363187320487,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "这也侧面反映了部分公司想要通过限制性股票激励来合理分配公司的股权，想要通过优化股权结构提升企业价值。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

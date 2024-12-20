@@ -1,0 +1,4260 @@
+{
+  "title": [],
+  "摘要": [],
+  "研究背景": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究背景",
+        "研究目的"
+      ],
+      "chosen": false,
+      "text_content": "1.1 研究背景与研究问题",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究背景"
+          ],
+          "chosen": false,
+          "text_content": "1.1.1 研究背景",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.423151848909425,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.15482001084554917,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "实现资金的合理配置始终是国家金融行业的重要目标之一，而商业银行作为国内金融行业中的基石，相对而言具有较为全面的业务体系，除了传统的存款、贷款业务外，还有诸如资产管理、投行、担保、支付结算等其他业务。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.028549507270562224,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "此外，银行还具有较为完善的风险控制机制以及信用评级体系。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.42755285855051156,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "作为实现资金融通的中介机构，商业银行的经营状况与盈利水平对国家的资本市场有着重要影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.35330548544323537,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "商业银行开展业务所关注的原则有交易安全与风险规避、资金的流动性水平以及银行业务的盈利能力，而这其中“业务的盈利能力”则是商业银行在经营中追求的首要目标。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4589239867995667,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "因此，在此基础下探究本文题目的两种情形对于商业银行盈利水平的影响具有重要意义。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.7968072924648673,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2481287768463875,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "利率是衡量国家经济的重要指标之一，其对国家经济实现均衡发展以及资源资金的合理配置具有重要导向意义。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3574996369185182,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "利率市场化是指利率的变动主要是取决于市场经济中的供需关系，而中国人民银行只通过运用货币政策等手段来对市场利率进行引导。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.15799767450366026,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "推动实现利率市场化也同样是国家针对金融市场改革的核心举措。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16221817447421016,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "利率本质上是资金的使用成本，利率能否实现市场化，决定了市场上的资金能否实现充分合理地配置。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.23676011284655984,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "近三十年以来，我国也在不断地推动着利率市场化的进程。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3062964428088532,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "我国利率自由化的发展进程可以通过回顾相关政策来梳理，1993年在党的十四届三中全会中，通过了央行可以根据市场对于资金的实际供需情况来调整基准利率的决定，商业银行可以在规定的上下限区间内自主决定存款贷款利率的变动，央行在该会议的三年后放开了同业拆借利率，为利率自由化改革打好了地基；1997年，中国人民银行解除了对银行业内债券回购利率的限制。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.18340570537327627,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "进入二十一世纪后，我国利率自由化的进程开始逐步加速，中国人民银行先后于2005年与2012年对商业银行人民币的贷款利率与存款利率的限制作出了调整。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.14450076869340167,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在2019年时，中国利率市场化迎来了改革进程中重要的一年，在8月中旬，中国人民银行第15号公告宣布将改革中国新增贷款的利率定价方式，正式启用了贷款基础利率（LPR）。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.2992675107918292,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.19048684160586532,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "利率市场化的推进促进了银行业务的转型升级。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.19228566724334822,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "商业银行是以获取收益为首要追求的金融机构，在营收中占据了较大比重的传统业务（即赚取存贷款之间的利差）的利润率遭遇冲击的情况下，银行业内势必会发展和开垦其他业务，并且设法增加这类其他业务在收入中的占比，譬如基金托管业务等。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7105908048117063,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在这种情况下，研究商业银行的各部分利润占比对于分析利率市场化对于银行盈利水平的影响有一定意义。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16560068882180268,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "此外，利率市场化也激化了银行间的竞争，使得各个银行之间的业务变得更加多元。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.04030350830910654,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "银行会在除去赚取存贷利差以外的业务上拓展新的领域以抢占细分市场。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.9385545178804882,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7666949616914618,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "除去利率市场化对于商业银行盈利能力产生的影响，近十年以来互联网金融也迎来了其如火如荼的发展阶段。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.13586810284647566,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "回望其发展历程，以2012年为分界点，在这一年以前，互联网的第三方支付处在蓬勃发展的阶段。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.20392076593083064,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而在这一年往后，随着“互联网金融”这一名词正式被提出，相关领域也进入了实质性发展的阶段。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.20993871714611304,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "以支付宝、微信支付、阿里巴巴、以及各类网络金融平台的兴起为标志，大部分大型互联网企业都先后涉足了金融行业。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.15131503470217322,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "这一趋势的不断发展，对商业银行的传统业务也造成了一定的冲击。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.47081693556343374,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而互联网金融得益于云计算、大数据、人工智能等新技术的诞生，为其在存款、贷款以及中间业务等方面带来传统商业银行所不具有的优势，对银行的业务进行了一定程度的侵占，也对银行的盈利水平等方面造成了一定的打击。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.1110114095086365,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3378972341529902,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "基于上述这些背景与政策的不断发展与推进，银行业内的竞争压力、银行业与其他金融机构的竞争也都在逐渐增大，再加之疫情、国际形势等对宏观经济造成的下行影响，导致商业银行面临更大的风险。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7731141753556463,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而商业银行的获取收益的水平的高低，是其能否应对危机最重要的屏障，银行业的稳定发展也是国家资本市场和宏观经济向好的重要保障，因此，本文在利率市场化、互联网金融的背景下，基于经验证据验证其对商业银行盈利水平的影响。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究目的"
+          ],
+          "chosen": false,
+          "text_content": "1.1.2 研究问题",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.17869194853366643,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.17869194853366643,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "基于1.1.1的背景阐述，本文探讨的研究问题为："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6583626613274746,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6583626613274746,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1）利率市场化进程对于商业银行盈利水平产生的影响"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7198692134432537,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7198692134432537,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在利率市场化的大背景下，银行业为了避免过于依赖单一业务所造成的财务风险，开始不断地调整自身的收入结构，同时也因竞争等因素为自身带来的额外的成本，基于此，本文主要通过探究商业银行的收入来源以阐述二者之间的影响机制，同时通过实证分析验证市场化程度以及其他控制变量对商业银行获取收益水平的影响。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7251980330562284,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7251980330562284,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "2）互联网金融发展对于商业银行盈利水平产生的影响"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.2318718394844188,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4167275204500429,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在互联网金融业务不断发展、网络金融类平台不断诞生的背景下，本文将探究银行业相应会受到的影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.815144319034376,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "互联网金融其作为不同于传统资本市场业务以及商业银行外的第三方金融模式，对于商业银行的经营状况与收获利润的水平会造成一定的影响，因此本文希望能够通过实证研究，验证互联网金融的发展对于商业银行盈利能力造成的影响。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7264348186301051,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7264348186301051,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "3）互联网金融发展对于利率市场化产生的影响"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.0997470718853792,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.36626715457426995,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "随着我国利率市场化进程的不断推进，银行可以对利率进行自行定价。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7334799173111092,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而互联网金融的发展，对银行的业务会造成一定的分流与侵占，进而影响到商业银行对于利率定价的设定，基于此，本文探究利率市场化受到互联网金融的影响。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究目的": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究背景",
+        "研究目的"
+      ],
+      "chosen": false,
+      "text_content": "1.1 研究背景与研究问题",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究背景"
+          ],
+          "chosen": false,
+          "text_content": "1.1.1 研究背景",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.423151848909425,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.15482001084554917,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "实现资金的合理配置始终是国家金融行业的重要目标之一，而商业银行作为国内金融行业中的基石，相对而言具有较为全面的业务体系，除了传统的存款、贷款业务外，还有诸如资产管理、投行、担保、支付结算等其他业务。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.028549507270562224,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "此外，银行还具有较为完善的风险控制机制以及信用评级体系。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.42755285855051156,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "作为实现资金融通的中介机构，商业银行的经营状况与盈利水平对国家的资本市场有着重要影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.35330548544323537,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "商业银行开展业务所关注的原则有交易安全与风险规避、资金的流动性水平以及银行业务的盈利能力，而这其中“业务的盈利能力”则是商业银行在经营中追求的首要目标。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4589239867995667,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "因此，在此基础下探究本文题目的两种情形对于商业银行盈利水平的影响具有重要意义。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.7968072924648673,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2481287768463875,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "利率是衡量国家经济的重要指标之一，其对国家经济实现均衡发展以及资源资金的合理配置具有重要导向意义。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3574996369185182,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "利率市场化是指利率的变动主要是取决于市场经济中的供需关系，而中国人民银行只通过运用货币政策等手段来对市场利率进行引导。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.15799767450366026,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "推动实现利率市场化也同样是国家针对金融市场改革的核心举措。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16221817447421016,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "利率本质上是资金的使用成本，利率能否实现市场化，决定了市场上的资金能否实现充分合理地配置。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.23676011284655984,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "近三十年以来，我国也在不断地推动着利率市场化的进程。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3062964428088532,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "我国利率自由化的发展进程可以通过回顾相关政策来梳理，1993年在党的十四届三中全会中，通过了央行可以根据市场对于资金的实际供需情况来调整基准利率的决定，商业银行可以在规定的上下限区间内自主决定存款贷款利率的变动，央行在该会议的三年后放开了同业拆借利率，为利率自由化改革打好了地基；1997年，中国人民银行解除了对银行业内债券回购利率的限制。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.18340570537327627,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "进入二十一世纪后，我国利率自由化的进程开始逐步加速，中国人民银行先后于2005年与2012年对商业银行人民币的贷款利率与存款利率的限制作出了调整。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.14450076869340167,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在2019年时，中国利率市场化迎来了改革进程中重要的一年，在8月中旬，中国人民银行第15号公告宣布将改革中国新增贷款的利率定价方式，正式启用了贷款基础利率（LPR）。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.2992675107918292,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.19048684160586532,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "利率市场化的推进促进了银行业务的转型升级。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.19228566724334822,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "商业银行是以获取收益为首要追求的金融机构，在营收中占据了较大比重的传统业务（即赚取存贷款之间的利差）的利润率遭遇冲击的情况下，银行业内势必会发展和开垦其他业务，并且设法增加这类其他业务在收入中的占比，譬如基金托管业务等。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7105908048117063,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在这种情况下，研究商业银行的各部分利润占比对于分析利率市场化对于银行盈利水平的影响有一定意义。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16560068882180268,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "此外，利率市场化也激化了银行间的竞争，使得各个银行之间的业务变得更加多元。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.04030350830910654,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "银行会在除去赚取存贷利差以外的业务上拓展新的领域以抢占细分市场。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.9385545178804882,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7666949616914618,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "除去利率市场化对于商业银行盈利能力产生的影响，近十年以来互联网金融也迎来了其如火如荼的发展阶段。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.13586810284647566,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "回望其发展历程，以2012年为分界点，在这一年以前，互联网的第三方支付处在蓬勃发展的阶段。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.20392076593083064,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而在这一年往后，随着“互联网金融”这一名词正式被提出，相关领域也进入了实质性发展的阶段。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.20993871714611304,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "以支付宝、微信支付、阿里巴巴、以及各类网络金融平台的兴起为标志，大部分大型互联网企业都先后涉足了金融行业。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.15131503470217322,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "这一趋势的不断发展，对商业银行的传统业务也造成了一定的冲击。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.47081693556343374,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而互联网金融得益于云计算、大数据、人工智能等新技术的诞生，为其在存款、贷款以及中间业务等方面带来传统商业银行所不具有的优势，对银行的业务进行了一定程度的侵占，也对银行的盈利水平等方面造成了一定的打击。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.1110114095086365,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3378972341529902,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "基于上述这些背景与政策的不断发展与推进，银行业内的竞争压力、银行业与其他金融机构的竞争也都在逐渐增大，再加之疫情、国际形势等对宏观经济造成的下行影响，导致商业银行面临更大的风险。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7731141753556463,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而商业银行的获取收益的水平的高低，是其能否应对危机最重要的屏障，银行业的稳定发展也是国家资本市场和宏观经济向好的重要保障，因此，本文在利率市场化、互联网金融的背景下，基于经验证据验证其对商业银行盈利水平的影响。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究目的"
+          ],
+          "chosen": false,
+          "text_content": "1.1.2 研究问题",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.17869194853366643,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.17869194853366643,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "基于1.1.1的背景阐述，本文探讨的研究问题为："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6583626613274746,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6583626613274746,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1）利率市场化进程对于商业银行盈利水平产生的影响"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7198692134432537,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7198692134432537,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在利率市场化的大背景下，银行业为了避免过于依赖单一业务所造成的财务风险，开始不断地调整自身的收入结构，同时也因竞争等因素为自身带来的额外的成本，基于此，本文主要通过探究商业银行的收入来源以阐述二者之间的影响机制，同时通过实证分析验证市场化程度以及其他控制变量对商业银行获取收益水平的影响。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7251980330562284,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7251980330562284,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "2）互联网金融发展对于商业银行盈利水平产生的影响"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.2318718394844188,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4167275204500429,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在互联网金融业务不断发展、网络金融类平台不断诞生的背景下，本文将探究银行业相应会受到的影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.815144319034376,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "互联网金融其作为不同于传统资本市场业务以及商业银行外的第三方金融模式，对于商业银行的经营状况与收获利润的水平会造成一定的影响，因此本文希望能够通过实证研究，验证互联网金融的发展对于商业银行盈利能力造成的影响。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7264348186301051,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7264348186301051,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "3）互联网金融发展对于利率市场化产生的影响"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.0997470718853792,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.36626715457426995,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "随着我国利率市场化进程的不断推进，银行可以对利率进行自行定价。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7334799173111092,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而互联网金融的发展，对银行的业务会造成一定的分流与侵占，进而影响到商业银行对于利率定价的设定，基于此，本文探究利率市场化受到互联网金融的影响。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究综述": [
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": false,
+      "part": [
+        "研究综述"
+      ],
+      "chosen": false,
+      "text_content": "2  文献综述",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "近两年学界对于利率市场化及互联网金融以及商业银行盈利能力的影响的研究较多，基于此本章对既往研究分为两个小节进行了总结梳理，同时在章末对两类文献进行了述评。"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.1关于互联网金融与利率市场化的研究",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2.1.1 关于利率市场化与互联网金融发展进程的研究",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.9518387910990613,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6953917903726993,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "利率市场化是国家金融经济改革的重要举措，作为本文的研究背景之一，在此节整理归纳了既往学者对于我国利率市场化进程的分析，以及这一举措对于上市商业银行各方面可能带来的影响。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3855402094800352,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "关于我国利率市场化的重要性以及改革的相关进程，既往学者都进行了深入的探讨。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5499651152087155,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "易纲（2021）的研究中介绍了利率在国家资本市场中发挥的重要作用，并阐述了我国利率市场化的主要进程，指出中国人民银行是如何对市场利率进行引导。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3209416760376113,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "程小丽（2021）提出了我国利率市场化的现状，即面临着双轨制向并轨制转型的问题，并通过可贷资金理论对未来进行了建议。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 3.0292805124727558,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6792783155886336,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "而随着互联网金融不断地发展，这一现象对于商业银行会产生一定的影响。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.630731288191261,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "本节归纳整理了既往学者对于我国互联网金融发展的历程以及现状的分析，并在此基础上，阐述了其对商业银行所产生的影响。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.48642208411410004,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在理论的阐述上，谢平和邹传伟（2012）在中国互联网金融发展之初对于其模式进行了探究，将中国的互联网金融规划为支付方式，资金的配置，信息整合三个维度，针对第一个维度，研究认为互联网移动支付会取代传统的刷卡支付方式。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6314793034173407,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Shuai Pu（2020）的研究基于互联网金融时代商业银行之间的业务竞争出发，阐述了互联网金融对银行的影响，主要涉及财务状况、业务模式、服务模式、经营理念和收入来源的影响。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6013695211614206,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "娄陈柳（2022）对我国商业银行的获利水平的现状做了综合分析，对互联网金融发展对商业银行造成的冲击进行了阐述，并给银行提出了一定的意见。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2.1.2 关于利率市场化与互联网金融关系的研究",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.655191157991935,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.15712947623244325,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "既往的研究对于两者之间相关性的探讨主要集中在理论分析上。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6403952078243506,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "从存贷款的角度来分析二者之间的关系，Mo Yixian（2014）认为互联网金融的发展可以对存款进行分流，从而加剧了市场竞争，推动中国利率市场化。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4190461018948002,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "佘松涛（2016）认为互联网贷款业务的出现推进了利率市场化的活动。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4386203720403409,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "马丹妮和朱泓瑾（2015）认为二者之间存在着相互影响的关系，银行在受到互联网发展的冲击后，会提高自身的存款利率以提高储蓄，进而促进了利率市场化。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.6797206176415573,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.2332007810013117,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "从互联网金融产品的角度来分析，龙勇等人（2015）从监管与调控的角度出发，通过实证验证了二者之间的同向变动关系。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4465198366402457,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Qiu Han（2018）的研究发现，金融科技产品凭借其便利性以及高回报率帮助人们获得以市场为基础的收益，本质上也促进了存款利率的市场化。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.8667050028752157,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.8667050028752157,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "也有部分学者基于鲶鱼效应来分析二者之间的关系，Xia Zheng（2015）的研究表明，互联网金融的发展会对利率市场化产生正向影响；杨少芬和吴湧超（2015）在研究中从定价以及风险的角度出发，发现互联网金融打破了资金定价的垄断，以此促进了利率市场化进程。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.7619157571467321,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4995754035396037,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "还有其他学者也对二者的关系做出了研究，张艳（2017）在研究中分析了网络金融与利率市场的关系，并对促进这一进程的相关因素进行了分析。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.2623403536071284,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "覃瑀（2014）的研究认为二者之间存在着相互加强的关系，但同时也认为这种关系只存在于特定发展时期，并不会产生实质的改变。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.2 关于商业银行盈利能力的研究",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2.2.1影响银行盈利能力因素的研究",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.760643630668892,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5909414596037684,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "既往学者在探究影响银行获取利润能力的因素时都进行了分析，选取了不同的被解释变量作为盈利水平的代表。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.20247100919771652,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "研究普遍以ROA作为衡量这一因素的变量。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.2305747408320144,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在选取解释变量上不同的研究也都做了自己的考量。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6876966188638636,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "庄梦蝶（2022）通过实证分析探究了我国商业银行的获利水平，该研究分别针对国家经济层面以及微观银行层面选取了一定的指标，对于因素的考量较为全面细致；顾炜（2020）的研究首先通过对四家大型银行的获得利润的能力进行理论分析，阐述了我国商业银行在收入结构、业务规模等方面的特点，同时也对16家上市银行进行实证研究并构建了评价盈利能力的体系，探究不同指标对于商业银行的影响，在理论层面补充了一定的论证。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0489598021715289,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "但二者的实证研究皆是以截面数据作为样本，因为在时间层面上存在一定的局限性。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 2.0392146838564904,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.21886243774657638,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "同时，银行自身也具有特定的财务指标，包括净利差、不良贷款比例等因素也会影响其收益。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.32386551264599023,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Khalatur等人（2018）针对影响商业银行盈利性的因素进行了研究分析，研究分析了乌克兰商业银行2009-2017年的获利水平，并提出了一种使得银行存款波动性和流动性指标相互作用的机制，这一机制可以改变银行的财务成本。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.47428555721768784,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "谢太峰和孙璐（2019）的研究中探究了这些财务因素和银行获利能力的关系，研究以16家上市商业银行10年间的面板数据作为样本，进行了实证分析。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6595114588526522,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "并对商业银行进行了异质性分类，探究前述的指标对于不同类型的银行的盈利能力的影响。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.36268971739358385,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "王晰等人（2020）的研究表明，商业银行的存贷比与其盈利水平之间存在着非线性关系，并通过实证分析验证了这一非线性关系为倒U形，而不良贷款率在其中充当中介因素。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.886931040150012,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.48552151821899914,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "此外，研究还从其他方面探究对银行的获利水平产生影响的因素。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5437946465289595,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在方法上，何家欢（2020）运用了因子分析法对不同类型银行的盈利水平进行分析，以16家商业银行2018年的截面数据为样本，研究表明国有银行的获利能力要显著高于其他组别，其对异质性的分析也使得研究更加全面。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.41838423172756073,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在影响因素上，石娥和刘方（2021）探究了资产证券化对于银行获取收益的能力的影响，文章先通过理论进行分析，通过设定一定的假设约束，对构造的模型求解偏导，通过符号从数理的角度分析了二者之间的相关性，随后以36家上市商业银行7年间的面板数据，运用双向固定效应模型进行实证分析，得出了二者正相关的结论，以经验证据验证了数理层面得到的结论。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.43923064367449266,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "王紫卓（2021）通过理论和实证的方式探究了影子银行对传统商业银行盈利能力的影响，结果表明二者之间呈现非线性的倒U形的关系。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2.2.2 利率市场化对商业银行盈利能力影响的研究",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 3.0247664347239827,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.42188176200640654,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "针对利率市场化进程对银行获取收益水平的影响，既往学者通过实证进行了研究分析。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7353004090983796,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "付静（2020）在文中阐述了利率市场化的发展对于商业银行传统的存贷利差业务的冲击，并在此基础上对13家商业银行10年的面板数据进行实证分析，其研究表明商业银行盈利能力对存贷比以及国内生产总值增长率的影响不明显，而对其他银行财务指标则有显著相关性。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.710738859340607,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Ranran Cao（2021）分析了在互联网金融以及利率市场化的背景下，商业银行获取收益能力的影响因素，该研究以2013-2019七年间17家银行的面板数据为样本，对其进行了实证分析，探究了二者之间呈负相关关系。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.18999864913853398,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "并且还发现了网络金融会对利率自由化产生推进作用。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5515503718313123,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "吴立力（2018）研究了利率市场化对于我国商业银行收入结构的影响，文章以16家商业银行8年间的面板数据作为样本，结果表明，利率市场化的推进有助于优化我国商业银行的收入结构，而外部的监管、宏观经济水平等也对银行的收入结构有着一定的调控作用。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4152963833087434,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "苏伟（2020）在研究中分析了我国商业银行的收入结构，其认为利息收入占比过高在利率市场化的背景下会增加银行的风险。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.7409585427404722,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3190651034726186,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在研究方法上，王舒军和彭建刚（2014）一文中，对利率市场化指标进行了构建，使其可以被定量进行衡量。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.14068326363014957,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "并通过构建的指数，对银行的信贷渠道进行了实证分析。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.281210175637704,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "韩璟等人（2020）在研究中使用系统广义矩的方法，对2013-2018年间的资产负债规模排名前50的银行的面板数据进行回归分析，验证了利率自由化与银行生息率、付息率相关。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 2.3774581421499104,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5079235811808657,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "还有其他学者对二者之间的关系进行了探究，李星澳等人（2022）研究了在利率市场化的背景下中国人民银行运用货币政策工具对银行获利水平的影响，研究以五个大型国有银行49个季度的面板数据为样本，发现货币政策工具对商业银行的获利水平有显著的负面影响。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6148693224062369,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Xiang Chen（2022）一文探讨了利率自由化对我国商业银行经营绩效的影响，发现利率市场化对商业银行的收益能力有显著负面影响。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.14372983344670065,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "该研究结论可以为中国进一步开放金融市场提供一些参考。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.344433654810288,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Yulin He.（2020）一文中揭露了利率自由化对于商业银行的影响，并指出了传统利率管理体制存在的缺陷和不足。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7665017503058195,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "陈振宇（2021）研究了利率市场化对我国商业银行盈利能力的影响，文章将企业划分为大型国有银行、中型股份银行、小型城市银行三类进行回归，并对该背景下会影响盈利能力的因素分别进行了分析，加入了异质性分析补充了研究的全面性。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2.2.3 互联网金融对商业银行盈利能力影响的研究",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 2.063348700030555,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.16475919739723127,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "对于二者关系的实证分析，既往的研究也非常丰富。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7292087570958498,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "王宇和阚博（2021）研究了互联网金融对于银行收益能力的影响，并分析了这种影响的作用机制，研究以23家商业银行2014-2019六年间的面板数据作为样本，并对银行的利润结构以及所有制做了异质性分析，结果表明互联网金融的发展会对商业银行的盈利能力产生显著的负向影响。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6899384449302602,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "顾海峰和闫君（2019）一文中针对互联网金融对商业银行盈利结构与盈利能力的双重影响做出了探究，研究以125家商业银行2013-2017五年间的面板数据为样本进行了实证分析，分别探究了第三方支付，以及个人对个人网络借款对商业银行的影响，并对银行进行了分组回归。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4794423006072135,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "傅顺和裴平（2022）以2009-2019十一年间36家上市银行的面板数据为样本，实证分析了互联网金融对于商业银行净息差的影响，结果表明二者之间呈现显著负相关关系。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.6799501241223749,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.30969071590722247,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在研究的创新上，郭品和沈悦（2015）在研究中运用了文本挖掘法，通过构建的关键词表，对搜索引擎中的关键词词频进行爬取，在此基础上运用了因子分析法，构建了该研究的核心解释变量—互联网金融发展指数。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5158802290880689,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "以此数据探究其对商业银行风险的影响，并进行了实证分析。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5585419857636978,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "孔凡东（2020）研究了近年来第三方支付平台的兴起对银行的盈利水平造成的影响，文章以2013-2018六年间15家商业银行（包括国有、股份、城市三种组别）为样本进行实证研究，结果表明，“断直连”等政策削弱了第三方支付等对商业银行盈利能力造成的负面影响。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.29583719336338576,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "这一研究考虑了政策带来的影响，使得结果更加严谨。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.3 文献述评",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本章结合本文在1.1.2中所提出的问题，对既往学者的研究归为两大类进行了整理。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.9076971371924658,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.9076971371924658,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "针对我国利率市场化以及互联网金融的研究，我们主要从二者的发展历程与现状进行了梳理，并总结了既往学者对于二者关系的研究，为后文中探究互联网金融可以通过加速利率市场化进而影响商业银行的盈利能力提供了一定的研究支撑。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.1292488608029976,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.40898218754135346,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "针对商业银行盈利能力的研究，我们首先探究了商业银行盈利能力的影响因素，研究普遍认为存贷比、净利差、不良贷款率等财务指标会对其产生影响，并建议我国的商业银行应该扩展自身的业务，增加收入的多样性，以避免对利润造成风险。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7202666732616441,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "此外，针对本文的研究问题，我们归纳总结了利率市场化以及互联网金融对于商业银行盈利能力影响的研究，为后续假设的提出提供一定的依据。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究假设": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究假设"
+      ],
+      "chosen": false,
+      "text_content": "4.1研究假设",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.1.1商业银行盈利水平与利率市场化发展的关系",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4244026210702844,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4244026210702844,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "利率市场化是指金融机构在货币市场经营融资的利率水平是由市场上的供需关系来决定，是中国人民银行将利率的决定权下放给市场的一种举措，而中国人民银行则仅通过货币政策工具等手段来对市场利率产生影响。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5068434188830403,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.08015158086147084,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "商业银行作为银行中的主要类型，其业务主要是存款业务、贷款业务，通过利息差来赚取收入。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.42669183802156946,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在过去很长一段时间内，我国的商业银行的收入结构的绝大部分主要源自于利息，而在利率市场化的大背景下，这样单一的收入结构可能会受到很大的影响，近年来，我国的商业银行的非利息收入占比较以往相比总体呈现上升的趋势。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5892977655958882,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5892977655958882,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "基于第二章对于既往研究的总结，以及第三章对于盈利能力影响机制的分析，本文提出假设："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6405713144343228,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6405713144343228,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "H1：商业银行的盈利水平会受到利率市场化程度的负向影响。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.1.2商业银行盈利水平与互联网金融发展的关系",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6056277588841161,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.36559589725242125,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在互联网金融的不断发展中，我国的商业银行的传统存贷业务受到了一定的冲击。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.24003186163169493,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在第三章的理论分析中，我们了解到互联网金融在一方面可以降低银行对于自身业务的管理力度，这在一定程度上加大了银行的金融风险。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.26773211789316287,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.26773211789316287,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "同时，面对互联网的日新月异的发展，银行也面临着自身新业务的拓展压力，同业之间的竞争也会加剧，根据企业资源有限性理论，这势必会挤占一定的资源。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在第三方支付规模越来越大，投资理财的渠道更加宽泛的情况下，对于原本属于银行的业务产生了挤出。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5984685846620248,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5984685846620248,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "但另一方面，科学技术的发展对于银行的管理等方面也有一定的优势，能够提高经营效率，也带来了新的产业。本文选取的解释变量仅为第三方支付的规模，无法涵盖互联网金融发展所带来的全面影响，因此，我们提出如下假设："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7122023192577909,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7122023192577909,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "H2：商业银行的盈利水平会受到互联网金融发展的负向影响。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.1.3利率市场化对银行盈利能力产生的中介作用",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.4717661056666984,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7112143282959393,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在网络金融的不断发展过程中，对于利率的调整与定价都会产生一定的影响，依据本文在第三章的相关机制分析，互联网金融的发展可以通过分流社会公众的存款，加剧同业间的市场竞争来推动我国利率市场化。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.579711848667316,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而由于鲶鱼效应的存在，互联网金融的介入会激起其他银行的竞争，也使得互联网金融对利率市场化产生正向影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.18083992870344306,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "此外，金融科技产品依靠其买卖的便利性和高收益率等特点使得客户获得以市场为基准的收益，这也在实质上促进了存款利率的市场化。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7130734083075273,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7130734083075273,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "基于上述的分析，我们认为互联网金融除了直接影响商业银行的收益水平外，还在一定程度上通过加速利率市场化进程来实现这一影响，因此，我们提出如下假设："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7964719003018867,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7964719003018867,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "H3：互联网金融发展会促进利率市场化的进程进而影响银行的盈利能力。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "数据与样本": [],
+  "变量定义": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "变量定义",
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "4.2研究设计",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "变量定义"
+          ],
+          "chosen": false,
+          "text_content": "4.2.1变量选取",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.12825024891616268,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.12825024891616268,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1）被解释变量的选取"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.9888611780447789,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4921215704998101,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文主要研究的是商业银行的盈利能力。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2608418182116275,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对于商业银行获利水平这一指标，学界通常会采用全部资产的回报率（ROA）或者股东权益报酬率（ROE）来判断银行盈利能力的水平。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.23589778933334132,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "考虑到股东权益报酬率（ROE）代表的是净资产的收益率，更多的反映了股东的财富所能带来的收益水平，而总资产报酬率（ROA）则反映了企业全部资产的获益水平，不仅包含了权益部分的盈利水平，还包含了负债带来的收益，能更好地反映银行总体的盈利水平。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5923610438175153,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3378477535050014,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "因此，本文选择了平均总资产收益率（ROA）作为验证H1与H2的模型的被解释变量。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.25451329031251385,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在验证H3时，我们选取了利率市场化指数（IR）以及ROA作为探究中介效应的被解释变量。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4018090776591621,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4018090776591621,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "但在后续对实证结果进行稳健性检验时，本文使用了股东权益报酬率（ROE）替换了模型中的被解释变量，对结果进行进一步的验证。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3514561262820677,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2783299586335334,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "净息差（NIM）指的是银行的净利息收入和银行全部生息资产的比值，其本质上也代表了生息资产的收益率，在一定程度上也反映了商业银行的盈利水平，因而也将其作为本文稳健性检验环节时的被解释变量。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.07312616764853432,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "上述的财务数据均来自Wind数据库与银行的年报，IR则来自于附录中的构造。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.06072659361100537,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.06072659361100537,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "2）解释变量的选取"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6962371811575545,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6962371811575545,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文的研究问题为利率市场化以及互联网金融的发展对于商业银行盈利能力产生的影响，基于此，本文的核心解释变量为利率市场化指数（IR）以及互联网金融指数（IF）。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5609346316794052,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5609346316794052,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "其中，利率市场化指数在本文附录中进行了构建，由于评价体系中的部分政策发布于当年年中以及年末，为使其影响更加直观，本文的利率市场化指数选择了较其他变量做了时间差的处理，以反映这一指标对于获利水平的影响。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5113871845290054,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5113871845290054,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而互联网金融指数，则是通过我国的第三方交易的规模来进行量化，虽然互联网金融的业务繁多，品类复杂，但这一数据其在一定程度上代表了我国互联网金融的发展程度，将交易规模取自然对数作为互联网金融指数来进行本文的实证分析，此数据来源于Wind行业数据库以及艾瑞行业报告。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.00966124410175825,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.00966124410175825,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "3）控制变量的选取"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3660175949395027,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3660175949395027,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对于控制变量，根据本文在第二章的综述可以看出，既往学者们对于商业银行获取利润水平的相关研究主要是从宏观微观两个层面来考虑控制因素。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5761975224051012,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.11332201554887654,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在国家宏观经济层面，前人普遍选取了GDP代表宏观经济水平，对该数据取自然对数；选取了CPI作为通货膨胀的考量因素。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.46287550685622475,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "国内生产总值反映国家经济的总体发展水平，在一定程度上控制了宏观层面等因素对银行盈利水平产生的影响。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.0628433505057062,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5515969646956906,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而在银行自身微观层面，根据既往学者在研究中选取的变量，由于银行的体量代表了其市场份额与业务规模，在一定程度上对其盈利能力会造成影响，因而选取银行资产作为控制变量，对该数据取自然对数。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4205896027658279,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "除此以外，贷款与存款的比例反映了传统业务的水平，资本充足率反映了其对于自身风险管控的能力、净利差反映了银行利息收入的水平；这些银行特有的财务指标，也在一定程度上影响着被解释变量，因此也都将其选定为本文的控制变量。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.09065678304418771,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "上述的财务数据均来自Wind数据库与银行的年报。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.13116265565542237,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.13116265565542237,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文涉及的变量汇总如下表所示："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.20019493453136059,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.20019493453136059,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表4.2-1  变量定义表"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['变量类型', '变量名称', '符号', '定义'], ['被解释变量', '总资产收益率', 'ROA', '净利润/资产总额'], ['', '净资产收益率', 'ROE', '净利润/权益总额'], ['', '净息差比', 'NIM', '利息净收入/生息资产平均余额'], ['解释变量', '互联网金融', 'IF', '用第三方交易的规模取自然对数'], ['', '利率市场化指数', 'IR', '利率市场化程度的量化'], ['控制变量', '净利差比', 'NIS', '生息资产收益率—计息负债付息率'], ['', '非利息收入占比', 'NIIR', '非利息收入/总收入'], ['', '不良贷款率', 'NPL', '不良贷款金额/总贷款金额'], ['', '银行规模', 'Size', '银行资产总额的自然对数'], ['', '资本充足率', 'CAR', '资本总额/加权平均风险资产'], ['', '存贷比例', 'LDR', '贷款总额/存款总额'], ['', '国内生产总值', 'GDP', '反映宏观经济水平，取自然对数'], ['', '消费者价格指数', 'CPI', '反映通货膨胀率']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 7.90914368533219e-05,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 7.90914368533219e-05,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "4）样本选择"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5293117769516811,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5293117769516811,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对于样本的选择，本文选取了不同类型的样本，在后续会对其进行分组回归，同时，在时间区间上，选择了新冠肺炎疫情暴发前十年间的数据，一来利率市场化尚未进展到程度较高的层面，占据市场规模大部分的存贷款利率仍在放开的过程中，能体现其发展的进程；二来这十年间互联网高速发展，网络金融的业务与平台也不断的兴起，能够体现出发展的过程。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.1044804814440325,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1044804814440325,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "共三大类18家银行，选取了2010年至2019年10年间的数据。具体内容如下表所示："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.1785252071762642,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1785252071762642,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表4.2-2  研究样本汇总"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['大型银行代表', '中国工商银行、中国农业银行、中国银行、中国建设银行、中国交通银行。'], ['全国股份制银行代表', '招商银行、浦发银行、中信银行、中国光大银行、华夏银行、中国民生银行、兴业银行、平安银行。'], ['城市商业银行代表', '上海银行、北京银行、江苏银行、南京银行、宁波银行。']]"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.2.2模型构建",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.36432753063666967,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.36432753063666967,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "基于上述变量的选取，以及4.1中提出的假设，本文构建以下模型对研究问题进行实证分析："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5984085784939213,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5984085784939213,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1）商业银行盈利水平受利率市场化的影响"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4431783217843372,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.08636269171555122,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "其中i代表银行个体，t代表年份。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.35681563006878597,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "同时，我们还考虑到了银行的异质性，对其进行了分组回归。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5978911072876127,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5978911072876127,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "2）商业银行盈利水平受互联网金融的影响"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4431783217843372,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.08636269171555122,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "其中i代表银行个体，t代表年份。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.35681563006878597,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "同时，我们还考虑到了银行的异质性，对其进行了分组回归。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6779306427377942,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.29535336142860946,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "为了结果的稳健性，本文将使用净资产回报率（ROE）以及净息差比（NIM）来替代被解释变量进行回归检验。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3825772813091847,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "此外，本文使用的是面板数据，为了避免变量内生性因素带来的影响，在稳健性检验中，我们还引入了GMM动态面板模型进行回归分析。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.42059857250625043,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.42059857250625043,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "3）利率市场化对银行盈利能力产生的中介作用"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.2113667583081495,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7232037694197462,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "基于本文的假设三，为了验证互联网金融通过加速利率市场化程度来影响银行的盈利水平，本文提出模型（3）与模型（4）通过对因果进行逐步检验来验证这一效应。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4881629888884034,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "通过（2）来验证互联网金融会抑制商业银行的盈利能力，通过（3）来验证互联网金融会促进利率市场化进程，最后通过（4）来验证二者之间存在部分中介效应。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0886578948636288,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0886578948636288,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "其中i代表银行个体，t代表时间，Xn表示第n个控制变量。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "实证研究类v3"
+          ],
+          "chosen": false,
+          "text_content": "4.2.3 回归方法的选取",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.49633570894968365,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.49633570894968365,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文选取的研究样本为面板数据，对于面板数据的回归分析研究中普遍采用固定效应模型或者随机效应模型，而为了确定本文的研究具体适用于哪种回归方法，需要对二者进行Hausman检验。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3830081242328277,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3830081242328277,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本节对4.2.2中提出的四个模型进行了豪斯曼检验，来确定本文实证回归的模型，检验结果如下表："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0121104595128815,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0121104595128815,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表4.2-3  Hausman检验结果"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['模型', '统计量', 'P值', '结论'], ['（1）', 'Chi2(9 =26.55', '0.0017', '选择固定效应模型'], ['（2）', 'Chi2(9 =29.67', '0.0005', '选择固定效应模型'], ['（3）', 'Chi2(9 =29.30', '0.0039', '选择固定效应模型'], ['（4）', 'Chi2(9 =31.53', '0.0005', '选择固定效应模型']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3391262312967603,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3391262312967603,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从表中可以看出，模型（1）的Hausman检验的P值为0.0017，小于0.01；模型（2）的Hausman检验的P值为0.0005，小于0.01；模型（3）的Hausman检验的P值为0.0039，小于0.01；模型（4）的Hausman检验的P值为0.0005，小于0.01，因此对于本文提出的四个模型均拒绝原假设，使用FE模型进行回归分析。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "检验": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "检验"
+      ],
+      "chosen": false,
+      "text_content": "5.3 稳健性检验",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.2793266109697057,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.2793266109697057,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "为了探究5.2中回归结果的可靠性，在本节我们将进行稳健性检验。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.285767925888581,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.285767925888581,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1）替换被解释变量"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.3866732144574485,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3918304183898821,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "将本文模型（1）与（2）中的被解释变量ROA，替换成ROE以及NIM。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.185222388465841,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "前者反映了银行自有权益部分能够带来的收益水平，而后者则反映了银行的生息资产能够带来的利息收入。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5718326147173773,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "对上述模型进行回归，得到的结果表明利率市场化指数IR以及互联网金融指数IF与替换的被解释变量均在1%的水平中呈现显著的负相关关系，与主回归的结果基本一致，与提出的假设相符。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.2377877928843482,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "基于此，本文认为5.2中的回归结果较为可信。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.14255940174411644,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.14255940174411644,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2）替换研究模型"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.6413516003996251,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6413516003996251,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "考虑到变量的内生性问题，为了避免前一期经营状况对下一期获益能力带来的影响，对于面板数据，我们使用动态模型GMM进行检验，将ROA1（表示提前一期的ROA）作为解释变量加入到原模型中，回归的结果与5.2中主回归的结果基本一致，也与提出的假设相符，基于此，本文认为这一实证结果较为可信。检验结果如下表所示："
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.700212864587616,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.700212864587616,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "表5.3-1  利率市场化对银行盈利能力影响的稳健性检验"
+            }
+          ]
+        },
+        {
+          "type": 3,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "table_data": "[['', 'ROA', 'ROE', 'NIM', 'GMM模型'], ['IR', '-0.7347***', '-15.8898***', '-0.3010*', '-0.5352***'], ['', '-6.05）', '-7.02）', '-1.82）', '-6.36）'], ['ROA1', '', '', '', '0.5659***'], ['', '', '', '', '11.50）'], ['NIIR', '0.0062***', '0.0257', '-0.0039**', '0.0036***'], ['', '4.53）', '1.01）', '-2.09）', '3.94）'], ['NIS', '0.1904***', '2.2493***', '0.8362***', '0.0985***'], ['', '7.55）', '4.79）', '24.40）', '5.24）'], ['SIZE', '-0.2576***', '0.6273', '-0.2765***', '-0.0644'], ['', '-4.92）', '0.64）', '-3.89）', '-1.62）'], ['LDR', '-0.0055***', '-0.1059***', '-0.0012', '-0.0023***'], ['', '-5.66）', '-5.85）', '-0.88）', '-3.16）'], ['CAR', '-0.0122*', '-0.6631***', '-0.0106', '-0.0017'], ['', '-1.84）', '-5.35）', '-1.17）', '-0.36）'], ['GDP', '0.5723***', '1.2571', '0.4826***', '0.2578***'], ['', '7.18）', '0.85）', '4.46）', '3.33）'], ['CPI', '-0.0134*', '-0.1964', '-0.0196**', '0.0155***'], ['', '-1.97）', '-1.55）', '-2.12）', '2.69）'], ['_cons', '-12.7313**', '-2.1738', '-10.4618***', '-6.2895***'], ['', '-6.47）', '-0.06）', '-3.91）', '-3.06）'], ['N', '180', '180', '180', '180'], ['R-sq', '0.7772', '0.8709', '0.9321', '0.9167']]"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.003623916071788363,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.003623916071788363,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "注：括号内为t统计量，其中*** p＜0.01, ** p＜0.05，* p＜0.1."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.7515892124654809,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.27834543586068783,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "对模型（1）的结果进行检验，可以看出选取ROE以及NIM作为替代后，IR与其仍然呈现出负向关系，且均在小于10%的水平下显著。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.23091466810444736,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "而为了解决个体的内生性问题，我们加入了提前一期的ROA做了动态模型的回归，结果表明IR仍然与ROA在1%的水平上显著负相关。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.24232910850034572,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "且其他控制变量的显著性虽然发生了一定程度的改变，但其符号与主回归模型基本一致，三个稳健性模型的R-sq均较高，表明模型的拟合程度较好。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.6996405709808046,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6996405709808046,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "表5.3-2  互联网金融对银行盈利能力影响的稳健性检验"
+            }
+          ]
+        },
+        {
+          "type": 3,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "table_data": "[['', 'ROA', 'ROE', 'NIM', 'GMM模型'], ['IF', '-0.1130***', '-1.5729***', '-0.1041***', '-0.0492***'], ['', '-7.39）', '-4.94）', '-5.13）', '-2.74）'], ['ROA1', '', '', '', '0.5059***'], ['', '', '', '', '9.00）'], ['NIIR', '0.0057***', '0.0171', '-0.0042**', '0.0036***'], ['', '-4.35', '0.63）', '-2.44）', '3.58）'], ['NIS', '0.1561***', '2.0275***', '0.7875***', '0.1029***'], ['', '6.19）', '3.86）', '23.50）', '4.94）'], ['SIZE', '-0.1584***', '1.1998', '-0.1312*', '-0.0665'], ['', '-2.90）', '1.05）', '-1.81）', '-1.45）'], ['LDR', '-0.0032***', '-0.0793***', '0.0013', '-0.0015*'], ['', '-3.22）', '-3.79）', '0.95）', '-1.89）'], ['CAR', '0.003', '-0.4910***', '0.0060', '0.0040'], ['', '-0.43', '-3.43）', '0.66）', '0.73）'], ['GDP', '0.7693***', '3.0221*', '0.7291***', '0.2886***'], ['', '-8.99', '1.70）', '6.42）', '2.96）'], ['CPI', '0.0028', '0.1655', '-0.0137*', '0.0228***'], ['', '-0.48', '1.35）', '-1.75）', '3.71）'], ['_cons', '-20.2734***', '-74.2865', '-19.6010***', '-7.5901***'], ['', '-8.54）', '-1.50）', '-6.22）', '-2.74）'], ['N', '180', '180', '180', '180'], ['R-sq', '0.7965', '0.8529', '0.9407', '0.9011']]"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.003623916071788363,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.003623916071788363,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "注：括号内为t统计量，其中*** p＜0.01, ** p＜0.05，* p＜0.1."
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.7631415809099349,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.27834543586068783,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "对模型（2）的结果进行检验，可以看出选取ROE以及NIM作为替代后，IF与其仍然呈现出负向关系，且均在小于1%的水平下显著。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.23091466810444736,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "而为了解决个体的内生性问题，我们加入了提前一期的ROA做了动态模型的回归，结果表明IF仍然与ROA在1%的水平上显著负相关。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.25388147694479973,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "且其他控制变量的符号与主回归模型基本一致，三个稳健性模型的R-sq均较高，表明模型的拟合程度较好。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "结论与分析": [],
+  "实证研究类v3": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "变量定义",
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "4.2研究设计",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "变量定义"
+          ],
+          "chosen": false,
+          "text_content": "4.2.1变量选取",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.12825024891616268,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.12825024891616268,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1）被解释变量的选取"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.9888611780447789,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4921215704998101,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文主要研究的是商业银行的盈利能力。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2608418182116275,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对于商业银行获利水平这一指标，学界通常会采用全部资产的回报率（ROA）或者股东权益报酬率（ROE）来判断银行盈利能力的水平。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.23589778933334132,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "考虑到股东权益报酬率（ROE）代表的是净资产的收益率，更多的反映了股东的财富所能带来的收益水平，而总资产报酬率（ROA）则反映了企业全部资产的获益水平，不仅包含了权益部分的盈利水平，还包含了负债带来的收益，能更好地反映银行总体的盈利水平。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5923610438175153,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3378477535050014,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "因此，本文选择了平均总资产收益率（ROA）作为验证H1与H2的模型的被解释变量。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.25451329031251385,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在验证H3时，我们选取了利率市场化指数（IR）以及ROA作为探究中介效应的被解释变量。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4018090776591621,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4018090776591621,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "但在后续对实证结果进行稳健性检验时，本文使用了股东权益报酬率（ROE）替换了模型中的被解释变量，对结果进行进一步的验证。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3514561262820677,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2783299586335334,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "净息差（NIM）指的是银行的净利息收入和银行全部生息资产的比值，其本质上也代表了生息资产的收益率，在一定程度上也反映了商业银行的盈利水平，因而也将其作为本文稳健性检验环节时的被解释变量。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.07312616764853432,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "上述的财务数据均来自Wind数据库与银行的年报，IR则来自于附录中的构造。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.06072659361100537,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.06072659361100537,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "2）解释变量的选取"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6962371811575545,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6962371811575545,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文的研究问题为利率市场化以及互联网金融的发展对于商业银行盈利能力产生的影响，基于此，本文的核心解释变量为利率市场化指数（IR）以及互联网金融指数（IF）。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5609346316794052,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5609346316794052,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "其中，利率市场化指数在本文附录中进行了构建，由于评价体系中的部分政策发布于当年年中以及年末，为使其影响更加直观，本文的利率市场化指数选择了较其他变量做了时间差的处理，以反映这一指标对于获利水平的影响。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5113871845290054,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5113871845290054,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而互联网金融指数，则是通过我国的第三方交易的规模来进行量化，虽然互联网金融的业务繁多，品类复杂，但这一数据其在一定程度上代表了我国互联网金融的发展程度，将交易规模取自然对数作为互联网金融指数来进行本文的实证分析，此数据来源于Wind行业数据库以及艾瑞行业报告。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.00966124410175825,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.00966124410175825,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "3）控制变量的选取"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3660175949395027,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3660175949395027,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对于控制变量，根据本文在第二章的综述可以看出，既往学者们对于商业银行获取利润水平的相关研究主要是从宏观微观两个层面来考虑控制因素。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5761975224051012,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.11332201554887654,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在国家宏观经济层面，前人普遍选取了GDP代表宏观经济水平，对该数据取自然对数；选取了CPI作为通货膨胀的考量因素。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.46287550685622475,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "国内生产总值反映国家经济的总体发展水平，在一定程度上控制了宏观层面等因素对银行盈利水平产生的影响。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.0628433505057062,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5515969646956906,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而在银行自身微观层面，根据既往学者在研究中选取的变量，由于银行的体量代表了其市场份额与业务规模，在一定程度上对其盈利能力会造成影响，因而选取银行资产作为控制变量，对该数据取自然对数。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4205896027658279,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "除此以外，贷款与存款的比例反映了传统业务的水平，资本充足率反映了其对于自身风险管控的能力、净利差反映了银行利息收入的水平；这些银行特有的财务指标，也在一定程度上影响着被解释变量，因此也都将其选定为本文的控制变量。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.09065678304418771,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "上述的财务数据均来自Wind数据库与银行的年报。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.13116265565542237,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.13116265565542237,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文涉及的变量汇总如下表所示："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.20019493453136059,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.20019493453136059,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表4.2-1  变量定义表"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['变量类型', '变量名称', '符号', '定义'], ['被解释变量', '总资产收益率', 'ROA', '净利润/资产总额'], ['', '净资产收益率', 'ROE', '净利润/权益总额'], ['', '净息差比', 'NIM', '利息净收入/生息资产平均余额'], ['解释变量', '互联网金融', 'IF', '用第三方交易的规模取自然对数'], ['', '利率市场化指数', 'IR', '利率市场化程度的量化'], ['控制变量', '净利差比', 'NIS', '生息资产收益率—计息负债付息率'], ['', '非利息收入占比', 'NIIR', '非利息收入/总收入'], ['', '不良贷款率', 'NPL', '不良贷款金额/总贷款金额'], ['', '银行规模', 'Size', '银行资产总额的自然对数'], ['', '资本充足率', 'CAR', '资本总额/加权平均风险资产'], ['', '存贷比例', 'LDR', '贷款总额/存款总额'], ['', '国内生产总值', 'GDP', '反映宏观经济水平，取自然对数'], ['', '消费者价格指数', 'CPI', '反映通货膨胀率']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 7.90914368533219e-05,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 7.90914368533219e-05,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "4）样本选择"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5293117769516811,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5293117769516811,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对于样本的选择，本文选取了不同类型的样本，在后续会对其进行分组回归，同时，在时间区间上，选择了新冠肺炎疫情暴发前十年间的数据，一来利率市场化尚未进展到程度较高的层面，占据市场规模大部分的存贷款利率仍在放开的过程中，能体现其发展的进程；二来这十年间互联网高速发展，网络金融的业务与平台也不断的兴起，能够体现出发展的过程。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.1044804814440325,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1044804814440325,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "共三大类18家银行，选取了2010年至2019年10年间的数据。具体内容如下表所示："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.1785252071762642,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1785252071762642,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表4.2-2  研究样本汇总"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['大型银行代表', '中国工商银行、中国农业银行、中国银行、中国建设银行、中国交通银行。'], ['全国股份制银行代表', '招商银行、浦发银行、中信银行、中国光大银行、华夏银行、中国民生银行、兴业银行、平安银行。'], ['城市商业银行代表', '上海银行、北京银行、江苏银行、南京银行、宁波银行。']]"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.2.2模型构建",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.36432753063666967,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.36432753063666967,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "基于上述变量的选取，以及4.1中提出的假设，本文构建以下模型对研究问题进行实证分析："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5984085784939213,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5984085784939213,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1）商业银行盈利水平受利率市场化的影响"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4431783217843372,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.08636269171555122,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "其中i代表银行个体，t代表年份。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.35681563006878597,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "同时，我们还考虑到了银行的异质性，对其进行了分组回归。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5978911072876127,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5978911072876127,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "2）商业银行盈利水平受互联网金融的影响"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4431783217843372,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.08636269171555122,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "其中i代表银行个体，t代表年份。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.35681563006878597,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "同时，我们还考虑到了银行的异质性，对其进行了分组回归。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6779306427377942,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.29535336142860946,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "为了结果的稳健性，本文将使用净资产回报率（ROE）以及净息差比（NIM）来替代被解释变量进行回归检验。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3825772813091847,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "此外，本文使用的是面板数据，为了避免变量内生性因素带来的影响，在稳健性检验中，我们还引入了GMM动态面板模型进行回归分析。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.42059857250625043,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.42059857250625043,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "3）利率市场化对银行盈利能力产生的中介作用"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.2113667583081495,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7232037694197462,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "基于本文的假设三，为了验证互联网金融通过加速利率市场化程度来影响银行的盈利水平，本文提出模型（3）与模型（4）通过对因果进行逐步检验来验证这一效应。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4881629888884034,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "通过（2）来验证互联网金融会抑制商业银行的盈利能力，通过（3）来验证互联网金融会促进利率市场化进程，最后通过（4）来验证二者之间存在部分中介效应。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0886578948636288,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0886578948636288,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "其中i代表银行个体，t代表时间，Xn表示第n个控制变量。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "实证研究类v3"
+          ],
+          "chosen": false,
+          "text_content": "4.2.3 回归方法的选取",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.49633570894968365,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.49633570894968365,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文选取的研究样本为面板数据，对于面板数据的回归分析研究中普遍采用固定效应模型或者随机效应模型，而为了确定本文的研究具体适用于哪种回归方法，需要对二者进行Hausman检验。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3830081242328277,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3830081242328277,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本节对4.2.2中提出的四个模型进行了豪斯曼检验，来确定本文实证回归的模型，检验结果如下表："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0121104595128815,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0121104595128815,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表4.2-3  Hausman检验结果"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['模型', '统计量', 'P值', '结论'], ['（1）', 'Chi2(9 =26.55', '0.0017', '选择固定效应模型'], ['（2）', 'Chi2(9 =29.67', '0.0005', '选择固定效应模型'], ['（3）', 'Chi2(9 =29.30', '0.0039', '选择固定效应模型'], ['（4）', 'Chi2(9 =31.53', '0.0005', '选择固定效应模型']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3391262312967603,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3391262312967603,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从表中可以看出，模型（1）的Hausman检验的P值为0.0017，小于0.01；模型（2）的Hausman检验的P值为0.0005，小于0.01；模型（3）的Hausman检验的P值为0.0039，小于0.01；模型（4）的Hausman检验的P值为0.0005，小于0.01，因此对于本文提出的四个模型均拒绝原假设，使用FE模型进行回归分析。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "5.1描述性统计分析",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.0694531250419614,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.544649973849381,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "通过对本文研究样本的数据进行描述性统计，如表5.1-1所示。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.2072478105075427,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "我们对180个样本数据进行了观测。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3175553406850377,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "从表中我们可以看出，样本银行的ROA均值为1.055%，表明其整体的收益水平较高，而其标准差也较低，表明各个银行之间的波动率较低。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.941659224351844,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3855235925322645,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "对于衡量互联网金融的第三方交易规模的最大值与最小值的倍数也较大，这一明显的随时间波动的变化使得其作为解释变量较为合适，反映了这10年间我国飞速发展的互联网金融产业。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5561356318195795,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "而本文构建的利率市场化指数的均值为0.856分，表明我国的利率市场化以及达到了较高的程度。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.3907239694746568,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3907239694746568,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "表5.1-1  2010-2019年间中国18家商业银行变量描述性统计结果"
+            }
+          ]
+        },
+        {
+          "type": 3,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "table_data": "[['变量', 'N', '均值', '标准差', '最小值', '最大值'], ['ROA', '180', '1.05544', '0.18684', '0.64', '1.47'], ['CAR', '180', '12.7607', '1.53652', '9.88', '17.52'], ['NPL', '180', '1.19806', '0.41201', '0.38', '2.39'], ['LDR', '180', '74.2955', '11.3627', '47.43', '113.05'], ['Size', '180', '10.4795', '1.15901', '7.70298', '12.6152'], ['NIM', '180', '2.33883', '0.39082', '1.25', '3.48'], ['NIS', '180', '2.23172', '0.37638', '1.32', '3.23'], ['NIIR', '180', '23.7941', '9.37896', '5.62', '51.09'], ['IF', '180', '3.0265', '1.8776', '0.0953', '5.5258'], ['ROE', '180', '17.2487', '3.7424', '10.61', '26.65'], ['IR', '180', '0.85551', '0.14723', '0.6518', '1'], ['GDP', '180', '29.9513', '0.25635', '29.4372', '30.2899'], ['CPI', '180', '2.58956', '1.12599', '1.43702', '5.5539']]"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.7227106227106227,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7227106227106227,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "对于其他控制变量的观测值，就非利息收入占比NIIR这一指标而言，最小值与最大值之间相差倍数较大，且其标准差在各项数据中也较高，表示该数据波动较大，说明受到利率市场化与互联网金融发展的影响，为了应对存贷利差收入可能带来的风险，在这10年间我国的收入结构有了较大的改变。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.6213851699271691,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.37989903927019547,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "从标准差可以看出，商业银行的不良贷款率、资本充足率、存贷比率均存在着较大的波动，结合本文在第三章中的分析，表明了商业银行在受到冲击后，其自身的信贷风险也会有波动，对这一风险的管理投入也会发生改变。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.24148613065697355,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "对于本文的被解释变量，标准差相对较小，总体波动不大，并且极差也不大，不存在异常波动的数据。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

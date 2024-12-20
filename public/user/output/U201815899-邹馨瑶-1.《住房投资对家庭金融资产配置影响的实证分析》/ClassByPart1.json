@@ -1,0 +1,3671 @@
+{
+  "title": [],
+  "摘要": [],
+  "研究背景": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究背景",
+        "研究目的"
+      ],
+      "chosen": false,
+      "text_content": "1.1 研究背景和研究意义",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究背景"
+          ],
+          "chosen": false,
+          "text_content": "1.1.1 研究背景",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3580897365084399,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.10253758671503357,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "我国从改革开放后逐步从计划经济走向市场经济的道路，在金融市场方面逐渐形成了多元化多层次的金融市场体系，但在结构、创新、监管等方面仍然存在许多不足。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2555521497934063,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "家庭作为社会的基本单元，同时也是经济运行不可或缺的参与者，几十年来家庭金融素养和收入水平都有了较大的提升，随着资本市场中金融产品的丰富以及近年来金融知识的宣传、智能产品的普及，普通家庭更容易接触到风险性金融产品。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6610504620935235,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2127209281369439,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "但是相比于愈加良好的外部条件而言，家庭参与金融市场的积极性并不高。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4483295339565796,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在CHFS联合广发银行发布的《2018中国家庭财富健康报告》中指出，2017年家庭非金融资产中的住房资产占总资产比重高达77.7%，金融资产仅占11.8%；2019年对中国城镇居民资产负债情况调查中,城镇居民家庭户均总资产317.9万元，家庭资产以非金融资产中的实物资产特别是住房为主，占总资产的70%左右，住房拥有率达到96.0%，金融资产占比20%左右，在金融资产中家庭也更偏向持有现金等无风险金融资产而不是选择股票、基金等风险性金融资产。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.9338212368163099,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.46634917015628197,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "每个家庭都希望积累家庭财富，而在一定的收入约束下，如何进行合理的资产配置以达到家庭财富最大化是一个值得思考的问题。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.46747206666002794,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "家庭资产不仅包括住房、汽车等实物资产，也包括股票在内的金融资产，家庭在购置资产时需要在二者之间进行一定选择，在如今需要面临贷款约束、风险承担、流动性约束等问题。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.8628915121733131,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8628915121733131,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文研究住房投资对家庭金融资产配置的影响，由于中国家庭的传统观念以及近年来房价持续上涨给家庭的预期，住房资产往往作为家庭财富的主要去处，可以在满足家庭住房需求的同时带来资产增值，由于房价的持续上涨，住房在近些年来也会被作为投资品购买。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.4522390915317085,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5365248058174227,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "资产配置最初作为金融理财概念，本指投资者将自己的资金分配在如现金、股票、房产等不同种类的资产上，家庭金融资产配置为其加上限定语，就是对家庭持有的资金在金融资产上进行有效分配，使家庭在能承受的风险范围内获得一定的收益。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.9157142857142858,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "家庭资产规模在不断增加，家庭会利用多余财富进行投资以得到更多收益，而住房和金融资产作为两种投资选择，研究住房资产情况对家庭金融资产配置的影响机制，对于优化家庭资产结构、资产配置多样化、实现家庭收益稳定或增长都有一定参考价值。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究目的"
+          ],
+          "chosen": false,
+          "text_content": "1.1.2 研究意义",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1）理论意义"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.8583763571150134,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4176170002636097,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从理论意义方面来看，我国金融市场仍处于发展完善中，居民家庭投资资产主要分布于银行活期、定期储蓄等低风险低收益的产品中，对于金融性风险资产参与度不高。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5055824375207982,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而关于家庭金融研究的理论方面正处于发展之中，并且在中国传统观念与国外有较大差异的情况下，国外关于住房与家庭金融关系的研究仅能作一定的参考。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.9351769193306054,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "通过对中国本土数据的实证分析，研究住房投资与家庭金融资产配置的关系可以从一定角度解释居民金融市场参与度，分析住房投资对家庭金融资产的影响机制，丰富现有研究成果。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.00016938543751772873,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.00016938543751772873,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "2）现实意义"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 2.756533945757093,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.22072503067160748,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对中国金融市场而言，随着个人投资者的增加，家庭已经逐步成为金融市场不可或缺的一部分。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8475055676431283,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "研究住房投资对家庭金融资产配置的影响，金融机构可以针对家庭投资情况给出受众更广泛的投资组合、针对不同收入和风险态度的人群而给出不同的投资建议提高家庭金融参与的信心从而提高家庭金融市场参与率。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8101468502470923,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "政府坚持“房住不炒”和三稳的方向，研究二者之间的影响，减小住房的投资吸引力，使得家庭进行分散化投资，对资源的有效配置也是有一定意义的。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.878156497195265,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "居民家庭配置过高的房产，需警惕流动性风险，通过实证研究住房投资和其他因素对家庭金融资产配置的影响，有利于对中国家庭资产配置结构提出建议，对未来家庭金融参与作出预期。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究目的": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究背景",
+        "研究目的"
+      ],
+      "chosen": false,
+      "text_content": "1.1 研究背景和研究意义",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究背景"
+          ],
+          "chosen": false,
+          "text_content": "1.1.1 研究背景",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3580897365084399,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.10253758671503357,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "我国从改革开放后逐步从计划经济走向市场经济的道路，在金融市场方面逐渐形成了多元化多层次的金融市场体系，但在结构、创新、监管等方面仍然存在许多不足。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2555521497934063,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "家庭作为社会的基本单元，同时也是经济运行不可或缺的参与者，几十年来家庭金融素养和收入水平都有了较大的提升，随着资本市场中金融产品的丰富以及近年来金融知识的宣传、智能产品的普及，普通家庭更容易接触到风险性金融产品。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6610504620935235,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2127209281369439,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "但是相比于愈加良好的外部条件而言，家庭参与金融市场的积极性并不高。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4483295339565796,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在CHFS联合广发银行发布的《2018中国家庭财富健康报告》中指出，2017年家庭非金融资产中的住房资产占总资产比重高达77.7%，金融资产仅占11.8%；2019年对中国城镇居民资产负债情况调查中,城镇居民家庭户均总资产317.9万元，家庭资产以非金融资产中的实物资产特别是住房为主，占总资产的70%左右，住房拥有率达到96.0%，金融资产占比20%左右，在金融资产中家庭也更偏向持有现金等无风险金融资产而不是选择股票、基金等风险性金融资产。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.9338212368163099,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.46634917015628197,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "每个家庭都希望积累家庭财富，而在一定的收入约束下，如何进行合理的资产配置以达到家庭财富最大化是一个值得思考的问题。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.46747206666002794,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "家庭资产不仅包括住房、汽车等实物资产，也包括股票在内的金融资产，家庭在购置资产时需要在二者之间进行一定选择，在如今需要面临贷款约束、风险承担、流动性约束等问题。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.8628915121733131,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8628915121733131,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文研究住房投资对家庭金融资产配置的影响，由于中国家庭的传统观念以及近年来房价持续上涨给家庭的预期，住房资产往往作为家庭财富的主要去处，可以在满足家庭住房需求的同时带来资产增值，由于房价的持续上涨，住房在近些年来也会被作为投资品购买。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.4522390915317085,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5365248058174227,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "资产配置最初作为金融理财概念，本指投资者将自己的资金分配在如现金、股票、房产等不同种类的资产上，家庭金融资产配置为其加上限定语，就是对家庭持有的资金在金融资产上进行有效分配，使家庭在能承受的风险范围内获得一定的收益。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.9157142857142858,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "家庭资产规模在不断增加，家庭会利用多余财富进行投资以得到更多收益，而住房和金融资产作为两种投资选择，研究住房资产情况对家庭金融资产配置的影响机制，对于优化家庭资产结构、资产配置多样化、实现家庭收益稳定或增长都有一定参考价值。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究目的"
+          ],
+          "chosen": false,
+          "text_content": "1.1.2 研究意义",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1）理论意义"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.8583763571150134,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4176170002636097,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从理论意义方面来看，我国金融市场仍处于发展完善中，居民家庭投资资产主要分布于银行活期、定期储蓄等低风险低收益的产品中，对于金融性风险资产参与度不高。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5055824375207982,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而关于家庭金融研究的理论方面正处于发展之中，并且在中国传统观念与国外有较大差异的情况下，国外关于住房与家庭金融关系的研究仅能作一定的参考。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.9351769193306054,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "通过对中国本土数据的实证分析，研究住房投资与家庭金融资产配置的关系可以从一定角度解释居民金融市场参与度，分析住房投资对家庭金融资产的影响机制，丰富现有研究成果。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.00016938543751772873,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.00016938543751772873,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "2）现实意义"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 2.756533945757093,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.22072503067160748,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对中国金融市场而言，随着个人投资者的增加，家庭已经逐步成为金融市场不可或缺的一部分。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8475055676431283,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "研究住房投资对家庭金融资产配置的影响，金融机构可以针对家庭投资情况给出受众更广泛的投资组合、针对不同收入和风险态度的人群而给出不同的投资建议提高家庭金融参与的信心从而提高家庭金融市场参与率。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8101468502470923,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "政府坚持“房住不炒”和三稳的方向，研究二者之间的影响，减小住房的投资吸引力，使得家庭进行分散化投资，对资源的有效配置也是有一定意义的。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.878156497195265,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "居民家庭配置过高的房产，需警惕流动性风险，通过实证研究住房投资和其他因素对家庭金融资产配置的影响，有利于对中国家庭资产配置结构提出建议，对未来家庭金融参与作出预期。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究综述": [
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": false,
+      "part": [
+        "研究综述"
+      ],
+      "chosen": false,
+      "text_content": "2 文献综述",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "第1章主要介绍本文的选题背景、研究意义、研究思路和研究方法，本章将对国外内研究关于住房投资和其他如家庭收入、个人因素等对家庭金融资产配置影响的文献进行综述，并对现有研究成果进行文献述评，提出本文的研究目的。"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.1 影响家庭金融资产配置的因素",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2.1.1 家庭因素",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.7589799154475372,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7589799154475372,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "有多数学者在研究家庭风险金融资产配置时都会考虑到家庭和个人的一些特征不同，包括家庭收入、文化水平、风险偏好等等。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.043972647748344654,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.043972647748344654,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "1）家庭收入"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.1256001375444113,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4826991597213344,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "舒建平等（2021）研究发现当家庭人均收入在较低水平时，对风险资产占比有明显的抑制作用，人均收入在较高水平时对风险资产占比有明显的促进作用。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.642900977823077,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Park等（2019）在研究中发现家庭收入对家庭金融市场参与有较大的促进作用，更有利于家庭资产结构配置。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.008811400753484711,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.008811400753484711,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "2）人口数量和结构"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.950233022726025,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.475834648173479,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "史桂芬和沈淘（2021）研究发现老年人口占比会对家庭股票持有起负向作用。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7617617869793817,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "吕学梁和马玉洁（2021）研究利用中国2017年家庭财务状况调查资料，以房屋数目为中介，对子女性别与家庭风险资产的关系进行了实证分析，发现有儿子的家庭住房资产挤出效应更明显。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7126365875731642,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Badarinza(2016)认为家庭中人口数量的增多会促进家庭配置更多资产在金融资产上，人口数量增加未来消费会增加，所以家庭更可能会选择获得有一定收益的投资组合。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2.1.2 个人因素",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.17424310941926033,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.17424310941926033,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "1）金融素养和教育水平"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.550717194231869,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.38242031498371226,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "金融素养方面，丁嫚琪和张立（2019）调查发现我国居民的金融素养整体水平较低，金融素养的高低和是否持有金融资产以及持有金融资产种类之间是呈现正相关关系的。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6049932726923238,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Molina和Jarboui（2015）关注金融知识的缺乏对投资组合多元化程度低的影响，投资者的经验、金融知识水平、年龄、他们对可用性启发式的使用、熟悉度偏差和投资组合规模，对包括其投资组合在内的资产的多样性有重大影响。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5633036065558328,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "而Cooper和Zhu（2016）通过生命周期模型进一步研究家庭资产配置和教育水平的关系，较高的教育程度与较低的股票市场进入成本和较大的折扣因子有关。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.1962766794080893,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.1962766794080893,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "2）风险偏好"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.2273427307395361,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7085494667954425,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "风险偏好方面，卢亚娟和殷君瑶（2021）研究结果表明，风险偏好可以促进家庭参与投资金融资产和各种风险性金融资产，风险偏好确实能够推动家庭对金融市场尤其是风险金融市场的参与。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5187932639440936,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Bucciol等（2019）研究个人对财务风险的态度与他们信任他人的意愿以及他们对金融风险的投资之间的联系，风险承受能力更强的人会持有更多的风险性资。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.04506480663458599,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.04506480663458599,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "3）年龄"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.3072225460179903,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.8728361171128451,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "周聪（2021）采用2013CHFS数据从生命周期的视角出发，发现户主年龄对家庭配置投资组合呈倒U型影响，同样王聪等（2017）在研究中发现老年家庭持有低风险资产如房产、银行储蓄更多。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4343864289051451,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Fong等（2021）在研究老年家庭持有财富管理时发现，大多数老年人知道复利和通货膨胀，但知道风险分散、持有股票的老年人并不多。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.2 住房对家庭金融资产配置的影响",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2.2.1 住房资产的财富效应 ",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 2.727980157383398,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5387592843760275,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "住房作为一项占家庭总资产比例达60%以上的资产，住房资产的增值会使得家庭资产大幅增加，家庭可能会因总资产的增加会认为自身抵御风险的能力有所增强,影响到居民家庭的风险偏好态度或投资情绪，从而更可能参与到金融投资中。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3847253180839591,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "陈永伟等（2015）就发现了家庭的金融参与率会因住房资产升值而显著提升，家庭配置风险资产的比例也会增加。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.27913067405117253,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "He等（2019）使用超过20,000个家庭的微观经济数据也发现了同样的结论，即家庭资产财富的增加显著导致家庭参与股票市场和持股增加。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4676766578765136,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "而房价上涨似乎是财富效应的来源，余秋雨和蔡烨（2021）基于2017年CHFS数据,运用回归模型实证分析得出:房价上涨对家庭投资选择的影响机制主要是财富效应和对未来良好的预期,这使得家庭将资金用于风险金融投资的可能性提升。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.1585152789701338,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Campbell和Cocco(2007)的研究内容为英国住房价格变化和家庭支出的相关关系,研究结果显示房价与金融市场支出紧密相关,可预测的正向房价波动对家庭在金融市场上的消费有正向刺激作用。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.37290826165709967,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "还有其他一些研究也包含了住房的财富效应，周建珊（2013）通过建立包含房屋消费的生命周期模型，研究房地产和金融资产对消费的财富效应，得出住房投资会对居民家庭消费产生弱财富效应。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "张光利和刘小元（2018）说明了居民风险偏好程度会随房价上升而提升，从而提高股市参与率。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5262646823684918,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Cardak和Wilkins（2009）在研究家庭投资组合配置决策时，使用了收入和劳动力动态调查，分析结果显示由于住房可以进行抵押贷款，在信用较为发达的国家或地区,拥有房屋资产越多的家庭,越有可能进入风险金融市场投资。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2.2.2 住房资产的挤出效应",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 3.4183093038552483,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6110766855004499,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "部分学者认为住房资产对家庭风险性金融投资具有挤出效应，但持有住房的家庭会在家庭金融资产配置上有更多考量，如吴卫星等（2015）在研究家庭投资组合有效性时发现，房产对家庭其它流动性风险资产投资产生挤出效应，但持有房产的家庭能够配置更有效的投资组合，住房投资对于风险资产投资的“挤出效应”是非线性的（吴卫星，高申玮，2016）。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5521455480443769,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "马征程等（2019）、路晓蒙等（2019）也认为我国家庭住房资产对股票等风险性金融资产投资具有挤出效应，住房不仅降低了家庭进行风险投资的概率,也降低了家庭参与股票和金融投资的深度。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5738231081077383,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "高玉强等（2020）使用建立跨期决策模型的方法，选择2015年CHFS调查数据，也发现了同样的结论，即房屋资产对家庭参与风险市场和金融资产配置比例均存在明显的挤出效应,且受到家庭可支配收入、负债等因素影响。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5438969243006074,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "李凤等（2016）选择CHFS2013、2015两年数据作为研究样本，讨论家庭资产结构，发现作为家庭资产主要构成部分的住房资产投资吸引力不如从前，相较而言金融资产出现了较大增幅，家庭对投资性风险金融资产理财产品的偏好增加，住房资产减少而金融资产增加也能从侧面表示从前住房对风险投资的挤出。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5414950147284671,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Flavin和Yamashita（2002）使用均值-方差模型检验拥有自有住房的家庭的最优投资组合问题，发现住房净值比重随着家庭财富的积累而下降,住房资产占比过高会影响家庭对股票资产的持有。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.22760864337371198,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Heaton和Lucas(2000)发现如果居民拥有了自己的房产，那么住宅资产的不可分割和高交易费用将会降低居民对风险金融资产的投资。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.36826337979989643,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Pelletier等（2019）使用生命周期投资组合分配模型，发现住房投资在整个生命周期内对风险资产的投资具有强烈的挤出效应。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2.2.3 有关住房的其他因素",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 3.1346348016016243,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7386201084429469,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "除了住房本身，一些有关住房的因素对家庭金融投资也会产生影响，段忠东（2021）认为家庭跨期金融决策的最优路径会受到住房的购入成本、租购选择、首付款约束等问题的影响，基于Heckman模型实证研究发现，在一定的家庭净财富水平下,较高的住房价值降低了家庭风险金融投资的参与概率和参与深度，比起多套房家庭，拥有1套房家庭住房资产的挤出效应更强。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.46967955479185536,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "王春瑾和王金安（2017）实证研究了住房负债对家庭风险金融资产有一定的挤出效应。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4543570604150217,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "周弘（2015）结合家庭财务报告进行分析，发现房屋抵押贷款可以通过挤压作用来降低住户的金融资产，并使其占金融资产总额的比例下降，从而对家庭的金融资产配置产生一定的影响。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3426480071384568,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "路晓蒙等（2019）认为住房负债能够抑制住房资产对家庭金融参与的挤出效应,但住房的正规贷款和民间借款对家庭参与股市有相反的影响,正规贷款能够抑制住房的挤出效应，民间借款会增强挤出效应。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.19721637179494267,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Chetty等（2017）通过使用房地产市场之间的房价和住房供应弹性差异作为工具来隔离房屋净值和抵押贷款的外生变化，住房贷款会使家庭减少风险资产持有。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7198501704457906,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "还有学者从其他角度研究家庭金融资产配置的影响因素，徐淑一（2021）从替代效应和流动性约束效应角度分析房价预期对居民家庭风险资产配置的影响发现，第一，不同类型的资产预期收益率、风险以及投资决策者的个人特性都会影响到家庭风险的分配；第二，住房价格预期上升与住房风险金融资产配置存在显著的负相关，其主要表现为替代效应，并且在住房价格预期上升的同时，其负向效应也随之增强，而流动性限制只表现在家庭拥有两套以上住房时，另外，以上的影响机理在城市居民家庭中有很好的解释能力，而在农村地区却没有得到很好的解释。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.21226352857261035,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Arrondel和Savignac（2015）研究发现，住房与股票收益之间没有明显相关性，房主通过替代效应降低股票持有比重。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.045064878649617,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.34864999551530795,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Bhamra和Uppal（2019）研究表明家庭投资组合收益略微减少，社会福利损失会成倍减少，国外微观家庭数据比较完善，国外学者在此基础上对于微观家庭的调查研究已经比较成熟了，我国微观家庭数据近十年才越加丰富，还处于发展完善的进程中。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.696414883134309,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "关于家庭住房投资和家庭金融资产投资之间的关系，学者一部分主张住房投资对家庭金融资产具有挤出效应，一部分学者认为住房投资因住房价值上升而带来的财富效应会增加家庭金融资产投资，也有一部分学者从其他角度分析住房投资对金融资产配置的影响，还有如家庭收入、教育水平、风险态度等因素也会对家庭金融资产配置产生影响，这些因素也将在本课题中作为控制变量以更准确达到本课题的目的。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.8571470373754696,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.8571470373754696,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "中国金融市场正处于迅速发展中，人们获得金融信息的途径增多、金融产品种类不断增加，由于现有文献并未对住房对家庭金融资产配置的影响有一致的结论，本文想要借助CHFS2021年底最新公布的关于2019年家庭微观数据，探究住房投资在家庭资产配置中对风险金融资产配置到底有着怎样的影响，存在何种效应，并就地区、家庭、个人等因素研究它们对住房资产和家庭风险金融资产之间的关系有怎样的影响。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究假设": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究假设"
+      ],
+      "chosen": false,
+      "text_content": "3.1 研究假设",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.193707298932764,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.09431701588735646,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "我国居民家庭对于住房的需求是十分旺盛的，接近90%的家庭都至少拥有一套房，近些年房价的持续上涨也使得有能力的家庭更倾向于持有持有多套房。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.09939028304540756,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "在如今房价居高不下、“房住不炒”理念火热的背景下，家庭的金融资产选择行为和资产配置必然也会有所调整。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.261246237073736,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7134478696190925,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "在理论研究中，住房对家庭金融资产拥有着促进和挤出两种完全相反的作用机制，而根据第2章的文献综述，在以往学者的实证分析中，部分学者实证分析得出住房会因为房价、心理预期等因素呈现财富效应即对家庭配置金融资产起正向作用，而另一部分学者实证分析结果显示住房不仅降低了家庭进行风险投资的概率,也降低了家庭参与股票和金融投资的深度。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5477983674546435,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "为了验证住房对家庭金融配置的影响如何，本文作出如下分析和假设。"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "3.1.1 住房持有情况与家庭风险金融市场参与",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 2.7363956847821056,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.33023988512106284,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "房价上涨住房增值家庭总财富增加，即使流动资金没有增加但可能会使家庭认为自身抵抗风险能力增强，家庭对未来的良好预期使得其将流动资产更多投入到风险资产中（余秋雨，蔡烨，2021）。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.46806801323174313,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "金融市场与房地产行业相关性较弱甚至还有负相联系，如果住房收益与金融资产收益负相关，根据资产配置和分散化效应，持有住房的家庭在面临住房带来的风险时，可能会选择持有风险资产来分散家庭面对的总体风险（段忠东，2021）。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.14162423988812803,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由于使用数据为CHFS2021年底公布的2019年调查数据，在疫情还未爆发的情况下，大多数家庭可能会更在意房价的持续上涨带来的心理预期和风险抵抗能力而较少考虑到需要面临的流动风险和财务风险。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4857997765444063,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "关于持有住房数量不同的家庭，本文参考吴卫星和沈涛等（2014）将单套房家庭界定为消费（刚需）家庭，多套房家庭界定为投资购房家庭。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.12636046657660005,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "相较于多套房持有一套房的家庭更可能存在需要偿还住房贷款的问题，每月固定的收入流出更容易挤出家庭流动资金。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.36289096549539096,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对于多套房家庭，一方面，已经持有一套房满足本身住房需求后家庭仍选择继续购买住房，不考虑极端炒房客的行为，一般来说拥有多套房的家庭财富积累会多于单套房家庭，有资金余额去配置金融资产以形成更优的资产配置。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2086401589782763,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "另一方面，多套房家庭面临房价波动的风险更大，考虑到风险分散的问题，多套房家庭可能会更容易参与到金融市场中。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6127721789464983,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "因此，本文对于住房持有情况对家庭金融资产配置的影响提出假设1和假设2。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5431556249134621,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5431556249134621,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "假设1：持有住房对家庭参与金融市场有正向影响。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5972241545761197,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5972241545761197,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "假设2：购房投资行为对家庭参与金融市场正向影响更显著。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "3.1.2 住房资产比重与家庭风险资产持有比重",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 2.8082584635968133,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5350342585695556,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对于所有家庭，住房作为家庭资产占比中排名首位的资产，肯定会带来一定的财务限制，住房资产比重会直接影响到家庭资金的流动性以及对风险的容忍程度。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4406197295719796,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "住房作为固定资产，当家庭选择购入房产时，会使得家庭流动资产大幅减少，从而挤出包括配置金融资产的其他资金，家庭持有风险资产的比例自然会降低。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.06055818402067137,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而考虑到风险，住房会带来价格波动等背景风险（段忠东，2021）。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2711030357444302,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "出于分散化风险以及优化资产配置的需求，家庭会考虑增加风险资产持有比重以实现风险对冲。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6148576383694904,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "但由于中国大多家庭对于风险是厌恶的，特别是在金融投资上，因此家庭会选择减少风险资产持有比例以规避风险金融资产所带来的附加风险，形成稳健保守的资产组合配置。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.38971034221889,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "无论是刚需住房家庭还是投资购房家庭，对于风险的分散和规避需求都是存在的，都需要承担一定的房价波动以及流动性约束风险。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4963752751017959,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "一般住房资产占家庭总资产的比重较高，且由于大多数家庭对风险是十分厌恶的，本文认为，住房对家庭持有风险资产比重是挤出的，住房资产比重占家庭总资产比重越高，家庭持有风险金融资产的比例越低，因此，提出假设3。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5400888255548645,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5400888255548645,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "假设3：住房资产对家庭风险金融资产持有比重有明显挤出。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "数据与样本": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "数据与样本"
+      ],
+      "chosen": false,
+      "text_content": "3.2 数据与样本处理",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.7769414990315783,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7769414990315783,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本研究使用的主要数据来源于中国家庭金融调查与研究中心（CHFS）最新公开的2019年调查数据，该调查样本覆盖全国29个省（自治区、直辖市），343个区县，1360个村（居）委会，搜集了34643户家庭、107008个家庭成员的信息，该调查数据分为家庭、个人、地区三个数据库，本文将结合者三个数据库进行实证研究。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.7732473327333289,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5931372071155259,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "根据中国家庭金融调查与研究中心（CHFS）对家庭资产的分类，我们将家庭总资产分为了金融资产和非金融资产，其中金融资产包括现金、存款、理财产品、股票、基金、债券、衍生品、非人民资产、黄金、其他金融资产、借出款、社保账户余额。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.180110125617803,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "非金融资产包括农业资产、工商业资产、房屋资产、商铺资产、土地资产、商铺资产、土地资产、车辆资产、车库资产和其他非金融资产。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.3349074574841949,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3349074574841949,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "参考以往文献，本文对数据库进行以下处理，得到有效样本，删除家庭总资产小于0，年总收入、总消费小于0的样本，剔除了一些明显缺失值以及极端异常的样本，考虑到户主年龄，剔除户主年龄低于18岁的家庭。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "变量定义": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "变量定义"
+      ],
+      "chosen": false,
+      "text_content": "3.3 变量说明及描述性统计",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "变量定义"
+          ],
+          "chosen": false,
+          "text_content": "3.2.1 变量说明",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.22698551511120077,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.22698551511120077,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文实证分析所构建的模型采取了以下变量分别作为被解释变量、解释变量以及控制变量。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1）被解释变量"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6415131829629337,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6415131829629337,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "家庭是否参与风险性金融投资，家庭风险性金融资产所占总资产的份额。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7526562564253887,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7526562564253887,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由于股票是家庭所面对的金融资产中风险最大的，且相较于其他风险性金融资产，股票在我国的发展时间最长、更多人知晓，因此我们将家庭是否参与股票市场作为家庭是否参与风险性金融投资的指标，设为虚拟变量，取值为1代表家庭参与风险性金融投资，取值为0则代表不参与，在稳健性检验中将股票、基金、债券作为衡量指标；与选取的衡量指标相对应，被解释变量中家庭风险性金融资产所占总资产的份额以家庭目前持有的股票资产（市值）占家庭总资产的比例为指标，并以此衡量家庭参与金融投资的深度。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0029947642773507995,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0029947642773507995,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "2）解释变量"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3110661027537748,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3110661027537748,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "是否持有住房、是否表现出投资性购房行为、住房资产比重。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.0504692883928533,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4998991080298393,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "关于投资性购房行为，这里指家庭是否拥有两套及以上的住房，住房本身就拥有投资属性，随房价上涨住房资产的市值也随之上涨。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5505701803630141,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在本文的研究中，若家庭购买了除本来居住的一套住房外的其他住房资产，无论用途是出租还是其他，我们就定义该家庭表现出了投资性购房行为。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4370427362143381,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4370427362143381,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "家庭是否持有住房以及是否表现出投资性购房行为是虚拟变量，家庭持有住房以及表现出投资性购房行为则取值为1，否则为0；住房资产比重等于住房资产市值占家庭总资产的比例。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.003931194927719118,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.003931194927719118,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "3）控制变量"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.28221815740334144,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.28221815740334144,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "家庭是否在乡镇居住、是否在东部地区、在哪个级别的城市居住、家庭收入的对数、户主年龄、性别、文化程度、婚姻状况、健康程度、风险偏好程度。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.8658791746732398,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7099523822233695,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "根据查阅的文献资料等确定控制变量，地域方面，选择家庭是否在乡镇、家庭所处城市的级别以及家庭所在地区是否为东部地区；家庭因素方面，考虑家庭总收入，参考其他学者的研究情况，选择家庭总收入的对数作为控制变量更有利于模型；个人因素方面，选择户主（在家庭事物中起决定因素，不一定是户口本上的户主）的年龄、性别、文化程度、风险偏好态度、婚姻状态、健康程度。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.15592679244987026,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "具体模型变量及其含义说明如表3-1所示。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "3.3.2 描述性统计",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3861335617563539,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3861335617563539,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表3-2汇报了关于本文主要变量的描述性统计结果，同时也汇报了有关家庭是否表现出投资性购房行为的分样本统计结果。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.3144348442892393,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5512277107705169,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "根据表3-2描述性统计可以发现，对于总样本来说，持有股票或风险资产的家庭比例均小于10%，风险性金融资产占总资产的比重很低，不过这也是由于持有风险资产的家庭数较少，平均风险资产比重低。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.30766147536977273,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对于地区分布，总样本显示65%的家庭来自城镇，37%的家庭来自东部地区，家庭主要来自二线及以下城市。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2898809553811013,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "家庭平均总资产和总收入分别为114.5和8.6万元，平均住房占总资产比重达到了60%。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1656647027678485,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对于户主而言，户主平均年龄为56岁，性别主要为男性，已婚占到了84.5%，风险偏好程度低。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 2.0394801337749477,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5114501379985978,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表3-2的分样本统计结果显示，在持有风险金融资产方面，两种家庭具有较大差异，有2套房及以上的家庭参与股票市场以及风险金融资产市场的平均参与率以及风险资产比重高于其他家庭，股票市场参与率达到了8%，而风险资产市场参与率达到了13%。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6306343967288806,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "资产方面，投资购房家庭的总资产、总收入以及金融资产都要明显高于其他家庭，同时关于住房资产占总资产比重，其它家庭平均住房资产比重接近60%（包含了无住房家庭），而投资购房家庭达到了72.1%。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4170441531333079,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在地区方面，投资购房家庭有44.4%位于东部，72%位于城镇，城市级别也略高于其他家庭，这可能是由于东部地区以及越发达的城市房价明显高于其他地区。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.48035144591416135,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在户主个人因素方面，投资购房家庭户主年龄略低于其他家庭，户主平均学历也比其他家庭户主略高，户主性别为男性者、已婚状态稍多，风险偏好程度也略高于其他家庭户主。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "变量定义"
+      ],
+      "chosen": false,
+      "text_content": "4.2 稳健性检验",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.2715000428355298,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.2715000428355298,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "为使本文实证分析和构建的Probit、Tobit模型具有更高的可信度，结果更加稳健，这里采取添加变量以及改变被解释变量衡量指标两种方法来进行稳健性检验。"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "变量定义"
+          ],
+          "chosen": false,
+          "text_content": "4.2.1 添加变量——住房贷款",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.3991373481248686,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6585764215911749,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "现有研究表明，家庭持有负债会使得家庭收入结构更加平滑，对家庭跨期消费有正向影响，而在家庭负债中住房贷款一般占据一定比例，一方面由于杠杆效应，家庭持有负债代表家庭可以将更多资金投入到风险金融资产中，另一方面因为负债需要定期偿还，家庭面对风险投资可能会更加谨慎。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7405609265336937,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "其他学者的相关研究也表明，住房贷款对于家庭金融资产配置可能有影响，对于本文实证构建的Probit模型和Tobit模型，添加住房贷款变量进行稳健性检验的办法是可行的。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.23619640979965953,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.23619640979965953,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1）Probit回归——添加住房贷款housedebt"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.23959264334160144,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.23959264334160144,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "添加住房贷款约束后模型见（4-1）和（4-2）。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "              （4-1）"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "              （4-2）"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.8466983779973188,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8466983779973188,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由附表1和附表2的回归结果可以看出，添加家庭是否持有住房贷款变量后的模型（4-1）、模型（4-2），家庭住房持有（houseowner）和投资性购房行为（house_invest）的回归系数依然在1%的水平显著为正，解释变量与被解释变量之间的关系并未发生明显改变，家庭持有住房贷款在仅控制地区或控制地区和家庭收入时对家庭参与金融风险投资有正向影响，关于地区、家庭收入和户主个人因素对家庭金融参与的影响也未发生较大改变，家庭持有住房、投资性购房行为和家庭风险金融参与仍存在明显的正相关关系。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.2193065240856048,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2193065240856048,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Tobit回归——添加住房贷款与总资产比重housedebtratio"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.2882805446310208,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2882805446310208,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "添加住房贷款比重后，模型见（4-3）。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "     （4-3）"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5292195203381911,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5292195203381911,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由附表3的回归结果可以看出，添加住房贷款与总资产比重进入模型（3-3）得到新模型（4-3）后，主要解释变量住房资产比重（houseratio）回归显著且系数正负不变，住房资产对家庭金融资产持有比重的挤出效应仍明显。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.2.2 改变被解释变量衡量指标",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.9619813256921904,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3480705829920888,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在本文原有研究设计中，将股票资产作为衡量风险性金融资产的指标，而现实生活中还有多种风险性金融资产的存在。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6139107427001016,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "根据周广肃等（2018）的研究，他将将风险性金融投资分为狭义和广义，定义狭义风险性金融资产为股票，广义风险性金融资产为股票和基金，这里再结合家庭金融调查与研究中心的数据类型和数据分析后的结果，将基金和债券纳入风险性金融资产的衡量指标，若家庭持有股票、基金或债券三种中任一一种金融资产，就认为家庭参与了风险性金融投资，风险金融资产比重为以上三种资产占总资产的比例。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.34464313728975005,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.34464313728975005,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1）Probit回归——风险性金融资产持有（广义）"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7172888935668134,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7172888935668134,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "被解释变量衡量指标改变后，对模型（3-1）和模型（3-2）重新回归结果见附表4和附表5，结果显示住房持有和投资性购房行为的回归系数与原回归相似，系数为正且在1%水平显著，说明在该样本下扩大风险性金融资产范围，构建的模型依然可行，住房资产对家庭是否参与金融投资有正向影响。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.33556974900806225,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.33556974900806225,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "2）Tobit回归——风险性金融资产比重（广义）"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.8858800473479003,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.33400072577107315,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "将家庭持有的股票、基金、债券的市值总和作为风险性金融资产，再重新进行比重计算用以回归，对模型（3-3）的回归结果见附表6。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5518793215768272,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在改变衡量指标后，解释变量住房资产比重与被解释变量风险性金融资产之间的关系无明显变化，仍是显著负相关，总资产一定时，住房资产对家庭配置风险性金融资产是存在挤出效应的。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "检验": [],
+  "结论与分析": [
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": false,
+      "part": [
+        "结论与分析"
+      ],
+      "chosen": false,
+      "text_content": "5 结论与建议",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "第4章通过Stata软件对相关模型进行回归并对回归结果作了详细分析、稳健性检验和异质性分析，本章将基于第4章的实证分析结果对住房投资和家庭金融资产配置之间的关系作总结，对家庭和个人、政府部门、金融机构提出一些看法，并提出本文研究不足之处。"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "结论与分析"
+          ],
+          "chosen": false,
+          "text_content": "5.1 研究结论",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.8809030654515329,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8809030654515329,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本研究基于CHFS相关家庭金融数据，在实证的主要部分中将股票作为衡量风险性金融资产的指标，从家庭是否参与风险金融投资和持有风险金融资产比重两方面对住房投资对家庭金融资产配置的影响做出总结。"
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "5.1.1家庭风险金融投资参与",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.7061863713864006,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5197400462072987,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "研究结果显示住房资产能提高家庭参与风险性金融投资的可能性，住房资产对家庭风险性金融参与表现明显的财富效应。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.12143532559403904,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "从住房持有的角度来看，持有住房的家庭更可能持有风险性金融资产，一方面由于我国的传统观念，大多数家庭认为住房是必不可少的，持有住房资产能够带给居民家庭心理上的安全感，保障居民家庭的生活，拥有自有住房的家庭相较于无住房家庭而言减少了租金或其他有关住房的支出，减少了需要面临的有关住房的不确定因素。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.06501099958506287,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "另一方面，我国房价在近二十年间一直波动上升，家庭住房资产价值也随房价上升而增长，从而使得家庭总资产增长，这样的财富增长提高了居民家庭应对风险的能力。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.409275012321647,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.409275012321647,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "从投资性购房的角度来看，表现出投资性购房行为的家庭相较于无住房和仅持有一套住房的家庭更可能参与到风险性金融投资中，住房资产带给持有多套房家庭的保障和财富增长更显著，风险应对能力更强，除居住的住房外，其他住房可能会用于房屋出租或银行抵押贷款，增加家庭收入，因此有投资性购房行为的家庭会更多参与到金融市场中。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "5.1.2家庭持有风险金融资产比重",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.8630823606751388,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.266119971284302,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在原有模型中仅以股票为例，证明了住房所占家庭总资产的比重越高对风险性金融资产挤出越明显，在稳健性检验中证明了住房会挤出股票、基金、债券这些风险性金融资产，住房资产对家庭风险性金融资产配置比例有明显的挤出效应。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5969623893908368,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "从住房资产占总资产比例来看，由于家庭住房资产占总资产比重越高，家庭的流动资金可能越少，即使家庭持有住房并参与了风险金融投资，他们的参与深度会受到住房资产比重的影响，同时投资购房家庭的挤出效应没有单套房家庭明显，可能在2019年背景下，家庭对于住房资产的预期是十分良好的。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.43470131598247785,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.43470131598247785,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "同时，家庭所处区域、家庭成员在人口学方面的特征、家庭住房贷款以及家庭收入对家庭金融资产配置的影响也是不可忽视的，所处地区发展程度越高、总收入越高的家庭配置风险金融资产的可能越高，而一家之主的学历越高、风险偏好程度越高的家庭同样。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "5.2 相关建议",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6168547869736176,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.17723989054580402,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "如今我国居民的生活和收入水平都有了比较大的提升，随着经济的增长、法律的完善、科技的进步以及教育的发展，我国的金融市场上也出现了越来越多的金融产品供人们选择以配置资产。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4396148964278136,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "经过调查研究发现，大多数居民家庭资产配置都呈现相似的特点，即住房资产占总资产的比例很高，数据显示我国居民家庭住房持有率已有90%，而金融资产（这里指风险性金融资产）占比却很低，很多家庭甚至不持有股票、基金、债券等金融产品。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.9491884695277736,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.9491884695277736,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文的研究在一定程度上揭示了住房投资对家庭金融资产配置的影响，关于资产配置的合理性不予过多解读，每个人都有不同的衡量指标，若想增加家庭配置金融资产的比例，接下来笔者将从家庭及个人、相关部门、金融机构方面提出一些看法。"
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "5.2.1 家庭及个人",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.25814370196779884,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.25814370196779884,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "家庭在考虑将每月收入余额存入银行活期或购买理财产品或购置其他资产时，大多数家庭没有具体的理论概念，但其实家庭成员在思考每一部分资产的分配时就是在考虑资产配置问题。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.1687165147869716,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5628526664724491,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "若居民家庭希望在能够接受的风险范围内获得一定的收益，家庭成员需要密切关注金融信息和国家相关政策，不要避风险金融资产如豺狼虎豹，也不要盲目跟风投资梦想一夜暴富，及时根据市场调整手中的资产组合，可以主要根据住房比例和风险金融资产比例来调整家庭在金融市场中所需面对的风险达到自己理想的资产配置效果。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6058638483145224,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "由于进入金融市场也存在一定的门槛，家庭成员自身应该有意识地了解金融产品等相关知识、提高金融素养，使其具备正确进行金融资产配置的能力，或寻找专业人士的帮助，获取更合理的投资建议。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "5.2.2 政府相关部门",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.5176928850934005,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.1056989005658042,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "首先关于金融市场，相较于国外，我国金融市场还在继续前进的道路上，需要继续完善相关制度法规，加强市场监管，政府应该担当起监管者的角色，确保金融市场能有序、高效运行。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.41199398452759634,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "相关监管部门要严格考察上市公司的运作及经营能力，增强金融市场有效性，即做到信息披露的及时、公开等，建立有关个体投资者的保护制度，为家庭参与金融投资创造良好的外部条件，避免因信息不对称等原因打击家庭金融参与的积极性，建立投资信心，有助于提高家庭金融参与率。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.3079609876663592,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.15498872388502744,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "对房地产行业，政府相关部门需实时监测房价变动情况，若出现房价波动异常需及时通过出台地方政策或政府干预避免房地产泡沫持续变大。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4358933007702015,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "对住房投资，虽然家庭对于持有住房的观念一时难以改变，但国家应该一直坚持房住不炒政策，保障合理住房需求，在保障首套房刚需的基础上，对多套房购买可以制定有关住房贷款利率、首付款比例相关方面的政策以控制家庭持有过多住房。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7170789630111303,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "由于房价带来住房增值的财富效应小于住房资产占家庭总资产比重过大而带来的挤出效应，家庭金融投资一直受到这样的限制，控制投资性购房行为或许能在一定程度上提高家庭参与金融投资的积极性，从而使得家庭配置风险金融资产比例增加。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "5.2.3 金融机构",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.0229388193882496,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6082459191089604,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "因住房资产对持有家庭金融资产比重的挤出明显，金融机构想要推出比住房资产更吸引家庭投资的金融产品就需要对个体投资者投资心态、投资特点和投资方式等有一定了解，根据不同收入水平、资产水平、个人不同年龄、风险偏好等因素制定多种投资组合。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4146929002792893,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "金融机构应该为想要进入金融市场的个体投资者提供有效的金融信息和投资建议，提升专业能力和素养，同时应该严格考核为家庭提供金融投资建议的工作人员的专业性和道德，避免出现因追求业绩而向投资者隐瞒金融产品风险等相关现象，这也需要健全完善的投诉平台，建立合理的绩效奖励机制，保障投资者的合理需求。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "5.3 不足和展望",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.13108019086941344,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.13108019086941344,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文的研究方法和结论一定程度上具有理论意义和现实意义，但由于种种因素的限制仍然存在局限性。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4869234488588141,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4869234488588141,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "首先关于模型和变量选取，模型建立还有许多未考虑到的因素，如家庭人口结构和其他成员特征等，如果考虑这些变量，由于自身数据处理能力还不足，无法进行多维度分析，希望未来的研究能够考虑更周全。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5526751034235828,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5526751034235828,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "其次，关于自变量，本文将家庭拥有两处以上房产就视作家庭表现出投资性购房行为，划分过于绝对，未考虑到家庭由于人口多的分房或其他原因进行的购置以及首套房就处于投资目的的购房，但想获得具体的数据除了对CHFS问卷增添问题时，在进行实证研究过程中处理数据也会更加困难。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.41102040256958744,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "然后关于数据，本文仅选取了2021年底最新公布的CHFS2019年的数据，即使调查范围已经很大了，问卷信息数据也较为详细，但也存在着一些无法被观测到的方面。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.41102040256958744,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在问卷设计中将金融资产列为家庭所有，风险态度也仅存在于家庭数据库中，本文在选择个人因素时也只选择了有关户主的相关因素，其他成员的数据由于不知如何妥善处理于是只能舍弃，希望有机会的话能建立新的指标完善这样的情况，例如可以调查家庭成员中每一位家庭成员持有的金融资产，根据所占比例衡量家庭成员权重，汇集成新指标，不过这只是一个初步想法，后续还需要进一步完善。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 1.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "最后，本文研究住房投资对家庭金融投资的影响，然而现实情况往往更加复杂，投资决策也不单单仅是被本文模型列举的因素所影响，投资者的投资决定并不是单一理性的，想要深入研究家庭金融资产配置的问题，还需继续完善有关家庭金融的微观数据库，探索影响投资者投资决策的因素、投资者投资的特点等。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "结论与分析"
+      ],
+      "chosen": false,
+      "text_content": "5.1 研究结论",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.8809030654515329,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.8809030654515329,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本研究基于CHFS相关家庭金融数据，在实证的主要部分中将股票作为衡量风险性金融资产的指标，从家庭是否参与风险金融投资和持有风险金融资产比重两方面对住房投资对家庭金融资产配置的影响做出总结。"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "5.1.1家庭风险金融投资参与",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7061863713864006,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5197400462072987,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "研究结果显示住房资产能提高家庭参与风险性金融投资的可能性，住房资产对家庭风险性金融参与表现明显的财富效应。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.12143532559403904,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从住房持有的角度来看，持有住房的家庭更可能持有风险性金融资产，一方面由于我国的传统观念，大多数家庭认为住房是必不可少的，持有住房资产能够带给居民家庭心理上的安全感，保障居民家庭的生活，拥有自有住房的家庭相较于无住房家庭而言减少了租金或其他有关住房的支出，减少了需要面临的有关住房的不确定因素。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.06501099958506287,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "另一方面，我国房价在近二十年间一直波动上升，家庭住房资产价值也随房价上升而增长，从而使得家庭总资产增长，这样的财富增长提高了居民家庭应对风险的能力。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.409275012321647,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.409275012321647,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从投资性购房的角度来看，表现出投资性购房行为的家庭相较于无住房和仅持有一套住房的家庭更可能参与到风险性金融投资中，住房资产带给持有多套房家庭的保障和财富增长更显著，风险应对能力更强，除居住的住房外，其他住房可能会用于房屋出租或银行抵押贷款，增加家庭收入，因此有投资性购房行为的家庭会更多参与到金融市场中。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "5.1.2家庭持有风险金融资产比重",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.8630823606751388,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.266119971284302,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在原有模型中仅以股票为例，证明了住房所占家庭总资产的比重越高对风险性金融资产挤出越明显，在稳健性检验中证明了住房会挤出股票、基金、债券这些风险性金融资产，住房资产对家庭风险性金融资产配置比例有明显的挤出效应。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5969623893908368,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从住房资产占总资产比例来看，由于家庭住房资产占总资产比重越高，家庭的流动资金可能越少，即使家庭持有住房并参与了风险金融投资，他们的参与深度会受到住房资产比重的影响，同时投资购房家庭的挤出效应没有单套房家庭明显，可能在2019年背景下，家庭对于住房资产的预期是十分良好的。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.43470131598247785,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.43470131598247785,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "同时，家庭所处区域、家庭成员在人口学方面的特征、家庭住房贷款以及家庭收入对家庭金融资产配置的影响也是不可忽视的，所处地区发展程度越高、总收入越高的家庭配置风险金融资产的可能越高，而一家之主的学历越高、风险偏好程度越高的家庭同样。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "实证研究类v3": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "4.1 基准回归结果",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "实证研究类v3"
+          ],
+          "chosen": false,
+          "text_content": "4.1.1 住房持有情况与家庭风险性金融资产持有（Probit回归）",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4981097171117982,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4981097171117982,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1）是否持有住房与家庭风险性金融资产持有"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5634449810985678,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5634449810985678,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表4-1为模型（3-1）的Probit回归结果，是关于住房持有对家庭风险性金融资产持有影响的回归，按照控制变量的分类进行三次回归，1列仅控制地域相关变量，2列加入家庭收入变量，3列加入有关户主个人因素的变量。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.788761325519466,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.788761325519466,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对于主要解释变量住房持有，从回归结果来看，三次回归控制地区效应、收入效应、户主因素的情况下，住房持有（houseowner）的系数均为正且在1%的水平上显著，说明家庭持有住房会显著提高家庭持有风险性金融资产的可能，持有住房的家庭在应对风险的能力、需面对的资金压力等方面都优于不持有住房的家庭，因此住房资产体现出住明显的财富效应，住房持有对家庭金融资产配置是有显著正相关影响的。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6307096404408254,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6307096404408254,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对于其他变量，从有关地区的三个变量指标rural、city_level、region_east来看，三次回归结果都在1%的水平上显著，rural和city_level回归系数为负，乡镇家庭比城市家庭持有风险性金融资产的可能低，城市等级越高（取值越小）的家庭持有风险性金融资产的可能越大，region_east系数为正，东部地区家庭持有风险资产的可能性高于其他地区家庭，总的来说越发达地区参与风险性金融投资的可能性越大，越发达地区往往房价高，日常生活中接触到风险性金融投资的机会多以及各方面基础设施都较为完善。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7126103983136586,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7126103983136586,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "有关家庭的收入效应，就2、3列回归结果来看，收入对数（lnincome）的回归系数为正且在1%的水平上显著，说明家庭总收入对家庭是否参与风险性金融投资有正向影响，家庭总收入越高，家庭的流动资产可能就越多，有多余资金的情况下选择持有风险性金融资产的可能越高，这是符合常理的。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6796033845450287,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6796033845450287,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "有关户主的相关控制变量，年龄（age）系数为正在1%的水平上显著，age2系数为负在1%的水平上显著，二者结合来看户主的年龄对家庭是否参与风险投资存在非线性影响，在一定年龄前，随年龄增加户主心智成熟对财富追求更加渴望，家庭参与风险投资的可能性增加，达到一定年龄后，户主开始追求安稳，风险回避意识增强，参与风险投资的可能性降低；性别（gender）在1%水平上显著为正，表明户主为女性时家庭参与风险性金融投资的可能更大，存在性别差异；文化程度（edu）在1%上显著为正，学历和户主的金融素养等有一定关系，户主学历越高家庭参与风险性金融投资的可能更大；关于风险态度（risk），系数为正且在1%水平上显著，风险偏好程度越高家庭参与风险性投资的可能也越大；是否已婚和户主的健康状况在回归中不显著。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5106097066877233,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5106097066877233,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "2）是否投资购房与家庭风险性金融资产持有"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5050819663094163,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5050819663094163,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表4-2为模型（3-2）的Probit回归结果，是关于投资性购房行为对家庭金融参与影响的Probit回归，表中1、2、3列依旧是分别控制地区影响、收入效应和户主因素的回归结果。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7984535133948374,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5078244237137037,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对于解释变量家庭是否表现投资性购房行为，表4-2的回归结果显示，无论是在仅控制地区效应、添加收入效应还是添加其它控制变量的条件下，投资性购房行为（house_invest）在1%的水平上显著为正，说明投资性购房行为对家庭是否持有风险性金融资产有显著的正向影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2906290896811337,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由于本文投资性购房行为,是虚拟变量，取值为0或1，因此回归结果解释为有投资性购房行为的家庭比无投资性购房行为的家庭持有风险性金融资产的可能性更大。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5535546392913505,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5535546392913505,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "与表4-1的回归结果相比，投资性购房行为的回归系数大于住房持有的回归系数，在控制变量相同的情况下，投资性购房行为与家庭是否参与风险性金融投资的相关性更大，主要可能因为有投资性购房行为的家庭总资产和总收入往往大于其他家庭，也可以进行住房抵押获得资金，应对风险的能力更强。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5146815736042988,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5146815736042988,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "控制变量的回归结果与表4-1相似，收入多、发展程度高的地区的家庭更容易参与到风险性金融投资中，有关户主的变量回归结果解释同住房持有与风险性金融资产持有的解释一致。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4461223528889677,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4461223528889677,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表4-1 住房持有与风险性金融资产参与（Probit回归）"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['', '(1)', '(2)', '(3)'], ['', 'risk_asset', 'risk_asset', 'risk_asset'], ['houseowner', '0.321***', '0.217***', '0.145***'], ['', '(0.043)', '(0.046)', '(0.05)'], ['rural', '-1.258***', '-1.087***', '-0.894***'], ['', '(0.063)', '(0.068)', '(0.073)'], ['city_level', '-0.317***', '-0.254***', '-0.249***'], ['', '(0.015)', '(0.017)', '(0.019)'], ['region_east', '0.323***', '0.259***', '0.252***'], ['', '(0.027)', '(0.029)', '(0.032)'], ['lnincome', '', '0.298***', '0.154***'], ['', '', '(0.014)', '(0.015)'], ['age', '', '', '0.09***'], ['', '', '', '(0.007)'], ['age2', '', '', '-0.001***'], ['', '', '', '(0)'], ['gender', '', '', '0.114***'], ['', '', '', '(0.032)'], ['edu', '', '', '0.277***'], ['', '', '', '(0.013)'], ['marry', '', '', '0.018'], ['', '', '', '(0.046)'], ['health', '', '', '0.005'], ['', '', '', '(.017)'], ['risk', '', '', '0.322***'], ['', '', '', '(0.013)'], ['_cons', '-1.266***', '-1.91***', '-5.525***'], ['', '(0.052)', '(0.063)', '(0.23)'], ['Observations', '33344', '33344', '33344'], ['Pseudo R2', '0.163', '0.204', '0.303'], ['（注：*** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1，括号内为标准误）', '', '', '']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.306421144515429,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.306421144515429,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表4-2 投资性购房行为与风险性金融资产持有（Probit回归）"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['', '(1)', '(2)', '(3)'], ['', 'risk_asset', 'risk_asset', 'risk_asset'], ['house_invest', '0.505838***', '0.348495***', '0.253704***'], ['', '(0.028245)', '(0.030517)', '(0.032975)'], ['rural', '-1.2394***', '-1.09162***', '-0.896048***'], ['', '(0.064102)', '(0.068351)', '(0.073165)'], ['city_level', '-0.309085***', '-0.255452***', '-0.249955***'], ['', '(0.015532)', '(0.016737)', '(0.018523)'], ['region_east', '0.310208***', '0.258272***', '0.250964***'], ['', '(0.027494)', '(0.029356)', '(0.031935)'], ['lnincome', '', '0.263579***', '0.132516***'], ['', '', '(0.013992)', '(0.015308)'], ['age', '', '', '0.086714***'], ['', '', '', '(0.007364)'], ['age2', '', '', '-0.000676***'], ['', '', '', '(0.000066)'], ['gender', '', '', '0.114906***'], ['', '', '', '(0.032577)'], ['edu', '', '', '0.273799***'], ['', '', '', '(0.013193)'], ['marry', '', '', '0.020863'], ['', '', '', '(0.045733)'], ['health', '', '', '0.003328'], ['', '', '', '(0.016824)'], ['risk', '', '', '0.317987***'], ['', '', '', '(0.012742)'], ['_cons', '-1.11665***', '-1.72824***', '-5.32573***'], ['', '(0.038578)', '(0.05193)', '(0.230724)'], ['Observations', '33344', '33344', '33344'], ['Pseudo R2', '0.180685', '0.212372', '0.306948'], ['（注：*** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1，括号内为标准误）', '', '', '']]"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.1.2 住房资产比重与家庭风险性金融资产比重（Tobit回归）",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5118335242606642,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5118335242606642,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1）住房资产比重与家庭风险性金融资产比重（总样本）"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6805656082013243,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4485650992789738,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表4-3为模型（3-3）的Tobit回归结果，是有关住房资产比重对风险性金融资产比重的回归。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.23200050892235052,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "和前面回归方式相同，进行三次回归，第一次回归控制地区，第二次回归控制地区和收入效应，第三次回归再添加户主相关变量。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.1240084001766868,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5621722800771921,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对于解释变量住房资产比重对风险性金融资产比重的影响，住房资产比例（houseratio），从回归结果来看，三次回归系数都在1%的水平上显著为负，表明住房资产占总资产的比重越高，家庭参与深度越低，住房资产占总资产比例每增加1%，家庭持有的风险性金融资产比例就会下降0.05%左右。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5618361200994948,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由于住房资产属于固定资产，其占家庭总资产的比例越高，家庭的流动资金越少，可用于风险投资的资金越少，家庭住房资产的高持有比例会显著降低家庭风险性金融资产比重，因此家庭住房资产对风险性金融资产投资存在挤出效应。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5478451978200856,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5478451978200856,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对于控制变量的回归结果，地区方面，rural在1%的水平上显著为负，若家庭处于乡村，则其持有风险性金融投资比例会低于城镇家庭，region_east在1%水平上显著为正，东部家庭持有比例会高于其他地区家庭，city_level系数为负且1%水平上显著，城市越发达家庭持有风险资产的比例越高。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4691452150012081,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4691452150012081,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "关于家庭收入，在仅控制地区和收入效应时，收入的对数（lnincome）在1%的水平上显著为正，此时收入对家庭金融资产参与深度有正向影响，当添加有关户主个人因素的变量后，收入对参与深度的影响仍然显著。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.8188028027589964,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5591387501810411,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对户主个人因素，与Probit回归相似的是年龄（age）在1%水平上显著为正，年龄的平方（age2）的系数在1%水平上显著为负，说明在年龄较小时，随户主年龄增长，家庭持有风险资产比重增加，达到一定年龄后家庭会随年龄增加减少风险性金融资产持有比例，文化程度（edu）和风险态度（risk）的系数也依旧在1%的水平上显著为正，学历越高、风险偏好程度越高会显著提高家庭风险性金融资产持有比重，性别（gender）回归系数仍然显著，在持有风险金融资产比例方面性别差异仍然存在。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.25966405257795533,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "户主是否已婚（marry）和户主身体状况（health）仍不显著，这与一些学者的研究不符合（吴卫星等，2011），可能是选取变量、数据处理或是问卷填写主观性等问题所导致，也有学者指出是因为自评健康指标与学历等变量存在共线性的问题（吴卫星等，2020）。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.47859721944032396,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.47859721944032396,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表4-3 住房资产比重与风险性金融资产比重（Tobit回归）"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['', '(1)', '(2)', '(3)'], ['', 'risk_asset_r', 'risk_asset_r', 'risk_asset_r'], ['houseratio', '-0.041766***', '-0.037245***', '-0.04802***'], ['', '(0.0061)', '(0.005995)', '(0.006208)'], ['rural', '-0.193598***', '-0.156029***', '-0.126192***'], ['', '(0.013141)', '(0.012607)', '(0.012419)'], ['city_level', '-0.043433***', '-0.033648***', '-0.031044***'], ['', '(0.00268)', '(0.002574)', '(0.002631)'], ['region_east', '0.041579***', '0.030188***', '0.02618***'], ['', '(0.004511)', '(0.004349)', '(0.004397)'], ['lnincome', '', '0.03088***', '0.012132***'], ['', '', '(0.002052)', '(0.001974)'], ['age', '', '', '0.011663***'], ['', '', '', '(0.001041)'], ['age2', '', '', '-0.000088***'], ['', '', '', '(9.200e-06)'], ['gender', '', '', '0.013847***'], ['', '', '', '(0.004383)'], ['edu', '', '', '0.032642***'], ['', '', '', '(0.001911)'], ['marry', '', '', '0.006435'], ['', '', '', '(0.006202)'], ['health', '', '', '0.002233'], ['', '', '', '(0.002281)'], ['risk', '', '', '0.037255***'], ['', '', '', '(0.001864)'], ['_cons', '-0.149606***', '-0.210608***', '-0.677182***'], ['', '(0.0083)', '(0.010118)', '(0.035221)'], ['/var(e.risk_asset_~)', '0.021582***', '0.01757***', '0.015202***'], ['', '(0.001002)', '(0.000847)', '(0.000719)'], ['Observations', '33344', '33344', '33344'], ['Pseudo R2', '0.257367', '0.317864', '0.493783'], ['（注：*** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1，括号内为标准误）', '', '', '']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5499445585110071,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5499445585110071,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "2）住房资产比重与家庭风险性金融资产比重（是否投资购房）"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5565799664925865,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5565799664925865,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "为了更好说明投资住房与刚需住房家庭住房资产对家庭风险资产持有比重的挤出效应，剔除不拥有住房的家庭，分组进行Tobit回归，回归结果如表4-4所示。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.058902576405202,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5643012165094623,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "回归结果显示，控制其他变量的情况下总体来看，住房对风险资产持有是呈现挤出效应的，但投资性购房家庭住房资产的挤出效应低于刚需住房家庭，参考前文住房投资对家庭参与的财富效应可以认为，投资购房家庭虽然比刚需住房家庭持有更多房产，但是投资购房家庭的总体风险暴露会小于刚需家庭。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4946013598957398,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "可能是因为2019年疫情未爆发的情况下，住房资产的流动性约束不明显，持有多套房家庭本身，家庭会考虑到住房可以进行抵押以换取流动资金，房价长期上涨的良好预期会使得拥有2套以上住房的家庭比1套房家庭在投资决策上更倾向于风险投资，也可能是因为持有多套住房的家庭本身住房比重高于单套房家庭，在风险金融资产比重较低的情况下，挤出空间较小。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.44277024280815946,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.44277024280815946,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表4-4 住房资产比重与风险性金融资产比重（分组Tobit回归）"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['', '刚需家庭', '投资购房家庭'], ['', 'risk_asset_r', 'risk_asset_r'], ['houseratio', '-0.0725238***', '-0.0446936***'], ['', '（0.0085632）', '（0.0078716）'], ['Conrols', 'YES', 'YES'], ['Observations', '24443', '5686'], ['Pseudo R2', '0.5441', '0.9680']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0010016210854918756,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0010016210854918756,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（注：*** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1，括号内为标准误）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

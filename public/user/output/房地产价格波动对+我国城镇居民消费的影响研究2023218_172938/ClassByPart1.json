@@ -1,0 +1,2606 @@
+{
+  "title": [],
+  "摘要": [],
+  "研究背景": [],
+  "研究目的": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究目的"
+      ],
+      "chosen": false,
+      "text_content": "1.1 选题背景及意义",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "1.1.1 选题背景",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.3681436639355478,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.618884849541813,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "消费是拉动一国经济增长的三大马车之一，发挥着极其重要的作用，国际货币基金组织数据显示，消费增长水平高于经济增长水平，而我国消费增长水平滞后于经济增长水平，国内需求增长速度相对缓慢的现状已然对我国经济发展造成不良影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7492588143937347,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "提高我国居民消费水平是扩大内需的重要途径，根据生命周期理论，居民的收入及财富存量是影响消费的关键因素，财富又可以分为固定资产财富、金融财富、人力资源财富，而房地产价格的不断上涨使得房地产财富在我国城镇居民财富中所占比例愈加重要。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3980351364589005,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3980351364589005,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1998年，我国正式实行住房体制改革，建立住房保障制度。之后，房地产市场进入快速增长阶段，1998年房地产开发累计投资额达到3614亿元，2014年底，房地产投资总额超过95000亿元，城镇居民人均住房面积也由1992年的8平方米扩大到"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.5286220954912113,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "了2014年的30平方米。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3706710192979226,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "房地产产业规模不断扩大，已经逐步发展成为我国国民经济的支柱型产业。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.38709643136729677,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "近年来，房地产价格上涨幅度惊人，过多的非理性投资致使房地产价格居高不下，由房地产过高的价格带来的各种经济社会问题日益突出，引起政府部门的高度重视。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7708546448259919,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "因此，在消费相对不足，房地产价格不断攀升的经济背景下，对房地产价格波动与我国居民消费关系的探究尤显重要。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究目的"
+          ],
+          "chosen": false,
+          "text_content": "1.1.2 研究意义",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "3",
+              "score": 0.0,
+              "selected": true,
+              "part": [
+                "研究目的"
+              ],
+              "chosen": false,
+              "text_content": "1. 理论意义",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.7622704597403018,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.39928690286226975,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "学者们采用不同的方法由远及近地研究了各个时期的房地产市场，得出的结论有所差异，一致看法始终没有形成。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6781727037768764,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "一种观点侧重房地产市场的财富效应，即由于房地产价格上涨，使得住房所有者的财富增加，从而带动城镇居民消费支出增加，最终促进我国整体经济的增长。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6848108531011557,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "另一种观点强调房地产市场的挤出效应，认为由于居民收入增长速度低于房价的增长速度，购房者的购房行为必然会增加储蓄、减少其他消费的支出，从而形成房价的过快增长对私人消费产生挤出效应，阻碍我国经济持续高速增长。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "1"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.868016776764317,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.005299006729473792,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "的重视，至今未形成统一的定论。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.8627177700348432,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "近年来，我国房地产市场繁荣发展，成为固定资产财富的支柱型产业，探究房地产价格对城镇居民消费的影响关系，剖析房地产市场与拉动我国消费需求之间的内在联系有其重要的理论意义，为政府制定相应政策提供理论支持，使得房地产行业更好地为经济发展服务。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "3",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2. 现实意义",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 2.5546536154805337,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6719258527223821,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "房地产市场的繁荣发展推动我国经济发展的同时，也带来了许多经济与社会问题。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.43763074409644653,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "第一，房地产需求增加与房地产价格不断高涨的现状催生了大量的投机购房行为，土地可用数量的减少抬高了土地供给价格，需求增加与供给减少的双重作用下，房地产价格不断被推高，而不断增加的住房刚性需求进一步维持房地产价格居高不下，非理性的房地产价格决定机制由此形成。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.1215016200269545,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "第二，过高的房价使真正以自用居住为目的的购房者面临更大的困难，社会贫富差距愈加拉大，两极分化问题日益深化。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4741284154799134,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "第三，房地产的高额利润吸引了更多的房地产开发商，为争夺土地使用权，出现强拆强买等一系列的社会问题，影响社会的安定团结，不利于经济的稳定增长。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.8494669831548373,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "因此，通过深入研究房地产价格波动与城镇居民消费之间的关系，可以为政府优化房地产市场环境，稳定经济持续发展提供相应的政策建议。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究综述": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究综述"
+      ],
+      "chosen": false,
+      "text_content": "1.2 文献综述",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究综述"
+          ],
+          "chosen": false,
+          "text_content": "1.2.1 国外研究现状",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.34534949942267723,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.34534949942267723,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1.国外研究现状"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.49740265944849027,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.49740265944849027,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "国外房地产市场早在20世纪80年代后就已发展成熟，国外文献对于房地产市场与居民消费之间关系的研究相对较早，研究方向主要集中在早期对于消费函数的研究以及后期房地产价格对居民消费影响的研究。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4138519482420626,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4138519482420626,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "理论研究较为全面之后，学者纷纷开始对房地产价格波动影响居民消费的现状进行实证研究。影响房地产价格波动的因素有很多，如经济波动周期（Bates and Santerre，"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.2955048031154992,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.011470552612343697,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "2015）[1]、股票资产的变动（Anderson and Beracha, 2012）[2]、投资者、业主居住者、利益相关者的决策（Bozorgi, 2015[3]; Huszár, et al., 2013[4]; Kadiyali, et al., 2014[5]）、房屋位置绿化面积（Myung-Jin, 2011）[6]等。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2840342505031555,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由于研究学者所处地域经济条件不同，消费文化存在差异，以及建立不同的实证模型，采用多样的研究方法及数据选取，对于两者关系，学者们得出了不同的结论，主要分为以下两种。"
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "3",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（1）房地产价格波动与居民消费变化成正比例关系",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "2"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.3198221623448262,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3198221623448262,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "第一种研究结果表明房地产价格波动与居民消费变化成正比例关系。Rouwendal"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.5560203804231165,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5560203804231165,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "（2009）研究了荷兰房地产市场，认为在消费者全部生命周期中，住房是最重要的消费之一，并且随着年龄的增加，住房消费愈加重要[7]；Calcagno and Fornero（2009）研究了意大利房地产变化对家庭消费的影响，从年龄较大居住者的家庭和年轻人的家庭两个不同对象进行分析，发现在年龄较大居住者的家庭房价变动对消费的影响更加显著，总体而言，无论是对租房者还是房主来说，上涨的房价刺激了居民消费增长[8]；Miller and Sklarz（2011）使用美国1980至2008年间的数据实证研究了房价对当地城市生产总值的影响，发现房价对GMP发展变化有显著的作用[9]。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.513047170030667,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.513047170030667,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Anderson and Beracha（2012）在分析中考虑股票定价因素，实证研究股票价格是否影响房地产价格发挥带动居民消费的作用，结果表明居民消费受当地房地产价格波动的影响，继而影响股票定价[10]；Dreger（2012）探究了15个工业化国家中私人消费与收入、资产财富的关系，从长远来看大致符合生命周期理论，横向比较发现房地产比股票更能带动消费的正增长[11]；Hardin（2012）认为财富组合影响消费作用明显，财富组成中不同构成比例的股票资产与房屋产权对消费的作用不同[12]；Singh"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.24615309510445726,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.24615309510445726,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "（2012）认为股票市场财富对消费不会有长久影响，因而股票财富不会在长期内影响"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.16951913445247535,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.16951913445247535,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "消费变化[13]；Simo-Kengne，et al（.  2014）运用参数向量自回归的方法估计了美国1890"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.3782100887020816,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3782100887020816,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "至2012年住房增长率和股票收益对消费的相对影响，发现一般住房价格上涨对消费产生积极影响，而股票收益对消费产生消极影响[14]；Beatrice and Kengne（2015）通过对住房资产和股票资产的比较，发现房地产的回报率一般为正，即房地产价格对居民消费的财富效应显著[15]。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "3",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（2）房地产价格波动对居民消费影响微小",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.6052212333612268,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6052212333612268,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Poterba（2000）研究发现对于已经拥有房地产资产的消费者而言，即使房地产资产的增值，居民的消费支出也不一定会受到影响，这是因为住房所有者希望将房屋留给下一代，而不会因其增值将房产抵押或卖出[16]；Sinai, Uleles（2005）也认为消费者的消费决策不会受到房地产价格的影响，但他的分析理由为即使房地产价格变动，但实际上并不存在明显的财富效应或替代效应[17]；Park and Bahng（2010）对韩国房地产市场进行了考察，实证研究发现，尽管韩国采取一系列措施稳定房地产价格，房地产价格的变化对消费影响作用并不显著[18]。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "1.2.2 国内研究现状",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "3"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4328850118150076,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4328850118150076,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "我国房地产市场住房体制改革实行较晚，前期关于房地产市场的研究不足，随着房地产市场的逐步繁荣发展，房地产的价格波动问题引起学者们的广泛重视，取得了一系列的研究成果。"
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "3",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1. 房地产市场价格影响因素",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.17314919798262235,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.17314919798262235,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "现实生活中，有许多造成房地产价格不规律波动的因素，如宏观经济因素、人口因素、地理环境因素、居民收入因素、心理因素、周边交通状况、建筑风格等，本文认为较为主要的因素包括以下几种："
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.5172434412527447,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5172434412527447,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "（1）经济因素。胡晓（2010）从房地产的两面性出发进行研究，认为我国目前较大的收入差距是房地产价格上升的重要因素[19]；唐根年、韩方娟、陈多长（2010）认为房地产价格上涨主要是基于与投资扩张间形成的正反馈机制所致，而并非由于迅速增长的房地产需求推动[20]；苏扬（2012）通过实证检验发现，房地产税与房地产价格存在正相关关系，房地产税的征收推高了房地产价格[21]；闫金秋（2012）通过实证分析得出，引起房地产价格波动的因素有很多，且呈现正比例关系，比如银行信贷、"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.4873477863392144,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4873477863392144,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "GDP增长速度、通货膨胀率、城市化水平等[22]；李文洁、诸彦含（2013）研究了整个经济面的信息对房地产价格的影响作用，得到结论，市场基础因素对房地产价格的解释力较弱，而宏观经济因素变量总体显著性较高，居民消费价格指数、城市总人口、城镇居民家庭人均可支配收入均与房地产价格呈显著正相关关系[23]。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.6580642126904875,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.07805913244308449,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "（2）政府因素。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.580005080247403,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "陈继勇、袁威、肖卫国（2013）实证分析了1998-2011年房地产价格的流动性特征及其对宏观经济的影响，说明政府货币政策干预的必要性[24]；安辉、王瑞东（2013）采用2002年至2011年十年的季度数据，通过构建向量自回归模型进行研究，结果表明：目前我国房地产价格走势超出经济预估，不完全符合于经济发展规律，出台房地产调控政策势在必行[25]；张莹（2015）从货币政策角度分析了利率对于房地产价格的重要影响因素[26]。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.7002605774172075,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.09089244368503886,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "（3）社会因素。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.2616228146820141,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "除市场因素以外，社会环境氛围也会造成房地产价格的变动。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.03573918750989716,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "近年来，外来人口到城市打工定居现象逐年增多，增加了房屋需求量。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.31200613154025736,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "贾洪文、颜咏华、白媛媛（2012）考虑到人口迁移问题，将人口变动变量加入面板实证估计，得出结论，房地产价格因人口迁入而上涨，因人口迁出而下跌，且因迁入地区不同影响强弱程度存在着差异性[27]。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "3",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2. 房地产价格的财富效应",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.1649629265665165,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.1649629265665165,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "王子龙、许箫迪、徐浩然（2008）认为房地产价格上涨对居民消费有正向拉动作"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "4"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.47819834007963524,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.47819834007963524,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "用，就我国1996至2007年的数据检验分析，结果表明经济增长和居民收入增加增强了房地产价格上涨对居民消费的财富作用，并做出预期，无论从长期还是短期分析，我国房地产价格波动都会对居民消费带来财富效应[28]；原鹏飞、魏巍贤（2010）构建一般均衡模型研究了宏观部门经济，认为房地产价格上涨对经济增长具有拉动作用"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.22822618925214888,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.22822618925214888,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "[29]；罗文波、张祖国、苏多永（2009）认为我国资产市场存在一定的财富效应，但是"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.7036316780705659,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7036316780705659,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "效果很微弱，而股票市场财富效应迅速，房地产市场的财富效应滞后且持久[30]；李成武、李婷（2010）基于全国范围进行研究，发现房地产市场不能对消费带来正向拉动作用，主要呈现出负向财富效应[31]；陶然（2010）认为在房地产市场中财富效应的作用尚未显现[32]；王柏杰、何炼成、郭立宏（2011）将财富分为房地产财富和非房地产财富，实证证明存在房地产财富消费效应，且长期财富效应大于短期财富效应[33]；王轶君、赵宇（2011）运用条件均值方法对房地产价格与消费之间的关系进行估计分析，得出结论，当房价的涨幅超过2%时，房地产价格的滞后四期对消费有显著负效应[34]；李涛、陈斌开（2014）区分比较生产性固定资产与非生产性资产对居民消费的影响，认为住房价格上涨对刺激居民消费收效甚微，不存在财富效应[35]。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "3",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "3. 房地产价格波动对居民消费影响的估计分析",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.6855668450398851,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6855668450398851,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "况伟大（2010）将消费者预期与投机性行为考虑在内，改善了基础住房存量调整模型，据此进行估计分析，得出结论，在影响房地产价格的因素中，利率的变化影响效果最为显著，收入的作用次之，开发成本带来较小影响，并且，人口增长速度较快的城市，房价波动随之变大[36]；张亚丽、梁云芳、高铁梅（2011）使用动态面板广义距进行建模，发现预期人均实际收入和预期房地产收益率是房价持续快速上涨及波动的主要因素[37]；杨俊杰（2012）将消费者投资决策引入RBC模型来分析房地产价格波动对宏观经济波动的作用机制，检验结果表明房地产价格上升可拉动投资，减少消费[38]；谢洁玉等（2012）研究发现房价上涨抑制了消费，且以家中有无未婚男性为区别，影响程度不同[39]；李勇刚、高波、张鹏（2013）研究了土地供应、房价与居民消费三者间的变动关系，认为土地供应增多将使房地产价格下降，与之相反，土地供应量减少推高了房地产价格，呈反向变动关系，房价对居民消费的影响显著为正，在不同的时间与地区，房地产财富效应也存在差异[40]；王猛、李勇刚、王有鑫（2013）从全国及区域两个层次出发构建联立方程模型研究地方财政和房地产价格波动对城乡消费差距的影响，结果表明：地方财政与房价波动间存在相互作用，"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "5"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.20676427120118426,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.20676427120118426,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "互为拉动作用，地区财政政策和房价上涨拉大了城市乡村之间的消费差距，其作用强度存在显著的区域差异，不同的地区作用强度不同[41]。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "1.2.3 国内外文献评述",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.036134965698537976,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.036134965698537976,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "以上国内外学者们的研究结果，大致可以分为三类："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 2.5929139978502747,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2457736691635887,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "第一，房地产价格波动与居民消费变动方向一致。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.39154498439513064,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "房地产价格的上涨引起房产持有者财富的增加，提升消费者对于未来经济的预期，进而提高消费的水平。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2336491543419701,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由此，对于房产持有者而言，房地产价格的上涨能够提髙他们的整体财富水平。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4404280058590868,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "第二，房地产价格波动对居民消费产生负向影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.41081406228241324,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "房地产价格的提高对于准备购房的消费者而言，需要增加储蓄，减少其他消费支出，同时，对于租房者而言，租赁成本上升，也迫使他们减少其他消费支出，这就是房地产价格波动的挤出效应。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3929810124988993,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "第三，房地产价格波动不能显著影响居民消费。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4777231093091856,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "当房地产价格波动对居民消费的财富效应及挤出效应同时存在的时候，两种效应互相抵消，表现出房地产价格波动对居民消费影响不显著的特征。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.15199879660339344,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.15199879660339344,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对于已有文献的研究，存在以下几点可以加以改善："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.9238997901430033,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.06751743991798115,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "第一，实证估计分析中时间跨度不够长。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.49661412442797553,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "大部分国内外学者研究认为由于房地产市场的快速发展对居民消费影响产生正向作用，一部分学者则研究表明两者之间存在负向作用，一小部分学者认为房地产价格波动对城镇居民的消费的影响既有正面影响也有负面影响，并会同时发生，发生共同作用。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3597682257970466,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "事实上，根据价格理论分析可以知道，房地产价格波动与居民消费之间呈倒U形的关系，即房地产价格上涨先推动居民消费的提高，上涨到某个程度时，就开始对城镇居民的消费起到一定的抑制作用。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.9157596752647593,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.29179881526855217,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "第二，房地产价格波动与居民消费的区域异质性没有得到充分的研究。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2999645989011628,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "大部分学者从全国的视角研究房地产价格波动与居民消费的关系，也有些学者选取某些特定区域进行研究。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3239962610950443,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而将全国层面的研究与地区研究进行比较的研究的文献少之又少，不能充分体现房地产价格波动与居民消费关系的区域异质性。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究假设": [],
+  "数据与样本": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "数据与样本",
+        "变量定义"
+      ],
+      "chosen": false,
+      "text_content": "4.2 数据选取及变量说明",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.8132974200724706,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.26962988829816914,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "考虑数据的可得性和时效性，本章采用的数据为我国31省市2000~2014年期间的省际面板数据。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5436675317743015,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "实证研究所涉及的变量有城镇居民人均全年消费性支出、城镇居民人均居住消费支出、城镇居民家庭人均家庭设备及用品消费支出、城镇居民人均可支配收入、房地产开发企业商品房销售价格、利率、抚养系数。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.6174697131600817,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6174697131600817,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "的各省市城镇居民消费价格指数消除了各年份价格因素影响（对2000至2014年以上"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "25"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.49105047923328266,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.49105047923328266,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "一年为基期的各省市CPI值进行平减，得到消除价格因素影响的各变量实际值）。"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "3",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "（1）城镇居民消费支出、城镇居民居住外消费、城镇居民居住消费",
+          "children": []
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.9441349796159446,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.8734693877551021,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "消费是问题研究中的必备变量，在消费指标的选择上，本文研究房地产价格变动对消费的总量影响及结构向影响，因此分别采用城镇居民人均消费性支出、城镇居民居住外消费支出和城镇居民居住消费支出作为被解释变量进行研究。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.38712846575449905,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "城镇居民居住外消费支出由城镇居民人均全年消费性支出减去城镇居民人均居住消费支出、城镇居民家庭人均家庭设备及用品消费支出计算得来。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.13056614459559943,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "城镇居民人均全年消费性支出即调查户用于本家庭日常生活的全部支出，包括食品、衣着、居住、家庭设备用品及服务、医疗保健、交通和通信、教育文化娱乐服务、其他商品和服务八大类等。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.2986704824812613,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "居住消费支出指用于各种与居住有关的支出，包括住房、水、电、燃料方面的支出。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.24245699222002573,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "家庭设备及用品消费支出指用于家庭各类日用消费品及家庭服务的支出。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.011843506809456892,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "包括日用耐用消费品、室内装饰品、床上用品、家庭日用杂品、家具、家庭服务。"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "3",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "（2）城镇居民可支配收入",
+          "children": []
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.6964142576636096,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.39589660253931913,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "收入是制约消费者消费最主要的因素，收入的高低将直接限制消费者的消费能力。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.21176943644143892,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "在对收入指标的选择上，大多数学者一致的选择使用城镇居民可支配收入进行表示，即居民家庭可以用来自由支配的收入。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.08874821868285163,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "它是家庭总收入扣除交纳的个人所得税、个人交纳的社会保障支出以及调查户的记账补贴后的收入。"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "3",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "（3）房地产开发企业商品房销售价格",
+          "children": []
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.7174713782089992,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.39520543769024974,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "房地产开发企业商品房销售价格是由房地产开发企业商品房销售额/房地产开发企业商品房销售面积计算得来，用以表示房地产价格。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3222659405187495,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "房地产开发企业商品房销售额与房地产开发企业商品房销售面积数据均由中经网得到。"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "3",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "（4）实际利率",
+          "children": []
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.46932247181618464,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.25350385540852005,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "各省市每年的实际利率由名义利率减去各省市对应年份的城镇居民消费价格指数计算得出。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.2158186164076646,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "某些年份，央行根据经济运行情况对名义利率进行多次调整，以不同利率水平在该年内执行的月数作为权数计算出的平均名义利率作为该年名义利率。"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "3",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "（5）抚养系数",
+          "children": []
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.11749795136024364,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.035243518068238666,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "总抚养比也称总负担系数，指人口总体中非劳动年龄人口数与劳动年龄人口数之比，说明每100名劳动年龄人口大致要负担多少名非劳动年龄人口。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.08225443329200498,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "抚养系数越大说明劳动人口占比越小，非劳动人口占比越大，经济负担加重，闲置投资资金减少。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "26"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "变量定义": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "数据与样本",
+        "变量定义"
+      ],
+      "chosen": false,
+      "text_content": "4.2 数据选取及变量说明",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.8132974200724706,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.26962988829816914,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "考虑数据的可得性和时效性，本章采用的数据为我国31省市2000~2014年期间的省际面板数据。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5436675317743015,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "实证研究所涉及的变量有城镇居民人均全年消费性支出、城镇居民人均居住消费支出、城镇居民家庭人均家庭设备及用品消费支出、城镇居民人均可支配收入、房地产开发企业商品房销售价格、利率、抚养系数。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.6174697131600817,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6174697131600817,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "的各省市城镇居民消费价格指数消除了各年份价格因素影响（对2000至2014年以上"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "25"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.49105047923328266,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.49105047923328266,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "一年为基期的各省市CPI值进行平减，得到消除价格因素影响的各变量实际值）。"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "3",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "（1）城镇居民消费支出、城镇居民居住外消费、城镇居民居住消费",
+          "children": []
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.9441349796159446,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.8734693877551021,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "消费是问题研究中的必备变量，在消费指标的选择上，本文研究房地产价格变动对消费的总量影响及结构向影响，因此分别采用城镇居民人均消费性支出、城镇居民居住外消费支出和城镇居民居住消费支出作为被解释变量进行研究。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.38712846575449905,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "城镇居民居住外消费支出由城镇居民人均全年消费性支出减去城镇居民人均居住消费支出、城镇居民家庭人均家庭设备及用品消费支出计算得来。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.13056614459559943,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "城镇居民人均全年消费性支出即调查户用于本家庭日常生活的全部支出，包括食品、衣着、居住、家庭设备用品及服务、医疗保健、交通和通信、教育文化娱乐服务、其他商品和服务八大类等。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.2986704824812613,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "居住消费支出指用于各种与居住有关的支出，包括住房、水、电、燃料方面的支出。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.24245699222002573,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "家庭设备及用品消费支出指用于家庭各类日用消费品及家庭服务的支出。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.011843506809456892,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "包括日用耐用消费品、室内装饰品、床上用品、家庭日用杂品、家具、家庭服务。"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "3",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "（2）城镇居民可支配收入",
+          "children": []
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.6964142576636096,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.39589660253931913,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "收入是制约消费者消费最主要的因素，收入的高低将直接限制消费者的消费能力。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.21176943644143892,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "在对收入指标的选择上，大多数学者一致的选择使用城镇居民可支配收入进行表示，即居民家庭可以用来自由支配的收入。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.08874821868285163,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "它是家庭总收入扣除交纳的个人所得税、个人交纳的社会保障支出以及调查户的记账补贴后的收入。"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "3",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "（3）房地产开发企业商品房销售价格",
+          "children": []
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.7174713782089992,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.39520543769024974,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "房地产开发企业商品房销售价格是由房地产开发企业商品房销售额/房地产开发企业商品房销售面积计算得来，用以表示房地产价格。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3222659405187495,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "房地产开发企业商品房销售额与房地产开发企业商品房销售面积数据均由中经网得到。"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "3",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "（4）实际利率",
+          "children": []
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.46932247181618464,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.25350385540852005,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "各省市每年的实际利率由名义利率减去各省市对应年份的城镇居民消费价格指数计算得出。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.2158186164076646,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "某些年份，央行根据经济运行情况对名义利率进行多次调整，以不同利率水平在该年内执行的月数作为权数计算出的平均名义利率作为该年名义利率。"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "3",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "（5）抚养系数",
+          "children": []
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.11749795136024364,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.035243518068238666,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "总抚养比也称总负担系数，指人口总体中非劳动年龄人口数与劳动年龄人口数之比，说明每100名劳动年龄人口大致要负担多少名非劳动年龄人口。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.08225443329200498,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "抚养系数越大说明劳动人口占比越小，非劳动人口占比越大，经济负担加重，闲置投资资金减少。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "26"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "检验": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "检验",
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "4.3 数据描述及平稳性检验",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "实证研究类v3"
+          ],
+          "chosen": false,
+          "text_content": "4.3.1 描述性分析",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.4908078698662814,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8482758620689655,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "各变量经处理后的数据特征如表4-1所示，图4-1直观展现了城镇居民可支配收入、城镇居民消费性支出、城镇居民居住外消费支出、城镇居民居住消费支出及房地产开发企业商品房销售价格2000~2014年整体变化趋势。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6425320077973159,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由图中可以看出，十五年来收入、消费及房价均成持续增长趋势，且收入始终高于消费与房地产价格，房地产价格处于居住外消费与居住消费之间。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.06111817630359167,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.06111817630359167,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表4-1  变量基本特征描述"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['', '变量', '含义', '样本数', '单位', '平均值', '最大值', '最小值', '标准差', ''], ['', 'n y', '收入', '465', '元', '8.9010', '9.9096', '8.2606', '0.2869', ''], ['', 'n c', '消费', '465', '元', '9.1441', '10.4683', '8.1952', '0.4840', ''], ['', 'n c1', '居住外消费', '465', '元', '8.4038', '9.1684', '7.8524', '0.2628', ''], ['', 'n c2', '居住消费', '465', '元', '6.3246', '8.3603', '5.4366', '0.3707', ''], ['', 'lnhp', '房价', '465', '元/平方米', '7.4733', '9.1281', '6.6908', '0.4417', ''], ['', 'lnr', '利率', '465', '—', '1.1605', '1.5966', '0.0198', '0.2146', ''], ['', 'lndr', '抚养系数', '465', '—', '3.6118', '4.0535', '2.9601', '0.2004', '']]"
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "rId": "rId64"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4093007449118343,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4093007449118343,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "图4-1  收入、消费及房价变化趋势：2000~2014"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "检验"
+          ],
+          "chosen": false,
+          "text_content": "4.3.2 单位根检验",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "27"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5608018805373438,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5608018805373438,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "为避免出现伪回归问题，在进行模型估计分析前对各变量进行单位根检验。面板单位根检验一般包括同质检验与异质检验两类，其中同质检验主要采用LLC检验"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.18423807658156494,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.18423807658156494,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（Levin、Lin and Chu, 1992）[42]，异质检验主要采用IPS检验（Im、Pesaran and Shin，"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4668361445183077,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.43585179283690384,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1997）[43]，因此本文采用相同根单位根检验LLC检验和不同根单位根检验IPS检验两种方式对数据平稳性进行检验。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.030984351681403833,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "具体检验结果见表4-2。"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['变量', '水平序列值', '', '一阶差分序列值', '结论'], ['', 'LLC', 'IPS', 'LLCIPS', ''], ['lny', '0.5593', '3.6664', '-8.1385***-6.9357 ***', 'I(1)'], ['ln c', '2.2250', '10.6427', '-17.4719***-14.3119***', 'I(1)'], ['ln c1', '-2.5119***', '-0.6172', '-3.7361***-5.4801***', 'I(1)'], ['ln c2', '4.6424', '1.7452', '-2.0034**-7.8014 ***', 'I(1)'], ['lnhp', '-1.3116***', '0.9890***', '-12.1246***-9.8494***', 'I(1)'], ['lnr', '-9.4012***', '-7.4588***', '-23.1099***-17.3905***', 'I(1)'], ['lndr', '-4.6989***', '-2.1622***', '-12.4358***-9.9842***', 'I(1)']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.21181391579931433,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.21181391579931433,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表4-2  面板数据的单位根检验"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.25273931728607957,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16809460369001233,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "附注1：***，**，*分别表示在1%，5%，10%显著性水平下拒绝存在单位根假设。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.08464471359606722,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "附注2：I（n）表示序列经n阶差分后平稳。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.005326049515938867,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.005326049515938867,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "附注3：滞后阶数由AIC准则确定。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.321707126895162,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.321707126895162,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由表4-2可以看出，检验结果显示各变量一阶差分统计量均通过1%的显著性水平下LLC检验及IPS检验，说明所有变量的一阶差分为平稳序列，变量同阶单整，均为I（1），可以进行下一步的协整检验。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.3.3 协整检验",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4879256610485354,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4879256610485354,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "为检验各变量之间是否存在长期稳定的均衡关系，避免伪回归问题的出现，对变量进行协整检验，Kao检验（Kao, 1999）结果呈现在实证分析结果表中，可以看出，变量间存在长期稳定的协整关系，可以进行回归估计。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "结论与分析": [],
+  "实证研究类v3": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "检验",
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "4.3 数据描述及平稳性检验",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "实证研究类v3"
+          ],
+          "chosen": false,
+          "text_content": "4.3.1 描述性分析",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.4908078698662814,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8482758620689655,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "各变量经处理后的数据特征如表4-1所示，图4-1直观展现了城镇居民可支配收入、城镇居民消费性支出、城镇居民居住外消费支出、城镇居民居住消费支出及房地产开发企业商品房销售价格2000~2014年整体变化趋势。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6425320077973159,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由图中可以看出，十五年来收入、消费及房价均成持续增长趋势，且收入始终高于消费与房地产价格，房地产价格处于居住外消费与居住消费之间。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.06111817630359167,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.06111817630359167,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表4-1  变量基本特征描述"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['', '变量', '含义', '样本数', '单位', '平均值', '最大值', '最小值', '标准差', ''], ['', 'n y', '收入', '465', '元', '8.9010', '9.9096', '8.2606', '0.2869', ''], ['', 'n c', '消费', '465', '元', '9.1441', '10.4683', '8.1952', '0.4840', ''], ['', 'n c1', '居住外消费', '465', '元', '8.4038', '9.1684', '7.8524', '0.2628', ''], ['', 'n c2', '居住消费', '465', '元', '6.3246', '8.3603', '5.4366', '0.3707', ''], ['', 'lnhp', '房价', '465', '元/平方米', '7.4733', '9.1281', '6.6908', '0.4417', ''], ['', 'lnr', '利率', '465', '—', '1.1605', '1.5966', '0.0198', '0.2146', ''], ['', 'lndr', '抚养系数', '465', '—', '3.6118', '4.0535', '2.9601', '0.2004', '']]"
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "rId": "rId64"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4093007449118343,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4093007449118343,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "图4-1  收入、消费及房价变化趋势：2000~2014"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "检验"
+          ],
+          "chosen": false,
+          "text_content": "4.3.2 单位根检验",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "27"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5608018805373438,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5608018805373438,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "为避免出现伪回归问题，在进行模型估计分析前对各变量进行单位根检验。面板单位根检验一般包括同质检验与异质检验两类，其中同质检验主要采用LLC检验"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.18423807658156494,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.18423807658156494,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（Levin、Lin and Chu, 1992）[42]，异质检验主要采用IPS检验（Im、Pesaran and Shin，"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4668361445183077,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.43585179283690384,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "1997）[43]，因此本文采用相同根单位根检验LLC检验和不同根单位根检验IPS检验两种方式对数据平稳性进行检验。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.030984351681403833,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "具体检验结果见表4-2。"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['变量', '水平序列值', '', '一阶差分序列值', '结论'], ['', 'LLC', 'IPS', 'LLCIPS', ''], ['lny', '0.5593', '3.6664', '-8.1385***-6.9357 ***', 'I(1)'], ['ln c', '2.2250', '10.6427', '-17.4719***-14.3119***', 'I(1)'], ['ln c1', '-2.5119***', '-0.6172', '-3.7361***-5.4801***', 'I(1)'], ['ln c2', '4.6424', '1.7452', '-2.0034**-7.8014 ***', 'I(1)'], ['lnhp', '-1.3116***', '0.9890***', '-12.1246***-9.8494***', 'I(1)'], ['lnr', '-9.4012***', '-7.4588***', '-23.1099***-17.3905***', 'I(1)'], ['lndr', '-4.6989***', '-2.1622***', '-12.4358***-9.9842***', 'I(1)']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.21181391579931433,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.21181391579931433,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表4-2  面板数据的单位根检验"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.25273931728607957,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16809460369001233,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "附注1：***，**，*分别表示在1%，5%，10%显著性水平下拒绝存在单位根假设。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.08464471359606722,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "附注2：I（n）表示序列经n阶差分后平稳。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.005326049515938867,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.005326049515938867,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "附注3：滞后阶数由AIC准则确定。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.321707126895162,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.321707126895162,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由表4-2可以看出，检验结果显示各变量一阶差分统计量均通过1%的显著性水平下LLC检验及IPS检验，说明所有变量的一阶差分为平稳序列，变量同阶单整，均为I（1），可以进行下一步的协整检验。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.3.3 协整检验",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4879256610485354,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4879256610485354,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "为检验各变量之间是否存在长期稳定的均衡关系，避免伪回归问题的出现，对变量进行协整检验，Kao检验（Kao, 1999）结果呈现在实证分析结果表中，可以看出，变量间存在长期稳定的协整关系，可以进行回归估计。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

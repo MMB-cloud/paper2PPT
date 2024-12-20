@@ -1,0 +1,3799 @@
+{
+  "title": [],
+  "摘要": [],
+  "研究背景": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究背景"
+      ],
+      "chosen": false,
+      "text_content": "1.1 研究背景",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.491157365508452,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.35298648733124693,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "上市公司的股利政策素来与投资、融资活动称为现代理财活动的三大核心内容，股利政策也因此一直受到中西方学者的注意。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.13817087817720508,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "特别是近年来全球范围内出现的“股利消失现象”更是引起了学者们广泛的研究与讨论。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.046523603023902904,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "66.5%下降到20.8%。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.046523603023902904,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "随后Von等（2006）用相同的方法发现了欧盟国家也出现相类似的情况。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.7167314789915782,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7167314789915782,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "和兼并的作用，使得分红的企业数减少。虽然关于股利政策的研究始于20世纪"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.9741803486466646,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.05335426474533379,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "50年代，但是至今学者尚不能就其得出统一的结论。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.197074872514155,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "我国的资本市场成立的时间比较短，各项设施还不完善，法律建设也不健全，导致了股票市场上出现了许多异于国外的现象。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7237512113871758,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "上市公司的分红政策主要有以下几个特点：第一、上市公司倾向于采取配股的方式发放股利，直接发放现金股利的公司比例较少；第二、上市公司分配的现金股利占企业净利润比例很低；第三、越来越多的公司不分配现金股利。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.8411348212713456,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5606604939924604,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "对于上市公司来说，制定合理的股利政策不仅关系到股东和债权人的利益，还会对公司未来发展产生影响。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.277316764606995,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "从某种意义上说，股利政策是社会各利益团体相互博弈的结果，因此股利的变动通常会引起各利益相关者的关注。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.34048618475358405,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "在国外发达资本市场中，由于拥有较为健全的公司治理机制、有效的市场约束机制和完善的投资者法律保护机制，即使出现了现金股利分配比例连续下降的现象，政府监管部门也未对上市公司的股利政策做出干涉。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.12446413778021305,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "而在我国特殊的经济机制下，市场本身还无法充分发挥其调节能力，因此政府的指导必不可少。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.35507554423711796,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "中国证监会从2001年开始就通过发布一系列相关法规政策以引导上市公司的分配行为，意在强化分红意识，保护中小投资者的利益。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.1831316959009753,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2001年3月28日出台的《上市公司新股发行管理办法》指出，对于上市公司最近三年未有分红派息、董事会对于不分配的理由未做出合理解释的，担任主承销商的证券公司应当重点关注并在尽职调查报告中予以说明。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.1700237696313617,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.1700237696313617,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "露原因，独立董事应当对此发表独立意见；上市公司最近三年未进行现金利润分配的，不得向社会公众增发新股、发行可转换公司债券或向原有股东配售股份。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.9059790597109403,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.15683955813757408,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2006年5月6日颁布的《上市公司证券发行管理办法》规定，上市公司公开发行证券应符合最近三年以现金或股票方式累计分配的利润不少于最近三年实现的年均可分配利润的百分之二十。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4408558253508563,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2008年10月9日出台的《关于修改上市公司现金分红若干规定的决定》要求，上市公司公开发行证券应符合最近三年以现金方式累计分配的利润不少于最近三年实现的年均可分配利润的百分之三十；对于报告期内盈利但未提出现金利润分配预案的公司，应详细说明未分红的原因、未用于分红的资金留存公司的用途；应披露现金分红政策在报告期的执行情况；应以列表方式明确披露公司前三年现金分红的数额、与净利润的比率。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.33417316361322846,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2011年11月，证监会进一步要求拟上市公司和已上市公司明确红利回报规划，包括现金回报方案和分配决策机制，这一政策将在IPO公司中首先执行。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7436397792488755,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "从上述的政策规定来看，证监会对于上市公司的现金分红做出了明确的规定，提高了现金分红的比例，且将现金分红与企业的再融资资格挂钩。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.23047073336040583,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "这些措施能否发挥保护中小投资者利益的效果，是否可以提高上市公的价值，这些应当成为后续研究的关键点。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 2.792238744746495,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4816732741545374,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "行业因素一直被学者视为影响股利政策制定的重要因素，李增福等（2004）认为，行业是影响上市公司股利政策的重要因素之一，且不同行业之间的股利分配行为之间存在显著差异。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.41054466550444285,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "制造业是我国国民经济的重要组成部分，对经济的发展有着重要的推动作用，2006年，中国制造业生产总值首次超过日本，成为仅次于美国的第二大世界制造中心。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6889921279455846,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "制造业属于劳动密集型产业，易受到外界环境的影响，企业必须保持一定的资本以应对各种可能的风险，因此处理好分配资金和留存资金的比例关系成为制造业上市公司理财工作的重点。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7487504994907224,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "半强制股利政策对于需要留存一定资金以应对突发风险的制造企业来说，是起促进还是抑制作用？了解这一行为政策的影响与效果将不仅有利于上市公司制定合理的股利政策来进行融资，而且也对监管部门类似的政策制定形成借鉴作用。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4622781776512078,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "因此本文将从制造业角度来对这一政策进行初步的探讨。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究目的": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究目的"
+      ],
+      "chosen": false,
+      "text_content": "1.2 研究目的",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.5761526434063469,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4416735084127139,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "一般情况下，股利政策的制定与实施属于企业内部治理的范围，政府对其过程无干涉的权利。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.40642818509777706,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "但是考虑到我国证券市场的不完善，监管部门通常会依靠自身的力量制定相关政策以影响上市公司的股利分配行为，因此关于政策的效果问题也成为监管层随后关注的重点。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7280509498958558,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "自颁布这类政策以来，大多数学者将研究中心集中于股票市场中股价的累计变动，以检验政策意在保护投资者的利益的初始目的是否实现，却忽视了政策对上市公司企业价值的影响。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.9551020408163265,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.9551020408163265,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "市公司为研究对象，通过考察企业价值的变化情况，检验半强制分红政策对企业的相关影响，并试图回答以下问题：（1）半强制性分红政策实施期间，制造业上市公司是否提高了现金股利的分配比例？（2）半强制分红政策的执行是否有利于提高制造业上市公司的企业价值？（3）从研究的结果看，半强制分红政策还有哪些不足之处？可以通过哪些途径去完善？"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "因此，本文的选题意义在于："
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.9466792183250166,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.40017533781467324,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（1）我国学者研究股利政策时主要从影响因素、市场反应等角度进行，很少有学者从监管层的半强制性股利政策的合理性和效果性角度考察。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5465038805103434,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2006年5月6日颁布的《上市公司证券发行管理办法》规定了上市公司必须分发一定的股票股利或现金股利，本文认为该项政策是监管层开始将现金分红逐渐与融资资格想挂钩的开端，因此本文以此政策为背景，剔除股票股利的影响，仅观察现金分红的影响，从政策实施的效果监督出发，探讨半强制分红政策对上市公司价值的影响，对这类的文献进行补充。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.46004963307520574,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.46004963307520574,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（2）制造业是我国上市公司的重要组成部分，结合行业特点研究政策的效果性，可以为监管层针对特定行业制定政策提供依据。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究综述": [
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": false,
+      "part": [
+        "研究综述"
+      ],
+      "chosen": false,
+      "text_content": "第二章  文献综述",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "国外学者自20世纪50年代就开始对公司股利政策与企业价值之间的关系进行研究，但是由于其研究视角和方法不同，因而得出结论也各不相同，难以形成共识。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "我国学者在资本市场建立后才开始研究，因而起步晚，很多也是沿着外国学者的思路结合中国市场背景来研究的。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "相关研究文献主要分为两个方向，一个是从股利政策的市场反应角度研究对企业价值的影响，一个是从影响股利政策制定的因素角度研究对企业价值的影响。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "因此本文也按照现金股利政策的市场反应和影响因素角度来总结相关文献。"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.1 基于现金股利政策市场反应角度的文献研究",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 2.2314686269869592,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5212365012634457,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "现实中，学者通过不同的角度去研究现金股利政策的市场反应。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2617674203892526,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在拥有资本市场的国家，研究者研究市场反应时通常由其股价变动来反映。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7907126793786766,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "股价的高低说明了投资者对企业发展状况的评价，是对企业价值的衡量，因此现金股利所引起的市场反应变化实际上是该股利政策对企业价值的影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6577520259555844,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "学者关于二者的关系研究主要是从信号理论角度和代理成本理论角度探讨，根据这两个理论，现金股利政策分别起到传递盈利信息和监督治理的作用，进而影响企业价值。"
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2.1.1 现金股利的信号理论与企业价值研究",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 2.1277630215662127,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.42520129055439476,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "该理论认为由于信息不对称，公司内部比外部掌握更多关于公司的信息，因而现金股利政策能反应公司未来的发展情况。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7528451471285036,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "当企业未来发展良好时，企业会通过公告和分红政策来传达，以此来提升企业价值。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3287965944217423,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "1956年Lintner开创了信号理论研究的先河，他通过对美国600家上市公司财务经理的采访，发现大部分上市公司，特别是规模较大的，会倾向于长期稳定地保持他们各自的股利政策。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6209199894615721,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "短期的盈利变动一般不会引起股利政策的变动，只有在确定收益是持久性的，才会修正现金股利支付率，管理层会根据企业的前景制定相关现金股利政策。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.9059149654226648,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6124130720476305,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Miller和Modigliani（1961）也认为当信息不完全时，公司一般不会变动股利，以免造成企业不规律变动的坏影响。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.2935018933750343,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "现金股利发放额度的波动可以将公司未来盈利的预期传递给投资者，而投资者根据此变化来做出反应。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.6140394553557778,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6140394553557778,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Aharony和Swary（1980）发现，企业首次发放现金股利以及提高发放水平时，股票的价格都会上涨，相反时则会下跌，这一结果极大地支持了股利的信号理论。考虑到同时公布的其他信息对于股价的影响作用，Asquith和Mullins（1983）在控制了其他同时公布的信息后，同样也发现了首次发放股利信息会产生正的超额回"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "报。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.4473350431653098,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4473350431653098,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Petit（1972）在对美国资本市场的股利政策研究时，利用股票的月收益衡量政策后果，发现股利公告能引起市场股价的变动，验证了股利的信号作用。此后，"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.27042201544408206,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.27042201544408206,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Benatzi、Michaely和Thaler（1997）将1979-1991年期间在NYSE和AMEX上市的公司作为样本，分成两组，即比较采取现金股利增加和减少方式的公司的股价变化，实验结果显示，在现金股利宣告日的后三天，增加组的累计非正常收益率为0.81%，而对应的减少组累积非正常收益率为-2.53%，再次验证了其信号作用。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.6926180703165585,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6926180703165585,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "针对上述研究大多反映了政策的正向信号作用，也有一些研究者认为理论存在模糊性，甚至是相反的，比如Skinner(2004)、DeAgelo（2004）通过对近年的数据分析发现，现金股利的变化并未传达企业未来的盈利变化。Miller和Scholes"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.9108886628134232,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.9108886628134232,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "（1982）研究表明，股利政策对于企业价值没有产生影响，进而证实了其不含信息含量。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.6615878667072237,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4105629967487085,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "陈晓等（1998）从信号角度分别检验了现金股利、股票股利和混合股利三种形式的股利对股价的影响，结果发现现金股利信号的显著性要显著低于后两者。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.29595999626069314,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "作为验证，俞乔、程莹（2001）选取了公司会计年度中三次股利公告中最后一次公告作为研究对象，区分红利公告效应和盈余公告效应，不仅通过股票价格的异常收益来衡量反应的程度，还从交易量的角度首次研究了这一关系。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3379205779732002,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "发现现金分红所引起的股价异常收益显著小于股票股利和混合股利。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6171442957246218,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "为弥补研究者将注意力只停留在股票市场对公告事件反应的研究上，李常青、沈艺峰（2001）针对股利公告所反映的信息内容进行分析考察，证实了股利具有信息证实了股利具有信息内涵作用，但不能传达未来企业盈利状况。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.3726908017764254,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6542648083227672,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "魏刚（1998）通过对公司年报的分析考察了市场对于企业采取现金方式分红的反应，结果发现不分红的消息引起的市场反应较小。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.2626460387789532,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "俞乔、程莹（2001）也发现市场并不接受现金作为公司首次支付的方式。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.45577995467470506,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "为单独考虑现金分红的影响，何涛、陈晓（2002）剔除了含送股、配股等方式的样本，以观察现金股利是否会引起明显的市场反应，但是结论认为该行为并不能显著影响公司的股价。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.25157070131314324,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.25157070131314324,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "（2011）认为，现金股利增加公告被视为不利信号，并导致了显著较低的公告期累积异常收益。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2.1.2 现金股利的代理理论与企业价值研究",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.4321353848188177,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.4321353848188177,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "代理理论也被学者用来解释现金股利政策制定的原因，认为发放现金股利有利于缓解公司管理层与外部股东间的代理问题（Easterbrook，1984；Jensen，1986；"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.7491537048060322,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7491537048060322,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Myers，2000），合理的股利政策有助于减少企业的代理成本，提高企业的价值。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.9279759409390387,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7676876559483699,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Easterbrook（1984）首先从代理成本角度分析现金股利政策，他发现企业留存下来的盈利由于委托代理的影响，而被管理者用来实现报酬最大化和自身利益最优化，例如资金很可能被内部人用来投资一些并不盈利的项目或是进行在职消费，因而外部投资者因信息不对称而偏向于分配现金股利。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.6361114531868163,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "他还发现连续支付现金股利会促使企业向外融资，受到外部市场的监管，因而会降低代理成本，提高公司价值。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.5241768318038525,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "此后，Jensen（1986）在此基础上结合现金流的相关分析，提出了现金流假说，认为代理成本产生的根本原因是企业持有过多的资金，这些资金被管理层所滥用，因而降低代理成本的基本方法就是减少企业的可支配资金，股利政策即为方式之一。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.112178457163846,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7806842058782131,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在考察现金股利政策的市场反应方面，Lang和Litzenberger（1989）的研究数据也明公司发放现金股利是为了降低企业的代理成本，并通过Tobin's Q值来衡量公司的代理成本变化，代理成本减少即是企业价值的提高。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3314942512856328,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "当此值小于1时为过度投资的公司，即代理成本较高，反之即为代理成本低的公司，研究发现股利变化大于百分之十时，Q值小于1的公司对于现金股利增加的公告更加敏感。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.7121081787504581,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.7121081787504581,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "之后的研究逐渐扩大了研究的范围，有的还进行了跨境研究，Gugler和Yurtuglo（2003）研究了德国企业的股利支付比例，结果显示大股东偏好于低额度的现金股利，而其他大股东则可能出于自身利益而选择抑制低股利，从第二层次代理理论，即大股东与小股东之间的代理作用角度证实了现金股利政策的监督作用。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.460304145074804,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3802338055415157,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "若只研究发达市场的现金股利政策从很大程度上来说其解释作用是极具有限制性的，因此一些学者试图将近些年出现的新兴市场融入其中，增加了样本的多变性，也令研究的结果更接近实际，也更具有说服力。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.33247033060877956,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "例如La Porta et al（2000）就将新兴市场纳入研究范围，把股利的代理理论扩展至管理层和控股股东的内部人与外部投资者之间利益冲突的分析。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.329029492578774,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "研究发现，相对于大陆法系国家的公司而言，其在投资者保护较差的环境下，公司的现金股利支付率可能较低；而在普通法系国家中，具有高成长机会的公司的现金股利支付率通常也要低于其他公司。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.41857051634573483,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "这一发现扩大了从代理理论角度研究股利政策的范围，并得出相关结论：现金股利不仅可以作为解决管理层与股东之间代理问题的重要手段，也可用来处理控股股东与少数股东的利益不一致问题。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.633332994906892,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.22531549320608618,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "之后，Mitton（2004）也对19个新兴市场的365家公司进行考察，发现一方面国家对投资者的保护能减少大股东掠夺的情况发生，另一方面，从公司内部来说，良好的公司治理机制也能对此现象有抑制作用。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.40801750170080586,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "治理程度较高的公司会支付更高的现金股利，进一步证实了现金股利政策的监督治理效果。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.43511963948302246,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.43511963948302246,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "杨熠、沈艺峰（2004）考察了1994-2001年间962次现金股利分红，认为在"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 1.4851893654731385,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.321518883208429,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "我国现金股利作为监督约束自由现金流代理成本的角色不容小觑，并通过实证研究证明了自由现金流假说比股利信号理论更能解释股利公告的市场行为。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.2965746683503364,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "结合中国上市公司盛行的关联交易、大股东占用上市公司资金的背景，何涛等（2002）认为现金股利起到的降低代理成本的作用是有限的。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.8670958139143731,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "相较于股利政策的信号理论，我国对上市公司的股利分配从代理理论角度出发的研究相对缺乏（李常青、沈艺峰，2001），这也从一定程度上说明企业对于股利政策在公司治理中的监督作用还没有完全意识到。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.7299848594941015,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.34464821535432244,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "同样，并不是所有的研究都支持代理理论。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.3853366441397791,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Denis（1994）对自由现金流量代理状况的研究表明股利政策不能传递公司的过度投资状况的信息，不支持自由现金流假说。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.2 基于现金股利政策影响因素角度的文献研究",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7517946647182688,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.698577852568215,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "霍晓萍（2012）通过对股利政策的影响因素文献进行分析比较发现，文献主要从盈利水平、增长机会、信息传递效应、代理成本及环境因素五个角度阐述影响因素，而通常盈利水平、增长机会等也是市场投资者衡量企业价值的重要参考，企业正是围绕着增加价值的理念来制定股利政策。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.05321681215005383,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "前面已从信息传递和代理成本角度阐述文献，因而这里将从盈利水平、增长机会、环境因素来阐述。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.6148508394388243,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.18959855557599503,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "公司的盈利水平是股利支付的基础。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.28103800709900834,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在国内，杨汉栋（1986）通过对1984年台湾上市公司的财务报告分析，得出公司的现金股利发放与财务结构有正相关性的结论。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.31880221820934307,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "刘星等（1998）通过对沪市30家上市公司的报表和相关资料的分析，发现法人股比例、每股净资产、市盈率、行业股利支付率、净资产收益率等因素能明显影响现金股利的支付比例。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1316949844993212,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "吕长江等（1999）运用改进后的林特部分调整模型回归分析，认为现金股利支付水平取决于前期股利支付额和当期盈利水平。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4473235993528601,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "魏刚（2001）实证分析结果表明上市公司股利分配与股权结构存在关系，国有法人股比例越高，公司现金分配股利概率越高，反之则越小。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.13983901870381887,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "袁天荣等（2004）通过对沪市和深市的1895家上市公司2000年至2000年的分红报告分析得到，公司的超能力派现与股权集中度正相关，而与资产规模、净资产收益率、上市年限负相关。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.10655445599847777,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "袁振兴等（2007）也发现股权集中度与股利支付率存在相关性。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.1652346427675688,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5122995247506339,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "一些学者还专门考察了特定因素对股利政策的影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2176474812833376,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "刘淑莲等（2003）认为公司派现能力和投资机会影响了公司的现金股利，当期的每股收益与资产规模正相关，而与资产负债率负相关。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4352876367335975,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "但是，邵军（2005）却得出不同结论，发现现金股利分派的大小的主要依据是以前年度的股利政策和目前的盈利水平，而与公司规模并无实际影响。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5294023744411789,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5294023744411789,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "易颜新等（2008）研究发现，管理层在决定股利支付率时会考虑企业是否有"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.23025030540575733,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.23025030540575733,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "充足资金和稳定的经营现金净流入量，现金股利的高低受扩张计划、当期和未来预期每股净利润的影响。肖淑芳等（2012）以2006年1月1日至2011年6 月"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.670606492022043,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.47100977781465614,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "30日沪深两市公告股权激励计划的上市公司为对象，研究了股权激励与股利政策的关系，发现股权激励公司的送转股水平和现金股利水平要显著高于非股权激励水平，上市公司公告股权激励计划对股利政策有正向的影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.39538258783832153,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "黄娟娟（2007）分析了股利政策的需求性问题，发现股利政策制定主要是为了迎合大股东的需求，同时实证结果也证实了公司股权集中度与现金股利支付率正相关的关系。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.33441512853398825,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "魏志华等（2012）还考察了家族企业的股利政策影响因素，结果证明家族企业加剧了第一类代理冲突，因而拥有相对消极的现金股利政策。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.46979899783507695,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "唐国琼等（2005）运用多变量回归分析方法，得出了一些与以前结论不同的结果，上市公司的非流通股股东倾向于派发现金股利，此外市场行政监管手段对股利政策的影响非常大。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.3 基于现金股利政策行业差异角度的文献研究",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.9146445466595012,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8018798808546047,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在20世纪50年代，西方学界就开始了对行业与股利政策的关系研究，行业因素会对企业股利政策的制定产生影响，相同股利政策对不同行业企业价值的影响也千差万别。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.559308210661132,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Lintner（1956）认为公司在制定股利政策时经常会追随同行业中的领军企业，其制定过程类似与产品价格等。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5534564551437646,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Allen等（1986）的研究表明行业是影响股利政策制定的因素之一。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.8219980673314384,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.26036658628658316,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "44个行业为样本，运用Rozeff模型实证证明了行业因素确实影响现金股利政策，但是不具有连续性。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.03636363636363637,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "并且从各国的统计数据而言，现金股利政策也呈现出明显的行业特色，新兴行业一般股利支付率小于成熟行业，而公用事业行业高于其他行业。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5208321381449347,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "周好文等（2004）按2001年中国证监会对A股上市公司的分类标准研究了行业因素对股利的影响，得出上述公司的股利分配存在明显的行业差异。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3809631889840912,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "何小连、蒋巍（2005）的实证结果也表明，我国不同行业的上市公司的现金股利政策具有显著差异，行业是影响因素之一，但影响程度不大，大约1.2%的现金股利变动可由行业来解释。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6234725175521931,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "冯海燕（2009）考察了企业行业属性和成长机会对现金股利政策股权效应的影响程度，发现第一大股东对发放现金股利有显著的激励作用，而行业属性只对这种作用施加微弱影响。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.4 半强制分红政策与企业价值的相关性研究",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6203842977439177,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6203842977439177,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "现金股利政策是公司本身的行为，出于对企业未来的发展等因素的考虑，公司可能不偏好发放现金股利，投资者也就无法及时有效获得股票的收益。针对这种情况，监管部门可能出于保护投资者的利益角度对公司股利政策的制定进行干"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3881951341648975,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "涉。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.14097745831562947,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Shleifer等（1997）认为管理者的首要任务是保证投资者的利益回收，而股利则可成为投资者收益的主要形式。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.24721767584926801,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在发达的资本市场中，由于有健全的公司治理机制、有效的市场约束机制以及完善的投资者法律保护机制，投资者的利益能够得到较好的保护，这些机制可以迫使公司在缺乏投资项目时给股东分配股利。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5680488133355458,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（Shleifer&amp; Vishny, 1997）。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3553286794715585,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "因此，为了保护中小投资者的利益，一些国家的监管部门通过强制性分红政策来迫使公司向投资者发放现金股利。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.21272013386398733,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "乌拉圭就强制规定上市公司分给股东的现金股利不得少于当期净利润的20%，而巴西则达到了50%(La Porta et al, 1998)。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.9619731129863336,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5126939684601166,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "强制性股利政策，一般是在已有法律和资本市场都无法促使企业的内部人主动发放现金股利时保护外部股东的一种措施（肖星，陈晓，2002）。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.42150192873014686,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "它会对企业股利的形式和条件做出明确规定，意在保护投资者的利益(Kinkki, 2008)。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5971311129437673,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "但是就这些强制性政策的特点而言，我国监管部门颁布的政策又具有特殊性：一方面，它是有证监会颁布的而非法律形式固定下来；另一方面并非所有企业都需发放现金股利，符合条件的才需分红，将分红与融资资格挂钩。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.43064610285230265,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "李常青等（2010）将这种政策称为“半强制分红政策”。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.9296958327012166,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7639571305618217,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对于半强制性分红政策的合理性的研究，研究者大都通过市场反应，即企业的股价变动来衡量。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6107450801956366,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "一方面，股价变动反映了投资者对该政策的态度，另一方面，股价的变动也传达了该政策对企业价值的影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.24110366849746293,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "政策的合理性在于市场的接受性，那么现金股利的意义就在于市场如何看待它，在于对中国市场的投资者和上市公司来说，它的这种功能在现阶段更为重要（沈艺峰等，2004）。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.31388995344629544,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "中国上市公司的流通股股东多数为中小股东，现金股利政策导致的市场反应基本上反映了中小股东对于现金股利政策的看法（陈晓等，2002）。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.069655941697563,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3909228500506011,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "肖万等（2012）认为在当前市场环境下，强制上市公司现金分红应该成为资本市场改革的政策倾向或重要内容。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6787330916469619,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "与之对比的是，肖星等（2002）检验了强制性分红政策与投资者利益保护的关系，结果显示大股东可能会选择将现金股利作为掏空上市公司的一种方式，投资者在整个过程中是亏损的，并未因发放股利而获得好处，因此在此种情况下，强制性的分红政策是不能起到保护投资者的利益的，相反却可能引起相反的市场反应，即对企业价值造成消极的影响。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.41382282864904596,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.41382282864904596,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "刘建民等（2009）也通过案例得出了相似的结论，他们认为强制性的直接手段并不能从根本上改变上市公司的股利政策，反而会对合理运用股利政策产生负影响。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5300728273336781,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5300728273336781,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "当企业处于竞争激烈的行业中时，杨兴全、吴昊旻（2009）认为上市公司通常会保留一部分资金留存在企业以避免错失投资机会，这样的公司更倾向于保留"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5223436820939097,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5223436820939097,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "资金而非发放股利，如果强制实行分红政策，那么资金的流失会使企业陷入困境，逐渐被激烈的竞争所淹没。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5227217468534305,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5227217468534305,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从负债的角度，张春（2008）认为由于还债和发放现金股利是减少管理者持有现金的两种替代方法，所以财务杠杆高的企业会选择更少的分红，这样可以保持企业价值不变。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.30188246223851123,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.30188246223851123,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "郭牧炫等（2011）指出规定颁布后造成那些有融资约束的公司再融资能力下降，上市公司现金分红显著减少，再次验证了张春的结论。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7436153053006636,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.41653848330463106,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "李常青等在半强制分红政策的市场反应（2010）中将证监会关于上市公司再融资资格与股利分配水平相联系的政策定义为“半强制分红政策”，依据证监会颁布的《关于修改上市公司现金分红若干规定的决定》，考察了半强制分红政策的市场反应。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3270768219960325,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "文章指出半强制分红政策对有再融资需求或潜在的再融资需求的成长型以及竞争行业上市公司带来了一定的负面影响，认为对于正处于新兴加转轨阶段的中国资本市场来说，分红意识还是薄弱的，管制是必要的，但是其带来的市场反应并未像想象中的那样好，相反在某些领域还出现了监管悖论的现象。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.5188177174462738,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3335086680286989,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "何涛等（2002）认为Jensen（1976）提出的“上市公司发放现金股利可以减少公司中过多的现金流，迫使公司对外融资，引入外部监督机制，以达到降低代理成本，提高公司价值的观点”只有在法律制度健全，股东权益得到合理保护的情况下才成立的，而在中国各项制度不完善的情况下，这种政策的监督治理作用是非常有限的。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.48901632798510764,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "同时考虑中国税收制度的特殊性，仅对现金股利征税，而资本利得免税的差异使得股利会使资金流出企业，损害企业价值。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6962927214324671,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "研究者通过控制盈余信息、审计意见、年度因素、规模等因素情况下，研究了1997-1999年间企业发放现金股利所引起的股价变动，结果发现，纯现金股利并不能显著对公司股价产生影响，这一结果促使研究者对监管层干预上市公司股利政策的理性提出质疑。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.5 文献小结",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.9905906750655132,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2860550277756053,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从上述文献可以看出，国内外学者已经在现金股利政策方面取得了较多的研究成果。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.27627249628967415,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在西方，股利政策的研究从“无关论”发展到“相关论”，形成了众多的理论学派，虽然取得众多成果，但是未形成统一的意见。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Black（1976）将这种现象称之为“股利之谜”。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4282631510002338,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "这些理论为政府的政策和公司的规划制定提供了正确的引导，理论的争论也使得研究朝着更深的方向进行，不断完善理论。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5063992327278952,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5063992327278952,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而在国内，我国证券市场发展时间短，法律不健全，投资者保护不够，因而关于现金股利政策的研究也非常局限，因而文献多专注于理论阐释。随着我国资本市场的完善，对于股利的研究也逐渐深入，加之实证方法的引进，学者开始专注于现金股利政策的实证检验，以信号传递理论和代理成本理论为理论基础，从"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.689028211816551,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.9925784028673212,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "政策的市场反应和影响因素角度来研究与企业价值之间的关系。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6964498089492297,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "后续的研究加入了公司治理、股权结构等因素，为我国特有企业体制下的现金股利政策研究提供了借鉴与参考的作用。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究假设": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究假设"
+      ],
+      "chosen": false,
+      "text_content": "5.4 研究假设与模型设计",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究假设"
+          ],
+          "chosen": false,
+          "text_content": "5.4.1 研究假设",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.7409255549544655,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.44349452153015523,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "半强制性分红政策“一刀切”地要求所有具有融资计划的上市公司进行现金分红，忽视了一些上市公司的特殊性，因而在实践上具有一定的局限性，也给相关的公司带来了烦恼和不便。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5807319612413704,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "根据“优序融资理论”，内部融资的成本要远远低于外部融资，企业通常会选择留存收益来为未来发展补充资金，这一政策的实行，使得企业必须通过发放现金股利的方式来获取融资的资格。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.71669907218294,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "然而在另一方面，这种发放现金股利的行为本身就是一种矛盾：既然公司需要资金，为何还要强制现金分红，对于具有融资计划且现金流又比较紧张的公司来说，这种规定可能不仅不会缓解企业的困境，还可能对企业的价值产生负影响。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.8248667836867054,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8248667836867054,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "假设1：半强制分红政策与上市公司企业价值呈正相关关系。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.2140706770555405,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5747490845748088,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "企业在股票市场为企业融资，股价是衡量企业价值的一种重要方式。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6393215924807317,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "半强制分红政策颁布后，投资者的利益在一定程度上得到保护，因此对企业评价会增强，体现在企业股价变动上，因此政策后，企业价值会上升。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7778017551408898,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7778017551408898,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "假设2：对于未来具有融资计划的上市公司来说，半强制分红政策与上市公司企业价值的正相关关系减弱。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.1780174528945566,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4863024255975335,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "当企业所拥有的资金不足以支持其未来发展时，会采用向资本市场发行股票等方式获取外部融资。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.691715027297023,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "半强制分红政策规定上市公司公开发行证券应符合最近三年以现金或股票方式累计分配的利润不少于最近三年实现的年均可分配利润的百分之二十，因此企业会通过分发现金股利以获得再融资资格，这种现金流出企业的做法使得原本就资金短缺的企业现金流量更加紧张，特别是在企业融资失败的情况下，很有可能使企业陷入严重的财务和经营困境，对企业价值产生消极影响。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5073137870256654,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5073137870256654,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "假设3：对于未来具有融资计划的上市公司来说，半强制分红政策与自由现金流不足的上市公司价值呈负相关关系。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7834478790497896,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7834478790497896,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "正如假设2中提到的，企业的融资计划是基于现金流不足以支持企业未来发展的情况下，因此半强制政策要求的企业发放现金股利以获取融资资格的做法会直接对企业现金流产生影响，当留存资金不能应对企业日常生产经营时，企业价值产生负向变动。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.8596844052350903,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8596844052350903,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "假设4：对于未来具有融资计划的上市公司来说，半强制分红政策对自由现金流不足的上市公司企业价值的影响要显著于自由现金流充足的上市公司。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5533608915104535,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5533608915104535,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "相较于现金流不足的企业而言，具有充足现金流的企业分发现金股利对正常生产经营产生的影响相对较小。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "5.4.2 模型的设计",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4483061642468181,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4483061642468181,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本节通过建立回归模型，对半强制分红政策对制造行业上市公司的价值变动进行实证分析，实证过程主要运用了STATA统计软件和Excel2003。根据上述假设，构建以下多元线性回归模型："
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Y=β0+β1Cd+β2Plan+β3Plan*Cd+β4Cur+β5Cd*Cur+β6lnsize+β7lev+β8shareholder+eit"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（5.1）"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Y=β0+β1Cd+β2Plan+β3Plan*Cd+β4Cur1+β5Cd*Cur1+β6lnsize+β7lev+β8shareholder+eit"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（5.2）"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Y=β0+β1Cd+β2Plan+β3Plan*Cd+β4Cur2+β5Cd*Cur2+β6lnsize+β7lev+β8shareholder+eit"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（5.3）"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.062345083489785715,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.062345083489785715,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "其中：β0为回归模型的截距，βi为模型回归系数，eit为残差。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.45264518897036,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7817048126453627,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "模型（5.1）主要用来检验半强制政策对具有融资计划企业价值的影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6709403763249973,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "此外，为了检验半强制性政策对具有不同自由现金流的企业的影响，模型（5.2）与模型（5.3）分别设置了代表不同现金流的变量Cur1（企业自由现金流大于0）、Cur2（企业自由现金流小于0）。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "4",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究假设",
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "（2）回归结果与原假设对比分析",
+      "children": []
+    }
+  ],
+  "数据与样本": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "数据与样本"
+      ],
+      "chosen": false,
+      "text_content": "5.2 数据来源和样本选择",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.8615384615384616,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.8615384615384616,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本文以沪深两市交易的A股制造行业上市公司为研究对象，选取2006—2011年上市公司公布的年报数据为实证分析依据，所有的数据来源于国泰安数据库、上市公司的年报和Wind资讯金融终端系统，在此基础上，为了增加实证结论的可靠性和严密性，对样本进行了逐步的剔除，剔除的原则如下："
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.374996652571946,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1、剔除了业绩过差ST、SST以及S*ST公司。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.374996652571946,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "这些公司有的已经连续亏损三年，或者面临退市的风险，财务状况异常，从而出现会计业绩指标异常的现象，考虑到极端值对统计结果的不利影响，将其剔除。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.574344968257037,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.1713361262322051,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2、为了保证样本的稳定型，选取了2006年以前上市的公司，剔除了财务数据缺失的样本。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4030088420248319,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "有些上市公司没能披露所需要的数据，为了增加实证结果的严密性和可靠性，将其剔除。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.3033272514658864,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3033272514658864,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "3、为保持一致性，2006年至2011年间选取了相同数量的上市公司，每年均为693家。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "变量定义": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "变量定义"
+      ],
+      "chosen": false,
+      "text_content": "5.3 变量的选择",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "变量定义"
+          ],
+          "chosen": false,
+          "text_content": "5.3.1 因变量的选择—托宾Q 值",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6614143785816202,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6614143785816202,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文选取托宾Q值作为因变量，定义为市场价值/期末总资产，它是测算企业市场价值的重要指标，数据直接选自2006年-2011年资产负债表相关数据。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.22034603439685407,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.22034603439685407,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表 5.1  因变量设计表"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['变量类型', '变量名', '变量指标选择', '英文缩写'], ['因变量', '托宾 Q', '市场价值/期末总资产', \"T'Q\"]]"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "5.3.2 自变量的选择",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.9833333333333334,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.9833333333333334,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文实证研究主要是考察半强制分红政策对企业价值的影响，因此主要从企业的融资计划、现金流等角度选择自变量。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.28215241407090974,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.28215241407090974,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（1）现金股利分配额（Cd）"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.39569063358055395,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.39569063358055395,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "现金股利分配额=现金股利总额/总资产，现金股利数据来源于中国上市公司红利分配研究数据库，总资产来源于资产负债表"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.15463516848195374,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.15463516848195374,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（2）融资计划（Plan），通过查阅当年的增资或配股公告来衡量此项，为虚拟变量，若当年存在融资计划，则为1，否则为0"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.04425945257093281,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.04425945257093281,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（3）公司现金流量（Cur）"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4505990403859462,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4505990403859462,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "公司现金流量=企业自由现金流量/总资产，其中自由现金流量数据来源于现金流量表，总资产来源于资产负债表"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "5.3.3 控制变量的选择",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7159998417648056,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7159998417648056,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文的控制变量选择了一些与企业价值相关的变量，主要有企业规模，股权集中度。"
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "4",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（1）公司规模( lnsize )",
+              "children": []
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4210392198528392,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4210392198528392,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文公司规模取值为企业总资产的对数，即公司规模=l总资产"
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "4",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（2）股权集中度（shareholder），本文主要用公司前10位流通股股东持股比例的平方和来表示",
+              "children": []
+            },
+            {
+              "type": 0,
+              "outLvl": "4",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（3）资产负债率（Lev），数据直接来自于长期偿债能力表资产负债率=期末总负债/期末总资产",
+              "children": []
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.21245401652513177,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.21245401652513177,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表5.2  变量定义及指标选择"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['', '变量名', '变量指标选择', '英文缩写'], ['自变量', '现金股利分配额', '期末总负债/期末总资产', 'Cd'], ['', '融资计划', '若当年存在融资计划，则为1，否则为0', 'Plan'], ['', '公司现金流量', '自由现金流量/总资产', 'Cur'], ['控制变量', '公司规模', 'ln 总资产', 'lnsize'], ['', '股权集中度', '公司前 10 位流通股股东持股比例的平方和', 'shareholder'], ['', '资产负债率', '期末总负债/期末总资产', 'Lev']]"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "检验": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "检验",
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "5.5 实证检验及分析",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "实证研究类v3"
+          ],
+          "chosen": false,
+          "text_content": "5.5.1 描述性统计分析",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.20946467830967133,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.20946467830967133,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "为了对所选定的变量有总体的了解，本文对所有变量进行了描述性统计分析，初步说明样本情况，为后面的分析奠定理论基础。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.25586482877633554,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.25586482877633554,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表5.3  实证分析变量的描述性统计分析"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['Variable', 'Obs', 'Mean', 'Std. Dev.', 'Min', 'Max'], ['stkcd', '4107', '353655.4', '295044.7', '4', '601607'], [\"T'Q\", '4101', '1.959499', '1.372127', '.584197', '21.89564'], ['Cd', '4064', '.0160428', '.0515527', '-.0859535', '2.336183'], ['Plan', '4107', '.0854638', '.2796047', '0', '1'], ['Cur', '4107', '.0537082', '.0809795', '-.4700149', '1.06904'], ['lnsize', '4107', '21.66642', '1.140475', '18.27', '26.49'], ['lev', '4107', '.505654', '.2135401', '.00708', '5.493646'], ['shareholder', '4107', '.0529252', '.0876365', '2.00e-06', '.67408']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.229194323129198,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2266173619457056,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表5.3描述了我国制造业上市公司2006—2011年共六年的4107个观测值的均值、中位数、最小值、最大值和标准差。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5202698323917941,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从表中可以看到，全样本约有352家上市公司（约占8.54%）在实验期间内有再融资计划，这些公司多数为拥有良好投资机会、处于高成长阶段且自由现金流短缺的企业。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4823071287916982,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "托宾Q值最大值与最小值相差较大，均值为2，说明市场对企业的前景看好，具有投资价值。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.7692953571258785,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.494672582347107,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Cd均值仅为每股0.0160428元，说明企业采用现金分红的比例非常低。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5509013200416198,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "企业自由现金流的最大值为1.06904元，均值为0.0537082元，小于0.1，企业留存的自由现金普遍偏低，现金作为企业最重要的流动资产，其充足性对企业的生存起着至关重要的作用，自由现金流短缺阻碍了企业的日常经营，因此直接的现金分红可能对现金流不足的企业带来负面影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3420436151096039,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从规模方面看，其均值为21.66642，标准差为1.140475，说明制造企业的规模方面存在差距，因此需要将其作为控制变量。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.38167783962754753,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "制造行业企业连续六年的平均资产负债率达到50.56%，较为平稳，总体来说财务风险较低，但是最大值和最小值之间存在明显过大的差异，因此为了保持样本的一致性，选择将其作为控制变量。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "检验"
+          ],
+          "chosen": false,
+          "text_content": "5.5.2 Pearson相关分析和VIF检验",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.05650864327562542,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.05650864327562542,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "运用STATA软件计算的各变量之间的相关系数如表5.4所示"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0005322334916787268,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0005322334916787268,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表5.4  Pearson相关系数矩阵"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['', \"T'Q\", 'Cd', 'Plan', 'Cur', 'lnsize', 'lev', 'shareholder'], [\"T'Q\", '1.0000', '', '', '', '', '', ''], ['Cd', '0.1498*1.0000', '1.0000', '', '', '', '', ''], ['Plan', '-0.0436*0.0052', '-0.00180.9068', '1.0000', '', '', '', ''], ['Cur', '0.1156*0.0000', '0.1260*0.0000', '-0.02320.1379', '1.0000', '', '', ''], ['lnsize', '-0.2980*0.0000', '-0.02320.1392', '0.1588*0.0000', '0.0472*0.0025', '1.0000', '', ''], ['Lev', '-0.2125*0.0000', '-0.1327*0.0000', '-0.01410.3656', '-0.1196*0.0000', '0.2020*0.0000', '1.0000', ''], ['shareholder', '0.1862*0.0000', '-0.01620.3017', '-0.0471*0.0025', '0.01120.4743', '0.2111*0.0000', '0.02340.1335', '1.0000']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 3.127695802370843,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6369719443189297,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由表5.4可以看出，现金股利派发、融资计划、自由现金流量均与企业价值显著相关，且现金股利派发、自由现金流与企业价值正相关，融资计划与企业价值负相关。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5414837707162504,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "现金股利作为投资者收到回报的一种重要方式，可以向投资者传达企业发展前景的信号，利于投资者的决策，因此现金分红会提升企业的市场价值。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.637190126242819,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "自由现金流与企业价值正相关是因为现金流是企业的正常经营的血液，现金流越稳定，则企业的整体风险就越小，投资者对其前景持乐观态度，因而会影响到企业价值。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7111684299387936,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而融资计划与企业呈负相关，可能是因为投资者对企业的未来发展不确定，企业融资也被认为是投资过度的表现，因而对企业的评价下降，对企业价值产生影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6008815311540509,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "控制变量资产负债率与企业价值呈负相关关系，主要是因为资产负债率属于企业的长期偿债能力，该数值越高，越说明企业负债经营的程度越高，当企业的收益无法补偿相关费用时就会产生经营困难的状况，因此企业的资产负债率应处于一定的安全范围内，当超出极限时，会对企业的价值产生负向的影响。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.0131794624510566,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5286189475221306,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "此外，融资计划还与现金股利呈负相关关系，这可能源于融资本身就与派发股利相互矛盾，当企业现金流不足以支持企业发展时才会向外融资，这时派发现金股利会使现金流短缺的情况更加突出，也不利于企业的发展。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.48456051492892593,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "最后，自由现金流量还与现金股利呈显著正相关关系，当企业自由现金流充足时，企业分配的现金股利也会越多。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.17234057795150998,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.17234057795150998,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由于表5.4中显示各变量之间都存在相关关系，因此为了结果的正确性，还需要对该模型的共线性问题进行分析。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.1667615108791751,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1667615108791751,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表 5.5  VIF 检验"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['Variable', 'VIF', '1/VIF'], ['Cd* Cur', '2.95', '0.338411'], ['Cd', '2.95', '0.339269'], ['Plan * Cd', '1.36', '0.734044'], ['Plan', '1.16', '0.863470'], ['Cur', '1.16', '0.863809'], ['Lnsize', '1.14', '0.878890'], ['Lev', '1.08', '0.926130'], ['Shareholder', '1.06', '0.944493'], ['Mean VIF', '1.61', '']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.16952412559909016,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16952412559909016,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表5.5是VIF检验，检验模型是否存在多重共线性，由表可以看出，数据并没有多重共线性的问题（所有自变量的VIF都小于10），因此可以利用原回归模型进行继续分析。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "5.5.3 回归结果分析",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6926462891127371,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6926462891127371,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文在2006年证监会颁布《上市公司证券管理办法》的背景下，剔除股票股利的影响，对2006—2011年我国制造行业几种不同类型的上市公司的价值变化进行回归分析，将全部变量与企业价值托宾Q值进行线性回归，结果如表5.6所示。"
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "4",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（1）整体分析",
+              "children": []
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7552851272397612,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7552851272397612,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从模型一中可以看到，相对于总的模型来说，其拟合优度为0.2019，检验模型的线性关系是否显著的F检验值的结果是128.07，且显著性水平为0.0000，以此可以认为：根据2006-2011年的样本数据，企业价值参数托宾Q值与这些解释变量存在显著地线性相关关系，在半强制性分红政策的背景下，企业的价值受到企业现金股利、融资计划、自由现金流量等一个或多个因素共同影响。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.051044490524413524,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.051044490524413524,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表5.6  实证结果"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[[\"T'Q\", '模型一', '模型二', '模型三'], ['Cd', '4.16321***（6.47）', '-1.163497（-1.26）', '0.4873263（0.20）'], ['Plan', '0.1541552***（2.08）', '0.0332794（0.37）', '0.0758835（0.53）'], ['Plan*Cd', '-2.986225（-1.95）', '7.425462***（2.42）', '-2.618781（-1.02）'], ['Cur', '1.843848***（7.19）', '2.413997***（6.63）', '0.2980259（0.39）'], ['Cd*Cur', '-8.188567（-1.73）', '32.42385***（4.62）', '-94.78503***（-7.88）'], ['Lnsize', '-0.4025094（-22.22）', '-0.3568174（-17.55）', '-0.5158104（-14.23）'], ['Lev', '-0.7933888（-8.45）', '-0.9396808（-8.89）', '-0.2210193（-1.21）'], ['shareholder', '4.113865（18.18）', '4.068891（16.07）', '3.7104（8.23）'], ['Cons', '10.70113（28.05）', '9.725651（22.58）', '12.90429（16.98）'], ['R-squared', '0.2019', '0.2121', '0.3467'], ['F', '128.07', '109.42', '52.34']]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "2",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "检验"
+      ],
+      "chosen": false,
+      "text_content": "5.5.4 稳健性检验",
+      "children": []
+    }
+  ],
+  "结论与分析": [
+    {
+      "type": 0,
+      "outLvl": "2",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "结论与分析"
+      ],
+      "chosen": false,
+      "text_content": "5.5.5 实证结论",
+      "children": []
+    }
+  ],
+  "实证研究类v3": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "检验",
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "5.5 实证检验及分析",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "实证研究类v3"
+          ],
+          "chosen": false,
+          "text_content": "5.5.1 描述性统计分析",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.20946467830967133,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.20946467830967133,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "为了对所选定的变量有总体的了解，本文对所有变量进行了描述性统计分析，初步说明样本情况，为后面的分析奠定理论基础。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.25586482877633554,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.25586482877633554,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表5.3  实证分析变量的描述性统计分析"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['Variable', 'Obs', 'Mean', 'Std. Dev.', 'Min', 'Max'], ['stkcd', '4107', '353655.4', '295044.7', '4', '601607'], [\"T'Q\", '4101', '1.959499', '1.372127', '.584197', '21.89564'], ['Cd', '4064', '.0160428', '.0515527', '-.0859535', '2.336183'], ['Plan', '4107', '.0854638', '.2796047', '0', '1'], ['Cur', '4107', '.0537082', '.0809795', '-.4700149', '1.06904'], ['lnsize', '4107', '21.66642', '1.140475', '18.27', '26.49'], ['lev', '4107', '.505654', '.2135401', '.00708', '5.493646'], ['shareholder', '4107', '.0529252', '.0876365', '2.00e-06', '.67408']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.229194323129198,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2266173619457056,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表5.3描述了我国制造业上市公司2006—2011年共六年的4107个观测值的均值、中位数、最小值、最大值和标准差。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5202698323917941,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从表中可以看到，全样本约有352家上市公司（约占8.54%）在实验期间内有再融资计划，这些公司多数为拥有良好投资机会、处于高成长阶段且自由现金流短缺的企业。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4823071287916982,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "托宾Q值最大值与最小值相差较大，均值为2，说明市场对企业的前景看好，具有投资价值。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.7692953571258785,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.494672582347107,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Cd均值仅为每股0.0160428元，说明企业采用现金分红的比例非常低。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5509013200416198,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "企业自由现金流的最大值为1.06904元，均值为0.0537082元，小于0.1，企业留存的自由现金普遍偏低，现金作为企业最重要的流动资产，其充足性对企业的生存起着至关重要的作用，自由现金流短缺阻碍了企业的日常经营，因此直接的现金分红可能对现金流不足的企业带来负面影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3420436151096039,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从规模方面看，其均值为21.66642，标准差为1.140475，说明制造企业的规模方面存在差距，因此需要将其作为控制变量。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.38167783962754753,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "制造行业企业连续六年的平均资产负债率达到50.56%，较为平稳，总体来说财务风险较低，但是最大值和最小值之间存在明显过大的差异，因此为了保持样本的一致性，选择将其作为控制变量。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "检验"
+          ],
+          "chosen": false,
+          "text_content": "5.5.2 Pearson相关分析和VIF检验",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.05650864327562542,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.05650864327562542,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "运用STATA软件计算的各变量之间的相关系数如表5.4所示"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0005322334916787268,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0005322334916787268,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表5.4  Pearson相关系数矩阵"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['', \"T'Q\", 'Cd', 'Plan', 'Cur', 'lnsize', 'lev', 'shareholder'], [\"T'Q\", '1.0000', '', '', '', '', '', ''], ['Cd', '0.1498*1.0000', '1.0000', '', '', '', '', ''], ['Plan', '-0.0436*0.0052', '-0.00180.9068', '1.0000', '', '', '', ''], ['Cur', '0.1156*0.0000', '0.1260*0.0000', '-0.02320.1379', '1.0000', '', '', ''], ['lnsize', '-0.2980*0.0000', '-0.02320.1392', '0.1588*0.0000', '0.0472*0.0025', '1.0000', '', ''], ['Lev', '-0.2125*0.0000', '-0.1327*0.0000', '-0.01410.3656', '-0.1196*0.0000', '0.2020*0.0000', '1.0000', ''], ['shareholder', '0.1862*0.0000', '-0.01620.3017', '-0.0471*0.0025', '0.01120.4743', '0.2111*0.0000', '0.02340.1335', '1.0000']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 3.127695802370843,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6369719443189297,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由表5.4可以看出，现金股利派发、融资计划、自由现金流量均与企业价值显著相关，且现金股利派发、自由现金流与企业价值正相关，融资计划与企业价值负相关。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5414837707162504,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "现金股利作为投资者收到回报的一种重要方式，可以向投资者传达企业发展前景的信号，利于投资者的决策，因此现金分红会提升企业的市场价值。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.637190126242819,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "自由现金流与企业价值正相关是因为现金流是企业的正常经营的血液，现金流越稳定，则企业的整体风险就越小，投资者对其前景持乐观态度，因而会影响到企业价值。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7111684299387936,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而融资计划与企业呈负相关，可能是因为投资者对企业的未来发展不确定，企业融资也被认为是投资过度的表现，因而对企业的评价下降，对企业价值产生影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6008815311540509,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "控制变量资产负债率与企业价值呈负相关关系，主要是因为资产负债率属于企业的长期偿债能力，该数值越高，越说明企业负债经营的程度越高，当企业的收益无法补偿相关费用时就会产生经营困难的状况，因此企业的资产负债率应处于一定的安全范围内，当超出极限时，会对企业的价值产生负向的影响。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.0131794624510566,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5286189475221306,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "此外，融资计划还与现金股利呈负相关关系，这可能源于融资本身就与派发股利相互矛盾，当企业现金流不足以支持企业发展时才会向外融资，这时派发现金股利会使现金流短缺的情况更加突出，也不利于企业的发展。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.48456051492892593,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "最后，自由现金流量还与现金股利呈显著正相关关系，当企业自由现金流充足时，企业分配的现金股利也会越多。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.17234057795150998,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.17234057795150998,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由于表5.4中显示各变量之间都存在相关关系，因此为了结果的正确性，还需要对该模型的共线性问题进行分析。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.1667615108791751,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1667615108791751,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表 5.5  VIF 检验"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[['Variable', 'VIF', '1/VIF'], ['Cd* Cur', '2.95', '0.338411'], ['Cd', '2.95', '0.339269'], ['Plan * Cd', '1.36', '0.734044'], ['Plan', '1.16', '0.863470'], ['Cur', '1.16', '0.863809'], ['Lnsize', '1.14', '0.878890'], ['Lev', '1.08', '0.926130'], ['Shareholder', '1.06', '0.944493'], ['Mean VIF', '1.61', '']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.16952412559909016,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16952412559909016,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表5.5是VIF检验，检验模型是否存在多重共线性，由表可以看出，数据并没有多重共线性的问题（所有自变量的VIF都小于10），因此可以利用原回归模型进行继续分析。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "5.5.3 回归结果分析",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6926462891127371,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6926462891127371,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本文在2006年证监会颁布《上市公司证券管理办法》的背景下，剔除股票股利的影响，对2006—2011年我国制造行业几种不同类型的上市公司的价值变化进行回归分析，将全部变量与企业价值托宾Q值进行线性回归，结果如表5.6所示。"
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "4",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "（1）整体分析",
+              "children": []
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7552851272397612,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7552851272397612,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从模型一中可以看到，相对于总的模型来说，其拟合优度为0.2019，检验模型的线性关系是否显著的F检验值的结果是128.07，且显著性水平为0.0000，以此可以认为：根据2006-2011年的样本数据，企业价值参数托宾Q值与这些解释变量存在显著地线性相关关系，在半强制性分红政策的背景下，企业的价值受到企业现金股利、融资计划、自由现金流量等一个或多个因素共同影响。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.051044490524413524,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.051044490524413524,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表5.6  实证结果"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "table_data": "[[\"T'Q\", '模型一', '模型二', '模型三'], ['Cd', '4.16321***（6.47）', '-1.163497（-1.26）', '0.4873263（0.20）'], ['Plan', '0.1541552***（2.08）', '0.0332794（0.37）', '0.0758835（0.53）'], ['Plan*Cd', '-2.986225（-1.95）', '7.425462***（2.42）', '-2.618781（-1.02）'], ['Cur', '1.843848***（7.19）', '2.413997***（6.63）', '0.2980259（0.39）'], ['Cd*Cur', '-8.188567（-1.73）', '32.42385***（4.62）', '-94.78503***（-7.88）'], ['Lnsize', '-0.4025094（-22.22）', '-0.3568174（-17.55）', '-0.5158104（-14.23）'], ['Lev', '-0.7933888（-8.45）', '-0.9396808（-8.89）', '-0.2210193（-1.21）'], ['shareholder', '4.113865（18.18）', '4.068891（16.07）', '3.7104（8.23）'], ['Cons', '10.70113（28.05）', '9.725651（22.58）', '12.90429（16.98）'], ['R-squared', '0.2019', '0.2121', '0.3467'], ['F', '128.07', '109.42', '52.34']]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "4",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究假设",
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "（2）回归结果与原假设对比分析",
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,3184 @@
+{
+  "摘要": [],
+  "研究背景": [],
+  "研究目的": [
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究目的",
+        "研究综述",
+        "数据与样本"
+      ],
+      "chosen": false,
+      "text_content": "第 1 章  绪论",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "1.1 选题缘起",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "之所以涉足并倾情于城市墓园设计的研究，缘起于个人近年来与至亲长辈生死别离的经历与困惑。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "祖父生前久病缠身，弥留之际仍苦恼着寻觅身后长眠之地。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "按理说来，祖父户籍在城市，往生火化后多是葬在城边的墓园之中，可老人不喜墓园冷清、孤寂，临终决定把墓安在家乡，落叶归根。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "火葬送别之后，骨灰暂寄在墓园之中，站在肃穆沉静的墓园里，不禁令人思考，为何城边如此ft明水秀之地却让人没有归属感，是因为乡土情愫，生死哲学还是因为墓园的环境令人避之若浼。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "带着重重的困惑，我开始关注现代城市墓园的发展，追溯传统的生死哲学，期待着发现沉默中泛着和煦光辉的景观墓园。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "伴随着逐步的了解，墓园发展的现状困境和面临的巨大挑战让我越发觉得时间紧迫。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "改革开放后，国家大力推行新型殡葬产业发展，一时间墓园等产业成为暴利，利益冲昏头脑的人们放弃了对墓园长期发展的思考，以至于程式化的墓园出现太多。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "它伫立城边，总是照着视觉惯例告诉人们：它是墓园，它代表着生死，让人生畏。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "这种惯性麻痹着人们的思想，加以传统生死哲学影响，墓园在人们的印象中越发阴冷，恐怖。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "当社会城市化不断推进，城市飞速扩张，并不可避免的是墓园出现在人们生活的环境之中，“阴阳争地”的矛盾开始成为社会话题。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "可是我们却无法在飞速发展城市的同时减缓城市墓园的发展，因为头上还压着社会老龄化的大ft，老龄化社会必然给墓园带来更多需求，而且在未来社会中这一现象将会日趋严重，这让我陷入了更为长久的沉思。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "现实中的种种困惑迫使我静下心不断思索墓园发展的症结所在。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "怎样寻求墓园在城市用地中的合理规划，如何在尊重传统生死哲学的基础上以人为本，谋求改变传统墓园阴森冰冷的环境，怎样的新型生态墓园才能应对来自未来社会的长期挑战。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "带着这些疑问，我进入到了论文的调研写作中，期望能找到现行有效的解决之道。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究目的"
+          ],
+          "chosen": false,
+          "text_content": "1.2 研究的目的和内容",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": true,
+              "part": [
+                "研究目的"
+              ],
+              "chosen": false,
+              "text_content": "1.2.1 研究的目的",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在城市化进程不断发展中，通过科学的规划理念和新技术对生态可持续的支持探寻适用于社会长期发展的生态墓园，解决国内现存墓园大量的土地浪费和改善墓园阴森冰冷的环境印象。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "为城市生态景观墓园的可持续发展提供建设性的理论支撑和寻找能够适用于其中的新技术和设计策略。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1.2.2 研究的内容",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "本论文通过对中西方传统殡葬文化的追寻，老龄化增长最快的川渝地区城市墓园实地调查研究，了解中西方不同的殡葬哲学、现有的殡葬模式、墓园发展的现状问题等信息。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "并针对这些问题挖掘出城市规划有机疏散理论体系下生态墓园的规划方式，将集成建筑、集成艺术等能够被中国传统生死哲学接受的，具备可持续性的新技术、艺术运用到城市生态墓园的设计中来，在传承传统殡葬思想的基础上，做到新技术与旧思想的融合。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "寻找能够解决墓园现状问题和应对未来社会墓地恐慌的城市集成性生态墓园的营造方法。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [
+            "数据与样本"
+          ],
+          "chosen": false,
+          "text_content": "1.3 研究的方法",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1.3.1 文献检索",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在论文写作初期对有关于墓园景观规划、墓园景观设计的著作、期刊、论文等资料和对设计营造方法中的绿色集成建筑技术，集成艺术的表达方式等进行资料收集、整理、分析。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "从而进一步支撑论文的撰写。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1.3.2 实地调研考察",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "对重庆、成都、泸州等地城市墓园进行实地考察，根据墓园环境观察、墓园工作人员问卷调查、墓园殡葬模式记录等方式，具体的分析墓园发展的现状问题。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "并对调研对象之中的泸州南寿ft墓园发展历史、现状地形和墓园文化等进行全面的基础研究，为毕业设计打好基础。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [
+                "数据与样本"
+              ],
+              "chosen": false,
+              "text_content": "1.3.3 数据统计分析",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "通过对中国人口年龄段分布数据、国家年均死亡人口及墓地新占地面积数据、殡葬模式接受度对比值、永久性墓地耗材数据统计等数量关系分析研究，对墓园发展现有问题做正确解释，并确保未来墓园用地恐慌的预测准确性，是本论文关键论点成立的重要佐证。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1.3.4 归纳总结",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "通过理论与实践相结合的对比研究分析，总结出解决墓园发展现状问题的设计方法，再进一步指导城市集成性生态墓园的营造，并提供一定的理论依据。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [
+            "研究综述"
+          ],
+          "chosen": false,
+          "text_content": "1.4 国内外研究现状概述",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [
+                "研究综述"
+              ],
+              "chosen": false,
+              "text_content": "1.4.1 国外研究现状概述",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在西方国家，墓园是重要的园林艺术公园，它不仅是人们缅怀先人和追忆历史场所，也是人们散步游览和亲近大自然的地方，同时还在城市中担负着重要的社会文化和自然生态环境保护功能。而早在景观设计成为专业之前，墓园的规划和设计就成为欧美国家重要的景观艺术传播媒介，对于宗教的信仰和文明的不同"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "发展使得他们认为墓园能对周边的环境与人产生巨大且持久的影响力，也是观光者最爱去的休闲场所。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "从1796年美国出现第一个经过设计的墓园出现至今，墓园在西方就成了追思者慰藉生命，休闲者享受宁静的公共景观场所，墓园用地也正式进入了城市休闲公园用地类型。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在日本《日本城市绿地空间》一书中日本学者甚至将墓园定义为“在墓地上增加庭院和公园，将墓园经营为宁静的特殊福利园。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "”在西班牙加泰罗尼亚地区伊瓜拉达墓园的设计甚至成为了现代景观建筑设计的经典之作，其充满诗意的环境，以及墓园中纳骨墙对集成预制混凝土技术的运用为墓园的可持续性提供了新的形式。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1.4.2 国内研究现状概述",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在我国，由于千百年来家族宗亲制度的影响，生死观及殡葬文化、丧葬礼仪一直都是森冷，严肃的形象出现。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "以至发展到现代社会，墓园研究仍是以社会学、考古学、风水学居多，而关于墓园生态、建筑等方面的研究相对较为薄弱。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在我国的城市用地规划类型中甚至将墓园用地归纳到U6类型（市政设施特殊用地）之中，不难看出在传统思想的传承下，人们对于生死的敬畏。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "伴随着近年来墓园用地问题的日趋严重以及2011年国家《殡葬绿皮书》的出台，社会各界人士开始将目光转向到生态墓园的规划中来，致力于将印象中阴森恐怖的墓园转变为一个艺术、生态、文化的城市公园景观中来。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "墓园景观规划及景观设计体系将不断的完善和丰富起来。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "上海福寿园等知名墓园规划设计，虽然没有摆脱对传统永久性墓地的依赖，却对墓园的可持续发展规划方法、墓园人文生态环境设计作出了重要贡献。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究综述": [
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究目的",
+        "研究综述",
+        "数据与样本"
+      ],
+      "chosen": false,
+      "text_content": "第 1 章  绪论",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "1.1 选题缘起",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "之所以涉足并倾情于城市墓园设计的研究，缘起于个人近年来与至亲长辈生死别离的经历与困惑。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "祖父生前久病缠身，弥留之际仍苦恼着寻觅身后长眠之地。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "按理说来，祖父户籍在城市，往生火化后多是葬在城边的墓园之中，可老人不喜墓园冷清、孤寂，临终决定把墓安在家乡，落叶归根。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "火葬送别之后，骨灰暂寄在墓园之中，站在肃穆沉静的墓园里，不禁令人思考，为何城边如此ft明水秀之地却让人没有归属感，是因为乡土情愫，生死哲学还是因为墓园的环境令人避之若浼。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "带着重重的困惑，我开始关注现代城市墓园的发展，追溯传统的生死哲学，期待着发现沉默中泛着和煦光辉的景观墓园。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "伴随着逐步的了解，墓园发展的现状困境和面临的巨大挑战让我越发觉得时间紧迫。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "改革开放后，国家大力推行新型殡葬产业发展，一时间墓园等产业成为暴利，利益冲昏头脑的人们放弃了对墓园长期发展的思考，以至于程式化的墓园出现太多。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "它伫立城边，总是照着视觉惯例告诉人们：它是墓园，它代表着生死，让人生畏。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "这种惯性麻痹着人们的思想，加以传统生死哲学影响，墓园在人们的印象中越发阴冷，恐怖。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "当社会城市化不断推进，城市飞速扩张，并不可避免的是墓园出现在人们生活的环境之中，“阴阳争地”的矛盾开始成为社会话题。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "可是我们却无法在飞速发展城市的同时减缓城市墓园的发展，因为头上还压着社会老龄化的大ft，老龄化社会必然给墓园带来更多需求，而且在未来社会中这一现象将会日趋严重，这让我陷入了更为长久的沉思。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "现实中的种种困惑迫使我静下心不断思索墓园发展的症结所在。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "怎样寻求墓园在城市用地中的合理规划，如何在尊重传统生死哲学的基础上以人为本，谋求改变传统墓园阴森冰冷的环境，怎样的新型生态墓园才能应对来自未来社会的长期挑战。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "带着这些疑问，我进入到了论文的调研写作中，期望能找到现行有效的解决之道。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究目的"
+          ],
+          "chosen": false,
+          "text_content": "1.2 研究的目的和内容",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": true,
+              "part": [
+                "研究目的"
+              ],
+              "chosen": false,
+              "text_content": "1.2.1 研究的目的",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在城市化进程不断发展中，通过科学的规划理念和新技术对生态可持续的支持探寻适用于社会长期发展的生态墓园，解决国内现存墓园大量的土地浪费和改善墓园阴森冰冷的环境印象。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "为城市生态景观墓园的可持续发展提供建设性的理论支撑和寻找能够适用于其中的新技术和设计策略。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1.2.2 研究的内容",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "本论文通过对中西方传统殡葬文化的追寻，老龄化增长最快的川渝地区城市墓园实地调查研究，了解中西方不同的殡葬哲学、现有的殡葬模式、墓园发展的现状问题等信息。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "并针对这些问题挖掘出城市规划有机疏散理论体系下生态墓园的规划方式，将集成建筑、集成艺术等能够被中国传统生死哲学接受的，具备可持续性的新技术、艺术运用到城市生态墓园的设计中来，在传承传统殡葬思想的基础上，做到新技术与旧思想的融合。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "寻找能够解决墓园现状问题和应对未来社会墓地恐慌的城市集成性生态墓园的营造方法。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [
+            "数据与样本"
+          ],
+          "chosen": false,
+          "text_content": "1.3 研究的方法",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1.3.1 文献检索",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在论文写作初期对有关于墓园景观规划、墓园景观设计的著作、期刊、论文等资料和对设计营造方法中的绿色集成建筑技术，集成艺术的表达方式等进行资料收集、整理、分析。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "从而进一步支撑论文的撰写。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1.3.2 实地调研考察",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "对重庆、成都、泸州等地城市墓园进行实地考察，根据墓园环境观察、墓园工作人员问卷调查、墓园殡葬模式记录等方式，具体的分析墓园发展的现状问题。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "并对调研对象之中的泸州南寿ft墓园发展历史、现状地形和墓园文化等进行全面的基础研究，为毕业设计打好基础。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [
+                "数据与样本"
+              ],
+              "chosen": false,
+              "text_content": "1.3.3 数据统计分析",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "通过对中国人口年龄段分布数据、国家年均死亡人口及墓地新占地面积数据、殡葬模式接受度对比值、永久性墓地耗材数据统计等数量关系分析研究，对墓园发展现有问题做正确解释，并确保未来墓园用地恐慌的预测准确性，是本论文关键论点成立的重要佐证。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1.3.4 归纳总结",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "通过理论与实践相结合的对比研究分析，总结出解决墓园发展现状问题的设计方法，再进一步指导城市集成性生态墓园的营造，并提供一定的理论依据。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究综述"
+          ],
+          "chosen": false,
+          "text_content": "1.4 国内外研究现状概述",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": true,
+              "part": [
+                "研究综述"
+              ],
+              "chosen": false,
+              "text_content": "1.4.1 国外研究现状概述",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在西方国家，墓园是重要的园林艺术公园，它不仅是人们缅怀先人和追忆历史场所，也是人们散步游览和亲近大自然的地方，同时还在城市中担负着重要的社会文化和自然生态环境保护功能。而早在景观设计成为专业之前，墓园的规划和设计就成为欧美国家重要的景观艺术传播媒介，对于宗教的信仰和文明的不同"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "发展使得他们认为墓园能对周边的环境与人产生巨大且持久的影响力，也是观光者最爱去的休闲场所。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "从1796年美国出现第一个经过设计的墓园出现至今，墓园在西方就成了追思者慰藉生命，休闲者享受宁静的公共景观场所，墓园用地也正式进入了城市休闲公园用地类型。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在日本《日本城市绿地空间》一书中日本学者甚至将墓园定义为“在墓地上增加庭院和公园，将墓园经营为宁静的特殊福利园。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "”在西班牙加泰罗尼亚地区伊瓜拉达墓园的设计甚至成为了现代景观建筑设计的经典之作，其充满诗意的环境，以及墓园中纳骨墙对集成预制混凝土技术的运用为墓园的可持续性提供了新的形式。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1.4.2 国内研究现状概述",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在我国，由于千百年来家族宗亲制度的影响，生死观及殡葬文化、丧葬礼仪一直都是森冷，严肃的形象出现。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "以至发展到现代社会，墓园研究仍是以社会学、考古学、风水学居多，而关于墓园生态、建筑等方面的研究相对较为薄弱。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在我国的城市用地规划类型中甚至将墓园用地归纳到U6类型（市政设施特殊用地）之中，不难看出在传统思想的传承下，人们对于生死的敬畏。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "伴随着近年来墓园用地问题的日趋严重以及2011年国家《殡葬绿皮书》的出台，社会各界人士开始将目光转向到生态墓园的规划中来，致力于将印象中阴森恐怖的墓园转变为一个艺术、生态、文化的城市公园景观中来。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "墓园景观规划及景观设计体系将不断的完善和丰富起来。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "上海福寿园等知名墓园规划设计，虽然没有摆脱对传统永久性墓地的依赖，却对墓园的可持续发展规划方法、墓园人文生态环境设计作出了重要贡献。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究假设": [],
+  "数据与样本": [
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究目的",
+        "研究综述",
+        "数据与样本"
+      ],
+      "chosen": false,
+      "text_content": "第 1 章  绪论",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "1.1 选题缘起",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "之所以涉足并倾情于城市墓园设计的研究，缘起于个人近年来与至亲长辈生死别离的经历与困惑。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "祖父生前久病缠身，弥留之际仍苦恼着寻觅身后长眠之地。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "按理说来，祖父户籍在城市，往生火化后多是葬在城边的墓园之中，可老人不喜墓园冷清、孤寂，临终决定把墓安在家乡，落叶归根。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "火葬送别之后，骨灰暂寄在墓园之中，站在肃穆沉静的墓园里，不禁令人思考，为何城边如此ft明水秀之地却让人没有归属感，是因为乡土情愫，生死哲学还是因为墓园的环境令人避之若浼。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "带着重重的困惑，我开始关注现代城市墓园的发展，追溯传统的生死哲学，期待着发现沉默中泛着和煦光辉的景观墓园。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "伴随着逐步的了解，墓园发展的现状困境和面临的巨大挑战让我越发觉得时间紧迫。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "改革开放后，国家大力推行新型殡葬产业发展，一时间墓园等产业成为暴利，利益冲昏头脑的人们放弃了对墓园长期发展的思考，以至于程式化的墓园出现太多。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "它伫立城边，总是照着视觉惯例告诉人们：它是墓园，它代表着生死，让人生畏。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "这种惯性麻痹着人们的思想，加以传统生死哲学影响，墓园在人们的印象中越发阴冷，恐怖。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "当社会城市化不断推进，城市飞速扩张，并不可避免的是墓园出现在人们生活的环境之中，“阴阳争地”的矛盾开始成为社会话题。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "可是我们却无法在飞速发展城市的同时减缓城市墓园的发展，因为头上还压着社会老龄化的大ft，老龄化社会必然给墓园带来更多需求，而且在未来社会中这一现象将会日趋严重，这让我陷入了更为长久的沉思。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "现实中的种种困惑迫使我静下心不断思索墓园发展的症结所在。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "怎样寻求墓园在城市用地中的合理规划，如何在尊重传统生死哲学的基础上以人为本，谋求改变传统墓园阴森冰冷的环境，怎样的新型生态墓园才能应对来自未来社会的长期挑战。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "带着这些疑问，我进入到了论文的调研写作中，期望能找到现行有效的解决之道。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究目的"
+          ],
+          "chosen": false,
+          "text_content": "1.2 研究的目的和内容",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": true,
+              "part": [
+                "研究目的"
+              ],
+              "chosen": false,
+              "text_content": "1.2.1 研究的目的",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在城市化进程不断发展中，通过科学的规划理念和新技术对生态可持续的支持探寻适用于社会长期发展的生态墓园，解决国内现存墓园大量的土地浪费和改善墓园阴森冰冷的环境印象。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "为城市生态景观墓园的可持续发展提供建设性的理论支撑和寻找能够适用于其中的新技术和设计策略。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1.2.2 研究的内容",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "本论文通过对中西方传统殡葬文化的追寻，老龄化增长最快的川渝地区城市墓园实地调查研究，了解中西方不同的殡葬哲学、现有的殡葬模式、墓园发展的现状问题等信息。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "并针对这些问题挖掘出城市规划有机疏散理论体系下生态墓园的规划方式，将集成建筑、集成艺术等能够被中国传统生死哲学接受的，具备可持续性的新技术、艺术运用到城市生态墓园的设计中来，在传承传统殡葬思想的基础上，做到新技术与旧思想的融合。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "寻找能够解决墓园现状问题和应对未来社会墓地恐慌的城市集成性生态墓园的营造方法。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "数据与样本"
+          ],
+          "chosen": false,
+          "text_content": "1.3 研究的方法",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1.3.1 文献检索",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在论文写作初期对有关于墓园景观规划、墓园景观设计的著作、期刊、论文等资料和对设计营造方法中的绿色集成建筑技术，集成艺术的表达方式等进行资料收集、整理、分析。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "从而进一步支撑论文的撰写。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1.3.2 实地调研考察",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "对重庆、成都、泸州等地城市墓园进行实地考察，根据墓园环境观察、墓园工作人员问卷调查、墓园殡葬模式记录等方式，具体的分析墓园发展的现状问题。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "并对调研对象之中的泸州南寿ft墓园发展历史、现状地形和墓园文化等进行全面的基础研究，为毕业设计打好基础。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": true,
+              "part": [
+                "数据与样本"
+              ],
+              "chosen": false,
+              "text_content": "1.3.3 数据统计分析",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "通过对中国人口年龄段分布数据、国家年均死亡人口及墓地新占地面积数据、殡葬模式接受度对比值、永久性墓地耗材数据统计等数量关系分析研究，对墓园发展现有问题做正确解释，并确保未来墓园用地恐慌的预测准确性，是本论文关键论点成立的重要佐证。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1.3.4 归纳总结",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "通过理论与实践相结合的对比研究分析，总结出解决墓园发展现状问题的设计方法，再进一步指导城市集成性生态墓园的营造，并提供一定的理论依据。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究综述"
+          ],
+          "chosen": false,
+          "text_content": "1.4 国内外研究现状概述",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": true,
+              "part": [
+                "研究综述"
+              ],
+              "chosen": false,
+              "text_content": "1.4.1 国外研究现状概述",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在西方国家，墓园是重要的园林艺术公园，它不仅是人们缅怀先人和追忆历史场所，也是人们散步游览和亲近大自然的地方，同时还在城市中担负着重要的社会文化和自然生态环境保护功能。而早在景观设计成为专业之前，墓园的规划和设计就成为欧美国家重要的景观艺术传播媒介，对于宗教的信仰和文明的不同"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "发展使得他们认为墓园能对周边的环境与人产生巨大且持久的影响力，也是观光者最爱去的休闲场所。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "从1796年美国出现第一个经过设计的墓园出现至今，墓园在西方就成了追思者慰藉生命，休闲者享受宁静的公共景观场所，墓园用地也正式进入了城市休闲公园用地类型。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在日本《日本城市绿地空间》一书中日本学者甚至将墓园定义为“在墓地上增加庭院和公园，将墓园经营为宁静的特殊福利园。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "”在西班牙加泰罗尼亚地区伊瓜拉达墓园的设计甚至成为了现代景观建筑设计的经典之作，其充满诗意的环境，以及墓园中纳骨墙对集成预制混凝土技术的运用为墓园的可持续性提供了新的形式。"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1.4.2 国内研究现状概述",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在我国，由于千百年来家族宗亲制度的影响，生死观及殡葬文化、丧葬礼仪一直都是森冷，严肃的形象出现。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "以至发展到现代社会，墓园研究仍是以社会学、考古学、风水学居多，而关于墓园生态、建筑等方面的研究相对较为薄弱。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "在我国的城市用地规划类型中甚至将墓园用地归纳到U6类型（市政设施特殊用地）之中，不难看出在传统思想的传承下，人们对于生死的敬畏。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "伴随着近年来墓园用地问题的日趋严重以及2011年国家《殡葬绿皮书》的出台，社会各界人士开始将目光转向到生态墓园的规划中来，致力于将印象中阴森恐怖的墓园转变为一个艺术、生态、文化的城市公园景观中来。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "墓园景观规划及景观设计体系将不断的完善和丰富起来。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "上海福寿园等知名墓园规划设计，虽然没有摆脱对传统永久性墓地的依赖，却对墓园的可持续发展规划方法、墓园人文生态环境设计作出了重要贡献。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "变量定义": [],
+  "检验": [],
+  "结论与分析": [
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "结论与分析"
+      ],
+      "chosen": false,
+      "text_content": "第六章  总结",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "结论与分析"
+          ],
+          "chosen": false,
+          "text_content": "6.1 工作总结",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "墓园是一处能够收集不同位面的时空的场所，它不断地收纳现实以及过去的回忆，并包容着现在与未来的交织，正如生命如同圆环在过去、现在以及未来之间循环一般。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "城市集成性生态墓园的营造，不仅需要思考殡葬文化产生的缘由，熟知不同文化的殡葬模式发展历史，并从中总结出传承殡葬模式在中国人思想中的重要地位和传承意义。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "得出了在提倡新的生态殡葬模式的社会大环境下，不应该摒弃或全盘否定“入土为安”思想的原因以及保持传统殡葬文化基础观念上营造现代景观墓园的必要性；还需要仔细分析墓园的现状，通过城市中生者的危机辩证的思考“逝者之城”中逝者未来的困境；提出创新性的以科学规划理论的借鉴运用和社会数据分析为基础，力求保持城市墓园自然生态环境和改善墓园人文生态环境的城市生态墓园规划方法；并且运用可持续可变可移动的绿色建筑技术和同样可持续可移动的艺术表达方式将提出的城市生态墓园规划思想落到细节，将创新性的墓园设计方法通过细节落到实处，使之成为可行的兼顾历史、现在与将来的城市集成性生态墓园。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "6.2 工作展望",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "从本文观点最初的提出，到城市生态墓园规划方法、集成建筑技术与集成艺术的运用都有不足之处，在之后的研究工作中应对城市集成性生态墓园的具体景观规划设计策略在实际修建过程中出现的问题，对其进行总结完善，不断充实论文框架内容。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在此基础上，提出更为合理完善更具可行性的生态墓园营造方法，有利于解决城市化进程中人口负增长所带来的墓园危机，给未来的城市墓园发展提供新方向。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "致  谢"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "论文写完全稿已经有一段时间了，在之前的几次初稿中，我的致谢这部分总是空着的，我清楚地明白，当我写完这一部分，我也快从这里离开。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在今天看来，论文从最初的写作到完成总是不完美的，从一开始的寄予厚望到后来的欲言又止，我总是反复折磨对自己抱有的厚望。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "到终于写完的时候，我却没有了疲惫，而是百感交集。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "回到重庆的三年求学生涯，将在此时划上一个句号，美好的大学生活也将关上大门，至此，我也将再次走出校门，回到社会。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "首先，要感谢我的父母、家人，没有他们的鼓励与支持，我没有办法鼓起勇气重回校园，更没有办法解决自己在人生与专业上的困惑。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对于不擅表达情感的我而言，或许这样的机会，我才能放开声音对他们说声谢谢！在26年的人生路程中，他们教会了我太多太多，让我成为能够担当起人生艰难与困苦的男人，是我成长的不竭动力。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "这三年的时光里，无论痛苦与悲伤，都将让我终身难忘，也是我论文直面生死的依仗。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "其次，要感谢我的老师们，没有他们，我在硕士研究生阶段不可能取得进步与成长。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "感谢我的导师龙国跃教授，这篇论文是在龙老师的悉心指导下完成的，从论文的选题开始，一直到构思、定稿时刻给予我鞭策与鼓励；在三年的硕士研究生求学生涯中，龙老师渊博的知识和严谨的学风使我受益终身，在此表示深深的敬意和感谢。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "最后，要感谢我的朋友同学们，没有他们，我重回大学的日子不可能如此的值得留恋。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "感谢缘分与爱，让我成长，助我坚强，也感谢所有给我提供帮助的你们，与大家共同奋斗的日子，深厚的友谊，都是我这一生最宝贵的财富。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "实证研究类v3": [
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "第 3 章  脚踏实地—川渝地区墓园现状调研",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "3.1 调研方法",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本章主要通过实地调研和数据统计分析的方式进行研究。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "实地调研活动主要是针对中国川渝地区的三处墓园进行针对性的调研。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "观察不同的墓园在面对城市化进程中产生的主要矛盾以及传统“入土为安”思想与生态墓园发展的矛盾。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对墓园工作人员进行一对一问卷调查，明确目前墓园发展的状况。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "数据统计分析则通过全国人口普查老龄人口所占比例、国家年均死亡人口及墓地新占地面积数据、殡葬模式接受度对比值等数量关系进行分析研究。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "通过实地考察得出问题，社会数据反映问题的程度，探索目前制约川渝地区墓园发展的关键因素。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "3.2 选择调研区域的必要性",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "根据中国国家统计局数据统计，自2007年以来，中国人口每年的死亡保持在"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "800万-1000万区间，虽然大多数遗体进行了火葬减少殡葬用地，但是火葬后进行的二次土葬现象占到了60％以上。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "每年仍将有7000万平方米的土地变成墓地。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "城市墓园由于早期的短视规划导致了墓园扩张成为全国普遍现象。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "与此同时，根据中国2000年第五次全国人口普查数据统计，65岁以上老龄人口占总人口比重前五的是11.53%、浙江8.84%、江苏8.76%、北京8.36%、天津8.33%，老龄化现象严重的基本是东部沿海经济发达省份。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而到2010年第六次人口普查数据统计，老龄人口占总人口比重前五的省份却变成了重庆11.56%、四川10.95%、江苏10.89%、辽宁10.31%、安徽10.18%。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "川渝地区一跃成为全国老龄化现象的重灾区，伴随着老龄化现象而来的必然是未来人口死亡率的上升。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "所以本论文选择川渝地区城市墓园进行实地调研，了解该地区墓园发展的现状并总结出基础性的问题。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "实证研究类v3"
+          ],
+          "chosen": false,
+          "text_content": "3.3 川渝地区城市墓园调研分析",
+          "children": [
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": true,
+              "part": [
+                "实证研究类v3"
+              ],
+              "chosen": false,
+              "text_content": "3.3.1 重庆市龙台山陵园调研情况分析",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "1）基地概括：重庆市龙台ft陵园地处重庆市九龙坡区含谷镇华新村（图3-1），占地405亩，安葬规模超30万位，是经重庆市政府、市民政局统一规划、立项、批准建造的永久性大型社会公共墓地。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "是以传统风水堪舆为主导，依ft而造，中轴对称规划的现代中式陵园。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "龙台ft陵园是重庆市级样板公墓。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "2）墓园发展现状：重庆市龙台ft陵园是1994年由当时重庆市计划委员会批复立项，1996年重庆市规划局批准规划设计的为了促进重庆市殡葬事业改革和满足人们骨灰安葬需求的大型社会公共墓地。但是在龙台ft陵园（图3-2）的发展过"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "程中，却是经过两期建设，不断追加投资，才达到现有的规模。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "而现有的安葬规模已经渐渐不能满足周边城市市民的需求，2014年重庆市首个市级城市性公益性公墓规划定于离龙台ft陵园相距8公里的含谷镇崇兴村。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "而龙台ft陵园的主要殡葬模式依靠永久性的墓地存放骨灰为主，在陵园规划分区中，这样的永久性墓地占13个区中的8个，剩余的少量墓园用地用于更为生态节地的壁葬（纳骨墙）、草葬、树葬。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "虽然该墓园在整体环境上风格统一，人文生态环境较好，殡葬模式上也采用了传统与生态的结合。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "但在无法进行墓园用地扩张的情况下，龙台ft陵园未来将面临的是“死墓危机”。"
+                    }
+                  ]
+                },
+                {
+                  "type": 4,
+                  "outLvl": "",
+                  "score": 1,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "rId": "rId29"
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": ""
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "图3-1  龙台ft陵园区位"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Fig3-1 Long Tai Mountain cemetery Location"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "资料来源：网络"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "3.3.2 泸州南寿山墓园调研情况分析",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "图3-2  龙台ft陵园"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Fig3-2 Long Tai Mountain cemetery"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "资料来源：网络"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "1）基地概况：泸州市南寿ft墓园位于泸州市江阳区蓝田镇南寿ft（图3-3），始建于1992年，最初占地140余亩，现占地面积200余亩，墓区占园区45％，安葬规模逾10万位。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "是经泸州市人民政府同意、四川省民政厅批准的经营性社会公墓，集祭祀、观光、休闲、园林雕塑于一体的永久性现代中式墓园。"
+                    }
+                  ]
+                },
+                {
+                  "type": 4,
+                  "outLvl": "",
+                  "score": 1,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "rId": "rId32"
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": ""
+                    }
+                  ]
+                },
+                {
+                  "type": 4,
+                  "outLvl": "",
+                  "score": 1,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "rId": "rId31"
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": ""
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "图3-3  南寿ft墓园区位"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Fig3-3 Nan Shou Mountain cemetery Location"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "资料来源：网络"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "图3-4  南寿ft墓园区位"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Fig3-4 Nan Shou Mountain cemetery"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "资料来源：网络"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "2）墓园发展现状：泸州市南寿ft墓园（图3-4）始建至今一直处于用地规模扩张的状态。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "泸州市总人口422万，其中城镇人口为101万，而65岁以上老龄人口在泸州人口比重中占有16％。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "城市周边几个墓园近年来都进行着不同规模的扩张。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "首先，南寿ft墓园是最靠近泸州市城区的墓园，所以墓园需求量一直较大，用地压力也最大。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "而泸州市近年来的城市规划中，联通泸州城区与泸宜渝高速的城南大道距南寿ft墓园仅2公里。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "南寿ft墓园的扩张势必会进入城市主要通道的范围内，“阴阳争地”的现象也将不可避免；其次，南寿ft墓园内现有的人文生态环境较差，虽然本着以人为本的精神划分了众多文化主题的墓区，但是在仅有的90余亩的墓区出现了不包括传统永久性墓地的奇石园、塔林墓、樱花树葬园、太极八卦花葬园、十二生肖天神墓、爱心园、艺术园、忠魂园、天使园等多种不同文化主题的特色墓园（图3-5），墓园内景观元素的运用混乱，原本希望的社会各层次人群都能找到归属感的特色墓园被挤在了一起，加上墓园整体的中式建筑风格，让人无所适从。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "人文生态环境的恶劣也导致了墓园整体环境的恶化。"
+                    }
+                  ]
+                },
+                {
+                  "type": 4,
+                  "outLvl": "",
+                  "score": 1,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "rId": "rId33"
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": ""
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "图3-5  南寿ft墓园—杂乱无序的特色墓园"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "Fig3-5 Nan Shou Mountain cemetery—The cemetery clutter and disorder landscape"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "资料来源：作者自摄自制"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": 0,
+              "outLvl": "2",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "3.3.3 墓园工作人员问卷调查",
+              "children": [
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "分别从对城市对墓园发展的影响、墓园近年来是否扩张、墓园中最受欢迎的殡葬模式、预期中的墓园安葬规模能达到多少、对墓园环境是否满意等方面对墓园工作人员进行问卷调查。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "1）重庆市龙台ft陵园：墓园的位置所在的含谷镇由于被中梁ft分隔在主城区外，所以城市化的用地扩张并没有影响到陵园的用地发展，但是每到节假日由于重庆西面出城过于拥堵，都会有客人来抱怨路上耽搁的时间太长；墓园短时间内应该不会扩张，墓园自身的墓位充足；"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "龙台ft墓园内最受欢迎的是传统墓地、其后依次是草坪葬、树葬、壁葬。"
+                    },
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "选择后三种殡葬模式的部分人群中极少数是因为传统墓地价格较高，多数是从生态角度考虑；预期中的墓园安葬规模应该会由现在的30万增加10万左右；对于墓园的环境非常满意，认为墓园依ft水纵横对称规划，非常合理，艺术墓碑和草坪葬的形式统一而且独具特色。"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "2）泸州市南寿ft墓园：墓园所在的蓝田镇以前都是泸州的城郊，近年来由于城市化的快速推进现在已成进入中心城区范围，周边居住小区与各类产业园区增"
+                    }
+                  ]
+                },
+                {
+                  "type": 1,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "children": [
+                    {
+                      "type": 2,
+                      "outLvl": "",
+                      "score": 0.0,
+                      "selected": false,
+                      "part": [],
+                      "chosen": false,
+                      "text_content": "多，但是暂时还没有出现墓园周边有城市化发展的迹象；墓园短期内应该不会停止扩张，但是应该不会再次大面积征地；南寿ft墓园中最受欢迎的是传统墓地，其后依次是草坪葬、树葬、壁葬、塔葬，选择壁葬或塔葬的多数是政府生态葬推广活动的困难群众；安葬规模如果在扩张的同时再对原有分区进行合理规划的基础上，应该能达到30万；对于墓园内的环境比较满意，只是墓园内提供服务功能的建筑时间较长后显得比较破旧，对墓园各种特色的文化墓区没有太多的感觉。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "3.4 现代墓园殡葬模式接受度调查",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "根据本论文在川渝地区城市墓园的实地调查得出川渝地区现代墓园殡葬模式接受度由高到低依次为：传统墓地＞草坪葬＞树葬＞壁葬（纳骨墙）＞塔葬＞花葬＞生态草葬。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由于川渝地区不靠海，进行海葬的人数极少，经过整理文献数据统计发现，海葬是最不能被中国人传统思想接受的殡葬模式，而影响这一排名的最主要还是“入土为安”的传统思想。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "3.5 墓园发展现状问题分析",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "经过实地调研和收集数据进行的统计分析，得出了城市墓园发展所面临的四大问题：在人口老龄化加速的社会背景下墓园的用地恐慌；传统“入土为安”思想与生态殡葬模式的矛盾；墓园的用地类型到现在为止仍然是市政设施特殊用地，从根本上并未把墓园定义为城市景观公园用地。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "个人墓地年限也并没有进行统一规定，只是不同省份单独限定的不同周期，比如上海市的墓地使用周期为70年，重庆市的墓地使用周期为20年；大多数城市远景规划中并没有把墓园的扩张计算其中，而墓园在不合理扩张也导致了“阴阳争地”、城市边缘地区环境恶劣等问题。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "3.6 本章小结",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本章通过对全国人口普查老龄人口所占比例、国家年均死亡人口及墓地新占地面积数据、殡葬模式接受度对比值等数量关系进行分析研究得出城市墓园发展的现状问题。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "同时对川渝地区三处现代墓园的实地调研，分别从调查对象墓园概括、对象墓园发展现状以及墓园工作人员问卷调查三个层面着手，通过归纳总结调查对象所遇到的不同问题印证数据统计分析得出问题的准确性。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "对下文关于怎样利用规划策略及新技术营造出城市可持续的生态墓园提供了实证和问题来源，使其有理可据，有问可答。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

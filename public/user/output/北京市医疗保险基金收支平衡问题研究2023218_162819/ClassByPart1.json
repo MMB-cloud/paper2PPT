@@ -1,0 +1,591 @@
+{
+  "title": [],
+  "摘要": [],
+  "研究背景": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究背景"
+      ],
+      "chosen": false,
+      "text_content": "1.1 研究背景",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.9124162852797335,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5274400870784036,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "随着我国城镇职工基本医疗保险、新型农村合作医疗和城镇居民基本医疗保险制度的出台及实施，目前我国已经实现基本医疗保险全覆盖，筹资水平也有了很大提高。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.38497619820132994,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "但是，我国一方面“看病贵、看病难”的问题仍然存在，医疗保险保障水平较低，另一方面，现收现付制下的医疗保险统筹基金却表现出结余过高的问题。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.3171336135738747,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3171336135738747,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "我国医疗保险统筹基金实行的是现收现付制（pay as you go ），这种模式是"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.7727244257865462,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.17726077503883897,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "“按照一个较短的时期（通常为一年）内收支平衡的原则确定费率，筹集社会保险基金，即本预算期内社会保险费收入仅仅满足本预算内社会保险金给付的需要。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.1533753762479314,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "当然，为了避免费率调整过于频繁，防止短期内经济或其他突发事件可能出现的基金收支波动，一般保留有小额的流动储备金。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.1813402530250709,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "即所谓，以支定收、收支平衡、略有结余。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.26074802147470494,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "”1而截止到2012年年末，北京市城镇职工基本医疗统筹基金累计结余189.3702亿元，城镇居民基本医疗保险基金累计结余9.0213亿元。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 2.893482424810548,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4680358842759507,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "医疗保险统筹基金的结余，在制度设计初期有利于维护制度的稳定性，但由于我国社会保障总体水平较低，当前的工作主要是如何利用有限的医疗保险基金，切实保障参保人的利益，防止资金浪费，避免参保职工待遇水平及参保居民和农民生活水平的降低。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3286451856153252,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "北京市医疗保险统筹基金如此巨额结余，一是会令参保人员和医疗机构对基本医疗保险制度产生质疑，从而导致参保积极性下降，并将进一步加剧基金的不平衡。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.22485346841152,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "二是会加重企业缴费负担及财政压力，目前，北京市中小企业参加五项社会保险需要缴纳职工工资总额32.28%的社会保险费。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.022167651676488525,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "养老保险缴纳20%，医疗保险缴纳10%，失业保险缴纳1%，工伤保险缴纳0.48%，生育保险缴纳0.8%。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5950818813135752,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2企业本身缴费压力过大，加上医疗保险基金过度结余，将影响中小企业医疗保险缴费意愿，也不利于企业发展。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.45297278649213263,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "三是会加大医疗保险基金的管理风险。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3282556165596398,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "医疗保险基金结余过多容易带来政府部门挪用基金及贪腐问题。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.337018702049049,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "四是会造成基金贬值，医疗保险基金结余过多对基金的投资运营提出了更高的要求。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.13645124841686712,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "如果不能很好地实现保值增值，在通货膨胀的情况下，医疗保险基金会严重贬值。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.6279553304956711,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6279553304956711,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "为了有效防范医疗保险基金收支不平衡的风险，国际上一般通过设立医疗保险风险储备金来化解这一风险，目的是对基金进行地区调剂和年度调剂，从而避免某一地区或某一年度由于基金收不抵支而影响医疗保险的稳定运行。国际劳工组织在《卫生筹资建模》中指出，医疗保险风险储备金累计最高提取额会受到基"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.25187087258293905,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.25187087258293905,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "1  林义，社会保险基金管理，中国劳动社会保障出版社，第56 页"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.115101691591053,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.115101691591053,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "2  数据来源：北京市人力资源和社会保障局网站"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.6376581406082986,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.46186444643517044,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "金波动程度、当期提取比例和基金管理水平等因素的影响，一般在年支出的25%至100%之间，发达国家一般不超过15%。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.17579369417312812,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "北京市目前对城镇职工基本医疗、新农合、居民医保的风险储备金提取尚无明确规定，是政策盲区。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.2842120285192469,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7306848149540182,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "我国医疗保险制度平稳运行的关键在于医疗保险基金是否能够收支平衡，一定程度的结余率对参保者的医疗卫生保障与费用负担减轻有很大的作用，如何既保证参保人员“病有所医，医有所报”，又保证医保基金收支平衡、略有结余，成为基本医疗保险改革及发展所面临的重要课题。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5535272135652287,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "所以研究北京市医疗保险统筹基金收支平衡这一课题具有很重要的理论及现实意义。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究目的": [],
+  "研究综述": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究综述"
+      ],
+      "chosen": false,
+      "text_content": "1.2 文献综述",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "1.2.1 国内研究",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5787954385380505,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5787954385380505,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "近年来，国内有学者对我国医疗保险基金结余适宜度进行了研究。顾昕"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 2.030664752079434,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.41338307946437103,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "（2010）分别分析了我国新型农村合作医疗、城镇居民基本医疗保险、城镇职工基本医疗保险基金结余情况及原因，对盘活医保沉淀基金提出政策建议，一是国有企业困难职工和离退休者参保费用由财政预算来补贴而不应该靠对现在的参保人“多征少给”来为这类困难人群筹资，二是参保者可以使用个人账户资金为直系亲属缴纳保费。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.32036954364551756,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "吕国营、徐丽军（2012）通过论证医疗保险与养老保险及公共医疗的关系，得出确定合理的医疗基金结余标准应该考虑的三个方面分别是医疗保险基金的统筹层次、承担养老责任的大小、公共卫生项目的覆盖程度。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8002239856132772,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "李常印、郝春彭等（2012）通过对国家社保中心历年运行分析数据，提出在较短的时间里，影响医疗保险基金收入的因素主要有经济发展水平、费率、参保人数等，而医疗保险的支出与付费标准和付费方式等有关，提出要合理控制基金适度结余、建立基金预警机制、降低基金风险。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4966881433562684,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "沈焕根、张磊（2012）归纳出影响医疗保险基金长期平衡的风险因素有制度风险、经济风险、社会风险和技术风险等，提出调整基金结余结构，将结余率维持在合理水平、从横纵两方面提高统筹层次与建立风险预警机制等建议。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.9556784597663158,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2983090446587795,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "有学者就城镇职工基本医疗保险进行专题研究。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6573694151075363,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "卢驰文、王钦池（2010）认为我国城镇职工基本医疗保险基金结余过多的原因各个地区不尽相同，有些地区医疗保险经办管理机构尽可能多的积累医疗保险基金，因为其负责人以为医疗保险基金如果出现收不抵支的情况会影响自己的政绩，有些地区医疗保险经办管理机构由于技术水平较低，无法准确测算基金支出而导致医疗保险基金结余过多，有些地区筹资水平逐年提高，而给付标准多年不调整导致结余过多，他建议建立相机调整基金结余率的制度。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6043325979168872,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2192424367673056,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "可支配收入等的关系进行了分析。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1660859938050652,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "并分别测算了在结余率为15%、5%、-5%时未来10年城镇职工医保基金保障水平。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2190041673445164,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "建议调整门诊自负比例及住院起付线等医疗，充分发挥个人账户基金使用率，使医疗保险能够全面保障城镇职工医疗服务。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.4233836321731037,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.36990047129581605,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "还有学者结合地区实际案例及数据，对该问题进行研究。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5129868818330601,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "彭俊、宋世斌（2006）通过运用精算方法研究广东省珠海市社会医疗保险基金的运行情况及收支平衡情况，并且预测，珠海市医疗保险基金以目前老龄化的发展速度，按照现在的制度体系，会在2020年到2025年之间出现入不敷出的局面，提出要改变个人帐户划拨比例。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5404962790442276,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "朱彪、袁长海（2010）通过研究ft东省部分地区医疗保险制度及基金结余情况，分析了城镇职工及居民基本医疗保险结余过高以及新型农村合作医疗赤字的原因，提出要完善医疗保险费用结算方式及支付制度，加强基金监督管理并且充分发挥ft东省基层卫生机构的作用。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "1.2.2 国外研究",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 2.246780791044522,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6156395378521499,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "国外学者的研究主要Axel Reimann（2003）从组织机构、监督制度、预算和审计制度、融资原则、财产管理等方面对中国和德国的医疗保险基金管理办法进行了比较研究。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.347048952155934,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Steinmann（2005）研究表明人口老龄化是目前世界医疗费用迅速增长的主要因素，65岁以上人口占总人口的比重对医疗卫生费用变化有重要影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.24135054758751062,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Ma C. A.（2007）提出医疗保险经办部门的支付方式会影响医疗机构采用的诊疗手段与医疗花费的程度。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4186291452497414,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Markv. Pauly从筹资和医疗费用支付方式的设计方面进行研究，提出最优的医疗保障制度应该是由病人和政府共同付费，并且要设立一定的自付比例，病人需要承担一定的费用。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2731526263944999,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Cagatay K.（2008）提出医疗保险制度本身问题，比如因为第三方付费的模式也使得医疗保险存在道德风险，导致医疗保险支出增加。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3509599818046863,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Posnett J.和Hitiris T.通过对比研究欧共体中不同国家的医疗费用支出情况，利用老年人口赡养系数、人均收入、通货膨胀率、医疗费用在政府全部公共性支出中所占比例等参数建立了欧共体的医疗费用预测模型。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究假设": [],
+  "数据与样本": [],
+  "变量定义": [],
+  "检验": [],
+  "结论与分析": [],
+  "实证研究类v3": []
+}

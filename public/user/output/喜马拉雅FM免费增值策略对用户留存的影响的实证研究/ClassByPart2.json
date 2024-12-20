@@ -1,0 +1,3520 @@
+{
+  "title": [],
+  "摘要": [],
+  "研究背景": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究背景",
+        "研究目的"
+      ],
+      "chosen": false,
+      "text_content": "1.1 研究背景和问题",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究背景"
+          ],
+          "chosen": false,
+          "text_content": "1.1.1 研究背景",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.4955333443425227,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.34494491091240687,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在线音频需求巨大，2021年，iiMedia Research（艾媒咨询）数据资料显示，中国移动音频的用户规模从2019年开始一直保持着快速发展，并且预计到下一年，移动音频用户的规模将达到6.9亿。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.19281021903077683,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "在线音频伴随科技发展产生，在国内起源以及发展至今至少拥有了10年的历史。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5589922017864322,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "它起源于2011年蜻蜓FM的创立，后来喜马拉雅和荔枝FM接着上线，直至今日，在线音频对人类生活产生着举足轻重的影响，并且拥有的广大的用户群体与极强的用户粘性。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3987860126129068,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "中国移动音频行业发展至今，拥有海量的用户基础，社交音频热度为行业带来更多关注，用户和市场规模不断增长。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.8222142815899312,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4034654869781168,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "但是由于没有立足用户需求，在线音频行业依旧存在大量问题，尤其是知识变现的问题。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4241434536618299,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "2021年Clubhouse为音频社交带来更多的关注，进一步发现在线音频行业即使拥有如此庞大的用户群体以及市场需求，却依旧存在许多可提升的问题，如版权贵、收费难等等。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3913392731569785,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "尤其是收费难的问题，知识付费的时代下，大部分人能够接受为知识买单，为内容创作者的的劳动成果买单，但是有声音频的收费模式并没有立足用户需求与用户体验。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2099255468061887,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "再加上版权问题，有时候平台甚至会出现，一张专辑的价格远远大于实体书的价格。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3933405209868173,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "这些不合理的收费标准与策略使得用户体验降低，用户流失率高，从而引起主播的流失问题，带来一系列的恶性循环。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.5538159368390396,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.47393812549623743,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "为了解决收费难的问题，从而改善收益，在线音频平台尝试将免费增值模式作为营销策略，但是效果并不理想。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.35580156736603985,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "免费增值模式的目的是营销，免费提供产品或服务始终是吸引客户的非常有效的方式，在互联网上非常有效。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.40626549528569855,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "即使免费用户不付费，用户交互可以提供广泛的口碑。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3178107486910637,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而且，提供免费的东西，促进网络效应即增加使用特定产品或服务的人，从而提高产品的价值是建立受众的最简单方法之一。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.2986785062586614,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6271087936617665,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "但是免费增值模式的实施也面临着许多困难与风险，由于低价，服务与产品需要大量的付费用户才能够获得收益，同时也需要大量的免费用户基础才能够在目前较低的付费转换率中发展成足够的付费用户。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.05765755537267771,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "目前只有大约1%的人会购买溢价优惠（行业基准为5%）。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6139121572242172,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "但是从长远来看，免费增值模式更能吸引消费者，通过免费创建一个客户群，以说服该免费客户进行付费客户的转化，是未来更有潜力的商业模式，也是众多行业的关注点。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究目的"
+          ],
+          "chosen": false,
+          "text_content": "1.1.2 研究问题",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5653216418118762,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5653216418118762,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "综合以上背景，有声音频内容创作平台前期发展迅速，但是随着内容付费、知识付费的助推产生了新的问题，例如收费难，盈利成问题等；为了解决上述问题，平台尝试将免费增值模式作为营销策略，但是因为不规范的收费标准，用户诟病收费高，收费不合理等问题，所以效果不佳。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.8912034784052522,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1121593341059671,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "行业发展至此，虽然依旧拥有巨大的市场需求，但是行业内部发展前景却不容乐观。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.779044144299285,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "分析发现，平台因为垄断，没有根据用户的需求以及市场价格进行营销策略规范化，虽然前期拥有巨大的收益，但是随着时间的推移，用户留存不理想，用户满意度低，主播的收益不可观等问题暴露。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6748713063400561,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6748713063400561,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "综上，本研究尝试去解决的问题是平台需要作出如何的改变才能够与主播、用户达成三赢，让越来越多的优质主播愿意加入，并且有动力创作优质作品，让更多的用户愿意为内容付费并且提高用户满意度。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究目的": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究背景",
+        "研究目的"
+      ],
+      "chosen": false,
+      "text_content": "1.1 研究背景和问题",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究背景"
+          ],
+          "chosen": false,
+          "text_content": "1.1.1 研究背景",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.4955333443425227,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.34494491091240687,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在线音频需求巨大，2021年，iiMedia Research（艾媒咨询）数据资料显示，中国移动音频的用户规模从2019年开始一直保持着快速发展，并且预计到下一年，移动音频用户的规模将达到6.9亿。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.19281021903077683,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "在线音频伴随科技发展产生，在国内起源以及发展至今至少拥有了10年的历史。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5589922017864322,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "它起源于2011年蜻蜓FM的创立，后来喜马拉雅和荔枝FM接着上线，直至今日，在线音频对人类生活产生着举足轻重的影响，并且拥有的广大的用户群体与极强的用户粘性。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3987860126129068,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "中国移动音频行业发展至今，拥有海量的用户基础，社交音频热度为行业带来更多关注，用户和市场规模不断增长。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.8222142815899312,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4034654869781168,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "但是由于没有立足用户需求，在线音频行业依旧存在大量问题，尤其是知识变现的问题。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4241434536618299,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "2021年Clubhouse为音频社交带来更多的关注，进一步发现在线音频行业即使拥有如此庞大的用户群体以及市场需求，却依旧存在许多可提升的问题，如版权贵、收费难等等。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3913392731569785,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "尤其是收费难的问题，知识付费的时代下，大部分人能够接受为知识买单，为内容创作者的的劳动成果买单，但是有声音频的收费模式并没有立足用户需求与用户体验。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2099255468061887,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "再加上版权问题，有时候平台甚至会出现，一张专辑的价格远远大于实体书的价格。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3933405209868173,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "这些不合理的收费标准与策略使得用户体验降低，用户流失率高，从而引起主播的流失问题，带来一系列的恶性循环。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.5538159368390396,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.47393812549623743,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "为了解决收费难的问题，从而改善收益，在线音频平台尝试将免费增值模式作为营销策略，但是效果并不理想。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.35580156736603985,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "免费增值模式的目的是营销，免费提供产品或服务始终是吸引客户的非常有效的方式，在互联网上非常有效。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.40626549528569855,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "即使免费用户不付费，用户交互可以提供广泛的口碑。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3178107486910637,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "而且，提供免费的东西，促进网络效应即增加使用特定产品或服务的人，从而提高产品的价值是建立受众的最简单方法之一。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.2986785062586614,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6271087936617665,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "但是免费增值模式的实施也面临着许多困难与风险，由于低价，服务与产品需要大量的付费用户才能够获得收益，同时也需要大量的免费用户基础才能够在目前较低的付费转换率中发展成足够的付费用户。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.05765755537267771,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "目前只有大约1%的人会购买溢价优惠（行业基准为5%）。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6139121572242172,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "但是从长远来看，免费增值模式更能吸引消费者，通过免费创建一个客户群，以说服该免费客户进行付费客户的转化，是未来更有潜力的商业模式，也是众多行业的关注点。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究目的"
+          ],
+          "chosen": false,
+          "text_content": "1.1.2 研究问题",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5653216418118762,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5653216418118762,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "综合以上背景，有声音频内容创作平台前期发展迅速，但是随着内容付费、知识付费的助推产生了新的问题，例如收费难，盈利成问题等；为了解决上述问题，平台尝试将免费增值模式作为营销策略，但是因为不规范的收费标准，用户诟病收费高，收费不合理等问题，所以效果不佳。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.8912034784052522,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1121593341059671,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "行业发展至此，虽然依旧拥有巨大的市场需求，但是行业内部发展前景却不容乐观。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.779044144299285,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "分析发现，平台因为垄断，没有根据用户的需求以及市场价格进行营销策略规范化，虽然前期拥有巨大的收益，但是随着时间的推移，用户留存不理想，用户满意度低，主播的收益不可观等问题暴露。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6748713063400561,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6748713063400561,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "综上，本研究尝试去解决的问题是平台需要作出如何的改变才能够与主播、用户达成三赢，让越来越多的优质主播愿意加入，并且有动力创作优质作品，让更多的用户愿意为内容付费并且提高用户满意度。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究综述": [
+    {
+      "type": 0,
+      "outLvl": "0",
+      "score": 0.0,
+      "selected": false,
+      "part": [
+        "研究综述"
+      ],
+      "chosen": false,
+      "text_content": "2  文献综述",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本部分将从知识付费平台的定义与类型、知识付费平台的用户行为研究，知识付费平台的免费增值策略研究三个维度进行文献调查，进行国内外研究现状调查与呈现。"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.1 知识付费平台的定义和类型",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.47030162117903884,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.11154285714285715,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "知识付费平台比较广泛，有喜马拉雅、腾讯课堂、百学习、MOOC、网易云课堂、千聊等的流量型平台；有百度问答、知乎、知识星球、分答等的分享型平台；以及小鹅通、短书等的SAAS工具。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3587587640361817,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "其中移动音频创作平台是指以有声音频的形式进行知识传播的内容付费平台，是目前受众最广的知识付费类型平台，主要平台有喜玛拉雅FM、蜻蜓FM、荔枝FM等。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.9386096704026156,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5366922850533715,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "国内外针对知识付费平台的研究主要聚焦用户满意度的影响因素，宗利永、夏子惠[1][1]以订阅式知识付费平台用户评论为研究对象，其中选取的平台为以知乎live为代表的订阅式知识付费平台。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0803479482352155,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "通过建立用户评论挖掘系统框架，结合用户打分及评论文本情感分析结果。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3215694371140285,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "结果表明影响订阅式知识付平台用户体验的因素分别是：内容数量、内容类型、内容质量、舒解是影响积极用户体验评价的因素，即激励因素；系统可靠性、广告、价格是影响消极用户体验评价的因素，即保健因素；收听功能为激励—保健因素。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 4.1135973541366635,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7683417252590884,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "国内外针对知识付费平台中的移动音频创作平台，例如喜马拉雅，懒人听书的研究很少，已有的研究基本针对在线音频制作平台的营销策略、盈利模式与知识付费的发展进行案例讨论。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.32613412857518775,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "其中敖雅倩[2]对以喜马拉雅FM为例的移动在线音频行业的盈利模式与盈利策略进行了分析，总结了其盈利特点并且结合市场现状给出了建议。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.628656280804678,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "李琳[3][3]对喜马拉雅FM平台的付费内容进行了详细的模式研究，使用多种研究方法，发现喜马拉雅遵循从付费内容生产—运营—消费的营销，也总结了用户需付费购买的内容在音频平台中遵循的整体传播路径，并且针对目前的一些问题提出优化措施。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7038153355252854,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "针对移动音频创作平台的知识付费，有少数研究进行了探索，其中张思嘉[4]对懒人听书的知识付费模式营销战略进行了分析，从市场需求宏观环境分析了该模式的发展，同时对用户进行了调研，从多方面分析最终提出了营销策略改良的思考。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5045831768632405,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "类似的，丁翱林[5][5]对喜马拉雅FM的营销策略进行了案例分析，针对喜马拉雅的知识付费特点，提出了目前知识付费平台的营销现状及存在的三大问题，通过分析喜马拉雅FM这一知识付费平台成功案例，从喜马拉雅FM的发展以及现状出发，对喜马拉雅的营销策略进行了详细的分析，总结了五个喜马拉雅在营销策略上根据市场变化，互联网发展进行的创新调整，对其他知识付费平台提供了一些创新思路。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5483514238797398,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "蒋岩汐[6][6]以知识付费产品为研究对象，包括知乎严选，有声书等知识付费产品，先简要分析了知识付费产业的现状，并由此介绍了知识付费产品的国内外研究现状，以商品二因素为基础介绍了知识付费产品的价值与使用价值，为后文的研究奠定相关的理论基础。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6337152832294443,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "通过构建知识付费产品价值评估模型并分析各阶段知识付费产品的形成流程和对得到平台进行内容分析的方式，对知识付费产品的价值形成机制进行了研究。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 3.7989594653036387,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.9371911134924573,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "也有部分研究对于其他现象对知识付费行为造成的影响进行了研究，比如用户交互行为，用户学习行为等。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7794527662220928,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "其中王雨萍[7][7]将用户交互与知识付费结合，对虚拟社区用户的知识付费行为的因素进行了研究。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6103846994976314,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "该研究[7][7]表明知识经济与虚拟社区的发展让人们拥有更多的机会与选择，在虚拟社区的交互中，用户能够在进行知识付费前对产品或者服务有更加客观全面的了解，总结到知识付费有着巨大的上升潜力。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.66481670037477,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "罗钦芳[8][8]以知乎live为研究对象，对消费者知识付费产品的购买决策的影响因素进行了探究，发现产品价格对销量的影响是非线性且复杂的，并且日销量不仅受外部因素如日交易记录影响，还收内部因素如产品本身的特质影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.46253360068835025,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "刘征驰等[9][9]从知识的隐匿性给消费者以及知识提供者带来的交易双方信息不对称，面临极高交易风险的问题出发，将网络中的社群交互因素纳入知识付费两期动态定价博弈模型，深入探讨社群学习机制对最优定价策略的影响，发现消费者在决策过程中对于社群交互的依赖很高，这样也可以减少知识价值隐匿性带来的购买风险[9][9]。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3445805850283371,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "刘征驰等[10][10]还通过改善非授权分享给知识付费平台以及知识创作者带来的定价分歧，给知识付费平台的运营提供了更据参考性的策略。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.2 知识付费平台的用户行为研究",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.328126497109645,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.328126497109645,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在上文中知识付费平台的理论研究之外，学者们针对知识付费平台用户行为进行了进一步的实证研究，面广但尚不深入，其中涉及的知识付费的平台有流媒体、知乎、得到、喜马拉雅等，涉及的用户行为有流失/留存，知识付费行为等。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 3.018810792365482,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.361391711367155,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "之于平台的用户留存与流失的研究中，学者们将用户留存率定义为判断产品或服务的价值最重要的标准，用户是否愿意留下来，取决于产品的价值是否达到用户的预期。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3274694420467627,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "不同行业的用户留存率的提升，或是避免用户流失，以及提高付费转化率，发展高价值用户都有学者进行了较为深入的探讨。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.36531812152751064,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "游戏行业中，部分研究[11[11-12]12]从游戏行业的用户层面对流失进行了预测。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2816643109978833,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "通过机器学习、特征工程、随机森林等技术对用户的流失几率进行预测，并评估预测性流失模型可带来的业务影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.05283747594189771,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "类似的，Sangaralingam等[13]提出了一种基于可扩展数据混搭的机器学习算法，对高价值的客户群进行了识别，并使用独立的客户识别现有客户的潜在不利过渡。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3747072771234709,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "除了通过机器学习的方法进行用户层面的流失预测，部分研究通过其他方法，分析了不同行业的流失原因。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.048458900036690206,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "柯金燕[14]通过深度访谈对移动游戏体验者的社交体验、满意度和留存意向影响因素进行了探究。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5449617714065577,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "聚焦知识付费平台中的用户流失/留存研究，吴爽[15]通过问卷调查，对知识付费平台高知女性用户流失行为进行影响因素的探究，问卷调查对象为高知女性，从用户层面以及用户需求角度分析了用户选择终止服务的原因。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.31763511143780576,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "周勤琪[16]以短视频社交媒体的用户为研究对象，流失影响因素研究社交媒体参与度中的内容消费、内容生产、社交参与、社交领袖均与用户卸载流失有显著影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3443666704797482,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "不同行业的用户流失研究虽然方法不一，但研究思路都是从用户层面去分析用户流失原因以及预测流失。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 4.006923485481589,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5232729139495045,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "之于用户在付费节点的流失与留存即知识付费行为，大部分研究关注知识付费行为的影响因素，有从用户本身层面进行分析用户需求，也有从内容特征进行分析，还有从内容发布者或者创作者的特点进行分析。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7248152149182323,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "聚焦知识付费行为的研究中，学者们进一步针对不同的角度与维度进行了许多影响元素的研究。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3366407668069414,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Su等[17][17]选择以内容创作者层面，对社交媒体包括微信，微博，Facebook等不同内容发布者对用户内容付费的意愿影响进行了协方差分析，探究了社交媒体的用户付费意愿与内容创作者特征的关系。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2299900163030682,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "结果发现得到发布者知名与否的情况下，被调查者对付费PGC与UGC的购买意愿不同，与此同时，该付费意愿还受到内容发布者的态度和先前态度的显著影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5916683992855667,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "杨东红等[18][18]从知识付费移动音频的角度，研究用户对有声阅读平台中付费音频的付费行为。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.40008279893927684,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "根据相关性分析发现传播者性别对用户知识付费行为没有影响，在控制平台变量后，付费移动音频的价格、时长和信息展现形式与付费行为成反比，试听、传播者简介长度、作品量、粉丝数和认证信息长度与知识付费行为成正比。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5147219470431161,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "邓胜利等[19][19]对不同类型以及不同程度的交互行为对于预测知识付费用户的贡献度及其变化趋势进行了研究。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.34852724360639037,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "以知乎社区爬取了400万用户社会交互行为作为数据，分析结果发现，用户和其他用户的交互影响大于用户和平台交互的影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3372041846294926,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "王雪莲等[20][20]选取“喜马拉雅”平台的18个节目样本，利用爬虫技术抓取用户评价数据，并采用内容分析方法对数据进行分析，从用户维度进行需求分析，发掘并构建了在线知识付费节目的顾客体验价值维度体系。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.2938219410249299,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7808422681243232,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "但是，虽然学者们进行了大量的实证研究，目前针对知识付费意愿的研究结果存在不一致的问题，Li等[21][21]的研究结果表明经济因素是对于用户在线知识付费的行为影响不显著，但是Jing等[22][22]发现感知费用与知识付费行为存在高度相关关系（其中r=0.647），但是赵宇翔等[23][23]在研究被调查者从免费到付费知识问答平台的用户转移时却发现成本和知识付费行为存在高度的负相关关系（其中r=-0.584），罗钦芳[8][8]等认为产品价格对知识付费产品的销量影响是非线性且复杂的。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5129796729006068,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "于是卢恒等[24][24]对国内外的在线用户为知识付费的意愿相关的40篇实证研究文献进行了元分析，将这些现有相关研究的文献的实证结果进行了整理，得到的结论表明对知识付费意愿具有高度相关性的因素有用户需求、体验、感知专业性、可靠性、感知知识质量、感知有趣性、感知收益和付费态度等，也发现用户具有知识付费经历与否是不同研究结果异质性的部分来源。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "2.3 知识付费平台的免费增值策略研究",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5863634130085977,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.41535752225827277,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "随着免费增值商业模式的推广，知识付费平台开始尝试这一模式的应用。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.171005890750325,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "但是Free-Premium模式在知识付费中的应用依旧不够完善，行业还处于探索阶段。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.1251966559110036,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6658273572504314,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "经过文献调查，笔者发现知识付费平台的免费增值策略研究几乎没有。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4593692986605723,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "所以本研究将文献搜索范围扩大至免费增值模式的研究，发现目前的研究针对不同行业中免费增值模式都有探索，涉及面广但是都尚未深入。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.0003696835656728,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5263929210825282,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "本研究对免费增值的概念进行了全面的资料整理，以清晰地界定研究对象。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2780102960530877,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "免费增值模式即Freemium或者Free-Premium模式，该模式可以追溯到20世纪80年代，但是这个专有名词是在2006年创造的。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.19596646643005688,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "免费增值的定义中，比较容易混淆的两个概念是免费试用与免费试听。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5897679155323585,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.046644349192112015,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "免费试用指的是在限定的时间段内免费为潜在用户提供部分或完整的服务或者产品，之于服务，通常采用时间限定，之于具体的有形的产品通常直接赠送产品以供试用。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16764675157007425,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "免费试用适用于产品差异化的市场，但是由于差异化带来的价格差异也会很大，对产品本身的品质要求较高；免费增值指的是时间或者空间上的先免费后收费，包括免费试听。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1789358341062202,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "严格来说，免费增值与免费试用的定义是有明显的区别与界线的，根据定义，免费试用是一种客户获取模型，可在有限的时间内免费向潜在客户提供部分或完整的产品。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1965409806639521,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "而免费增值是一种客户获取模式，可以免费向潜在客户提供对部分软件产品的访问，没有时间限制。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 3.0323766080957304,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.20285642132178397,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "综上，免费增值似乎与免费试用相同，但没有时间限制。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.29850589036672126,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "不过在具体研究中，学者们对于这两个概念并没有十分严格地进行区分，有交叉重叠的部分。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6664558090535935,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "例如研究[28][28]认为免费试用属于免费增值，选择的是软件版本的免费—高级策略(Free-Trail)与高级—免费策略对付费转化率的影响，其中的Free-Trail没有时间限制，按照定义该模式属于免费增值模式，但是该研究认为属于免费试听并且将免费试听归为免费增值，得到的结论是高级—免费策略相比较于免费试用策略对付费转化率有更多的促进影响，即用户一直自由使用功能有限的服务，反而会限制付费行为。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6079161513595335,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "夏万虎[25][25]对免费增值模式的B2B用户付费的影响因素进行实证研究中，也将免费试用归属于免费增值模式，以教育机构行业为研究对象，构建数学模型，研究了免费试用中增值功能的时长、是否试用增值的功能、试用强度与是否购买、付费金额的相关关系。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5097622690007045,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "但是其他研究只针对免费试听研究，并未提及免费增值以及两者关系。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.15375017124300328,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "免费试听被学者定义为免费增值而非免费试用，因为免费试听是指提供部分内容的体验，尤其对于有声音频，限制的是内容的时长而非使用的时长。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5931298957503903,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在本研究中，我们研究的是免费增值模式，不涉及免费试用；也不涉及免费试听，有声音频两种免费增值模式，都属于产品的部分免费增值，但本研究不对免费试听进行涉及，经过筛选去除了限时免费的专辑，排除了免费试用与免费试听的影响，研究结果更准确。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 2.7214369194506722,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5639788889010816,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "基于本节上述的文献研究，本研究确定了免费增值模式的选择，笔者进一步对目前免费增值研究的国内外现状进行了调查。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.352793658967295,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "曾润滋[26]对免费增值的相关文献进行了综述，对免费增值的定义、发展进行了总结归纳。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2670753860836246,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "该研究指出早期学者们对Free-Premium的研究基本上基于理论与案例，聚焦Free-Premium的形成，应用，分类。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5526396629345102,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "之后才开始关注免费增值模式下的付费转化率，以及结合价格等因素为不同行业的免费增值模式进行最优策略的制定。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.22027219553897473,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "其中，郭敏[27][27]基于财务视角分析了免费增值商业模式的经济效果，以迅雷作为案例分析，为其他使用或预期使用免费增值商业模式的企业提供了借鉴。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7646771270251861,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在以上对免费增值模式单一维度下的经济效益研究基础上，有学者对免费试用与其他经济策略的选择进行了研究，Li等[28][28]就选择免费增值和广告两种营销方式，探究了企业在不同的因素影响下应该如果选择或者组合这两种营销策略。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.3074831185554516,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6467218959988332,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "现有研究对于免费增值模式下的付费转化率或者用户留存率涉及很少。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6607612225566185,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "根据免费增值的分类不同，现有研究中Koch等[29]针对免费版本—付费版本的Free-Premium模式进行研究，衡量免费服务的局限性是否会影响免费和高级版本的评估。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.8777713373270426,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5110926031160891,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "本研究将免费增值与免费试用严格区分，虽然本研究不涉及免费试用，但是由于目前免费增值的研究不够全面，笔者进而对免费试用的研究也进行了整理，以供参考。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.18836902382262227,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "陈建[30]对免费试用的经济溢出效应进行了分析，证实了免费试用经济溢出效应是客观存在的。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.595276195722207,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "目前针对免费试用策略的研究主要关注免费试用对服务本身的影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.399378707203535,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Bram等[31][31]探究了免费试用对高科技服务的影响，研究结果表明消费者具有前瞻性，结果强调，免费试用是一把双刃剑，试用期间的时间和消费者的使用强度是这些促销活动有效性的关键，还讨论了对管理人员的影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1836548074625893,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "Hua等 REF _Ref32070 \\w \\h [32]将用户的学习行为纳入免费试用的效果中，发现通过免费试用，用户的学习效果使用户熟悉服务，并有助于提高用户的实用性。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "1",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "研究综述"
+          ],
+          "chosen": false,
+          "text_content": "2.4 文献评述",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4277877763479038,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4277877763479038,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "综上，知识付费平台包括移动有声音频的定义与发展，知识付费平台的用户行为，免费增值模式下的付费转化率三个维度都有研究涉及。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.617931922791591,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4081821645275509,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "但是，目前针对移动有声音频平台的研究还主要局限于营销方式的理论研究，纵使少量研究对用户付费行为的预测进行了探索，但是都局限于用户层面，而未探讨作品以及收费策略本身。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2097497582640401,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在进一步的文献搜索中，笔者发现本研究探讨的领域，即知识付费的免费增值模式下的付费转化，目前研究基本属于空白。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.1622229663520058,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.165067232194246,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "为了进一步为本研究提供理论基础，在文献调查中，笔者将范围扩大至免费增值模式或者付费转化的研究。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.13610399459985095,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在此部分中，笔者在进一步的文献搜索中，笔者发现本研究探讨的领域，即知识识费的免费增值模式下的付费转化，目前研究基本属于空白。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6687175820603417,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "通过文献调查发现目前学者还没有对知识付费中的用户付费转化给予一些关注，但是其他行业已然在此领域进行了一些探索，如游戏行业，短视频，流媒体等行业中付费转化率以及用户留存率的提高，减少用户流失都有涉及，其中的免费增值模式都是软件的免费版本—付费版本，其中用户留存与付费转化的计算方式都结合具体的研究对象与平台进行定义与计算，为本研究的付费转化界定提供了参考。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.19233415749756722,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "其中对于用户留存提升的研究基本上是以用户为维度研究，方法论基本上是从用户层面进行特征提取从而进行流失预测，不同于本文关注点。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.6287633237420065,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7351226912704574,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "综合来看，目前移动音频创作平台的免费增值模式下付费转化率影响因素尚未有研究涉及，但是随着在线音频的付费，用户对喜马拉雅FM专辑的高定价以及混乱设置收费节点早有诟病；同时，移动音频创作平台的用户庞大，作品的可替代选择高，对用户付费行为影响的因素越来越倾向于付费模式的选择，价格，以及收费节点的设置。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8936406324715491,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "所以本研究通过文献调查决定坚持从作品层面出发，研究专辑的用户留存是如何受免费增值模式收费策略的影响，尝试给在线音频平台带来更好更稳定的发展。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究综述"
+      ],
+      "chosen": false,
+      "text_content": "2.4 文献评述",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.4277877763479038,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4277877763479038,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "综上，知识付费平台包括移动有声音频的定义与发展，知识付费平台的用户行为，免费增值模式下的付费转化率三个维度都有研究涉及。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.617931922791591,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4081821645275509,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "但是，目前针对移动有声音频平台的研究还主要局限于营销方式的理论研究，纵使少量研究对用户付费行为的预测进行了探索，但是都局限于用户层面，而未探讨作品以及收费策略本身。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.2097497582640401,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "在进一步的文献搜索中，笔者发现本研究探讨的领域，即知识付费的免费增值模式下的付费转化，目前研究基本属于空白。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.1622229663520058,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.165067232194246,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "为了进一步为本研究提供理论基础，在文献调查中，笔者将范围扩大至免费增值模式或者付费转化的研究。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.13610399459985095,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "在此部分中，笔者在进一步的文献搜索中，笔者发现本研究探讨的领域，即知识识费的免费增值模式下的付费转化，目前研究基本属于空白。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6687175820603417,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "通过文献调查发现目前学者还没有对知识付费中的用户付费转化给予一些关注，但是其他行业已然在此领域进行了一些探索，如游戏行业，短视频，流媒体等行业中付费转化率以及用户留存率的提高，减少用户流失都有涉及，其中的免费增值模式都是软件的免费版本—付费版本，其中用户留存与付费转化的计算方式都结合具体的研究对象与平台进行定义与计算，为本研究的付费转化界定提供了参考。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.19233415749756722,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "其中对于用户留存提升的研究基本上是以用户为维度研究，方法论基本上是从用户层面进行特征提取从而进行流失预测，不同于本文关注点。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.6287633237420065,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.7351226912704574,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "综合来看，目前移动音频创作平台的免费增值模式下付费转化率影响因素尚未有研究涉及，但是随着在线音频的付费，用户对喜马拉雅FM专辑的高定价以及混乱设置收费节点早有诟病；同时，移动音频创作平台的用户庞大，作品的可替代选择高，对用户付费行为影响的因素越来越倾向于付费模式的选择，价格，以及收费节点的设置。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.8936406324715491,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "所以本研究通过文献调查决定坚持从作品层面出发，研究专辑的用户留存是如何受免费增值模式收费策略的影响，尝试给在线音频平台带来更好更稳定的发展。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "研究假设": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "研究假设"
+      ],
+      "chosen": false,
+      "text_content": "4.1 研究假设",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.5098502260154234,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.550524147319303,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "杨东红[18][18]等人已经从付费移动音频的维度，对用户为专辑的付费行为探究了，得到了专辑一些基本特征以及主播基本特征对用户付费行为的影响，本研究便不在重复研究。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.282929884899089,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "同时，为了排除交互行为对付费转化率的影响，我们将作品流行度，专辑已发布的年限一并作为控制变量。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6763961937970313,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "将以上变量作为控制变量的前提下，本研究探索的问题是在给定一个特定的专辑，在章节数，类别，平均时长确定的基础上，结合专辑发布者即主播的特征比如主播等级，主播专业度，主播已发布的作品数，收费节点，收费价格，收费模式会对付费转化率产生这样的影响，并寻找一个最优策略，对于该影响做出以下假设（假设概览如表4-1以及图4-1所示）。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.13086810763356338,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.13086810763356338,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "表4-1  研究假设概览"
+            }
+          ]
+        },
+        {
+          "type": 3,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": true,
+          "table_data": "[['解释变量', '假设'], [' (PayPoint)', 'H1：收费节点对专辑收费节点处的用户留存率即付费转化率具有显著的正向影响'], [' (TrackPrice)', 'H2：章节价格对专辑收费节点处的用户留存率即付费转化率具有显著的负向影响'], ['是否支持开通VIP (Vip)', 'H3：支持VIP免费对专辑收费节点处的用户留存率即付费转化率具有显著的正向影响。']]"
+        },
+        {
+          "type": 4,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": true,
+          "rId": "rId47"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": ""
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.24318093192702228,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.24318093192702228,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "图4-1  研究假设"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.1.1 收费节点",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.0115789166309086,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2012258025120005,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "收费节点，宏观层面，指的是收费的时间点，对象，范围等。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.42164182593232,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "本研究针对喜马拉雅平台专辑的特点，以专辑为维度，将收费节点定义为，一张专辑里声音刚开始部分免费到某一个声音开始付费，节点为开始付费的集数，或者相对位置，相对时长。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3887112881865881,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "用户是否付费收到收费节点的影响，尤其是连续情节的专辑，随着情节的走向，声音对用户的吸引力不一。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5651133534240984,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5651133534240984,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "H1：收费节点对专辑收费节点处的用户留存率即付费转化率具有显著的正向影响。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.1.2 章节价格",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5568947450347431,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.20229879813363252,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "付费转化率最直接的影响因素便是价格，价格反映了作品的价值，同时用户是否愿意付费表现了该价格是否在用户对该专辑价值的预期之内。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.35459594690111057,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "虽然章节价格的范围取值很小，但是专辑所含的章节数巨大，所以价格上的区别会对用户付费行为产生明显影响。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5603976237914259,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5603976237914259,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "H2：章节价格对专辑收费节点处的用户留存率即付费转化率具有显著的负向影响。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "4.1.3 是否支持VIP免费的模式",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.7534141177975207,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.23841048901068435,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "是否支持VIP免费是指开通喜马拉雅的会员服务是否可以享受该专辑。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.26728744010476624,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "喜马拉雅的收费模式分为两种，细分又可以分为五种，其中是否支持VIP免费的模式代表了该用户的付费行为是有限的还是既能选择VIP短暂享受专辑也能选择购买专辑永久享受。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.24771618868206996,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "购买专辑或者章节在有声书的获得中是比较少有的选择方式，因为用户对专辑的享受一般是一次性的，购买专辑虽然可以永久享受专辑，但是性价比并不高，所以支持VIP免费服务更能促进活跃用户向付费用户转化。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5778465897291691,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5778465897291691,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "H3：支持VIP免费对专辑收费节点处的用户留存率即付费转化率具有显著的正向影响。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "数据与样本": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "数据与样本"
+      ],
+      "chosen": false,
+      "text_content": "3.2 数据获取与清洗",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "数据与样本"
+          ],
+          "chosen": false,
+          "text_content": "3.2.1 数据源介绍",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3589119318422991,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3589119318422991,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "数据源：喜马拉雅FM平台中所有的数据信息，该数据为截面数据，取自于某一个时间点，具体为2021年9月22日；"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.0600039113961137,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.07092795925919794,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "方法：通过抓包以及爬虫获取喜马拉雅FM三个终端（电脑端网页版、手机端网页版、APP）数据存储到MongoDB中。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.008296777614375507,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "各个终端的URL如表3-1所示。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.44757856826965897,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "具体的爬取思路为用Python对所有专辑的分类的信息进行爬取，然后对分类里所有的专辑信息进行爬取，然后对专辑里的声音信息进行爬取，最后是主播信息的爬取。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5332006062528813,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "所有信息的爬取都基于对抓包的URL中的信息进行了查看以后，选择了可能需要的变量进行了存储，存储媒介为MongoDB数据库，具体的Python爬取代码见附录一。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.19380814106491434,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.19380814106491434,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "表3-1  数据源——喜马拉雅FM三个终端的URL"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "table_data": "[['研究平台', '数据源', 'URL'], ['喜马拉雅FM', '电脑端网页版', 'https://www.ximalaya.com'], ['', '手机端网页版', 'https://m.ximalaya.com'], ['', 'APP', 'https://mobile.ximalaya.com']]"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "3.2.2 数据的三个维度",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.32730004008174096,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.32730004008174096,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "总的来说，喜马拉雅FM的数据可以分为三个维度：用户(User)，由用户发布的专辑(Album)，专辑的所有章节(Track) 。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.2585280657347633,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2585280657347633,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "（1）用户"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.45789063739518,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1274608142775518,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "用户可以分为主播与普通用户。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3304298231176282,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "主播即喜马拉雅平台的内容制作者或者产生者，主要在喜马拉雅平台发布专辑以供大家订阅；普通用户即一般的消费者，大多登陆平台，寻找自己感兴趣的专辑听，也有发布专辑的权限，但是一般普通用户不会也无法通过喜马拉雅盈利，我们得到的数据中包含用户提供给喜马拉雅所有的基本信息，包括性别，专业认证，粉丝数等属性。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.2583454023952729,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2583454023952729,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "（2）专辑"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.355709981132994,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.12161749768902616,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "专辑是联系喜马拉雅整个生态的纽带，即有声音频。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.21358978738950826,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "拥有许多不同的分类标准，按照专辑制作者的专业度等特点，可以分为PGC专业内容、UGC及PUGC内容；PGC专业内容即Professionally Generated Content，对应喜马拉雅的所有专业的主播发布的专辑；UGC即User Generated Content，指的是用户生成内容，即用户原创内容；PUGC，Professional Generated Content + User Generated Content，即“专业用户生产内容”或“专家生产内容”）指在移动音视频行业中，将UGC+PGC相结合的内容生产模式。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.32563794136454965,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由于知识付费的到来，有声书也开始由免费变为了付费内容，喜马拉雅对专辑设置了不同的收费模式。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.21400003830466333,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "喜马拉雅的专辑涵盖面广，有泛知识领域的商业财经、历史文化类的专辑，小说类专辑；适合少儿与个人发展的教育内容，有适合更年龄阶段的内容；同时，内容上既有音频播客的形式，随着视频的兴起，也逐渐形成了音频直播+有声音频的形式。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.48086471638524664,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "专辑是整个研究最核心的对象，获取到的信息有专辑的播放量，评论数，订阅数，声音数等一系列指标。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.14010746604237878,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.14010746604237878,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "（3）声音"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.49325795808382206,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1984135356943315,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "每一张专辑由声音（也称章节）组成，每一个声音以一段音频的形式存在，声音的时长有长有短，不同主播录制的声音拥有不同的声色与特点。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.15309281971243974,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "不等数量的声音组成专辑，声音的内容都应该符合专辑的主题。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.14175160267705084,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "（直播的音频也可以被存为专辑的声音，一般时长以小时计数，用于用户回听）。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "3.2.3 数据集清洗",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4349047788272978,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4349047788272978,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "由于原始数据庞大并且复杂，我们需要进行数据清洗，过滤掉不需要的数据，得到符合条件的数据集作为分析对象。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.21996906282959994,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.21996906282959994,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "1）以专辑为清洗对象"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.3357935876745213,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5372043569982468,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "三个维度中选择以专辑为清洗对象的原因：首先，我们研究的核心是专辑层面的付费用户转化率；其次，声音数据量庞大不方便操作，用户维度无法准确的代表数据集。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.48807758931209444,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "综合以上两点，本研究决定以专辑维度为数据清洗的对象。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.31051164136417986,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "接着筛选出这些符合条件的专辑对应的用户与声音维度的数据集共同作为分析对象。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0998358810509092,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0998358810509092,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "2）筛选规则"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6432988724280165,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.13246901178622947,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "（1）筛选已经完结的专辑。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.510829860641787,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "去除未完结的专辑，由于我们需要分析整个专辑的所有章节随着剧集呈现的播放趋势，所以不应该将未完结的专辑纳入研究对象，故首要规则为已完结。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6192519340993858,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.1831828330638225,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "（2）筛选PUGC以及PGC专辑。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.12917270119763646,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "过滤掉普通用户上传的专辑。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.30689639983792694,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由于喜马拉雅用户的特殊性，我们拥有的专辑可能是普通用户即消费者的私人专辑，基本上没有可分析的意义，所以我们只分析属于PUGC以及PGC的专辑。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.5836172042537192,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.12917270119763646,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "（3）除去直播宣传的专辑。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.45444450305608275,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在数据集中发现有少量专辑中的章节时长长达2小时，经过查看发现是直播回听的音频，研究主要因变量是作品播放量，而直播形式的本质是变相营销宣传，所以本研究过滤掉有直播宣传的专辑，排除直播宣传的干扰。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.3538558449554756,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.21422451975192164,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "（4）筛选章节中有编号且属于免费增值模式的专辑。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3341257178217035,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "由于喜马拉雅有声书的专辑占70%以上，而在这些有声书专辑中专辑的播放量本身会随着章节的变化，需要确保章节是按照剧情排序的，所以需要对章节中的title进行编号提取，并且排序，筛选出都有编号并且无重复错误编号的专辑，具体提取章节编号并且进行筛选的过程通过Python进行，详细代码在附录二。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8055056073818504,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "在编号符合条件的基础上，还需要对专辑的特征进行识别，选择出属于免费增值模式且只有一个收费节点的专辑作为研究对象。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.10964361079383454,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.10964361079383454,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "3）清洗的方法"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.4452897728747312,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.4452897728747312,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "首先查看是否有直接衡量或者代表以上两个规则的一个分类属性或多个分类属性的组合指标，如果有直接对该指标进行筛选处理即可；如果没有，用多个连续型指标量化规则，对所有的数据集的这些连续型指标进行基本的描述性统计分析，包括均值，方差，四分位数，频率分布直方图等，从而过滤掉离群值。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "3.2.4 数据集概览",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6308371154191535,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2011557614774646,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "原始数据集经过数据清洗以后的数据规模（如图3-1所示）。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.42968135394168894,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "数据集中4610张专辑特征如图3-2所示，所有专辑的Playtimes与Price的折线图都符合该特点，均为前部分声音免费，从某一章节开始付费，且只有一个收费节点，无多个收费节点，同时这些专辑中的所有声音都没有免费试听这一免费增值服务。"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId39"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.34758776948299525,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.34758776948299525,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "图3-1  数据集概览"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId40"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.2350990204485917,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2350990204485917,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "图3-2  专辑特征示例"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "变量定义": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "变量定义"
+      ],
+      "chosen": false,
+      "text_content": "3.3 变量描述",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.0619107306455096,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.8363636363636364,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "本研究从专辑、主播、声音三个层面对数据集中可能会对用户留存率以及专辑播放量有影响的变量进行了选择，其中选择并进一步处理得到了28个变量。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.2255470942818731,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "这28个变量的描述（如表3-2所示）。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.3567126331778982,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3567126331778982,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "表3-2  变量描述"
+            }
+          ]
+        },
+        {
+          "type": 3,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": true,
+          "table_data": "[['变量名', '变量类型', '变量含义', '变量取值'], ['R', 'float', '收费节点的用户留存率；首个收费的章节播放量与最后一个免费章节播放量的比值，%。', ''], ['AvgR', 'float', '平均留存率（自然留存率）% (n-1) √ (last/first)，首尾声音的留存率开n-1次方，其中n为声音数；', ''], ['tP', 'float', '专辑单个声音的价格；', ''], ['PP', 'float', '收费节点，relative position，收费点在所有声音的位置，%；', ''], ['PP_1', 'float', '收费节点，relative position，收费点开始的时长占比，%，所有FreeTracks的SumDuration/总Duration；', ''], ['PP_2', 'int', '收费节点，absolute position，收费声音的编号；', ''], ['Vip', 'bool', '是否开通VIP就能享受专辑，0/1;', '']]"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.3567126331778982,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3567126331778982,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "（续）表3-2变量描述"
+            }
+          ]
+        },
+        {
+          "type": 3,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": true,
+          "table_data": "[['变量名', '变量类型', '变量含义', '变量取值', '', ''], ['Vip_1', 'int', '获取专辑的购买类型', '', '0:  (Free)1:  (BuyTrack)2:  (BuyAlbum)；', ''], ['', '', '', '', '', ''], ['Vip_2', 'int', '付费类型', '', '1:  (TrackOnly)2: 开通VIP (VipOrTrack)3: 只能通过开通VIP (VipOnly)4: 开通VIP (VipOrAlbum)5:  (AlbumOnly)；', ''], ['', '', '', '', '', ''], ['', '', '', '', '', ''], ['avgD', 'float', '声音的平均时长（单位为Min）；', '', '', ''], ['avgPT', 'float', ' (Playtimes/TrackCount)；', '', '', ''], ['cId', 'int', '专辑所属的分类Id；', '', '', ''], ['cC', 'int', '专辑的评论总数目；', '', '', ''], ['T', 'float', '从创建到完结所经历的时间，单位为天；', '', '', ''], ['tC', 'int', '专辑里的声音数；', '', '', ''], ['uA', 'int', '主播发布的专辑数目；', '', '', ''], ['uAG', 'int', '主播的等级', '其中-1表示该用户没有实名认证，严格来说不算是主播，1-16代表主播的等级；', '', ''], ['uG', 'int', '主播性别', '-1表示未提供，0表示保密，1表示男性，2表示女性；', '', ''], ['', '', '', '', '', ''], ['', '', '', '', '', ''], ['', '', '', '', '', ''], ['uT', 'int', '主播创作的声音数；', '', '', ''], ['uF', 'int', '主播的粉丝数；', '', '', ''], ['uP', 'int', '主播是否是喜马拉雅认证的专业主播，取值为0/1;', '', '', ''], ['UpF', 'float', '该专辑更新一集需要的时间，单位为天/集；', '', '', ''], ['Age', 'float', '该专辑从创建到我们收集的时间，单位为天；', '', '', '']]"
+        }
+      ]
+    }
+  ],
+  "检验": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "检验"
+      ],
+      "chosen": false,
+      "text_content": "5.2 模型检验",
+      "children": [
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": true,
+          "part": [
+            "检验"
+          ],
+          "chosen": false,
+          "text_content": "5.2.1 正太残差检验",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6072175426442529,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.07716468888883914,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "回归分析的前提是回归模型残差符合正态分布，即残差随机。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.20572469181288308,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "残差随机表示模型中的随机误差与被解释变量无关，解释变量的选择是准确并且足够的。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.32432816194253067,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "用SPSS对模型进行残差正态性检验得到（如图5-1和图5-2所示），残差符合正态分布，模型符合残差正态性要求。"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId56"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.2890036343811647,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.2890036343811647,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "图5-1  模型的正太残差检验（直方图）"
+                }
+              ]
+            },
+            {
+              "type": 4,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "rId": "rId57"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.0,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": ""
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.3361034521351808,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.3361034521351808,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "图5-2  模型的正太残差检验（QQ图）"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "outLvl": "2",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "text_content": "5.2.2 稳健性检验",
+          "children": [
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.6377986969154332,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.6377986969154332,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "为进一步验证模型，本研究对逐层回归中最终层即所有控制变量，解释变量都纳入回归的模型进行稳健性检验，方法为因变量替换法以及自变量替换法。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.9191408246395012,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.8164512626791726,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "下表（如表5-3所示）中序（0）表示原始的回归模型，序（1）通过替换解释变量，进行稳健性检验，本研究已经探究了收费节点的用户留存率与收费节点，章节价格，是否支持会员服务的关系，在稳健性检验时，我们将因变量替换为付费转化率相对于专辑自然留存率的留存率变化。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.7500347055360268,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "用R_1=R-AvgR，进行回归，序（1）的结果表明收费节点、收费价格也显著负向影响相对于自然留存率的留存变化，是否支持VIP服务也显著促进除去自然留存率影响的留存率变化。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.35265485642430183,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "所以在专辑自然留存率的基础上，该模型也能解释付费节点的自然留存率与解释变量之间的关系。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.86285039187707,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.34807212261961723,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "序(2-5)均通过替换自变量进行稳健性检验，其中序(2-3)通过替换其中的付费节点变量进行稳健性检验，PP_1表示收费开始的时长占比，PP_2表示收费开始的绝对位置，即所在的集数。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.5147782692574528,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "结果表明，这两个收费节点的衡量也在0.01的水平上显著负向影响付费转化率，并且该替换对模型的其他解释变量的解释性没有影响。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 1.0680054367287108,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.40089806880560325,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "序(4-5)通过替换其中的收费模式变量( Vip)进行稳健性检验，Vip_1表示喜马拉雅的两种购买类型，购买整张专辑或者单个章节；Vip_2表示五种具体收费模式，是将按照Vip_1按照Vip的不同取值进一步分成的五种模式。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.48835541662037485,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "结果表明，这两个收费模式的衡量也在0.01的水平上显著正向影响付费转化率，该替换对模型的其他解释变量的解释性没有影响。"
+                },
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.17875195130273272,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "所有的替换的结果都与序（0）即基本模型的结论一致，证实了本研究模型的结果是稳健的。"
+                }
+              ]
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.16732537645174256,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16732537645174256,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "表5-3  稳健性检验结果"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "table_data": "[['', '(0)R', '(1)R_1', '(2)R', '(3)R', '(4)R', '(5)R'], ['tP', '-0.132***(0.025)', '-0.118***(0.025)', '-0.132***(0.025)', '-0.132***(0.025)', '-0.171***(0.028)', '-0.208***(0.028)'], ['Vip', '0.271***(0.012)', '0.266***(0.012)', '0.271***(0.012)', '0.271***(0.012)', '', ''], ['Vip_1', '', '', '', '', '0.037***(0.01)', ''], ['Vip_2', '', '', '', '', '', '0.038***(0.004)'], ['PP', '-0.207***(0.03)', '-0.204***(0.03)', '', '', '-0.195***(0.032)', '-0.174***(0.032)'], ['PP_1', '', '', '-0.209***(0.029)', '', '', ''], ['PP_2', '', '', '', '-0.001***(0)', '', ''], ['avgD', '-0.007***(0.001)', '-0.007***(0.001)', '-0.007***(0.001)', '-0.007***(0.001)', '-0.007***(0.001)', '-0.006***(0.001)'], ['avgPT', '0(0)', '0(0)', '0(0)', '0(0)', '0(0)', '0(0)'], ['cId', '-0.001**(0)', '-0.001**(0)', '-0.001***(0)', '-0.001**(0)', '-0.002***(0)', '-0.002***(0)'], ['cC', '0*(0)', '0**(0)', '0*(0)', '0(0)', '0**(0)', '0**(0)'], ['Age', '0***(0)', '0***(0)', '0***(0)', '0***(0)', '0***(0)', '0***(0)'], ['tC', '0(0)', '0**(0)', '0(0)', '0***(0)', '0(0)', '0**(0)'], ['UpF', '0.011***(0.003)', '0.013***(0.003)', '0.011***(0.003)', '0.008**(0.003)', '0.007**(0.003)', '0.006**(0.003)'], ['uA', '0(0)', '0(0)', '0(0)', '0(0)', '0*(0)', '0*(0)'], ['uAG', '0.009***(0.002)', '0.009***(0.002)', '0.009***(0.002)', '0.009***(0.002)', '0.011***(0.002)', '0.012***(0.002)'], ['uF', '0***(0)', '0***(0)', '0***(0)', '0***(0)', '0***(0)', '0***(0)'], ['uG', '0.04***(0.004)', '0.04***(0.004)', '0.04***(0.004)', '0.04***(0.004)', '0.047***(0.004)', '0.048***(0.004)']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.16732537645174256,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.16732537645174256,
+                  "selected": false,
+                  "part": [],
+                  "chosen": true,
+                  "text_content": "（续）表5-3稳健性检验结果"
+                }
+              ]
+            },
+            {
+              "type": 3,
+              "outLvl": "",
+              "score": 0.0,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "table_data": "[['', '(0)R', '(1)R_1', '(2)R', '(3)R', '(4)R', '(5)R'], ['uP', '-0.008***(0.008)', '-0.009(0.008)', '-0.008(0.008)', '-0.005(0.008)', '-0.005(0.009)', '-0.004(0.009)'], ['Cons', '0.429***(0.028)', '-0.535***(0.027)', '0.429***(0.028)', '0.4***(0.027)', '0.619***(0.032)', '0.554***(0.031)'], ['样本量', '4610', '4610', '4610', '4610', '4610', '4610'], ['调整R²', '0.2897', '0.2874', '0.2901', '0.2921', '0.2097', '0.2195']]"
+            },
+            {
+              "type": 1,
+              "outLvl": "",
+              "score": 0.006866183352619582,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "children": [
+                {
+                  "type": 2,
+                  "outLvl": "",
+                  "score": 0.006866183352619582,
+                  "selected": false,
+                  "part": [],
+                  "chosen": false,
+                  "text_content": "注：括号中代表标准误。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "结论与分析": [],
+  "实证研究类v3": [
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "4.3 相关分析",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.85567224336012,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5750861621400818,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "经过QQ图，概率密度分布图以及正态性检验得到被解释变量符合正态分布，故不再对变量进行处理，直接进行相关分析。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.41473385362882176,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "对连续型变量用皮尔逊相关分析，分类变量与连续变量之间的相关性用斯皮尔曼分析。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.4874864071834854,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "若变量的相关性符合要求，则模型变量的选择正确，进一步通过偏相关查看结果，若不符合则需要修正。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3783658204077312,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "相关分析的详细结果在附录三，表4-3为控制变量后的偏相关分析结果。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 1.8276927550192843,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3184394215230575,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "相关分析结果显示，解释变量之间不存在高度相关，虽然存在部分解释变量之间在5%水平上相关显著，但是相关系数都小于0.1，所以这些解释变量相关性很低即几乎不存在相关。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.6718623854619723,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "解释变量（R）与被解释变量之间在5%水平上都存在一定程度的显著相关，解释变量之间以及解释变量与被解释变量之间的相关性符合规范，进一步将控制变量进行控制，得到偏相关分析结果。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.484548293707908,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "偏相关分析结果表明被解释变量在1%的水平上与解释变量均显著相关，解释变量之间除了收费节点与章节价格在5%水平上显著相关，但是相关系数&lt;0.1，几乎不相关，其余解释变量之间均不相关。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.3528426543263465,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "相关性结果符合要求，可以进行接下来的实证逐层分析。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.14611372628821417,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.14611372628821417,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "表4-3  解释变量与被解释变量偏相关分析结果"
+            }
+          ]
+        },
+        {
+          "type": 3,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": true,
+          "table_data": "[['', 'Vip', 'PP', 'tP', 'R'], ['Vip', '1', '', '', ''], ['PP', '-0.007', '1', '', ''], ['tP', '-0.021', '-0.094***', '1', ''], ['R', '0.322***', '-0.092***', '-0.069***', '1']]"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.23338946666785276,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.23338946666785276,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "注：***、**、*分别表示在1%、5%和10%的显著性水平上显著。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "outLvl": "1",
+      "score": 0.0,
+      "selected": true,
+      "part": [
+        "实证研究类v3"
+      ],
+      "chosen": false,
+      "text_content": "5.1 逐层回归分析",
+      "children": [
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.9289759262178305,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.8263147701266835,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "由于我们的解释变量有三个，并且属于不同的层面，解释变量对被解释变量的影响可能受解释变量之间的影响，所以我们采用逐层回归，起始为控制层，即只将控制变量纳入回归分析；然后再在此基础上，用前进法将各个自变量放入回归中，总共有四层回归，不同层的回归中控制变量以及上一层解释变量的影响都没有改变。"
+            },
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.10266115609114702,
+              "selected": false,
+              "part": [],
+              "chosen": false,
+              "text_content": "所以三个解释变量的纳入是有必要的，下图提供了控制层（如表5-1）和最终完整的回归模型（如表5-2）结果，以供对比。"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5433170664040541,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5433170664040541,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "表5-1  逐层回归—控制层回归结果"
+            }
+          ]
+        },
+        {
+          "type": 3,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": true,
+          "table_data": "[['变量', '系数', '标准误', 't', 'VIF', '调整R²', 'F', '常数项'], ['avgD', '-0.009***', '0.001', '-11.06', '1.73', '0.1962', '94.73***', '0.614***'], ['avgPT', '0', '0', '-0.51', '2.15', '', '', ''], ['cId', '-0.002***', '0', '-4.41', '1.14', '', '', ''], ['cC', '0**', '0', '2.05', '2.27', '', '', ''], ['Age', '0***', '0', '-12.19', '1.83', '', '', ''], ['tC', '0*', '0', '1.93', '1.25', '', '', ''], ['UpF', '0.005', '0.003', '1.44', '1.27', '', '', ''], ['uA', '0***', '0', '3.32', '1.87', '', '', ''], ['uAG', '0.011***', '0.002', '5.4', '1.65', '', '', ''], ['uF', '0***', '0', '4.16', '2.01', '', '', ''], ['uG', '0.05***', '0.004', '13.15', '1.14', '', '', ''], ['uP', '-0.005', '0.009', '-0.56', '1.19', '', '', '']]"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5251491868134985,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5251491868134985,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "表5-2  逐层回归—最终层回归结果"
+            }
+          ]
+        },
+        {
+          "type": 3,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": true,
+          "table_data": "[['变量', '系数', '标准误', 't', 'VIF', '调整R²', 'F', '常数项'], ['Vip', '0.271***', '0.012', '23.084', '1.04', '0.2897', '126.31***', '0.4295***'], ['PP', '-0.207***', '0.03', '-6.923', '1.22', '', '', ''], ['tP', '-0.13***', '0.025', '-5.118', '1.15', '', '', '']]"
+        },
+        {
+          "type": 1,
+          "outLvl": "",
+          "score": 0.5251491868134985,
+          "selected": false,
+          "part": [],
+          "chosen": false,
+          "children": [
+            {
+              "type": 2,
+              "outLvl": "",
+              "score": 0.5251491868134985,
+              "selected": false,
+              "part": [],
+              "chosen": true,
+              "text_content": "（续）表5-2逐层回归—最终层回归结果"
+            }
+          ]
+        },
+        {
+          "type": 3,
+          "outLvl": "",
+          "score": 0.0,
+          "selected": false,
+          "part": [],
+          "chosen": true,
+          "table_data": "[['变量', '系数', '标准误', 't', 'VIF', '调整R²', 'F', '常数项'], ['avgD', '-0.007***', '0.001', '-9.004', '1.76', '0.2897', '126.31***', '0.4295***'], ['avgPT', '0', '0', '0.145', '2.16', '', '', ''], ['cId', '-0.001***', '0', '-2.57', '1.2', '', '', ''], ['cC', '0*', '0', '1.792', '2.28', '', '', ''], ['Age', '0***', '0', '-13.065', '1.9', '', '', ''], ['tC', '0', '0', '0.067', '1.33', '', '', ''], ['UpF', '0.011***', '0.003', '3.371', '1.3', '', '', ''], ['uA', '0 ', '0', '1.427', '2.01', '', '', ''], ['uAG', '0.009***', '0.002', '4.769', '1.66', '', '', ''], ['uF', '0***', '0', '3.707', '2.01', '', '', ''], ['uG', '0.041***', '0.004', '11.355', '1.16', '', '', ''], ['uP', '-0.008***', '0.008', '-0.916', '1.19', '', '', '']]"
+        }
+      ]
+    }
+  ]
+}

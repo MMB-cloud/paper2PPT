@@ -75,11 +75,11 @@ if __name__ == '__main__':
             print(title + " is done!")
             evaluate_lst.append(res)
     print(evaluate_lst)
-    if os.path.exists(output_path + 'evaluate.json'):
+    if os.path.exists(output_path + 'evaluate1.json'):
         pass
     else:
-        os.makedirs(output_path + 'evaluate.json')
-    with open(output_path + 'evaluate.json', 'w', encoding='UTF-8') as f:
+        os.makedirs(output_path + 'evaluate1.json')
+    with open(output_path + 'evaluate1.json', 'w', encoding='UTF-8') as f:
         f.write(json.dumps(evaluate_lst, ensure_ascii=False, indent=2))
         f.close()
     # 过滤无效数据

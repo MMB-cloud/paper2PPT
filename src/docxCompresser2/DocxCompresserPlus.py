@@ -6,6 +6,7 @@ from collections import namedtuple
 from src.docxCompresser2.ScoringModel import ScoringModel
 from src.docxCompresser2.ILPModel import ILPModel
 from src.docxCompresser2.TextRankModel import TextRankModel
+from src.docxCompresser2.TFModel import TFModel
 from src.docxCompresser2.DocxGenerator import DocxGenerator
 from src.docxCompresser2.MooModel import MooModel
 from src.docxCompresser2.EvaluateModel import EvaluateModel
@@ -114,6 +115,7 @@ class DocxCompresserPlus:
     scoringModel = ScoringModel()
     ilpModel = ILPModel()
     textRankModelModel = TextRankModel()
+    tfModel = TFModel()
     mooModel = MooModel()
     maxLength = 0
 
@@ -270,17 +272,17 @@ class DocxCompresserPlus:
         utils.dict_to_json(result, outputPath + "/ClassByPart2.json")
         # 评估
         # 整合摘要
-        ab_lst = [leaf.getTextContent() for leaf in self.scoringModel.abstractNode.getleafnodes()]
-        chosen_lst = [leaf.getTextContent() for leaf in self.moo_chosen_lst]
+        ab_lst = [leaf.getTextContent() for leaf in self.scoringModel.abstractNode.getleafnodes() if leaf is not None and leaf.getTextContent() is not None]
+        chosen_lst = [leaf.getTextContent() for leaf in self.moo_chosen_lst if leaf is not None and leaf.getTextContent() is not None]
         evaluateModel = EvaluateModel()
         if len(ab_lst) == 0 or len(chosen_lst) == 0:
             return 0
-        sl_score, lsc_str = evaluateModel.calculate_rouge_l(" ".join(ab_lst), " ".join(chosen_lst))
+        sl_score, lsc_str = evaluateModel.calculate_rouge_l(" ".join(ab_lst), " ".join(chosen_lst),2)
         rouge1_score = evaluateModel.rouge_n(" ".join(ab_lst), " ".join(chosen_lst), 1)
         rouge2_score = evaluateModel.rouge_n(" ".join(ab_lst), " ".join(chosen_lst), 2)
         su_score = evaluateModel.rouge_su(" ".join(ab_lst), " ".join(chosen_lst))
-        print('ROUGE-L F-score:', sl_score)
-        print('最长公共子序列:', lsc_str)
+        # print('ROUGE-L F-score:', sl_score)
+        # print('最长公共子序列:', lsc_str)
         res = {'title': scoredDic["title"],
                'rouge1': rouge1_score,
                'rouge2': rouge2_score,
@@ -308,11 +310,16 @@ class DocxCompresserPlus:
             if n.getOutLvl() != '':
                 isEnd = False
         if isEnd:
-            #self.ilpModel.build_and_solve_by_sent(node, max_length, presentation_type="text_based")
-            chosen_lst = self.mooModel.build_and_solve_by_node(node, self.classifyScript["keyword"]["main_text"],
-                                                  self.scoringModel.abstractNode,
-                                                  self.scoringModel.title)
-            self.moo_chosen_lst.extend(chosen_lst)
+            topn = len(node.getleafnodes()) * 0.20
+            chosen_lst = self.tfModel.build_and_solve_by_sent(node, self.classifyScript["keyword"]["main_text"], topn=round(topn))
+            #chosen_lst = self.ilpModel.build_and_solve_by_sent(node, max_length, presentation_type="text_based")
+            # chosen_lst = self.mooModel.build_and_solve_by_node(node, self.classifyScript["keyword"]["main_text"],
+            #                                       self.scoringModel.abstractNode,
+            #                                       self.scoringModel.title)
+            if isinstance(chosen_lst,list):
+                self.moo_chosen_lst.extend(chosen_lst)
+            else:
+                return None
 
     # 以段落作为chosen的最小粒度
     # 不能以段落作为入参，需要更宏观的参数

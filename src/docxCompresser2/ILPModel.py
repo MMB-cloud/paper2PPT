@@ -1,4 +1,5 @@
 import cvxpy as cp
+import numpy as np
 from numpy import array
 import pandas as pd
 
@@ -28,6 +29,7 @@ def check(node, strlist):
 
 class ILPModel:
     def __init__(self) -> None:
+
         pass
 
     """模型构建与求解"""
@@ -71,11 +73,14 @@ class ILPModel:
                 problem = cp.Problem(objective, constraints)  # 问题模型
 
                 # 问题模型求解
+                chosen_lst = []
                 problem.solve(solver='GLPK_MI', verbose=True)
                 results = list(x.value)
                 for i in range(len(results)):
                     selected = True if results[i] == 1 else False
                     leafnodes[i].setChosen(selected)
+                    chosen_lst.append(leafnodes[i])
+                return chosen_lst
             else:  # 有规则，看是否能匹配到当中的章节
                 for docpart in rules:
                     if check(node, docpart["name"]):  # 匹配到了，读取规则

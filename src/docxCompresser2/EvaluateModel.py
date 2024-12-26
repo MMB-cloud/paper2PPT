@@ -32,14 +32,14 @@ class EvaluateModel:
         return "".join(lcs), dp[m][n]
 
     @staticmethod
-    def calculate_rouge_l(reference, candidate):
+    def calculate_rouge_l(reference, candidate, beta):
         lcs_str, lcs_len = EvaluateModel.longest_common_subsequence(reference, candidate)
         m = len(reference)
         n = len(candidate)
         recall = lcs_len / m if m > 0 else 0
         precision = lcs_len / n if n > 0 else 0
         if recall + precision > 0:
-            f_score = (2 * recall * precision) / (recall + precision)
+            f_score = ((1 + beta * beta) * recall * precision) / (recall + (beta * beta) * precision)
         else:
             f_score = 0
         return f_score, lcs_str

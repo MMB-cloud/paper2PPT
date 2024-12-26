@@ -66,34 +66,40 @@ class TextRankModel:
     def set_script(self, script):
         self.script = script
 
-    def build_and_solve_by_node(self, node, keywords, topn=3):
+    def build_and_solve_by_sent(self, node, keywords, topn=3):
         # 获取所有节点（考虑图和表）
         graph_node_lst = []  # 包含图表和描述的节点
         sent_node_lst = node.getleafnodes()  # 所有叶子节点
         # 计算句子权重
-        sent_lst = [sent.getTextContent() for sent in sent_node_lst]
-        weights = calculate_weight(sent_lst, keywords)
+        sent_lst = [sent.getTextContent() for sent in sent_node_lst if sent.getTextContent() is not None]
+        # weights = calculate_weight(sent_lst, keywords)
         # 句子向量化
         vectorizer = TfidfVectorizer()
-        tfidf_matrix = vectorizer.fit_transform(sent_lst)
-        # 计算句子之间的相似度矩阵
-        similarity_matrix = cosine_similarity(tfidf_matrix, tfidf_matrix)
-        # 加入权重信息
-        weight_similarity_matrix = similarity_matrix * weights
-        # 构建图
-        g = nx.from_numpy_array(weight_similarity_matrix)
-        # 计算textrank分数
-        scores = nx.pagerank(g, alpha=0.85)
-        # 获取排名前 top_n 的句子
-        sorted_sentences = sorted(((i, score) for i, score in enumerate(scores)), key=lambda x: x[1], reverse=True)[
-                           :topn]
-        summary_indices = [index for index, _ in sorted_sentences]
-        summary = [sent_lst[i] for i in summary_indices]
-        # 标记chosen
-        chosen_node_lst = [sent_node_lst[i] for i in summary_indices]
-        for node in chosen_node_lst:
-            node.setChosen(True)
-        print(','.join(summary) + '\n')
+        try:
+            tfidf_matrix = vectorizer.fit_transform(sent_lst)
+            # 计算句子之间的相似度矩阵
+            similarity_matrix = cosine_similarity(tfidf_matrix, tfidf_matrix)
+            # 加入权重信息
+            # weight_similarity_matrix = similarity_matrix * weights
+            # 构建图
+            # g = nx.from_numpy_array(weight_similarity_matrix)
+            g = nx.from_numpy_array(similarity_matrix)
+            # 计算textrank分数
+            scores = nx.pagerank(g, alpha=0.85)
+            # 获取排名前 top_n 的句子
+            sorted_sentences = sorted(((i, score) for i, score in enumerate(scores)), key=lambda x: x[1], reverse=True)[
+                               :topn]
+            summary_indices = [index for index, _ in sorted_sentences]
+            summary = [sent_lst[i] for i in summary_indices]
+            # 标记chosen
+            chosen_node_lst = [sent_node_lst[i] for i in summary_indices]
+            for node in chosen_node_lst:
+                node.setChosen(True)
+            return chosen_node_lst
+        except:
+            print("向量化出错:",["".join(sent_lst)])
+            return []
+
         # for sent_node in sent_node_lst:
         #    seg_word_lst = utils.seg_depart(sent_node.getTextContent())
         #    g.add_node(sent_node)

@@ -32,17 +32,21 @@ class EvaluateModel:
         return "".join(lcs), dp[m][n]
 
     @staticmethod
-    def calculate_rouge_l(reference, candidate):
+    def calculate_rouge_l(reference, candidate, beta):
         lcs_str, lcs_len = EvaluateModel.longest_common_subsequence(reference, candidate)
         m = len(reference)
         n = len(candidate)
+        res = []
         recall = lcs_len / m if m > 0 else 0
         precision = lcs_len / n if n > 0 else 0
         if recall + precision > 0:
-            f_score = (2 * recall * precision) / (recall + precision)
+            f_score = ((1 + beta * beta) * recall * precision) / (recall + (beta * beta) * precision)
         else:
             f_score = 0
-        return f_score, lcs_str
+        res.append(precision)
+        res.append(recall)
+        res.append(f_score)
+        return res
 
     @staticmethod
     def get_ngrams(text, n):
@@ -64,9 +68,16 @@ class EvaluateModel:
         reference_ngrams = EvaluateModel.get_ngrams(reference, n)
         candidate_ngrams = EvaluateModel.get_ngrams(candidate, n)
         common_ngrams = set(reference_ngrams) & set(candidate_ngrams)
-        if len(reference_ngrams) == 0:
+        if len(reference_ngrams) == 0 or len(candidate_ngrams) == 0:
             return 0
-        return len(common_ngrams) / len(reference_ngrams)
+        # Precise
+        precise = len(common_ngrams) / len(set(candidate_ngrams))
+        # Recall
+        recall = len(common_ngrams) / len(set(reference_ngrams))
+        # F1
+        F1 = 5 * precise * recall / (4 * precise + recall)
+        res = [precise, recall, F1]
+        return res
 
     @staticmethod
     def get_skip_bigrams(text, max_skip=4):

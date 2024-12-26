@@ -88,7 +88,8 @@ def calculate_weight(para_lst, keywords, ab_sent_lst, seg_title_lst):
     w_tf = min_max_normalize(np.array(w_tf))
     w_sim = min_max_normalize(np.array(w_sim))
     w_cov = min_max_normalize(np.array(w_cov))
-    weights = w_pos * 0.3 + w_tf * 0.4 + w_sim * 0.2 + w_cov * 0.1
+    #weights = w_pos * 0.3 + w_tf * 0.4 + w_sim * 0.2 + w_cov * 0.1
+    weights = w_pos * 0.1 + w_tf * 0.5 + w_sim * 0.3 + w_cov * 0.1
     return weights
 
 
@@ -114,7 +115,6 @@ def calculate_similarity(para_lst):
 
 
 def calculate_constr_len(para_lst, xl, xu):
-    res = []
     sents = [node for para in para_lst for node in para.getleafnodes()]
     lens = np.array([len(sent.getTextContent()) for sent in sents])
     res = [np.sum(lens) * xl * 0.01, np.sum(lens) * xu * 0.01]
@@ -142,7 +142,7 @@ def getCosScore(seg_sent1, seg_sent2):
                 word_vector2[i] += 1
     # 余弦相似度计算
     # dist1 = float(np.dot(word_vector1, word_vector2) / (np.linalg.norm(word_vector1) * np.linalg.norm(word_vector2)))
-    norm = np.linalg.norm(word_vector1) * np.linalg.norm(word_vector2)
+    # norm = np.linalg.norm(word_vector1) * np.linalg.norm(word_vector2)
 
     dist1 = float(np.dot(word_vector1, word_vector2) / (
             np.linalg.norm(word_vector1) * np.linalg.norm(word_vector2)))
@@ -217,7 +217,8 @@ class MooModel:
         c_coef.append(calculate_len(para_lst))
         c_coef.append(calculate_similarity(para_lst))
         # 约束变量系数
-        constr_coef = calculate_constr_len(para_lst, 10, 25)
+        #constr_coef = calculate_constr_len(para_lst, 10, 25)
+        constr_coef = calculate_constr_len(para_lst, 10, 30)
         # 决策变量数量
         n_var = len(c_coef[0]) if isinstance(c_coef[0],np.ndarray) else 0
         # 创建问题实例
@@ -233,17 +234,11 @@ class MooModel:
             # mutation=PM(eta=20),
             eliminate_duplicates=True
         )
-        # 设置混合终止准则
-        #termination1 = get_termination("n_gen", 100)  # 函数评估次数不超过10000次
-        #termination2 = get_termination("ftol", 1e-6)  # 目标函数相对改进小于1e-6
-        #termination3 = get_termination("cv", 1e-8)  # 函数评估次数不超过10000次
-        #mixed_termination = TerminationCollection([termination1, termination2, termination3])
         # 执行优化
         try:
             res = minimize(
                 problem=solver,
                 algorithm=algorithm,
-                #termination=mixed_termination,
                 termination=get_termination('moo', n_max_gen=100),
                 seed=1,
                 verbose=False,
@@ -256,7 +251,8 @@ class MooModel:
             normalized_F = (F - min_vals) / (max_vals - min_vals)
 
             # 根据给定权重进行加权计算
-            weights = np.array([0.5, 0.2, 0.3])
+            #weights = np.array([0.5, 0.2, 0.3])
+            weights = np.array([0.6, 0.1, 0.3])
             weighted_result = np.dot(normalized_F, weights)
             idx = np.argmax(weighted_result, axis=0)
             result = res.X[idx]

@@ -1,14 +1,17 @@
 import os
 import re
 import json
+import math
 from collections import namedtuple
 
 from src.docxCompresser2.ScoringModel import ScoringModel
 from src.docxCompresser2.ILPModel import ILPModel
 from src.docxCompresser2.TextRankModel import TextRankModel
+from src.docxCompresser2.TFModel import TFModel
 from src.docxCompresser2.DocxGenerator import DocxGenerator
 from src.docxCompresser2.MooModel import MooModel
 from src.docxCompresser2.EvaluateModel import EvaluateModel
+from src.docxCompresser2.MeadModel import MeadModel
 from src.docxParser import Node
 from src.docxParser import DocxTree
 from common.Utils import Utils
@@ -114,6 +117,8 @@ class DocxCompresserPlus:
     scoringModel = ScoringModel()
     ilpModel = ILPModel()
     textRankModelModel = TextRankModel()
+    meadModel = MeadModel()
+    tfModel = TFModel()
     mooModel = MooModel()
     maxLength = 0
 
@@ -255,8 +260,10 @@ class DocxCompresserPlus:
             if partName == "title":
                 continue
             for treeNode in treeNodes:
+                # 跳过摘要
                 if partName == "摘要":
                     continue
+                # 跳过文献综述
                 if partName in treeNode.getPartName():
                     max_length = 0.0
                     for part in self.classifyScript["parts"]:
@@ -270,17 +277,18 @@ class DocxCompresserPlus:
         utils.dict_to_json(result, outputPath + "/ClassByPart2.json")
         # 评估
         # 整合摘要
-        ab_lst = [leaf.getTextContent() for leaf in self.scoringModel.abstractNode.getleafnodes()]
-        chosen_lst = [leaf.getTextContent() for leaf in self.moo_chosen_lst]
+        ab_lst = [leaf.getTextContent() for leaf in self.scoringModel.abstractNode.getleafnodes() if leaf.getTextContent() is not None]
+        chosen_lst = [leaf.getTextContent() for leaf in self.moo_chosen_lst if leaf.getTextContent() is not None]
         evaluateModel = EvaluateModel()
         if len(ab_lst) == 0 or len(chosen_lst) == 0:
             return 0
-        sl_score, lsc_str = evaluateModel.calculate_rouge_l(" ".join(ab_lst), " ".join(chosen_lst))
+        sl_score = evaluateModel.calculate_rouge_l(" ".join(ab_lst), " ".join(chosen_lst), 2)
+        # sl_page_score = math.exp(abs(len(chosen_lst)/4 - 30) / 30)
         rouge1_score = evaluateModel.rouge_n(" ".join(ab_lst), " ".join(chosen_lst), 1)
         rouge2_score = evaluateModel.rouge_n(" ".join(ab_lst), " ".join(chosen_lst), 2)
         su_score = evaluateModel.rouge_su(" ".join(ab_lst), " ".join(chosen_lst))
-        print('ROUGE-L F-score:', sl_score)
-        print('最长公共子序列:', lsc_str)
+        # print('ROUGE-L F-score:', sl_score)
+        # print('最长公共子序列:', lsc_str)
         res = {'title': scoredDic["title"],
                'rouge1': rouge1_score,
                'rouge2': rouge2_score,
@@ -308,10 +316,13 @@ class DocxCompresserPlus:
             if n.getOutLvl() != '':
                 isEnd = False
         if isEnd:
+            topn = len(node.getleafnodes())
+            chosen_lst = self.meadModel.build_and_solve_by_sent(node, topn=round(topn * 0.3))
+            #chosen_lst = self.tfModel.build_and_solve_by_sent(node, topn=round(topn * 0.3))
             #self.ilpModel.build_and_solve_by_sent(node, max_length, presentation_type="text_based")
-            chosen_lst = self.mooModel.build_and_solve_by_node(node, self.classifyScript["keyword"]["main_text"],
-                                                  self.scoringModel.abstractNode,
-                                                  self.scoringModel.title)
+            #chosen_lst = self.mooModel.build_and_solve_by_node(node, self.classifyScript["keyword"]["main_text"],
+            #                                      self.scoringModel.abstractNode,
+            #                                      self.scoringModel.title)
             self.moo_chosen_lst.extend(chosen_lst)
 
     # 以段落作为chosen的最小粒度

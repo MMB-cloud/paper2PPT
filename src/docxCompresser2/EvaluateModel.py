@@ -75,7 +75,7 @@ class EvaluateModel:
         # Recall
         recall = len(common_ngrams) / len(set(reference_ngrams))
         # F1
-        F1 = 5 * precise * recall / (4 * precise + recall)
+        F1 = 5 * precise * recall / (4 * precise + recall) if precise != 0 and recall != 0 else 0
         res = [precise, recall, F1]
         return res
 

@@ -88,7 +88,7 @@ def calculate_weight(para_lst, keywords, ab_sent_lst, seg_title_lst):
     w_tf = min_max_normalize(np.array(w_tf))
     w_sim = min_max_normalize(np.array(w_sim))
     w_cov = min_max_normalize(np.array(w_cov))
-    #weights = w_pos * 0.3 + w_tf * 0.4 + w_sim * 0.2 + w_cov * 0.1
+    # weights = w_pos * 0.3 + w_tf * 0.4 + w_sim * 0.2 + w_cov * 0.1
     weights = w_pos * 0.1 + w_tf * 0.5 + w_sim * 0.3 + w_cov * 0.1
     return weights
 
@@ -179,6 +179,63 @@ def get_chosen(result, para_lst):
     return chosen_lst
 
 
+def compute_entropy(x_std):
+    """
+        计算每个指标的信息熵
+        :param x_std: 标准化后的决策矩阵 (m x n)
+        :return: 每个指标的熵值 (n,)
+        """
+    m, n = x_std.shape
+    # 计算每个比重
+    column_sum = np.sum(x_std, axis=0)
+    p = x_std / (column_sum + (column_sum == 0).astype(float))  # 如果列的和为0，则把对应的列的比重设为0
+    k = 1 / np.log(m)
+    entropy = -k * np.sum(p * np.log(p + 1e-10), axis=0)
+    return entropy
+
+
+def compute_weights(entropy):
+    """
+    计算每个指标的权重
+    :param entropy: 熵值 (n,)
+    :return: 权重 (n,)
+    """
+    weight = (1 - entropy) / np.sum(1 - entropy)
+    return weight
+
+
+def compute_distance(x_weighted, A_plus, A_minus):
+    """
+    计算每个方案的与正负理想解的距离
+    :param x_weighted: 加权标准化决策矩阵 (m x n)
+    :param A_plus: 正理想解 (n,)
+    :param A_minus: 负理想解 (n,)
+    :return: 每个方案的正负理想解的距离 (m,)
+    """
+    D_plus = np.sqrt(np.sum((x_weighted - A_plus) ** 2, axis=1))  # 到正理想解的距离
+    D_minus = np.sqrt(np.sum((x_weighted - A_minus) ** 2, axis=1))  # 到负理想解的距离
+    return D_plus, D_minus
+
+
+def getTopsis(x_std):
+    # 2.1 计算每个指标的信息熵
+    entropy = compute_entropy(x_std)
+    # 2.2 计算每个指标的权重
+    weights = compute_weights(entropy)
+    # 2.3 加权标准化决策矩阵
+    x_weighted = x_std * weights
+    # 2.4 计算正负理想解
+    A_plus = np.max(x_weighted, axis=0)
+    A_minus = np.min(x_weighted, axis=0)
+    # 2.5 计算每个方案的正负理想解的距离
+    D_plus, D_minus = compute_distance(x_weighted, A_plus, A_minus)
+    # 2.6 计算相对接近度
+    C = D_minus / (D_plus + D_minus)
+    res = np.argmax(C)
+    # 2.6 排序择优
+    return res, C
+
+
 """
 用于内容选取的多目标规划模型
     目标: 最大化生成的幻灯片的内容单元总权重
@@ -217,10 +274,10 @@ class MooModel:
         c_coef.append(calculate_len(para_lst))
         c_coef.append(calculate_similarity(para_lst))
         # 约束变量系数
-        #constr_coef = calculate_constr_len(para_lst, 10, 25)
+        # constr_coef = calculate_constr_len(para_lst, 10, 25)
         constr_coef = calculate_constr_len(para_lst, 10, 30)
         # 决策变量数量
-        n_var = len(c_coef[0]) if isinstance(c_coef[0],np.ndarray) else 0
+        n_var = len(c_coef[0]) if isinstance(c_coef[0], np.ndarray) else 0
         # 创建问题实例
         solver = MooModelSolver(n_var, 3, 2, c_coef, constr_coef)
         # 设置算法参数
@@ -245,16 +302,20 @@ class MooModel:
                 return_least_infeasible=True
             )
             # 进行最小-最大归一化
-            F = res.F * [-1, 1, -1]
-            min_vals = np.min(F, axis=0)
-            max_vals = np.max(F, axis=0)
-            normalized_F = (F - min_vals) / (max_vals - min_vals)
+            # F = res.F * [-1, 1, -1]
+            # min_vals = np.min(F, axis=0)
+            # max_vals = np.max(F, axis=0)
+            # normalized_F = (F - min_vals) / (max_vals - min_vals)
 
-            # 根据给定权重进行加权计算
-            #weights = np.array([0.5, 0.2, 0.3])
-            weights = np.array([0.6, 0.1, 0.3])
-            weighted_result = np.dot(normalized_F, weights)
-            idx = np.argmax(weighted_result, axis=0)
+            # 一：根据给定权重进行加权计算
+            # weights = np.array([0.5, 0.2, 0.3])
+            # weights = np.array([0.6, 0.1, 0.3])
+            # weighted_result = np.dot(normalized_F, weights)
+            # idx = np.argmax(weighted_result, axis=0)
+            # result = res.X[idx]
+            # chosen_lst = get_chosen(result, para_lst)
+            # 二：熵权topsis
+            idx, C = getTopsis(res.X)
             result = res.X[idx]
             chosen_lst = get_chosen(result, para_lst)
             for chosen in chosen_lst:
@@ -266,7 +327,7 @@ class MooModel:
             print(f"优化过程出现异常: {str(e)}")
             return []
 
-        #print(res.X)
+        # print(res.X)
         # target_weight = res.F[0] * 0.5 + res.F[1] * 0.2 +
 
         # 可视化结果

@@ -1,5 +1,7 @@
 from common.Utils import Utils
 from src.pptGenerator.PPTNode import PPTNode
+from openai import OpenAI
+import re
 utils = Utils()
 
 """幻灯片树"""
@@ -9,7 +11,8 @@ class PPTTree:
     title = ''
     index = []
     pptDic = {}
-
+    #api_key = 'sk-6274a5c776bd4840a772af31dffc3afb' #ds
+    api_key = '819d1190-94d8-413f-a7f8-b6a5522e79f2' #ds
     """
     :param file_path: pptTree.json的绝对路径
     """
@@ -34,8 +37,12 @@ class PPTTree:
                 self.dfs(pptNode, node)
                 #  不为空添加到结果集
             if len(pptNode.getChildren()) > 0:
-                self.pptDic["children"].append(pptNode)
-                result["children"].append(pptNode.getDic())
+                pptNode_with_llm = self.doubao(pptNode)
+                #self.pptDic["children"].append(pptNode)
+                self.pptDic["children"].append(pptNode_with_llm)
+                #result["children"].append(pptNode.getDic())
+                result["children"].append(pptNode_with_llm.getDic())
+
         utils.dict_to_json(result, outputPath + "/pptDic.json")
         var = self.pptDic
 
@@ -129,3 +136,84 @@ class PPTTree:
                 data["content"]["children"] = text_data["children"]
                 dataList.append(data)
         return dataList
+
+    def deepseek(self, pptNode):
+        children = pptNode.getChildren()
+        sent_lst = [child['content'] for child in children if child['type'] == 2]
+        pre_words = f"这是从一篇论文中{pptNode.getContent() }部分摘取的关键句子，' \
+                    '将下面列表中内容替换为更适合幻灯片展示的语句，' \
+                    '并进行概括总结，使其更有逻辑:"
+        content = "\n".join(sent_lst)
+        client = OpenAI(api_key=self.api_key, base_url="https://api.deepseek.com")
+        response = client.chat.completions.create(
+            model="deepseek-chat",
+            messages=[
+                {"role": "system", "content": "You are a helpful research assistant"},
+                {"role": "user", "content": f"{pre_words + content}"},
+            ],
+            stream=False
+        )
+
+        print(response)
+
+    def doubao(self,pptNode):
+        children = pptNode.getChildren()
+        sent_lst = [child['content'] for child in children if child['type'] == 2]
+        pre_words = f"这是从一篇论文中{pptNode.getContent()}部分摘取的关键句子，' \
+                            '将下面内容替换为更适合幻灯片展示的简练语句，如果是综述部分则总条数小于等于5，字数小于等于200' \
+                            '并进行分点概括总结，使其条理清晰，更有逻辑："
+        content = "\n".join(sent_lst)
+        aft_words = "\n" + "其他要求：字体不需要加粗，所有冒号用中文全角符号。输出结果为list，输出模板为：1.xx:- xxxx - yyyy 2.xx: - xxxx"
+        client = OpenAI(api_key=self.api_key, base_url="https://ark.cn-beijing.volces.com/api/v3")
+        response = client.chat.completions.create(
+            model="ep-20250214205811-6bwfc",
+            messages=[
+                {"role": "system", "content": "你是用于辅助ppt制作的助手，语言风格简练"},
+                {"role": "user", "content": f"{pre_words + content + aft_words}"},
+            ],
+            #stream=False
+        )
+        response_content = response.choices[0].message.content
+        # 按行切割
+        response_content_list = response_content.split('\n')
+        # 返回节点
+        n_pptnode = PPTNode(pptNode.getContent(), [])
+        if len(response_content_list) > 0 and response_content_list[0].endswith("："):
+            # 分割内容为不同的部分
+            sections = re.split(r'\n(?=\d+\.\s*[\u4e00-\u9fa5]+：)', response_content.strip())
+
+            # 初始化一个空列表来存储字典
+            data_list = []
+            #如果切割后的list只有一个，未按格式
+
+            # 遍历每个部分
+            for section in sections:
+                if section.strip():
+                    # 提取标题和内容
+                    title_part, *content_lines = section.split('\n')
+                    title = title_part.split('：')[0].strip()  # 提取标题
+                    # 清理内容并转换为列表
+                    content = [
+                        line.strip().replace('    - ', '', 1)  # 替换首个子项目符号
+                        for line in content_lines
+                        if line.strip()
+                    ]
+                    if len(content) == 0 and len(title_part.split('：')) > 1:
+                        content = [title_part.split('：')[1]]
+                    data_list.append({"title": title, "content": content})
+                    # 创建字典并添加到列表
+                    n_pptnode.addNode(2, {'title': title, 'content': content})
+        else:
+            n_pptnode.addNode(2,{'title': pptNode.getContent(), 'content': response_content_list})
+        # 添加图片节点
+        for child in pptNode.getChildren():
+            if child['type'] == 4:
+                n_pptnode.addNode(4,child['content'])
+            elif child['type'] == 3:
+                n_pptnode.addNode(3,child['content'])
+
+        return n_pptnode
+        #print(response.choices[0].message.content)
+
+
+

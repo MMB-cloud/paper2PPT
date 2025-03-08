@@ -317,12 +317,12 @@ class DocxCompresserPlus:
                 isEnd = False
         if isEnd:
             topn = len(node.getleafnodes())
-            chosen_lst = self.meadModel.build_and_solve_by_sent(node, topn=round(topn * 0.3))
+            # chosen_lst = self.meadModel.build_and_solve_by_sent(node, topn=round(topn * 0.3))
             #chosen_lst = self.tfModel.build_and_solve_by_sent(node, topn=round(topn * 0.3))
             #self.ilpModel.build_and_solve_by_sent(node, max_length, presentation_type="text_based")
-            #chosen_lst = self.mooModel.build_and_solve_by_node(node, self.classifyScript["keyword"]["main_text"],
-            #                                      self.scoringModel.abstractNode,
-            #                                      self.scoringModel.title)
+            chosen_lst = self.mooModel.build_and_solve_by_node(node, self.classifyScript["keyword"]["main_text"],
+                                                   self.scoringModel.abstractNode,
+                                                   self.scoringModel.title)
             self.moo_chosen_lst.extend(chosen_lst)
 
     # 以段落作为chosen的最小粒度

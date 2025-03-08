@@ -16,7 +16,7 @@ def parseDicToSlide(pptTree):
     template.setIndex(index)
     for pptNode in pptTree.pptDic["children"]:
         # 章节标题
-        template.setSlideNode(pptNode, index)
+        template.setSlideode(pptNode, index)
     # 合并
     file_paths = utils.get_file_paths(utils.getOutputPath() + "\\" + title)
     pptx_paths = []

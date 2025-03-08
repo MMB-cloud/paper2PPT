@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6b265bfc-09d0-4da6-a839-278f048f2e68" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/script/model/模型设计v1.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/script/model/模型设计v1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/script/实证研究类v3.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/script/实证研究类v3.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/user/input/1997-2011年我国专利产出与经济增长效率的关系研究2023218_174316.docx" beforeDir="false" afterPath="$PROJECT_DIR$/public/user/input/1997-2011年我国专利产出与经济增长效率的关系研究2023218_174316.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/user/input/1997-2011年我国专利产出与经济增长效率的关系研究2023218_174316/[Content_Types].xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/user/input/1997-2011年我国专利产出与经济增长效率的关系研究2023218_174316/_rels/.rels" beforeDir="false" />
@@ -39,6 +42,8 @@
       <change beforePath="$PROJECT_DIR$/public/user/input/1997-2011年我国专利产出与经济增长效率的关系研究2023218_174316/word/styles.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/user/input/1997-2011年我国专利产出与经济增长效率的关系研究2023218_174316/word/theme/theme1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/user/input/1997-2011年我国专利产出与经济增长效率的关系研究2023218_174316/word/webSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/user/input/U201812791-刘棫欣-1.《喜马拉雅FM免费增值策略对用户留存的影响的实证研究》 - 副本.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/user/input/U201816007-李佳妮-1.《面部情绪表达对亲社会众筹成功的影响》.docx" beforeDir="false" afterPath="$PROJECT_DIR$/public/user/input/U201816007-李佳妮-1.《面部情绪表达对亲社会众筹成功的影响》.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/user/input/U201816007-李佳妮-1.《面部情绪表达对亲社会众筹成功的影响》/[Content_Types].xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/user/input/U201816007-李佳妮-1.《面部情绪表达对亲社会众筹成功的影响》/_rels/.rels" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/user/input/U201816007-李佳妮-1.《面部情绪表达对亲社会众筹成功的影响》/customXml/_rels/item1.xml.rels" beforeDir="false" />
@@ -7180,9 +7185,14 @@
       <change beforePath="$PROJECT_DIR$/public/user/output/高管薪酬及股权结构对技术效率的影响——基于随机前沿模型的实证研究2023218_174635/ClassByPart2.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/user/output/高管薪酬及股权结构对技术效率的影响——基于随机前沿模型的实证研究2023218_174635/treeDic1.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/user/output/高管薪酬及股权结构对技术效率的影响——基于随机前沿模型的实证研究2023218_174635/未压缩.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classifier2/Classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/classifier2/Classifier.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/docxCompresser2/DocxCompresserPlus.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/docxCompresser2/DocxCompresserPlus.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/docxCompresser2/EvaluateModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/docxCompresser2/EvaluateModel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/docxCompresser2/MooModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/docxCompresser2/MooModel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pptGenerator/PPTGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pptGenerator/PPTGenerator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pptGenerator/PPTGenerator2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pptGenerator/PPTTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pptGenerator/PPTTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pptGenerator/Template.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pptGenerator/Template.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -7214,7 +7224,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature-110-batchtest" />
+        <entry key="$PROJECT_DIR$" value="feature-110-batchtest-0102-topsis" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -7281,15 +7291,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/word2PPT/paper2ppt2/public/user/output",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/word2PPT/paper2ppt2/public/dataSet/test&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="paper2ppt2" is-module-sdk="true">
@@ -7300,11 +7310,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\word2PPT\paper2ppt2\public\dataSet\test" />
+      <recent name="E:\word2PPT\paper2ppt2\public\script\model" />
+      <recent name="E:\word2PPT\paper2ppt2" />
       <recent name="E:\word2PPT\paper2ppt2\public\user\output" />
       <recent name="E:\word2PPT\paper2ppt2\public\dataSet\test\优化算法类" />
-      <recent name="E:\word2PPT\paper2ppt2\public\dataSet\test\调查研究类" />
-      <recent name="E:\word2PPT\paper2ppt2\public\dataSet\test" />
-      <recent name="E:\研究生开题\初稿\图" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\word2PPT\paper2ppt2\public\script" />
@@ -7394,28 +7404,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="K-means" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="paper2ppt2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/clustering" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\word2PPT\paper2ppt2\K-means.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="paper2ppt2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -7460,13 +7448,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="paper2ppt2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.main1" />
         <item itemvalue="Python.EvaluateModel" />
         <item itemvalue="Python.Classifier" />
         <item itemvalue="Python.K-means (1)" />
-        <item itemvalue="Python.K-means" />
       </list>
     </recent_temporary>
   </component>
@@ -7590,7 +7600,13 @@
       <workItem from="1734493104861" duration="11720000" />
       <workItem from="1734594320776" duration="29949000" />
       <workItem from="1734780467741" duration="638000" />
-      <workItem from="1734788434919" duration="49258000" />
+      <workItem from="1734788434919" duration="70563000" />
+      <workItem from="1735803487236" duration="31683000" />
+      <workItem from="1739518472400" duration="15906000" />
+      <workItem from="1739683433011" duration="37137000" />
+      <workItem from="1740205833908" duration="2451000" />
+      <workItem from="1741059898598" duration="7010000" />
+      <workItem from="1741224025944" duration="1424000" />
     </task>
     <task id="LOCAL-00001" summary="first time">
       <created>1713443863591</created>
@@ -7641,7 +7657,14 @@
       <option name="project" value="LOCAL" />
       <updated>1734708204022</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="8.9 生成ppt初步打通&#10;12.20 初步完成">
+      <created>1735223850637</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735223850637</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -7703,7 +7726,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/src/classifier2/Classifier.py</url>
-          <line>158</line>
+          <line>205</line>
           <option name="timeStamp" value="90" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -7722,14 +7745,29 @@
           <option name="timeStamp" value="113" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>97</line>
-          <option name="timeStamp" value="218" />
+          <url>file://$PROJECT_DIR$/src/classifier2/Classifier.py</url>
+          <line>181</line>
+          <option name="timeStamp" value="246" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/docxCompresser2/DocxCompresserPlus.py</url>
-          <line>297</line>
-          <option name="timeStamp" value="233" />
+          <url>file://$PROJECT_DIR$/src/pptGenerator/PPTTree.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/pptGenerator/PPTTree.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/微信/WeChat Files/wxid_7e8pdcum06n522/FileStorage/File/2024-11/Template.py</url>
+          <line>248</line>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/微信/WeChat Files/wxid_7e8pdcum06n522/FileStorage/File/2024-11/Template.py</url>
+          <line>229</line>
+          <option name="timeStamp" value="262" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -7750,9 +7788,10 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/document_xml$main1.coverage" NAME="main1 Coverage Results" MODIFIED="1736420439199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/document_xml$evaluate.coverage" NAME="EvaluateModel Coverage Results" MODIFIED="1734532536914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/docxCompresser2" />
     <SUITE FILE_PATH="coverage/document_xml$Classifier.coverage" NAME="Classifier Coverage Results" MODIFIED="1732452413855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/classifier2" />
-    <SUITE FILE_PATH="coverage/document_xml$main.coverage" NAME="main Coverage Results" MODIFIED="1735223313079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/document_xml$main.coverage" NAME="main Coverage Results" MODIFIED="1740207565057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/document_xml$K_means__1_.coverage" NAME="K-means (1) Coverage Results" MODIFIED="1732434991715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/document_xml$K_means.coverage" NAME="K-means Coverage Results" MODIFIED="1732416871429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/clustering" />
   </component>

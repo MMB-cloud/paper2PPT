@@ -261,12 +261,19 @@ class Template:
         计算出每个part需要的ppt数量，一次创建完，然后一页一页填充
         '''
         # normalSlides, picSlides = pptNode.getSlideCountByIndex(cnt - 1)
-        style = {
+        normal_style = {
             "paragraph_alignment": "left",
             "font_name": "微软雅黑",
             "font_color_rgb": [0, 0, 0],
             "font_size": 20,
             "font_bold": False
+        }
+        title_style = {
+            "paragraph_alignment": "left",
+            "font_name": "微软雅黑",
+            "font_color_rgb": [0, 0, 0],
+            "font_size": 22,
+            "font_bold": True
         }
         curSlide = 1
         curSentCnt = 0
@@ -275,15 +282,20 @@ class Template:
         for node in pptNode.getChildren():
             # 文本节点
             if node["type"] == 2:
-                add_text_style(slide, node["content"], curSentCnt, style)
+                slide_parts = node["content"]
+                slide_sents = slide_parts["content"]
+                add_text_style(slide, slide_parts['title'], curSentCnt, title_style)
                 curSentCnt += 1
-                # 够一张幻灯片了 保存 重置参数
-                if curSentCnt == sentence_max_cnt:
-                    ppt.save(self.output_path + "\\output_" + str(cnt) + "_" + str(curSlide) + ".pptx")
-                    ppt = Presentation(normal_path)
-                    slide = ppt.slides[0]
-                    curSlide += 1
-                    curSentCnt = 0
+                for slide_sent in slide_sents:
+                    add_text_style(slide, slide_sent, curSentCnt, normal_style)
+                    curSentCnt += 1
+                    # 够一张幻灯片了 保存 重置参数
+                    if curSentCnt >= sentence_max_cnt:
+                        ppt.save(self.output_path + "\\output_" + str(cnt) + "_" + str(curSlide) + ".pptx")
+                        ppt = Presentation(normal_path)
+                        slide = ppt.slides[0]
+                        curSlide += 1
+                        curSentCnt = 0
             # 图片节点
             if node["type"] == 4:
                 ppt_pic = Presentation(picture_path)

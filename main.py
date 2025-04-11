@@ -117,8 +117,8 @@ if __name__ == '__main__':
     # print(avgsu)
 
     # 单独
-     file_path = utils.getUserPath() + "\input" + "/U201812791-刘棫欣-1.《喜马拉雅FM免费增值策略对用户留存的影响的实证研究》.docx"
-     output_dir_path = utils.getUserPath() + "\output" + "/U201812791-刘棫欣-1.《喜马拉雅FM免费增值策略对用户留存的影响的实证研究》"
+     file_path = utils.getUserPath() + "\input" + "/U201816007-李佳妮-1.《面部情绪表达对亲社会众筹成功的影响》.docx"
+     output_dir_path = utils.getUserPath() + "\output" + "/U201816007-李佳妮-1.《面部情绪表达对亲社会众筹成功的影响》"
      run(file_path, output_dir_path)
 # classifier.compareF1()
 # classifier.trainModel()

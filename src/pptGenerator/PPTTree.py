@@ -4,6 +4,17 @@ from openai import OpenAI
 import re
 utils = Utils()
 
+
+def backward_seek(pptNode, node):
+    if node is None or node.getOutLvl() is None:
+        return
+    if node.getType() == 0 and node.getOutLvl() == '0':
+        pptNode.setTopTitle(node.getTextContent())
+        return
+    backward_seek(pptNode, node.getParent())
+
+
+
 """幻灯片树"""
 
 
@@ -11,6 +22,7 @@ class PPTTree:
     title = ''
     index = []
     pptDic = {}
+    orgin_content = []
     #api_key = 'sk-6274a5c776bd4840a772af31dffc3afb' #ds
     api_key = '819d1190-94d8-413f-a7f8-b6a5522e79f2' #ds
     """
@@ -20,6 +32,10 @@ class PPTTree:
     def __init__(self, file_path) -> None:
         self.__file_path = file_path
 
+    '''
+    0325新增：
+    从ClassByPart中保留原文标题信息
+    '''
     def buildPPTDic(self, classifiedByPartDic,outputPath):
         # 填充标题
         result = {}
@@ -32,7 +48,8 @@ class PPTTree:
         for partName, nodes in classifiedByPartDic.items():
             if partName == "title":
                 continue
-            pptNode = PPTNode(partName, [])
+            # 抓title信息：
+            pptNode = PPTNode(partName, [], [])
             for node in nodes:
                 self.dfs(pptNode, node)
                 #  不为空添加到结果集
@@ -40,14 +57,20 @@ class PPTTree:
                 pptNode_with_llm = self.doubao(pptNode)
                 #self.pptDic["children"].append(pptNode)
                 self.pptDic["children"].append(pptNode_with_llm)
+                self.orgin_content.append(pptNode.getContent())
                 #result["children"].append(pptNode.getDic())
                 result["children"].append(pptNode_with_llm.getDic())
-
         utils.dict_to_json(result, outputPath + "/pptDic.json")
         var = self.pptDic
 
     def dfs(self, pptNode, node):
+        # 遇到标题节点，append
+        if node.getType() == 0 and node.getTextContent() not in pptNode.getTitles():
+            pptNode.setTitles(node.getTextContent())
+            # 向上找一级标题
+            backward_seek(pptNode, node)
         if node.getChosen():
+            # 遇到叶子节点，append节点
             if node.getType() == 2:
                 pptNode.addNode(node.getType(), node.getTextContent())
             elif node.getType() == 3:
@@ -70,10 +93,24 @@ class PPTTree:
         }
         return data
 
-    def getIndexPage(self):
+    def getIndexTitle(self):
         for pptNode in self.pptDic["children"]:
-            self.index.append(pptNode.getContent())
+            # 如果一级标题没有重复 使用一级标题作为索引页内容
+            if pptNode.getTopTitle() not in self.index:
+                self.index.append(pptNode.getTopTitle())
+            else:
+                for title in pptNode.getTitles():
+                    if title not in self.index:
+                        self.index.append(title)
+                        break
         return self.index
+
+    def getIndexScript(self):
+        index_script = []
+        for pptNode in self.pptDic['children']:
+            index_script.append(pptNode.getContent())
+        return index_script
+
 
     # 目录页
     def getDirectoryData(self):
@@ -177,7 +214,9 @@ class PPTTree:
         # 按行切割
         response_content_list = response_content.split('\n')
         # 返回节点
-        n_pptnode = PPTNode(pptNode.getContent(), [])
+        n_pptnode = PPTNode(pptNode.getContent(), [], pptNode.getTitles())
+        n_pptnode.setOriginContent(sent_lst)
+        n_pptnode.setTopTitle(pptNode.getTopTitle())
         if len(response_content_list) > 0 and response_content_list[0].endswith("："):
             # 分割内容为不同的部分
             sections = re.split(r'\n(?=\d+\.\s*[\u4e00-\u9fa5]+：)', response_content.strip())

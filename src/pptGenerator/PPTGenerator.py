@@ -9,14 +9,16 @@ utils = Utils()
 def parseDicToSlide(pptTree):
     template = Template(utils.getTemplatePath(), utils.getOutputPath())
     title = pptTree.title  # 标题
-    index = pptTree.getIndexPage()  # 索引页
+    index_script = pptTree.getIndexScript()  # 剧本索引索引页
+    index_title = pptTree.getIndexTitle()  # 标题索引索引页
     # 标题页
+    # 优先一级标题 如果一级标题重复则按二级标题
     template.setTitle(title)
     # 索引页
-    template.setIndex(index)
+    template.setIndex(index_title)
     for pptNode in pptTree.pptDic["children"]:
         # 章节标题
-        template.setSlideode(pptNode, index)
+        template.setSlideNode(pptNode, index_script, index_title)
     # 合并
     file_paths = utils.get_file_paths(utils.getOutputPath() + "\\" + title)
     pptx_paths = []

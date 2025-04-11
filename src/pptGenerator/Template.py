@@ -225,7 +225,7 @@ class Template:
         ppt.save(self.output_path + "\\output_0_1.pptx")
 
     # TODO 该以什么粒度入参？ 考虑一个part作为入参，一个part可能有多个slide
-    def setSlideNode(self, pptNode, index):
+    def setSlideNode(self, pptNode, index_script, index_title):
         # 标题页 替换序号和文字内容即可
         style = {
             "paragraph_alignment": "center",
@@ -240,13 +240,13 @@ class Template:
         cnt = -1
         for shape in slide.shapes:
             if shape.has_text_frame and shape.text_frame.paragraphs[0].text.isdigit():
-                for i in range(len(index)):
-                    if pptNode.getContent() == index[i]:
+                for i in range(len(index_script)):
+                    if pptNode.getContent() == index_script[i]:
                         cnt = i + 1
                 replace_text(shape.text_frame, cnt)
                 set_style(shape.text_frame, style)
             elif shape.has_text_frame:
-                replace_text(shape.text_frame, pptNode.getContent())
+                replace_text(shape.text_frame, index_title[cnt - 1])
                 set_style(shape.text_frame, style)
         ppt.save(self.output_path + "\\output_" + str(cnt) + "_" + "0.pptx")
 

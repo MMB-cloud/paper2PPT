@@ -4,7 +4,9 @@ import math
 class PPTNode:
     content = ''
     children = []
-    title = ''
+    titles = []  # 多级标题： 1-xx 1.1-xx 1.1.1-xx
+    top_title = ''
+    origin_content = []
 
     class InnerNode:
         Type = -1
@@ -17,15 +19,31 @@ class PPTNode:
         def getDic(self):
             return {"type": self.Type, "content": self.content}
 
-    def __init__(self, content, children):
+    def __init__(self, content, children, titles):
         self.content = content
         self.children = children
+        self.titles = titles
 
     def getDic(self):
-        return {"content": self.content, "children": self.children}
+        return {"content": self.content, "children": self.children, "titles": self.titles, "top_title": self.top_title, "orgin_content": self.origin_content}
 
-    def setTitle(self, title):
-        self.title = title
+    def setTitles(self, titles):
+        self.titles.append(titles)
+
+    def getTitles(self):
+        return self.titles
+
+    def setOriginContent(self,origin_content):
+        self.origin_content = origin_content
+
+    def getOriginContent(self):
+        return self.origin_content
+
+    def setTopTitle(self, title):
+        self.top_title = title
+
+    def getTopTitle(self):
+        return self.top_title
 
     def getContent(self):
         return self.content
